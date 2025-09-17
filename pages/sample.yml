@@ -1,0 +1,40 @@
+title: he Adventures of Mark Twain
+author: kamranmuazzam
+date: 17 Sept 2025
+abstract:
+  paragraphs:
+    - content: The adventures of Mark Twain is a misnomer basically of the book titled adventures of Huckleberry Finn and the book presents the story of a young boy, but in fact it kinda deals with his thought processes and things happen in the story in such a way that it's a massive puzzle and it is still fitting in the right pieces. It's a story more about the author's thoughts in my perspective than the story of the main character, the boy.
+    - content: This article will basically present my rough thouhts on these themes
+introduction:
+  title: Introduction
+  paragraphs:
+    - paragraph: About Mark Twain's growing up phase
+      content:
+        - content: Mark Twain was american.
+          reference:
+            type: book
+            title: Census records of USA year 1789
+            author: [Abraham Lincoln, George Washington]
+            footnote: 
+        - content: For he was american, and lived in a village
+          reference: &MarkBiographyByFincon
+            type: book
+            title: Biography of Mark Twain
+            author: Fincon
+            quote: Mark Twain spent his entire life in village and rarely visited cities such as New York, and his stay in those cities would be a maximun of 12 days. He would return to his village as soon as possible
+            type: verbatim
+        - content: It is safe to assume he grew up around hunting rifles. And even as a boy he knew how to hunt various wild animals.
+          references:
+            - reference: &aa
+              symbol: ^a
+              quote: life is death
+              type: verbatim
+            - reference:
+              <<: *aa
+              symbol: ^b
+              quote: death is death
+              type: verbatim
+          reference:
+            <<: *MarkBiographyByFincon
+            quote: His friends basically hunted wild animals using rifles as children and he ate the meat, there is no direct mention of him hunting or learning to hunt or even about knowing how to shoot. Fincon does mention that he knew a great deal about guns and even how to make gun powder. Fincon mentions multiple instances where Mark made sacs of gunpowder
+            type: paraphrasing
