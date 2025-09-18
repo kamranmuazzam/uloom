@@ -1,0 +1,179 @@
+/* General Body and Typography */
+body {
+    font-family: 'Lora', serif;
+    line-height: 1.7;
+    background-color: #fdfdfd;
+    color: #222;
+    margin: 0;
+    padding: 2rem 1rem;
+}
+
+/* Main Article Container */
+#article-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    background-color: #fff;
+    padding: 3rem 4rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.placeholder {
+    text-align: center;
+    color: #888;
+}
+
+/* Header Controls */
+.controls {
+    max-width: 800px;
+    margin: 0 auto 1rem auto;
+    padding: 1rem;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.controls label {
+    margin-right: 0.5rem;
+    font-weight: 600;
+}
+
+.controls select {
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Article Metadata */
+.article-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    text-align: center;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.article-author, .article-date {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #555;
+    margin: 0.25rem 0;
+}
+
+.article-date {
+    margin-bottom: 2rem;
+}
+
+/* Abstract */
+.abstract {
+    margin: 2.5rem 0;
+    padding-left: 2rem;
+    border-left: 3px solid #ddd;
+    font-style: italic;
+    color: #444;
+}
+
+.abstract h2 {
+    font-size: 1.2rem;
+    margin-top: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+/* Section Styling */
+.section-title {
+    font-size: 1.6rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid #eee;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+/* Paragraphs */
+.article-paragraph {
+    text-align: justify;
+    text-indent: 2em; /* Standard indentation for paragraphs */
+    margin: 0 0 1rem 0;
+}
+/* Don't indent first paragraph of a section */
+.section .article-paragraph:first-of-type {
+    text-indent: 0;
+}
+
+
+/* Footnote/Citation Styling */
+sup {
+    line-height: 0;
+    font-size: 0.8em;
+    vertical-align: super;
+}
+
+sup a {
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: 600;
+}
+
+sup a:hover {
+    text-decoration: underline;
+}
+
+.footnotes-section {
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    border-top: 2px solid #ccc;
+}
+
+.footnotes-section h2 {
+    font-size: 1.3rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.footnotes-list {
+    padding-left: 1.5rem;
+    list-style-type: decimal;
+    font-size: 0.9rem;
+    color: #333;
+}
+
+.footnotes-list li {
+    margin-bottom: 0.75rem;
+    padding-left: 0.5rem;
+}
+
+.footnotes-list li::marker {
+    font-weight: bold;
+}
+
+/* Quote inside a footnote */
+.footnote-quote {
+    display: block;
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+    border-left: 2px solid #e0e0e0;
+    font-style: italic;
+    color: #555;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        padding: 1rem 0;
+    }
+    #article-container {
+        padding: 2rem 1.5rem;
+        border-radius: 0;
+        box-shadow: none;
+    }
+    .article-title {
+        font-size: 1.8rem;
+    }
+    .section-title {
+        font-size: 1.4rem;
+    }
+}
