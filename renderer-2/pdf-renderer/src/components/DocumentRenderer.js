@@ -73,7 +73,6 @@ const styles = StyleSheet.create({
     fontFamily: 'Times-Italic',
     color: '#444444',
   },
-  // Styles for Table of Contents
   tocTitle: {
     fontSize: 20,
     fontFamily: 'Helvetica-Bold',
@@ -87,21 +86,40 @@ const styles = StyleSheet.create({
     fontSize: 12,
     fontFamily: 'Helvetica',
   },
-  tocText: {
-    // Allows text to wrap if the title is long
-  },
+  tocText: {},
   tocLeader: {
     flexGrow: 1,
     borderBottomWidth: 1,
     borderBottomColor: '#aaaaaa',
     borderStyle: 'dotted',
     marginHorizontal: 8,
-    height: 6, // Vertically align the dots
+    height: 6, 
   },
   tocPageNumber: {
     fontFamily: 'Helvetica-Bold',
-  }
+  },
+  // NEW: Style for the page number footer
+  pageNumber: {
+    position: 'absolute',
+    fontSize: 10,
+    bottom: 30,
+    left: 0,
+    right: 0,
+    textAlign: 'center',
+    color: 'grey',
+  },
 });
+
+// NEW: Component for the fixed footer that displays the page number
+const PageNumberFooter = () => (
+  <Text
+    style={styles.pageNumber}
+    render={({ pageNumber, totalPages }) => (
+      pageNumber > 1 ? `${pageNumber - 1} of ${totalPages - 1}` : ''
+    )}
+    fixed // This is the crucial prop
+  />
+);
 
 
 // Main Component to handle the two-pass rendering for TOC
@@ -109,18 +127,14 @@ const DocumentWithTOC = ({ data }) => {
   const [tocData, setTocData] = useState(null);
   const tocEntries = useRef([]);
 
-  // Callback to register a section title and its page number during the first pass
   const registerTocEntry = useCallback((title, pageNumber) => {
-    // We only collect entries during the first render pass (when tocData is null)
     if (!tocData) {
       tocEntries.current.push({ title, page: pageNumber });
     }
   }, [tocData]);
 
-  // The onRender callback is triggered after the PDF layout is calculated
   const onRender = useCallback(() => {
     if (!tocData) {
-      // De-duplicate and sort entries based on their page number
       const uniqueEntries = [...new Map(tocEntries.current.map(item => [item.title, item])).values()];
       uniqueEntries.sort((a, b) => a.page - b.page);
       setTocData(uniqueEntries);
@@ -137,7 +151,6 @@ const DocumentWithTOC = ({ data }) => {
     );
   }
 
-  // The TOC page itself is a component
   const TableOfContentsPage = ({ entries }) => (
     <Page style={styles.body} bookmark="Table of Contents">
       <Text style={styles.tocTitle}>Table of Contents</Text>
@@ -149,21 +162,19 @@ const DocumentWithTOC = ({ data }) => {
           <Text style={styles.tocPageNumber}>{entry.page + 1}</Text>
         </View>
       ))}
+      {/* ADDED: Page number footer */}
+      <PageNumberFooter />
     </Page>
   );
 
   return (
     <Document onRender={onRender}>
-      {/* On the second pass (when tocData is available), render the TOC page first */}
       {tocData && <TableOfContentsPage entries={tocData} />}
-      
-      {/* The main content of the document */}
       <ContentPages data={data} registerTocEntry={registerTocEntry} />
     </Document>
   );
 };
 
-// Extracted the main content into its own component for clarity
 const ContentPages = ({ data, registerTocEntry }) => {
   const { title, author, date, abstract, sections } = data;
 
@@ -215,6 +226,9 @@ const ContentPages = ({ data, registerTocEntry }) => {
            ))}
         </View>
       )}
+      
+      {/* ADDED: Page number footer */}
+      <PageNumberFooter />
     </Page>
   );
 };
@@ -225,9 +239,7 @@ const Section = ({ section, registerTocEntry }) => (
     <Text
       style={styles.sectionTitle}
       render={({ pageNumber }) => {
-        // The render prop allows us to get the page number of this element
         registerTocEntry(section.title, pageNumber);
-        // We must return the content to be rendered
         return section.title;
       }}
     />
@@ -237,7 +249,6 @@ const Section = ({ section, registerTocEntry }) => (
   </View>
 );
 
-// Your existing Paragraph and Footnote components remain unchanged
 const Paragraph = ({ paragraph }) => {
   const parts = paragraph.content.split(/(\^\^\w+)/g);
   return (
@@ -285,5 +296,4 @@ const Footnote = ({ note }) => {
   )
 };
 
-// The default export is now the new component that handles the TOC logic
 export default DocumentWithTOC;
