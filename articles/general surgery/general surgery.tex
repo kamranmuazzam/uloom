@@ -1,0 +1,247 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{manyfoot}
+\usepackage{amsfonts} % For \mathbb
+\usepackage{hyperref}
+
+\usepackage{imakeidx}
+\makeindex
+
+
+\hypertarget{idx:viva}{}
+\hypertarget{idx:written}{}
+% Smart commands that automatically create index entries
+\newcommand{\viva}{%
+    \textsuperscript{\hyperref[idx:viva]{\textbf{v}}}%
+    \index{viva@\textbf{v} (viva examination)}%
+}
+\newcommand{\written}{%
+    \textsuperscript{\hyperref[idx:written]{\textbf{w}}}%
+    \index{written@\textbf{w} (written examination)}%
+}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\DeclareNewFootnote{A}
+
+
+% Formatting for sections
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\bfseries}{\thesubsection}{1em}{}
+\setlist[itemize]{noitemsep, topsep=0pt} % Removes extra space between list items
+
+\begin{document}
+
+
+
+% Title Page
+\begin{titlepage}
+    \centering
+    {\Huge \bfseries General Surgery}\\[1.5cm]
+    {\Large Surgery}\\[2cm]
+    \vfill
+    {\large \today}
+\end{titlepage}
+
+% Create target anchors for hyperlinks
+
+
+\tableofcontents
+\pagebreak
+
+
+\section{Transfusion}
+
+\subsection{Common Blood Products}
+The commonly transfused blood products are mentioned below\viva.
+\begin{itemize}
+    \item Whole Blood – acute severe blood loss
+    \item Packed RBC – anemia, blood loss (improves O$_2$ capacity)
+    \item Fresh Frozen Plasma (FFP) – coagulation factor deficiency, DIC, massive transfusion
+    \item Platelets – thrombocytopenia, platelet dysfunction, bleeding
+    \item Cryoprecipitate – fibrinogen deficiency, Factor VIII, Factor XIII, vWD
+    \item Albumin – hypoproteinemia, burns, shock
+\end{itemize}
+
+\subsection{Indications}
+\begin{itemize}
+    \item Acute blood loss $>$ 20\% blood volume
+    \item Severe symptomatic anemia (Hb $<$ 7 g/dL, or $<$ 8 in cardiac disease)
+    \item Coagulopathy, DIC, warfarin toxicity (FFP)
+    \item Thrombocytopenia with bleeding or platelet $<$ 10–20k
+    \item Hypofibrinogenemia ($<$ 100 mg/dL) – Cryoprecipitate
+\end{itemize}
+
+\subsection{Contraindications}
+\begin{itemize}
+    \item Not for volume replacement alone (use crystalloids/colloids)
+    \item Iron-deficiency anemia without hemodynamic instability
+    \item Hematinic deficiency anemia (B12/Folate) unless acute or severe
+    \item Congestive Heart Failure – risk of overload (use cautiously)
+\end{itemize}
+
+\subsection{Transfusion Order (Single Unit)}
+\begin{enumerate}
+    \item Confirm patient ID – name, age, hospital number
+    \item Blood grouping and cross-matching
+    \item Check donor unit details and expiry date
+    \item Bedside re-check of patient and unit
+    \item Start slow rate (first 15 min), observe for reaction
+    \item Monitor vitals – before, 15 min, hourly, and post-transfusion
+\end{enumerate}
+
+\subsection{Complications}
+Following are the complciations of Blood Transfusion\viva
+
+\textbf{Immediate:}
+\begin{itemize}
+    \item Hemolytic reaction (ABO mismatch) – fever, chills, hypotension, back pain
+    \item Febrile non-hemolytic reaction
+    \item Allergic – urticaria, anaphylaxis
+    \item Septic shock (contaminated blood)
+    \item TRALI – Transfusion-related acute lung injury
+\end{itemize}
+
+\textbf{Delayed:}
+\begin{itemize}
+    \item Delayed hemolysis
+    \item Blood-borne infections – HIV, HBV, HCV, syphilis, malaria
+    \item Iron overload
+    \item Graft-vs-Host disease
+\end{itemize}
+
+\subsection{Screening of Blood Transfusion}
+\begin{itemize}
+    \item ABO and Rh grouping, cross-match
+    \item Infectious disease screening: HIV, HBV, HCV, Syphilis, Malaria (region dependent)
+\end{itemize}
+
+\subsection{Massive Blood Transfusion}
+
+\subsubsection{Definition}
+Following are the definitions of massive Blood Transfusion\viva.
+\begin{itemize}
+    \item Replacement of $>$ 1 blood volume in 24 hr OR
+    \item $>$ 50\% blood volume in 3 hr OR
+    \item $>$ 10 units in 24 hr
+\end{itemize}
+
+\subsubsection{Precautions}
+Following precautions are to be taken before Massive Blood Transfusion\viva.
+\begin{itemize}
+    \item Warm blood before transfusion
+    \item Use screened, leucocyte-depleted components
+    \item Monitor coagulation, Ca$^{2+}$, electrolytes
+    \item Prefer component therapy over whole blood
+\end{itemize}
+
+\subsubsection{Complications}
+Following are the complications of Massive Blood Transfusion\viva.
+\begin{itemize}
+    \item Dilutional coagulopathy
+    \item Citrate toxicity – hypocalcemia
+    \item Electrolyte imbalance – hypo/hyperkalemia
+    \item Hypothermia
+    \item Acid–base disturbances
+\end{itemize}
+
+\subsection{Mismatched Blood Transfusion}
+
+\subsubsection{Features/Consequences}
+\begin{itemize}
+    \item Immediate fever, chills, tachycardia, hypotension
+    \item Chest/back pain, hemoglobinuria, acute renal failure
+    \item Shock, DIC
+\end{itemize}
+
+\subsubsection{Prevention}
+\begin{itemize}
+    \item Strict patient ID verification
+    \item Proper grouping and cross-matching
+    \item Bedside re-check before transfusion
+\end{itemize}
+
+\subsubsection{Management}
+Mismatched Blood transfusion is to be managed in the following steps\viva.
+\begin{itemize}
+    \item Stop transfusion immediately
+    \item Maintain IV access with normal saline
+    \item Supportive: fluids, diuretics (forced diuresis), treat shock
+    \item Monitor urine output, renal function, manage DIC if present
+\end{itemize}
+
+
+\section{Fluid, Electrolytes, Acid-Base Balance and Nutrition}
+
+\section{Haemorrhage}
+
+\section{Shock}
+
+\section{Ulcer}
+
+\section{Sinus and Fistula}
+
+\section{Cyst}
+
+\section{Swelling}
+
+\section{Wound and Injury}
+
+\section{Wound Debridement}
+
+\section{Suture Materials}
+
+\section{Scar/Keloid}
+
+\section{Infection and Sterilization}
+
+\section{Abscess}
+
+\section{Carbuncle}
+
+\section{Cellulitis}
+
+\section{Gangrene}
+
+\section{Tetanus}
+
+\section{Burn}
+
+\section{Anesthesia}
+
+\section{Investigation and Diagnosis}
+
+\section{Oncology}
+
+\section{Operative Surgery}
+
+
+
+
+
+% \begin{itemize}
+%     \item \nameref{subsec:greenStickFracture}\footnotemark[1]\footnotemark[2]
+%     \item Clavicular Fracture
+%     \item \nameref{subsec:collesFracture}\footnotemark[1]\footnotemark[2]
+% \end{itemize}
+% \footnotetext[1]{Viva}
+% \footnotetext[2]{Written}
+
+% \subsection{Green Stick Fracture}
+% \label{subsec:greenStickFracture}
+
+% \subsection{Colle's Fracture}
+% \label{subsec:collesFracture}
+\printindex
+
+
+\end{document}
