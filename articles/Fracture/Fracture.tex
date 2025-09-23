@@ -1,0 +1,158 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{amsfonts} % For \mathbb
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+% Formatting for sections
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\bfseries}{\thesubsection}{1em}{}
+\setlist[itemize]{noitemsep, topsep=0pt} % Removes extra space between list items
+
+\begin{document}
+
+% Title Page
+\begin{titlepage}
+    \centering
+    {\Huge \bfseries Fracture}\\[1.5cm]
+    {\Large Orthopedics}\\[2cm]
+    \vfill
+    {\large \today}
+\end{titlepage}
+
+% Table of Contents
+\tableofcontents
+\pagebreak
+
+\section{Introduction}
+\subsection{Definition}
+Fracture is loss of continuity of bone tissue, caused by mechanical overload or pathological weakening.
+
+No fracture is emergency except for open fracture with Neurovascular Injury or Fracture with concomitant Compartment Syndrome.
+
+\section{Etiology}
+\subsection{Causative Factors}
+\begin{itemize}
+    \item Trauma
+    \item Pathological
+    \item Stress/Repetitive
+\end{itemize}
+\subsection{Risk Factors}
+\subsubsection{Modifiable}
+\begin{itemize}
+    \item Smoking
+    \item Alcohol
+    \item low MBI
+    \item Sedentary Lifestyle
+    \item Vitamin D/ Calcium Deficiency
+\end{itemize}
+\subsubsection{Non-Modifiable}
+\begin{itemize}
+    \item Age (>65)
+    \item Female Sex(Post Menopausal Osteoporosis)
+    \item Genetic Disorders
+\end{itemize}
+
+\section{Classification}
+There are following types of Classification
+\begin{itemize}
+    \item Clinical Classification
+    \item Radiological Classification
+    \item Etiological Classification
+\end{itemize}
+\subsection{Clinical Classification}
+\subsubsection{According to Communication with Exterior}
+\begin{itemize}
+    \item Closed Fracture
+    \item Open Fracture
+\end{itemize}
+\subsubsection{According Involevement of Vital Structures}
+\begin{itemize}
+    \item Simple Fracture
+    \item Complicated Fracture
+\end{itemize}
+
+\subsection{Radiological Classification}
+\subsubsection{According to Configuration of Fracuture}
+\begin{itemize}
+    \item Transverse Fracture
+    \item Spiral Fracture
+    \item Oblique Fracture
+    \item Z-Fracture
+    \item Comminuted Fracture
+    \item Wedge Fracture
+    \item Avulsion Fracture
+    \item Depressed Fracture
+    \item Impacted Fracture
+    \item Burst Fracture
+\end{itemize}
+\subsubsection{According to Involvement of Joint Capsule}
+\begin{itemize}
+    \item Intracapsular
+    \item Extracapsular
+\end{itemize}
+\subsubsection{According to Cortical Involvement of Bone}
+\begin{itemize}
+    \item Complete
+    \item Green Stick
+\end{itemize}
+\subsection{Etiological Classification}
+\begin{itemize}
+    \item Traumatic Fracture
+    \item Pathological Fracture
+    \item Stress Fracture
+\end{itemize}
+\section{Specific Fractures}
+
+\begin{itemize}
+    \item \nameref{subsec:greenStickFracture}\footnotemark[1]\footnotemark[2]
+    \item Clavicular Fracture
+    \item \nameref{subsec:collesFracture}\footnotemark[1]\footnotemark[2]
+    \item Hip Fracture
+    \item Ankle Fracture
+    \item \nameref{subsec:supracondylarFracture}\footnotemark[1]\footnotemark[2]
+    \item Proximal Humerus Fracture
+    \item \nameref{subsec:fractureShaftTibia}\footnotemark[2]
+    \item \nameref{subsec:fractureShaftFibula}\footnotemark[2]
+    \item \nameref{subsec:fractureShaftFemur}\footnotemark[1]\footnotemark[2]
+    \item Fracture Neck of Femur\footnotemark[1]\footnotemark[2]
+    \item Metacarpal Fracture
+    \item Vertebral Compression Fracture
+    \item Nasal Fracture
+    \item Rib Fracture
+    \item Scaphoid Fracture
+    \item Patella Fracture
+    \item \nameref{subsec:pathologicalFracture}\footnotemark[2]
+    \item \nameref{subsec:openFracture}\footnotemark[2]
+\end{itemize}
+\footnotetext[1]{Viva}
+\footnotetext[2]{Written}
+
+\subsection{Green Stick Fracture}
+\label{subsec:greenStickFracture}
+
+\subsection{Colle's Fracture}
+\label{subsec:collesFracture}
+\subsection{Supracondylar Fracture}
+\label{subsec:supracondylarFracture}
+\subsection{Fracture Shaft of Tibia}
+\label{subsec:fractureShaftTibia}
+\subsection{Fracture Shaft of Fibula}
+\label{subsec:fractureShaftFibula}
+\subsection{Fracture Shaft of Femur}
+\label{subsec:fractureShaftFemur}
+\subsection{Pathological Fracture}
+\label{subsec:pathologicalFracture}
+\subsection{Open Fracture}
+\label{subsec:openFracture}
+
+\end{document}

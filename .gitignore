@@ -112,6 +112,7 @@ logs/
 
 dist/
 build/ # (covered again for non-Rust)
+_output/
 out/   # (covered again for non-Rust)
 target/ # (covered again for non-Rust)
 *.tsbuildinfo
@@ -154,3 +155,69 @@ target/ # (covered again for non-Rust)
 *.rar
 *.tar
 *.zip
+
+
+# LaTeX specific files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+*.bcf
+*.run.xml
+
+# Bibliography files
+*.bbl
+*.blg
+
+# Glossaries
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+
+# Index files
+*.idx
+*.ilg
+*.ind
+
+# Temporary files
+*~
+
+# Backup files
+*.backup
+*.bak
+*.swp
+*.swo
+
+# Output files (PDF, etc.)
+*.pdf
+# Uncomment the next line if you want to keep the PDF in version control
+# !*.pdf
+
+# Package specific files
+*.mw
+*.nlo
+*.nls
+*.thm
+
+# LaTeXmk files
+*.fdb_latexmk
+*.fls
+
+# TexShop
+*.synctex
