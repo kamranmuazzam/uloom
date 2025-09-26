@@ -1,0 +1,6 @@
+typst was installed using zoom pro
+
+to compile : typst compile example.typ
+to watch : typst watch example.typ
+
+for vscode: use tinymist extension, it allows realtime rendering and also debugging
