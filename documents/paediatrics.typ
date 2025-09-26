@@ -262,16 +262,63 @@ Differential diagnosis and investigation in a child
 
 = Renal Diseases
 == Nephrotic Syndrome
-Diagnosis
-Investigation
-Treatment
+=== Diagnosis
+Patient complains of mild edema, initially periorbital which is obvious after waking up and decreases throghout the day and after few days the edema spreads and becomes generalized.
+
+The patient also complains of scanty micturation(oligouria). The color of urine is normal.
+
+The patient also might complain of anorexia, abdominal pain, diarrhoea and irritability
+
+The patient might suffer from skin infection or insect bite. There is no history of recent throat infection.
+
+Upon examination, the patient might have rashes upon the skin, BP is normal, temperature is normal and bed side urine examination reveals albumin(3+/4+)
+
+Provisional Diagnosis would be Nephrotic Syndrome due to Minimal Change Disease
+=== Investigation
+After clinical diagnosis, following tests are ordered
+
+*To confirm the Diagnosis*
+- Urine RME (it is supposed that bedside urine test was performed)
+- 24 Hour Urine Protein Collection
+- Serum Albumin
+- Serum Cholesterol and Triglycerides
+*To rule out Differentials*
+- ASO Titre
+- Complement levels, C3
+- Blood Glucose / HbA1c
+- Renal Function Tests (Creatinine, BUN)
+- Hepatitis B and C Serology
+- Renal Biopsy (only if case is steroid resistant)
+*To access general function*
+- CBC
+- RFT
+*Findings of the Investigations*
+
+Urine RME will reveal increased protein and cholesterol, absence of huge number of RBC casts will point towards AGN
+24 hour Urine Protien will reveal an increased protein in urine, >3.5 g/day
+Serum Albumin and Serum Lipid both elevated
+Slightly elevated Hb and Hematocrit is expected due to Haemoconcentration.
+
+Raised ASO Titre and low C3 levels would point towards AGN
+Raised Creatinine and BUN would point towards other causes of Nephrotic Syndrome. But this is also used to establish baseline renal function.
+
+Raised HbA1C and Blood Glucose would point towards Diabetic Nephropathy
+
+Hepatitis B and C positive would point towards viral assocaited nephropathy
+=== Treatment
+First episode of nephrotic syndrome and mild to moderate edema may be managed as outpatients. But, not practiced as outpatient, as educating parents regarding all aspects of the condition can require a short period of *hospitalization* The child's parents must be able to recognize the signs and symptoms of the complications of the disease and may be taught how to use a dipstick and interpret the results to monitor for the degree of proteinuria
+
+Prednisolone 60 mg/m#super("2") body surface area#footnote[Body Surface Area is calcualted by ] (max 60 mg) for 4-6 weeks followed by alternate day Prednisolone 40 mg/m#super("2") every other for 4-6 weeks
+
+#info_box([Tuberculosis must be ruled out before starting treatment],[
+Tuberculosis must be ruled out before starting immunosuppressive therapy with corticosteoids by placing a purified protein derivative skin test or obtaining an interferon-gamma release assay and confirming a negative result
+])
 == Acute Glomerulonephritis (AGN)
 Diagnosis
 Complications
 Management
 == Urinary Tract Infection
 Diagnosis and management in children
-
 = Neurological Disorders
 == Seizures and Epilepsy
 === Febrile Seizures
