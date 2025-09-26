@@ -24,11 +24,11 @@ set footnote(
 
 show heading.where(level: 1): it => [
   #set text(fill:white, weight: "bold", size: 24pt)
-  #set page(columns: 1)
+  // #set page(columns: 1)
   #set block(fill:rgb("#DA954B"), inset: 3pt)
   #block(it)
 ]
-show heading.where(level: 1): it => {pagebreak();it}
+show heading.where(level: 1): it => {pagebreak(weak:true,to:"even");it}
 
 show heading.where(level: 2): it => [
   #set text(fill:rgb("DA954B"), weight: "bold", size: 16pt)
