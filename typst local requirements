@@ -1,4 +1,5 @@
-typst was installed using zoom pro
+typst was installed using brew
+it was tried using cargo, but it didn't install it.
 
 to compile : typst compile example.typ
 to watch : typst watch example.typ
