@@ -12,7 +12,8 @@ set heading(
 )
 set text(
     font: "Trebuchet MS",
-    hyphenate: false
+    hyphenate: false,
+    size: 9pt
 )
 set par(
     justify: true,
@@ -47,7 +48,7 @@ doc
 #let info_box(heading, body) = [#box(fill:rgb("EFA556"),width: 100%, inset:10pt)[
   #text(fill:rgb("4B77D1"), weight: "bold", size: 14pt)[#heading]
 
-  #text(fill:white)[#body]
+  #body
   ]]
 
 #outline()
