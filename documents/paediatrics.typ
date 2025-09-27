@@ -390,23 +390,90 @@ as a differential for motor problems
 
 = Hematological Disorders
 == Thaassemia
-Clinical Features
-Blood picture
-Complications of Transfusions
-Genetic Counselling
+*Clinical Features*
+- Pallor, progressive anemia
+- Failure to thrive, irritability
+- Splenomegaly, hepatomegaly
+- Extramedullary hematopoiesis → frontal bossing, maxillary hypertrophy, “chipmunk facies”
+- Growth retardation, delayed puberty, bone deformities
+- Recurrent infections (if post-splenectomy)
+*Blood picture*
+- CBC: Microcytic hypochromic anemia, very low MCV/MCH
+- Peripheral smear: Target cells, nucleated RBCs, anisopoikilocytosis, basophilic stippling
+- Reticulocytosis (variable)
+- Confirmatory: Hb electrophoresis/HPLC → ↑ HbF and/or HbA₂
+*Complications of Transfusions*
+- Iron overload → cardiomyopathy, liver cirrhosis, endocrinopathies (diabetes, hypogonadism)
+- Transfusion reactions (febrile, allergic, hemolytic)
+- Alloimmunization
+- Infections (Hepatitis B, C, HIV – rare with modern screening)
+*Genetic Counselling*
+- Autosomal recessive disorder → importance of carrier detection
+- Hb electrophoresis/HPLC for parents & siblings
+- Prenatal diagnosis: DNA analysis / CVS at 10–12 weeks
+- Advise carrier couples on risk of affected offspring
+- Population screening programs for prevention
 == Iron Deficiency Anemia
-Causes
-Investigation
-Management in Children
+*Causes*
+- Nutritional deficiency (low dietary iron)
+- Increased demand (infancy, adolescence, pregnancy)
+- Blood loss (GI bleed, hookworm, menorrhagia)
+- Malabsorption (celiac disease)
+*Investigation*
+- CBC: Microcytic hypochromic anemia
+- Peripheral smear: Target cells, anisopoikilocytosis
+- Serum ferritin ↓, serum iron ↓, TIBC ↑
+- Reticulocyte count ↓ (unless on iron therapy)
+*Management in Children*
+- Oral elemental iron 3–6 mg/kg/day for 3–6 months after Hb normalization
+- Treat underlying cause (anthelmintics, diet improvement)
+- Parenteral iron if oral intolerance/malabsorption
+- Nutritional counseling + iron-rich foods
 == Leukemia (especially ALL)
-Clinical Presentation
-Blood Picture
-Principles of Treatment
+*Clinical Presentation*
+- Anemia: Pallor, fatigue
+- Bleeding: Petechiae, purpura, epistaxis
+- Infections: Fever, recurrent infections (due to neutropenia)
+- Organomegaly: Hepatomegaly, splenomegaly, lymphadenopathy
+- Bone pain, irritability
+- CNS involvement (headache, vomiting, cranial nerve palsies)
+*Blood Picture*
+- Pancytopenia (anemia, thrombocytopenia, neutropenia)
+- WBC: high/low/normal but blasts present
+- Peripheral smear: Lymphoblasts
+- Bone marrow: Hypercellular, >25% lymphoblasts
+*Principles of Treatment*
+- Induction of remission (multi-drug chemotherapy)
+- Consolidation/intensification
+- CNS prophylaxis (intrathecal chemo ± cranial irradiation)
+- Maintenance therapy
+- Supportive care: Transfusions, antibiotics, management of tumor lysis
 == Idiopathic Thrombocytopenic Purpura(ITP)
-Diagnosis and Management
+*Diagnosis*
+- Isolated thrombocytopenia (platelets < 100,000)
+- Normal WBC and Hb (unless bleeding-induced anemia)
+- Peripheral smear: Reduced platelets, morphology otherwise normal
+- Bone marrow: Normal/increased megakaryocytes (done if diagnosis in doubt)
+- Exclusion of secondary causes (SLE, HIV, drugs)
+*Management*
+- No treatment if platelets >30,000 and no significant bleeding
+- First-line: Oral corticosteroids / IVIG
+- Anti-D immunoglobulin (in Rh+)
+- Refractory: Rituximab, azathioprine, splenectomy
+- Supportive: Platelet transfusion only if life-threatening bleed
 == Hemophilia
-Diagnosis and management of Bleeding Episodes
-
+*Diagnosis*
+- Clinical: Recurrent hemarthrosis, muscle bleeds, prolonged bleeding after trauma/surgery
+- Labs:
+  - Prolonged APTT
+  - Normal PT, bleeding time, platelet count
+- Specific factor assay: Reduced Factor VIII (Hemophilia A) or IX (Hemophilia B)
+*Management of Bleeding Episodes*
+- Replace deficient factor (Factor VIII or IX concentrate)
+- If concentrates unavailable: Cryoprecipitate (VIII) or FFP (IX)
+- Adjuncts: Tranexamic acid for mucosal bleeds
+- Avoid IM injections, NSAIDs, and aspirin
+- Physiotherapy post-bleed to preserve joint function
 = Endocrine and Genetic Disorders
 == Congenital Hypothyroidism
 Clinical Features
