@@ -29,6 +29,18 @@ Growth refers to physical maturation and signifies an increase in size of the bo
 Development refers to acquisition and maturation of skills, behaviour and values on the part of the growing child. It mostly depends on the maturation of nervous system.
 
 == Factors Influencing Growth and Development
+*Biological Influences*
+	- Genetics
+	- Chromosomal abnormalities
+	- Exposure to Teratogens
+	- Low Birth weight
+	- Post Natal Illness
+*Psychological Influence*
+	- Attachment
+	- Contingency
+*Social Influence*
+	- Family Systems
+	- Ecological Model
 == Early Childhood Development
 Importance of Early Childhood Development.
 == Domains of Development
