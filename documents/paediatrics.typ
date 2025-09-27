@@ -30,11 +30,12 @@ Development refers to acquisition and maturation of skills, behaviour and values
 
 == Factors Influencing Growth and Development
 *Biological Influences*
-	- Genetics
-	- Chromosomal abnormalities
-	- Exposure to Teratogens
-	- Low Birth weight
-	- Post Natal Illness
+ - Genetics
+ - Chromosomal abnormalities
+ - Exposure to Teratogens
+ - Low Birth weight
+ - Post Natal Illness
+ - Nutrition
 *Psychological Influence*
 	- Attachment
 	- Contingency
