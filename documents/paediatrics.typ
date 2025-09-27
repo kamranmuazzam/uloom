@@ -308,17 +308,69 @@ Hepatitis B and C positive would point towards viral assocaited nephropathy
 === Treatment
 First episode of nephrotic syndrome and mild to moderate edema may be managed as outpatients. But, not practiced as outpatient, as educating parents regarding all aspects of the condition can require a short period of *hospitalization* The child's parents must be able to recognize the signs and symptoms of the complications of the disease and may be taught how to use a dipstick and interpret the results to monitor for the degree of proteinuria
 
-Prednisolone 60 mg/m#super("2") body surface area#footnote[Body Surface Area is calcualted by ] (max 60 mg) for 4-6 weeks followed by alternate day Prednisolone 40 mg/m#super("2") every other for 4-6 weeks
+Prednisolone 60 mg/m#super("2") body surface area#footnote[Body Surface Area is calcualted by ] (max 60 mg) for 4-6 weeks followed by alternate day Prednisolone 40 mg/m#super("2") every other day for 4-6 weeks
 
 #info_box([Tuberculosis must be ruled out before starting treatment],[
 Tuberculosis must be ruled out before starting immunosuppressive therapy with corticosteoids by placing a purified protein derivative skin test or obtaining an interferon-gamma release assay and confirming a negative result
 ])
 == Acute Glomerulonephritis (AGN)
-Diagnosis
-Complications
-Management
+*Diagnosis*
+A 10-year-old child is brought to the clinic with complaints of cola-colored or smoky urine for the past 3 days. This was first noticed after the child recovered from a sore throat and fever about two weeks ago.
+
+The parent also reports that the child's urine output has become noticeably scanty (oliguria) over the same period. The child has developed mild edema, primarily in the face (periorbital region) and is less noticeable in the limbs.
+
+Additionally, the child complains of mild fatigue, headache, and loss of appetite. There is no significant history of diarrhea or abdominal pain.
+
+There is a clear history of a pharyngitis (throat infection) treated with antibiotics two weeks prior.
+
+Upon examination, the patient periorbital regiona and the face appear swollen, BP is elevated 130/90, temperature is normal and bed side urine examination reveals gross hematuria(blood 3+/4+) albumin(1+)
+
+Provisional Diagnosis would be Acute Poststreptococcal Glomerulonephritis
+
+*Complications*
+- Hypertension
+- Hypertensive Encephalopathy
+- Intracranial Bleeding
+- Heart Failure
+- Hyperkalemia
+- Hypophosphatemia
+- Hypocalcemia
+- Acidosis
+- Seizures
+- Uremia
+- Acute Kidney Injury(AKI)
+- Anasarca(Severe Generalized Edema)
+*Management*
+
+AGN is self limiting, so treatment is directed towards acute effects of renal dysfunction and hypertension.
+
+Although a 10-­ day course of systemic antibiotic therapy with penicillin is recommended to limit the spread of the nephritogenic organisms, antibiotic therapy does not affect the natural history of APSGN. 
+
+Sodium and fluid restriction, diuretics, and pharmacotherapy with calcium channel antagonists vasodilators, or angiotensin-­ converting enzyme inhibitors are standard therapies used to treat hypertension.
 == Urinary Tract Infection
 Diagnosis and management in children
+
+*Diagnosis*
+
+The parents report that for the past two days, the child has been feverish, with temperatures spiking to 38.8°C (102°F). The fever seems to come and go without a clear pattern. They have also noticed that the child cries or appears distressed during urination (dysuria). Her urine has a strong, unpleasant odor.
+
+The child has been irritable and fussy for the past 24 hours. She has a poor appetite (anorexia) and has vomited once after a feed. There is no significant diarrhea. The parents report the child is urinating more frequently than usual (frequency), but in small amounts. They have not noticed any blood in the urine.
+
+There is no history of previous UTIs. The child has no known urinary tract abnormalities. She has been previously healthy, with no recent colds or other infections.
+
+Upon examination, The child is irritable but consolable in her mother's arms. Temperature is 38.5, ºC , Tachycardic, Normal BP.
+
+Abdomen is soft and non-distended. There is mild tenderness on palpation over the suprapubic region. No loin tenderness is elicited.
+
+Chest is clear, No signs of pharyngitis or otitis media
+
+Upon Investigation, Pyuria and bacteria is seen under microscopic examination of urine. CBC shows leukocytosis.
+
+*Treatment*
+First line oral antiobiotics are Cephalexin, Amoxicillin-Clavulanate for 7-10 days empirical, can be changed upon CS.
+
+Supportive Care: Hydration and Paracetamol.
+
 = Neurological Disorders
 == Seizures and Epilepsy
 === Febrile Seizures
