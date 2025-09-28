@@ -17,7 +17,8 @@
 #show: gs_format
 #include "gs_format.typ"
 
-// #pagebreak()
+#pagebreak()
+#include "paediatrics_disease_summary.typ"
 #set page(columns:2)
 
 
