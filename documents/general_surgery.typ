@@ -1,129 +1,195 @@
-#include "gs_format.typ"
-#import "gs_format.typ": *
-#show: gs_format
+#set page(fill: yellow, margin: (left: 2in))
 
-#include "sources_and_requirements.typ"
-#import "sources_and_requirements.typ":*
+#line(start: (0%, 5%), end: (8.5in, 5%), stroke: (thickness: 2pt))
+
+#align(horizon + left)[
+
+  #text(size: 30pt, [Review on General Surgery])
+
+  For the Students, By the Students
+
+  narmak
+
+]
+#align(bottom + left)[#datetime.today().display()]
+
+#import "gs_format.typ":*
+#show: gs_format
+#include "gs_format.typ"
 
 #pagebreak()
-
 #set page(columns:2)
-= Haemorrhage
-Extravasation of Blood#footnote[don't mention blood vessel#shomiron] is called Haemorrhage#shomiron 
+
+
+= Rectal Carcinoma
+== Causes
++ Commonest in old age group(now common in younger patients).
++ Western country disease(2nd after Breast Cancer), but it is common in south asia because of westernization of food.
++ Familial disease now.
++ Intake of fatty food
+ - Vegetable বেশি intake করতে বলে, কারণ vegetable plant এ lignin থাকে
+ - Human lignin : anti-carcinogenic, that’s why bowel softening and frequency of bowel movement এ help করে
+ - Plant lignin টা converted হয়ে যায় human lignin এ upon entering the colon.
+ - Fat -> Constipation করে সাথে থাকে bile salt which is carcinogenic 
++ Ulcerative Colitis(Pre-malignant condition)
++ FAP gene
++ FPP coli (Familial Polyposis coli)
++ Rectal Polyp (Adenocarcinoma) consequence
+ - যদি colon  এ adenoma থাকে পরে carcinoma হবে 
+ - Polyp থাকলে ফেলে দিতে হবে।
++ Radiation
+
+#info_box([],[Constipation হলে colorectal mucosa তে অনেক সময় থাকে, তাই high incidence of malignancy])
+
+#info_box([Length],[
+Rectal Length : 12.8 cm
+
+Anal Canal Length : 3.8 cm
+])
+
 == Classification
-Following are various ways to calssify haemorrhage.#shomiron #viva 
-=== Clinical Classification
-- *Primary Haemorrhage*
-  - Bleeding during surgery or trauma.
-- *Reactionary Haemorrhage*
-  - Within 24 hours after surgery#footnote[in ENT this is within 7-14#footnote[before 7 days and after 24 hours is classified as primary haemorrhage#shomiron] days, basically within the time vascular repair occurs].
-- *Secondary Haemorrhage*
-  - Bleeding occurs after 7-14 days of surgery#footnote[in ENT this is after 7-14 days, basically after the time vascular repair occurs].
+=== Macroscopically
++ Ulcerative
++ Cauliflower
++ Annular
++ Tubular
 
-=== According to Source
-- Arterial Haemorrhage
-- Venous Haemorrhage
-- Capillary Haemorrhage
+=== Based on Part of Rectum
+- Upper 1/3rd (most common) : Annular, Tubular Variety
+- Middle 1/3rd : Cauliflower
+- Lower 1/3rd : Ulcerative
 
+== Presentation
+*Ulcerative*: Perectal Bleeding, Mucous Discharge
+
+*Cauliflower*: Tenesmus/morning weeping
+- takes 6 months to involve quarter of circumference
+- takes 12-18 months to involve full crcumference
+
+*Annular Tubular*
++ Alteration of Bowel Habit
++ Spurious Diarrhoea
++ Subacute Intestinal Obstruction
++ Acute Intestine Obstruction (This is when full circumference is involved)
+
+#info_box([],[There is no weight loss, anorexia in Ca of Anal Canal])
+
+== Investigations
++ DRE
++ Proctoscopy
+
+=== Investigation Findings
+*DRE*
++ Whether there is any ulcer present or not
++ How far is the ulcer from anal verge
++ Location of verge, whether on the anteriror or posterior wall of the rectum
++ Margin (Regular or Irregular)a
++ Fixity of ulcer
++ Whether you can reach the upper limit of ucler or not
++ After removal of finger blood stained mucus present or not
+*Procto-Sigmoidoscopy and Biopsy*
+- 12 cm (can be seen on both DRE and Proctoscopy)
+- Sigmoidoscope
+ - Rigid: upto 25 cm from anal verge
+ - Flexible: upto 40 cm from anal verge
+- Colonoscope allows upto 160 cm from anal verge
+
+Then after getting malignant report, do (3) staging process of disease.
+== Staging
+*Staging Methods*
++ TNM
++ Dukes
+== DUKE Staging
+*Stage A*: Disease Process/malignancy confined to rectal wall
+*Stage B*: Malignancy involved the para rectal tissue
+*Stage C*: Lymph node involvement
+- *Stage C1*: Pararectal lymph node
+- *Stage C2*: The lymph node involved the root of the supplying vessels
+*Stage D*: Distant Metastasis (Blood borne)
+- Liver
+- Lung
+- Bone
+- Brain
+
+#info_box([Ways of Metastasis],[
+- Local Invasion
+- Lymphatic
+- Blood Borne
+- Transcoelomic
+])
+
+== Investigations Done for Staging
+- Xray Chest (Lung metastasis)
+- USG of abdomen (Liver and para aortic Lymph node, ascites দেখে)
+- Liver function test
+ - Serum bilirubin X
+ - γ glutamyl transferase raise করবে (Liver metastasis)
+- MRI of pelvis (to see extension)
+- Transrectal USG (Local extension of disease)
+- Tumor markers
+ - Serum CEA level (Carcinoembryogenic Antigen)
+  - Non Smoker : 0–5 ng/ml
+  - Smoker : 0–10 ng/ml
+ - Monitoring করে এটা দেখে, but no diagnostic and prognostic value
+- Colonoscopy: To see the synchronous lesion (Multiple primary lesion)
+- CBC
+
+#info_box([Metachronous Lesion],[
+After Successful treatment appearance of a new lesion apart from previous anastomotic site/previous surgical site.
+])
+
+#info_box([Synchronous Lesion],[
+Simultaneous presence of multiple lesion in two different places
+])
+
+#info_box([Recurrence],[
+After successful treatment reappearance of disease process in previous surgery site/previous anastomotic site.
+])
+
+== Treatment
+After Diagnosis, a tumor board is formed
+=== Surgery (Curative Intervention if Possible)
+There are two options
++ Anteiror Resection
++ Posterior Resection
+#set par(justify: false) 
 #figure(
-table(
-  columns: 3,
-  [Bleeding Type], [Nature], [Color],
+  table(
+    columns:3,
+    [],[APR],[AR],
+    [Location of Lesion], [Lower 1/3#super([rd])], [Upper 2/3#super([rd])],
+    [Common Consensus(DRE)],[Lesion in fingertip],[Lesion not felt in fingertip],
+    [From Anal Verge],[Below or within 7 cm], [7 cm or above]
 
-  [Arterial], [Sprouting, Jet Like], [Bright Red#footnote[oxygenated blood]],
-  [Venous], [Profuse, Copious], [Dark Color#footnote[deoxygenated blood]],
-  [Capillary], [Oozing of Blood],[],
-),
-caption: [Characters of Different Types of Haemorrhage#shomiron #viva]
-)
+  )
+,caption:[Comparative between APR and AR])
+#set par(justify: true)
 
-=== According to Visibility
-- Concealed#written
- - Intracranial
- - Intrabdominal (Spleen, Liver.. More in Solid Organ)
-- Revealed#written
- - Accident
- - Trauma
- - Gum Bleeding
- - Epistaxis
- - Hematemesis
- - Hemoptysis
- - Melena
- - Menorrhagia
- - Gross Hematuria
- - Post Partum Hemorrhage
+The general principle is to resect healthy tissue to keep clear margin, 6-10 cm proximally and 2 cm distally.
+==== Anterior Resection
+This is done if the carcinoma doesn't invovle the anal sphincter.
+The carcinoma along with lymph nodes are removed and the remaining healthy gut is anastomosed.
 
-=== According to onset
-- Acute
-- Chronic
+==== Abdominoprineal Resection
+This is done if the carcinoma involves the anal sphincter. So, the anal sphincter cannot be preserved. Even if the carcinoma is within 2 cm of anal sphincter, it cannot be preserved because 2 cm of healthy margin is to be resected. Here a permanent colostomy is performed after removal of carcinoma and lymph nodes.
 
-== Reactionary Haemorrhage <reactionary-haemorrhage>
-Example#shomiron
-- Tonsillectomy
-- Thyroidectomy
-- Prostatectomy
-- Circumcision
-- Haemorrhoidectomy
+This is basically done by following two methods, Pelvic exenteration and Pelvic eventeration.
+===== Pelvic Eventeration
+Everything is resected
+- Rectum
+- Anal Canal
+- Ovary
+- Uterus
+- Prostate
+- Bladder
+===== Pelvic Exenteration
+Iliac bone is also removed by chiseling.
+=== Palliative Treatment
 
-*Cause of Reactionary Haemorrhage
-*
-After reversal of anesthesia, pressure increase and the following causes might cause haemorrhage
-- Slipping of ligature
-- Dislodgement of clot
-
-Reactionary Haemorrhage happens in operations where vascularity, collateral circulation is more
-
-== Secondary Haemorrhage
-The main cause of Secondary haemorrhage is infection, which causes sloughing out of the blood vessel wall.
-It occirs mainly in surgery such as
-- Tonsillectomy
-- Porstatectomy
-
-#info_box([
-  *Occurance of all 3 types of Bleeding in Surgery#shomiron* 
-],[
-That is primary, secondary and reactionary.
-
-All 3 types of bleeding occurs in Prostatectomy 
-])
-
-#info_box([
-  *Occurance of Untrontrolled Bleeding*
-],[
-  - Coagulation Disorder (Drug Induced)
-  - Blood Cancer
-])
-
-== Haemostasis
-Spontaneous arrest of bleeding is called haemostasis#shomiron.
-
-This requires some precondition, Platelelts. Also, platelets in the blood don't cause coagulation all the time without haemorrhage, because there are natural anticoagulants and vessel wall is normal.
-
-=== Techniques of Haemostasis
-The techniques of Haemorrhage are#viva #written
-+ Pressure and Packing#footnote[using Gauze for 6-10 minites(clotting time)]
-+ Elevation
-+ Tourniquet
-+ Diathermy and Cauterization
-+ Ligature (Large vessel)
-+ Clipping (Laparoscopic Surgery)
-+ Applicatiion of ultrasonic haemostatic device#footnote[New, Harmonic Scapel, it vibrates 55k times per second. This causes heat coagulation.]
-
-
-#info_box([
-  *Torniquet should be applied in the single bone.*
-],[
-  For example, in case of bleeding from radial artery, torniquet should be applied to arm, not the forearm. This is because the pressure applied on the supposedly radial artery will not reach it because of it's communication in the interosseaus space. While pressure applied to the arm will directly reach the brachial artery.
-])
-=== Basic Principles of control of Haemorrhage
-The basic principles of control of Haemorrhage are#written
-
-
-// #box(
-//   fill: blue,
-//   inset: 10pt
-// )[
-//   *Torniquet should be applied in the single bone.*
-  
-//   For example, in case of bleeding from radial artery, torniquet should be applied to arm, not the forearm. This is because the pressure applied on the supposedly radial artery will not reach it because of it's communication in the interosseaus space. While pressure applied to the arm will directly reach the brachial artery.
-//   ]
+== Follow up
+= DRE
+== Findings of DRE
+- Rectal mucosa
+- If prostate is enlarged or not (M)
+- Painful cervix (F)
+- Tip of coccyx (both)
