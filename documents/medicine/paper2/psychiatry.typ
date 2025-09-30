@@ -306,6 +306,41 @@ definition
 *Classification*
 *Side Effects*
 == Schizophrenia
+=== Clinical Features
+=== Diagnostic Criteria
+=== Cardinal Features
+=== Principles of Management
+=== Treatment
+=== Drugs
+names with side effects
 == Delerium & Dementia
-== Somatoform Disorders
+=== Delerium
+definition
+==== Causes
+==== Management
+=== Dementia
+definition
+==== Causes
+*Causes of Reversible Dementia*
+==== Investigations
+// a clinical scenario placed in this section of delerium and dementia
+A 25 year old rickshaw puller presented with acute confusional state & on examination he
+was dehydrated, skin was dry & core body temperature was 40 celcius. (DU 24Nov)
+a. What is the most likely diagnosis? make a management plan for him
+b. Write down the clinical features of thiamine deficiency.
+=== Differentiating Delerium from Dementia
+== Post Traumatic Stress Disorder (PTSD)
+=== Symptoms
+=== Management
 == Conversion Disorders
+=== Clinical Features
+=== Management of Hysterical Conversion Disorder
+=== Differentiating Hysterical Fit from Epileptic Fit/ Convulsion
+// A clinical scenario
+A 50 years male presented with sadness following recent death of his wife. How will you
+manage him? (DU-08Ja) How it differs from hysteric fit? (DU-05Ju)
+=== Differentiating Malingering from Somatic Disorder
+=== Anorexia Nervosa
+==== Clinical Features
+==== Comparision between Anorexia Nervosa and Thyrotoxicosis
+similarities and dissimilarities between anorexia nervosa and thyrotoxicosis
