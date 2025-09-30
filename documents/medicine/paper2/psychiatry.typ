@@ -224,10 +224,6 @@ Repetitive behaviors or mental acts that the person feels driven to perform in r
 === Differential Diagnosis
 ==== Anxiety Disorder vs. Thyrotoxicosis
 
-#set table(
-  align:left+horizon,
-)
-
 #figure(
   table(
   columns: (1.2fr, 2fr, 2fr),
@@ -289,7 +285,26 @@ table(
 ),caption:[Differences between Neurosis and Psychosis])
 
 == Panic Disorders
+=== Clinical Features
+=== Differential Diagnosis
 == Mood Disorders
+=== Classification
+=== Mood Stabilizing Drugs
+names(s) and side effects
+=== Bipolar Disorder
+==== Clinical Features
+==== Treatment
+=== Depression
+definition
+==== Classification
+==== Clinical Features
+==== Diagnosis
+==== Differential Diagnosis
+55 yo woman
+==== Treatment
+==== Antidepressants
+*Classification*
+*Side Effects*
 == Schizophrenia
 == Delerium & Dementia
 == Somatoform Disorders
