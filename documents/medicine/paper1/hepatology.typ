@@ -34,7 +34,7 @@
     - *Indications*: ↑ALT, HBV DNA >2,000, biopsy activity, cirrhosis
     - *Drugs*: Tenofovir, Entecavir (lifelong; high barrier to resistance)
 - *HCV*:
-    - Direct-acting antivirals (DAA) → >95% cure, 8–12 weeks
+    - Direct-acting antivirals (DAA) → >95% cure, 8-12 weeks
 - *HDV*: Needs HBV; Tx peg-IFN (limited benefit)
 - *Immunization*:
     - HAV, HBV vaccines available
@@ -69,8 +69,6 @@ Always check HCV RNA (antibody only means exposure, not active disease)
   - TIPS#footnote[Transjugular Intrahepatic Portosystemic Shunt] -> transplant
 
 == Cirrhosis
-- Compensated = no compl. (Class A, Child Pugh)
-- Decop = Ascites / Varices bleed / HE / Jaundice / SBP / HRS (Class C, Child Pugh)
 === Stigmata CLD
 + ↓hair
 + cachexia
@@ -104,14 +102,27 @@ Always check HCV RNA (antibody only means exposure, not active disease)
   ),
   caption: [Child Pugh classification of cirrhosis.]
 )
-1 for lower than lower limit, if in range of upper and lower limit than 2, and if above than 3
-Params
-+ Bilirubin(2,3)
-+ Albumin(3.5,2.8)
-+ PT(4,6)/INR(1.7,2.3)
-+ Encephalopathy, Ascites
-Score : 5-6=A, 7-9=B, 10-15=C
+#align(center)[Score : 5-6=A, 7-9=B, 10-15=C]
+- Compensated = no compl. (Class A, Child Pugh)
+- Decop = Ascites / Varices bleed / HE / Jaundice / SBP / HRS (Class C, Child Pugh)
 === MELD-Na
 Formula (Bili, INR, Cr, Na)
 ≥15 = Tx referral
 “30 = very high 3m mortality”
+
+This is used to determine urgency for transplant.
+
+== SBP
+- Dx: Ascites PMN ≥250/mm3 (even culture -)
+    - generally asymptomatic, without fever and abdominal pain
+    - might be present in patients with hepatic Encephalopathy, Renal Failure
+    - on examination abdominal pain/tenderness and rebound tenderness (_might be absent_)
+    - Perform Dx Paracentesis if CLD presents with ascites
+- Orgs: E. coli, Kleb, Strep (mixed, basically bacteria from the gut)
+- Tx:
+    - Cefotaxime 2g q8h x 5-7d / Ceftriaxone 2g/d
+    - IV Albumin Day1 (1.5 g/kg), Day3(1.0 g/kg)
+- Prophylaxis:
+    - Secondary = Norfloxaxin 400 mg PO daily lifelong (until Tx/ascites gone)
+    - Primary = if ascites protein < 1.5 g/dL + poor liver/renal function
+

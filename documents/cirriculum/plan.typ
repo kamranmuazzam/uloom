@@ -18,13 +18,13 @@
 #(prep_schedule.at(0).topics=[
 == Topics
 === Hepatology <hepatology>
-+ Hepatitis
-+ Ascites
-+ Cirrhosis
-+ SBP
++ ☑ Hepatitis
++ ☑ Ascites
++ ☑ Cirrhosis
++ ☑ SBP
++ Hepatic Encephalopathy
 + Hepatocellular Carcinoma
 + Hepatosplenomegaly
-+ Hepatic Encephalopathy
 + Variceal Bleed
 + Liver Abscess
 === High Yeild Diseases that present as fever <fever>
@@ -45,7 +45,11 @@ Started Ascites at 1230 hours.
 Done with Ascites at 1235 hours.
 Started Cirrhosis at 1240 hours.
 Break at 1322 hours
-Resumed with Cirrhosis at 1543 hours
+Resumed with Cirrhosis at 1825 hours
+Done with Cirrhosis at 1840 hours
+Started SBP at 1900 hours
+Done with SBP at 1910 hours
+Started with Hepatic Encephalopathy at 1915 hours
 ])
 
 
