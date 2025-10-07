@@ -45,13 +45,13 @@ Always check HCV RNA (antibody only means exposure, not active disease)
 ])
 
 #info_box([Some Hooks For Hepatitis],[
-- HAV = only acute, fecal‑oral, no chronic, vaccine
+- HAV = only acute, fecal-oral, no chronic, vaccine
 - HBV = DNA virus → cirrhosis + HCC (even w/o cirrhosis!)
 - HCV = chronic in ~80% cases, no vaccine, DAAs → cure
 - HDV = requires HBV coinfection
-- HEV = epidemic, fecal‑oral, fulminant in pregnancy
+- HEV = epidemic, fecal-oral, fulminant in pregnancy
 - In Pregnancy : HAV, HBV and HEV (HEV main because fatal)
-- Window period HBV = only IgM anti‑HBc positive
+- Window period HBV = only IgM anti-HBc positive
 - HCC screening in chronic HBV/HCV = US + AFP q6mo
 ])
 
@@ -153,3 +153,16 @@ This is used to determine urgency for transplant.
 - *Secondary prophylaxis*:
   NSBB (propranolol, Nadolol)
   Repeat band ligation
+== Liver Abscess
+=== Amoebic Liver Abscess (ALA)
+- Yng ♂, endemic, Right lobe, single, tender hepatomegaly
+- Asp → Anchovy paste (sterile)
+- Tx: Metronidazole 750 mg q8h x 7-10d + luminal (Diloxanide 10d)
+- Drain if ≥10 cm or, left lobe or, no resp at 72h or dx doubt
+=== Pyogenic Liver Abscess (PLA)
+- Old/DM/biliary, multiple
+- Asp → frank pus, culture + (E. coli, Kleb)
+- Tx: Ceftriaxone 2g IV x 3wks, step-down oral 2-4wks until radiological resolution ± metro
+- Mandatory drain if large or multiple or left lobe
+    - > 5 cm aspirate if not responding or,
+    - > 10 cm, catheter drainage

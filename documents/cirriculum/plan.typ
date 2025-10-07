@@ -23,7 +23,7 @@
 + ☑ Cirrhosis
 + ☑ SBP
 + ☑ Hepatic Encephalopathy
-+ Variceal Bleed
++ ☑ Variceal Bleed
 + Liver Abscess
 + Hepatocellular Carcinoma
 + Hepatosplenomegaly
@@ -52,6 +52,8 @@ Done with SBP at 1910 hours
 Started with Hepatic Encephalopathy at 1915 hours
 Done with Hepatic Encephalopathy at 1920 hours
 Started with Variceal Bleeding at 1941 hours
+Done with Variceal Bleeding at 1949 hours
+Started with Liver Abscess at 1955 hours
 ])
 
 
