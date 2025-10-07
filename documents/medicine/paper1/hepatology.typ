@@ -166,3 +166,14 @@ This is used to determine urgency for transplant.
 - Mandatory drain if large or multiple or left lobe
     - > 5 cm aspirate if not responding or,
     - > 10 cm, catheter drainage
+== Acute Liver Failure
+- *Def*: Acute injury + Hepatic Encephalopathy + INR >1.5 w/in < 26wk, no prev CLD
+- *Causes*: Vir B/E, drugs (Paracetamol, INH, halothane), Wilson’s
+- *Compications*: Cerebral edema, HRS#footnote[Hepato Renal Syndrome], coagulopathy, sepsis
+- *Tx*: ICU; NAC#footnote[N-acetylcysteine] (all paracetamol cases + sometimes others); treat cause; control ICP; eval for transplant
+
+== Hepatosplenomegaly
+=== Hepatomegaly
+==== Tender Hepatomegaly
+==== Non-Tender Hepatomegaly
+=== Hepatosplenomegaly
