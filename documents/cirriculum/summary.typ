@@ -1,5 +1,5 @@
-Presentations: 66
-Diseases / Conditions: 298
-Procedures & Skills: 52
-Investigations / Diagnostics: 18
-Overall Total Items: 434
+- Presentations: 66
+- Diseases / Conditions: 298
+- Procedures & Skills: 52
+- Investigations / Diagnostics: 18
+- Overall Total Items: 434
