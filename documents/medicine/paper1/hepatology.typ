@@ -142,3 +142,14 @@ This is used to determine urgency for transplant.
   - III: Stupor, confused, incoherent speech, still arousable
   - IV: Coma
 
+== Variceal Bleeding
+- *Cause*: Portal HTN collaterals
+- *Acute management*:
+    - ABC, airway protect
+    - Vasoactives: Octreotide infusion/ Terlipressin bolus
+    - Abx prophylaxis: Ceftriaxone/Cefotaxime
+    - Endoscopic: EVL#footnote[Endoscopic Variceal Ligation] > Sclerotherapy
+    - Rescues: Ballon tamponade, TIPS > Transplant
+- *Secondary prophylaxis*:
+  NSBB (propranolol, Nadolol)
+  Repeat band ligation

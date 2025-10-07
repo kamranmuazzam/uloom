@@ -22,11 +22,11 @@
 + ☑ Ascites
 + ☑ Cirrhosis
 + ☑ SBP
-+ Hepatic Encephalopathy
-+ Hepatocellular Carcinoma
-+ Hepatosplenomegaly
++ ☑ Hepatic Encephalopathy
 + Variceal Bleed
 + Liver Abscess
++ Hepatocellular Carcinoma
++ Hepatosplenomegaly
 === High Yeild Diseases that present as fever <fever>
 + Pneumonia, Influenza, Covid-19
 + Dengue Fever
@@ -50,7 +50,8 @@ Done with Cirrhosis at 1840 hours
 Started SBP at 1900 hours
 Done with SBP at 1910 hours
 Started with Hepatic Encephalopathy at 1915 hours
-Done with Hepatic Encephalopathy at 1910 hours
+Done with Hepatic Encephalopathy at 1920 hours
+Started with Variceal Bleeding at 1941 hours
 ])
 
 
