@@ -126,3 +126,19 @@ This is used to determine urgency for transplant.
     - Secondary = Norfloxaxin 400 mg PO daily lifelong (until Tx/ascites gone)
     - Primary = if ascites protein < 1.5 g/dL + poor liver/renal function
 
+== Hepatic Encephalopathy
+
+- *Cause*: NH₃↑ + other toxins
+- *Precipitants*: GIB, infx (SBP), constipation, hypoK, alk, sedatives
+- *Tx*:
+  + Lactulose (2-3 stools/d)
+  + Rifaximin#footnote[Neomycin is used in Bangladesh, Avoid for neurotoxic effects] (started after 1st recurrence)
+  + Correct precipitant (GIB, abx for SBP, fluid electrolyte correction main K+ repl, lactulose enemas)
+  + Diet (restrict animal protein, 1-2g/kg/day animal protein + calorie)
+  + Lactulose and Rifaximin lifelong, until liver transplant
+=== Grades (West Haven)
+  - I: Trivial inattention, reversed sleep, irritable
+  - II: Lethargy, disoriented, asterixis#footnote[flapping tremor]
+  - III: Stupor, confused, incoherent speech, still arousable
+  - IV: Coma
+

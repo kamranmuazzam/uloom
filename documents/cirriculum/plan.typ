@@ -50,6 +50,7 @@ Done with Cirrhosis at 1840 hours
 Started SBP at 1900 hours
 Done with SBP at 1910 hours
 Started with Hepatic Encephalopathy at 1915 hours
+Done with Hepatic Encephalopathy at 1910 hours
 ])
 
 
