@@ -44,6 +44,18 @@ show heading.where(level: 4): it => [
   #set text(fill:rgb("4B77D1"), weight: "bold", size: 14pt)
   #block(it)
 ]
+
+let frame(stroke) = (x, y) => (
+  left: if x > 0 { 0pt } else { stroke },
+  right: stroke,
+  top: if y < 2 { stroke } else { 0pt },
+  bottom: stroke,
+)
+set table(
+  fill: (rgb("EAF2F5"), none),
+  stroke: frame(rgb("21222C")),
+)
+
 doc
 }
 
