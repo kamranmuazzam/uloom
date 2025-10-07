@@ -20,6 +20,7 @@
 === Hepatology <hepatology>
 + Hepatitis
 + Ascites
++ Cirrhosis
 + SBP
 + Hepatocellular Carcinoma
 + Hepatosplenomegaly
@@ -39,6 +40,12 @@
 + Sepsis
 == Daily Report
 Started at 1207 hours with Hepatitis.
+Done with Hepatitis at 1228 hours.
+Started Ascites at 1230 hours.
+Done with Ascites at 1235 hours.
+Started Cirrhosis at 1240 hours.
+Break at 1322 hours
+Resumed with Cirrhosis at 1543 hours
 ])
 
 

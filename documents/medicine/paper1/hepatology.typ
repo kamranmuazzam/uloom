@@ -67,3 +67,51 @@ Always check HCV RNA (antibody only means exposure, not active disease)
 - Diagnostic Paracentesis and Treat SBP if ascites recurring.
 - Refract.
   - TIPS#footnote[Transjugular Intrahepatic Portosystemic Shunt] -> transplant
+
+== Cirrhosis
+- Compensated = no compl. (Class A, Child Pugh)
+- Decop = Ascites / Varices bleed / HE / Jaundice / SBP / HRS (Class C, Child Pugh)
+=== Stigmata CLD
++ ↓hair
++ cachexia
++ Jaundice
++ parotid enlargement
++ Spider angiomas
++ Palmar Erythma
++ Terry's/Leukonychia
++ Gynecomastia
++ ascites
++ splenomegaly
++ caput medusae
++ Testicular Atrophy
+=== Hepatic facies
+#figure(image("../images/hepatic_facies.jpg"),caption: [Hepatic Facies])
+- hollow cheeks/orbits
+- ecteric
+- watery eyes
+
+== Prognosis Scoring
+=== Child-Pugh Classification
+#figure(
+  table(
+    columns: (80pt, 50pt, 30pt, 50pt,60pt),
+    [Factor],[Units],[1],[2],[3],
+    [Serum Bilirubin],[mg/dL],[< 2],[2-3],[> 3],
+    [Serum Albumin],[g/L],[> 3.5],[3-3.5],[< 3],
+    [Prothombin Time],[Seconds],[< 4],[4-6],[> 6],
+    [Ascites],[],[None],[controlled],[uncontrolled],
+    [Hepatic  Encephalopathy],[],[None],[Minimal],[Advanced]
+  ),
+  caption: [Child Pugh classification of cirrhosis.]
+)
+1 for lower than lower limit, if in range of upper and lower limit than 2, and if above than 3
+Params
++ Bilirubin(2,3)
++ Albumin(3.5,2.8)
++ PT(4,6)/INR(1.7,2.3)
++ Encephalopathy, Ascites
+Score : 5-6=A, 7-9=B, 10-15=C
+=== MELD-Na
+Formula (Bili, INR, Cr, Na)
+≥15 = Tx referral
+“30 = very high 3m mortality”
