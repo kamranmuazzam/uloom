@@ -112,7 +112,7 @@ Formula (Bili, INR, Cr, Na)
 
 This is used to determine urgency for transplant.
 
-== SBP
+== (Spontaneous Bacterial Peritonitis)SBP
 - Dx: Ascites PMN ≥250/mm3 (even culture -)
     - generally asymptomatic, without fever and abdominal pain
     - might be present in patients with hepatic Encephalopathy, Renal Failure
