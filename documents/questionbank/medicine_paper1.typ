@@ -172,7 +172,7 @@
  + Write down 5 (five) causes of secondary hypertension
  + Make a check list history and physical signs to find out the causes of secondary hypertension
 + A 20-year-old man presents with blood pressure of 180/110 mmHg. (DU-22N)
- + Mention clinical information you will search to find the possible underlying actiology of his raised blood pressure.
+ + Mention clinical information you will search to find the possible underlying aetiology of his raised blood pressure.
  + Write down investigations for a newly detected hypertensive patient.
 + A 30 years old man recently detected as having hypertension. (DU-20M)
  + Make a check list of clinical history to find out the causes of hypertension.
@@ -268,8 +268,8 @@
 + A 30 years old female presents with severe respiratory distress. What may be the causes? (DU-JII)
 + A 60 years old patient presented with exertional dyspnea. How will you investigate and treat him? (DU-08M,07Ja,06Ja)
 === Cough
-+ A 70-year-old man has presented with a history of cough for 3 months a. What clinical information would you search for actiology? b. Write down the investigation plan. (DU-21M)
-+ A 65 years old man presents with cough for 3 months. What clinical information I would you search for identification of actiology. (DU-19Nov)
++ A 70-year-old man has presented with a history of cough for 3 months a. What clinical information would you search for aetiology? b. Write down the investigation plan. (DU-21M)
++ A 65 years old man presents with cough for 3 months. What clinical information I would you search for identification of aetiology. (DU-19Nov)
 === Hemoptysis
 + Mention 5 important causes of hemoptysis with physical signs in any of them. (DU- 16Ju)
 + What is hemoptysis? (DU-05M)
@@ -1283,7 +1283,7 @@ Ca2+ Balance
 + A 50 years old female presented with sudden sever pain and swelling in right great toe. She has a history of similar attacks 6 weeks age. How will you diagnose and manage her? (DU-07Ja)
 + A 30 years old male presented with sudden severe pain and swelling of right great toe at mid night. He has history of similar attack a month ago. How will you diagnose and manage such a case? (DU-06M)
 === Osteoporosis
-+ Write down the actiology of osteoporosis. (DU-18Ju)
++ Write down the aetiology of osteoporosis. (DU-18Ju)
 + How will you diagnose osteoporosis? (DU- 11Ja)
 + How would you manage a case of osteoporosis? (DU-23N, 22M, 20Nov)
 + Give a management plan for a patient with osteoporosis. (DU-18Nov, 17Ju)
@@ -1298,7 +1298,7 @@ Ca2+ Balance
 + Mention the investigations you would advice for her to confirm your diagnosis. a. A
 + 30-year-old lady presents with arthralgia for 3 months and you are suspecting as a case of systemic lupus erythematosis (SLE). What other criteria you would look for the diagnosis of SLE? (DU- 18.Ju)
 + A 30 year old lady presents with polyarthralgia, oral ulcer and hair loss. (DU-16Ja)
- + Mention further clinical information which will suggest underlying actiology.
+ + Mention further clinical information which will suggest underlying aetiology.
  + Suggest investigations for her with interpretation.
 + Write down the management plan of systemic lupus erythematosus. (DU-10Ja)
 + A 30 year old housewife presented with joint pain with pleural effusion. She has history of repeated abortion. How will you investigate and treat her? (DU-07Ja)
