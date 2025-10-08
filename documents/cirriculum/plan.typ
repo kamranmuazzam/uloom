@@ -117,6 +117,10 @@ Started Haemorrhage at 1000 hours.
 Done with Haemorrhage at 1010 hours.
 Started Transfusion at 1015 hours.
 Done with Transfusion at 1031 hours.
+Started Fluid, Electrolytes, Acid Base Balance and Nutrition and Shock at 1050 hours.
+Almost done, taking break at 1133 hours.
+Continued at 1150 hours.
+Done at 1201 hours.
 ])
 
 #let my-counter = counter("loop-iterations")

@@ -250,55 +250,162 @@ Mismatched Blood transfusion is to be managed in the following steps#viva.
 = Fluid, Electrolytes, Acid-Base Balance and Nutrition
 
 Common Intravenous Solutions used in Surgical Practice are:
+- 5% Dextrose (D5): energy, no electrolytes.
+- Normal Saline (0.9% NaCl): volume expansion, corrects hyponatremia.
+- Ringer’s Lactate (RL): balanced fluid, preferred for resuscitation.
+- Dextrose Normal Saline (DNS): energy + sodium chloride.
+- Potassium-containing fluids: added if adequate urine output.
 
-=== Post Operative Fluid Regimen#viva
-Following is the Post Operative Fluid Regimen on operative day, 1st post operative day and 2nd postoperative day.
+== Post Operative Fluid Regimen#viva
+- *Operative Day*: 5% Dextrose in Aqua (DA), 1 L.  
+- *1st POD*: Dextrose Normal Saline (DNS), 2 L.  
+- *2nd POD*: Dextrose Normal Saline (DNS) 2L + KCl 20 mEq (if urine output adequate).  
 
-Rationale for this choice is as follows#viva.
+*Rationale for this choice is as follows*#viva.  
+- On the operative day, due to surgical trauma stress is present, the body retains salt and water (↑ ADH and aldosterone), so electrolyte-free and less fluid is preferred.  
+- On the 1st POD, the stress response begins to subside, but K⁺ remains high from tissue breakdown; thus K⁺ is avoided.  
+- On the 2nd POD, K⁺ stores are depleted and supplementation is needed.  
+- Fluids should always be adjusted according to urine output and patient condition.
 
-=== Hypokalemia#viva
-==== Correction
-==== Monitoring
+== Hypokalemia#viva
+=== Correction
+- Mild: oral KCl supplements.
+- Severe: IV KCl (20-40 mEq/L) slowly, with ECG monitoring.
+- Check urine output before replacement.
 
-=== Hyperkalemia
-==== Causes
-==== Dangers
+=== Monitoring
+- Serial serum K+ levels every 6-8 h.
+- Continuous ECG for arrhythmias.
 
-=== Central Venous Line
-SN
-=== Metabolic Acidosis
-SN
-=== Total Parenteral Nutrition
-SN
+== Hyperkalemia
+=== Causes
+- Renal failure, metabolic acidosis, hemolysis, burns, excessive K+ intake, drugs (ACE inhibitors).
 
+=== Dangers
+- Fatal arrhythmias, cardiac arrest, muscle paralysis, respiratory failure.
 
-= Shock}
+== Central Venous Line
+- Inserted into internal jugular/subclavian vein.
+- Used for CVP monitoring, TPN, irritant drugs, long-term fluids.
+- Complications: infection, thrombosis, pneumothorax, air embolism.
+- CVP < 5 cm H₂O → hypovolemia; >12 cm H₂O → overload.
+
+== Metabolic Acidosis
+- Definition: pH < 7.35, HCO₃⁻ < 22 mEq/L.
+- Causes: shock, renal failure, DKA, lactic acidosis, diarrhea.
+- Symptoms: Kussmaul respiration, confusion, arrhythmia.
+- Treatment: correct underlying cause, IV bicarbonate if severe (pH< 7.1).
+
+== Total Parenteral Nutrition
+- Delivered via central line when GI tract unusable.
+- Contains glucose, amino acids, lipids, electrolytes, vitamins, trace elements.
+- Indications: prolonged ileus, bowel obstruction, short gut, severe pancreatitis.
+- Complications: infection, hyperglycemia, liver dysfunction, electrolyte imbalance.
+- Monitor: weight, glucose, liver function, electrolytes.
+
+= Shock
+
 == Definition#viva
+- Acute circulatory failure causing inadequate tissue perfusion and oxygen delivery to cells.
 
 == Types#viva
+- Hypovolemic (blood/fluid loss)
+- Cardiogenic (pump failure)
+- Distributive (vasodilation: septic, anaphylactic, neurogenic)
+- Obstructive (tamponade, PE, tension pneumothorax)
 
 == Monitoring During Resuscitation#viva
-
+- HR
+- BP (MAP)
+- Sp#ce("O2")
+- urine output
+- CVP
+- mental status
+- lactate
+- capillary refill.
 
 == Hypovolemic Shock
-
 Surgical Causes of Hypovolemic Shock#viva.
+- Hemorrhage (trauma, ruptured aneurysm, GI bleed)
+- Dehydration, burns, vomiting, diarrhea.
+
 Clincal Classification of Haemorrhagic Shock#viva.
-The fluid that should be started initially is ... because ... #viva.
+
+#figure(
+  table(
+    columns:(auto, auto, auto, auto, auto, auto),
+    [*Class*], [*Blood loss (%)*], [*Pulse*], [*BP*], [*Urine (ml/hr)*], [*Mental state*],
+    [I], [< 15], [< 100], [Normal], [>30], [Alert],
+    [II], [15-30], [> 100], [Slight ↓], [20-30], [Anxious],
+    [III], [30-40], [> 120], [↓], [10-20], [Confused],
+    [IV], [> 40], [> 140], [Marked ↓], [< 10], [Lethargic]
+  ),
+    caption: [Clinical Classification of Hemorrhagic Shock]
+)
+
+The fluid that should be started initially is Crystalloids (RL/NS), because they rapidly restore intravascular volume and improve perfusion#viva.
 
 === Pathogenesis of Hypovolemic Shock
-Algorithm
-=== Metabolic Responses to Haemorrhagic Shock
-=== Principles of Treatment of Hypovolemic Shock
+#align(center)[
+Blood/fluid loss
 
-== Monitoring of Patient in Shock
-Minimum Monitoring points
+⬇
+
+↓ venous return
+
+⬇
+
+↓ stroke volume 
+
+⬇
+
+↓ Cardiac Output 
+
+⬇
+
+↓ Tissue Perfusion 
+
+⬇
+
+↑Anaerobic Metabolism 
+
+⬇
+
+Lactic Acidosis 
+
+⬇
+
+Multi-organ Failure.
+]
+
+=== Metabolic Responses to Haemorrhagic Shock
+- ↑ Catecholamines, cortisol, ADH.
+- Glycogenolysis, lipolysis, proteolysis to provide energy.
+- Sodium/water retention by kidneys.
+
+=== Principles of Treatment of Hypovolemic Shock
+- ABCs: Airway, Breathing, Circulation.
+- Control bleeding.
+- Rapid volume replacement: crystalloids → blood if needed.
+- Oxygen therapy.
+- Monitor urine, vital signs, CVP.
+- Correct acidosis and electrolyte imbalance.
+
 
 == Septic Shock
-SN
+- Hypotension and tissue hypoperfusion due to infection despite fluid resuscitation.
+- Mechanism: endotoxin-induced vasodilation, ↑ permeability, ↓ myocardial contractility.
+- Clinical: fever/hypothermia, hypotension, tachycardia, warm→cold peripheries.
+- Treatment: fluids, vasopressors (norepinephrine), antibiotics, source control.
 
-=== SIRS
-SN
+== SIRS
+- Systemic Inflammatory Response Syndrome.
+- Diagnostic criteria (any 2 of):
+  - Temp >38°C or < 36°C
+  - HR >90/min
+  - RR >20/min or PaCO₂ < 32 mmHg
+  - WBC >12,000 or < 4,000/mm³ or >10% bands.
+- SIRS + infection = Sepsis.
 
 = Ulcer
 
