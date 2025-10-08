@@ -1,6 +1,7 @@
 #include "gs_format.typ"
 #import "gs_format.typ": *
 #show: gs_format
+#import "@preview/typsium:0.3.0":*
 
 #include "sources_and_requirements.typ"
 #import "sources_and_requirements.typ":*
@@ -148,3 +149,99 @@ Control haemorrhage by
 + *temporary measures*(pressure, elevation, torniquete)
 + *definitive surgical methods*(ligature, vessel repair), and
 + *correction of systemic factors*(blood transfusion, vitamin K, prevent hypothermia).
+
+= Transfusion
+
+== Common Blood Products
+The commonly transfused blood products are mentioned below#viva.
+- Whole Blood - acute severe blood loss
+- Packed RBC - anemia, blood loss (improves #ce("O2") capacity)
+- Fresh Frozen Plasma (FFP) - coagulation factor deficiency, DIC, massive transfusion
+- Platelets - thrombocytopenia, platelet dysfunction, bleeding
+- Cryoprecipitate - fibrinogen deficiency, Factor VIII, Factor XIII, vWD
+- Albumin - hypoproteinemia, burns, shock
+
+== Indications
+- Acute blood loss > 20% blood volume
+- Severe symptomatic anemia (Hb < 7 g/dL, or < 8 in cardiac disease)
+- Coagulopathy, DIC, warfarin toxicity (FFP)
+- Thrombocytopenia with bleeding or platelet < 10-20k
+- Hypofibrinogenemia (< 100 mg/dL) - Cryoprecipitate
+
+== Contraindications
+- Not for volume replacement alone (use crystalloids/colloids)
+- Iron-deficiency anemia without hemodynamic instability
+- Hematinic deficiency anemia (B12/Folate) unless acute or severe
+- Congestive Heart Failure - risk of overload (use cautiously)
+
+== Transfusion Order (Single Unit)
+
+- Confirm patient ID - name, age, hospital/bed number
+- Blood grouping and cross-matching
+- Check donor unit details and expiry date
+- Bedside re-check of patient and unit
+- Start slow rate (first 15 min), observe for reaction
+- Monitor vitals - before, 15 min, hourly, and post-transfusion
+
+
+== Complications
+Following are the complications of Blood Transfusion#viva
+
+*Immediate*:
+- Hemolytic reaction (ABO mismatch) - fever, chills, hypotension, back pain
+- Febrile non-hemolytic reaction
+- Allergic - urticaria, anaphylaxis
+- Septic shock (contaminated blood)
+- TRALI - Transfusion-related acute lung injury
+
+*Delayed*:
+- Delayed hemolysis
+- Blood-borne infections - HIV, HBV, HCV, syphilis, malaria
+- Iron overload
+- Graft-vs-Host disease
+
+== Screening of Blood Transfusion
+- ABO and Rh grouping, cross-match
+- Infectious disease screening: HIV, HBV, HCV, Syphilis, Malaria (region dependent)
+
+== Massive Blood Transfusion
+
+=== Definition
+Following are the definitions of massive Blood Transfusion#viva.
+- Replacement of > 1 blood volume in 24 hr or,
+- > 50% blood volume in 3 hr or,
+- > 10 units in 24 hr
+
+=== Precautions
+Following precautions are to be taken before Massive Blood Transfusion#viva.
+- Warm blood before transfusion
+- Use screened, leucocyte-depleted components
+- Monitor coagulation, #ce("Ca^2+"), electrolytes
+- Prefer component therapy over whole blood
+
+=== Complications
+Following are the complications of Massive Blood Transfusion#viva.
+- Dilutional coagulopathy
+- Citrate toxicity - hypocalcemia
+- Electrolyte imbalance - hypo/hyperkalemia
+- Hypothermia
+- Acid-base disturbances
+
+== Mismatched Blood Transfusion
+
+=== Features/Consequences
+- Immediate fever, chills, tachycardia, hypotension
+- Chest/back pain, hemoglobinuria, acute renal failure
+- Shock, DIC
+
+=== Prevention
+- Strict patient ID verification
+- Proper grouping and cross-matching
+- Bedside re-check before transfusion
+
+=== Management
+Mismatched Blood transfusion is to be managed in the following steps#viva.
+- Stop transfusion immediately
+- Maintain IV access with normal saline
+- Supportive: fluids, diuretics (forced diuresis), treat shock
+- Monitor urine output, renal function, manage DIC if present

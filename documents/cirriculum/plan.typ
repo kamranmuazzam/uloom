@@ -87,7 +87,8 @@
 #(prep_schedule.at(1).topics=[
 == Topics
 === General Principles of Surgery
-+ Haemorrhage
++ ☑ Haemorrhage
++ ☑ Transfusion
 + Sinus
 + Fistula
 === Obs
@@ -112,8 +113,10 @@ Plan to start at 0300 hours night at the starting of day, compared to noon, 1200
 Slept throughout the night, woke around 0700 hours, had breakfast at 0730 hours, will start studying at 0900 hours.
 Started LRTIs at 0900 hours.
 Done with LRTIs at 0940 hours.
-Started with Haemorrhage at 1000 hours.
-Done with Haemorrhage at 1010 hours
+Started Haemorrhage at 1000 hours.
+Done with Haemorrhage at 1010 hours.
+Started Transfusion at 1015 hours.
+Done with Transfusion at 1031 hours.
 ])
 
 #let my-counter = counter("loop-iterations")
