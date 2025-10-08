@@ -75,7 +75,7 @@ Reactionary Haemorrhage happens in operations where vascularity, collateral circ
 
 == Secondary Haemorrhage
 The main cause of Secondary haemorrhage is infection, which causes sloughing out of the blood vessel wall.
-It occirs mainly in surgery such as
+It occurs mainly in surgery such as
 - Tonsillectomy
 - Porstatectomy
 
@@ -84,7 +84,7 @@ It occirs mainly in surgery such as
 ],[
 That is primary, secondary and reactionary.
 
-All 3 types of bleeding occurs in Prostatectomy 
+All 3 types of bleeding occurs in *Prostatectomy* 
 ])
 
 #info_box([
@@ -113,17 +113,38 @@ The techniques of Haemorrhage are#viva #written
 #info_box([
   *Torniquet should be applied in the single bone.*
 ],[
-  For example, in case of bleeding from radial artery, torniquet should be applied to arm, not the forearm. This is because the pressure applied on the supposedly radial artery will not reach it because of it's communication in the interosseaus space. While pressure applied to the arm will directly reach the brachial artery.
+  For example, in case of bleeding from radial artery, torniquet should be applied to arm, not the forearm. This is because the pressure applied on the supposedly proximal part of radial artery will not occlude it because of it's communication in the interosseaus space. While pressure applied to the arm will directly reach the brachial artery.
 ])
 === Basic Principles of control of Haemorrhage
 The basic principles of control of Haemorrhage are#written
 
+Control of Haemorrhage is vital to prevent *shock*.
 
-// #box(
-//   fill: blue,
-//   inset: 10pt
-// )[
-//   *Torniquet should be applied in the single bone.*
-  
-//   For example, in case of bleeding from radial artery, torniquet should be applied to arm, not the forearm. This is because the pressure applied on the supposedly radial artery will not reach it because of it's communication in the interosseaus space. While pressure applied to the arm will directly reach the brachial artery.
-//   ]
+==== Immediate / Temporary Control
+- Direct pressure - most effective.
+- Elevation - limb above heart level ↓pressure.
+- Pressure points - compress proximal artery.
+- Tourniquet - only if bleeding uncontrolled; temporary use.
+- Temporary surgical methods - artery forceps on bleeding point.
+
+==== Definitive / Surgical Control
+- Ligature - tie vessel with suture.
+- Torsion - twist small bleeding vessels.
+- Vessel repair (angiorrhaphy) - suture wall.
+- Electrocautery / diathermy - coagulate.
+- Topical agents - gelatin sponge, oxidized cellulose, fibrin glue.
+
+==== General / Physiological Measures
+- Replace blood loss - fluids, transfusion.
+- Correct coagulopathy - Vit K, FFP, platelets.
+- Avoid hypothermia - maintain temperature.
+- Monitor BP, oxygenation, urine output.
+
+*Mnemonic*:
+*PRESS* → Pressure, Raise limb, Escharotics (cautery), Suture/ligation, Support circulation.
+
+*Summary:*  
+Control haemorrhage by
++ *temporary measures*(pressure, elevation, torniquete)
++ *definitive surgical methods*(ligature, vessel repair), and
++ *correction of systemic factors*(blood transfusion, vitamin K, prevent hypothermia).
