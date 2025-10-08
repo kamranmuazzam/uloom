@@ -309,14 +309,14 @@ Common Intravenous Solutions used in Surgical Practice are:
 - Acute circulatory failure causing inadequate tissue perfusion and oxygen delivery to cells.
 
 == Types#viva
-- Hypovolemic (blood/fluid loss)
-- Cardiogenic (pump failure)
-- Distributive (vasodilation: septic, anaphylactic, neurogenic)
-- Obstructive (tamponade, PE, tension pneumothorax)
++ Hypovolemic (blood/fluid loss)
++ Cardiogenic (pump failure)
++ Distributive (vasodilation: septic, anaphylactic, neurogenic)
++ Obstructive (tamponade, PE, tension pneumothorax)
 
 == Monitoring During Resuscitation#viva
-- HR
 - BP (MAP)
+- HR
 - Sp#ce("O2")
 - urine output
 - CVP
