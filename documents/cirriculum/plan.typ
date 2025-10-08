@@ -136,7 +136,8 @@ Done with Transfusion at 1031 hours.
 Started Fluid, Electrolytes, Acid Base Balance and Nutrition and Shock at 1050 hours.
 Almost done, taking break at 1133 hours.
 Continued at 1150 hours.
-Done at 1201 hours.
+Done at 1201 hours and starting of break.
+Started with obs at 1740 hours.
 
 #let topics_covered=5
 #topics_covered_array.push(topics_covered)
