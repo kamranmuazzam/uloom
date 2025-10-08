@@ -245,3 +245,95 @@ Mismatched Blood transfusion is to be managed in the following steps#viva.
 - Maintain IV access with normal saline
 - Supportive: fluids, diuretics (forced diuresis), treat shock
 - Monitor urine output, renal function, manage DIC if present
+
+
+= Fluid, Electrolytes, Acid-Base Balance and Nutrition
+
+Common Intravenous Solutions used in Surgical Practice are:
+
+=== Post Operative Fluid Regimen#viva
+Following is the Post Operative Fluid Regimen on operative day, 1st post operative day and 2nd postoperative day.
+
+Rationale for this choice is as follows#viva.
+
+=== Hypokalemia#viva
+==== Correction
+==== Monitoring
+
+=== Hyperkalemia
+==== Causes
+==== Dangers
+
+=== Central Venous Line
+SN
+=== Metabolic Acidosis
+SN
+=== Total Parenteral Nutrition
+SN
+
+
+= Shock}
+== Definition#viva
+
+== Types#viva
+
+== Monitoring During Resuscitation#viva
+
+
+== Hypovolemic Shock
+
+Surgical Causes of Hypovolemic Shock#viva.
+Clincal Classification of Haemorrhagic Shock#viva.
+The fluid that should be started initially is ... because ... #viva.
+
+=== Pathogenesis of Hypovolemic Shock
+Algorithm
+=== Metabolic Responses to Haemorrhagic Shock
+=== Principles of Treatment of Hypovolemic Shock
+
+== Monitoring of Patient in Shock
+Minimum Monitoring points
+
+== Septic Shock
+SN
+
+=== SIRS
+SN
+
+= Ulcer
+
+= Sinus and Fistula
+
+= Cyst
+
+= Swelling
+
+= Wound and Injury
+
+= Wound Debridement
+
+= Suture Materials
+
+= Scar/Keloid
+
+= Infection and Sterilization
+
+= Abscess
+
+= Carbuncle
+
+= Cellulitis
+
+= Gangrene
+
+= Tetanus
+
+= Burn
+
+= Anesthesia
+
+= Investigation and Diagnosis
+
+= Oncology
+
+= Operative Surgery
