@@ -39,7 +39,7 @@
 = Cardiology
 #include "paper1/cardiology.typ"
 = Pneumology
-#include "paper1/penumology.typ"
+#include "paper1/pneumology.typ"
 = Nephrology
 #include "paper1/nephrology.typ"
 = Clinical Biochemistry & Metabolism

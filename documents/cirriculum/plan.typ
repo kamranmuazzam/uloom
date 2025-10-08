@@ -93,7 +93,7 @@
 === Obs
 + Twin Pregnancy
 === High Yeild Diseases that present as fever <fever>
-+ ☑ Pneumonia, Influenza, Covid-19
++ ☑ Pneumonia, Influenza, Covid-19, URTI, LRTI
 + Dengue Fever
 + UTI
 + Enteric Fever
@@ -108,6 +108,10 @@
 + Hepatocellular Carcinoma
 == Daily Report
 Plan to start at 0300 hours night at the starting of day, compared to noon, 1200 hours
+
+Slept throughout the night, woke around 0700 hours, had breakfast at 0730 hours, will start studying at 0900 hours.
+Started LRTIs at 0900 hours.
+Done with LRTIs at 0940 hours.
 ])
 
 #let my-counter = counter("loop-iterations")
