@@ -6,20 +6,39 @@
 #let total_topics = 450
 #let topics_remaining = total_topics
 #pagebreak()
-
+#let topics_covered_array=()
 #let percentage(value, total) = {
   let raw = value / total * 100
   int(raw)
 }
+
+
 
 #let prep_schedule=()
 #for day in range(0,30) [
   #prep_schedule.push((
     counter:day,
     day:day1+duration(days: day),
-    topics:none
+    topics:none,
+    topics_covered:0,
   ))
 ]
+#let topics_status(topics_covered_array,topics_covered) =[
+      #let total_topics=450
+      #let topics_remaining=total_topics
+      #for k in topics_covered_array {
+        topics_remaining = topics_remaining - k
+      }
+      *Topics Covered* : #topics_covered
+      
+      // *Topics Covered* : #prep_schedule.at(0)
+
+      *Topics Remaining* : #topics_remaining / #total_topics
+
+      *Status*: #percentage(total_topics - topics_remaining,total_topics)%
+
+      *Till Date Prep Time Spent*: #percentage(1,30)%
+  ]
 
 #set page(columns: 2)
 
@@ -72,16 +91,11 @@
 *Total Small Break Hours* : 1 hour 7 minutes
 
 *Total Large Break Hours* : 5 hour 3 minutes
-#let topics_covered = 8
-
-*Topics Covered* : #topics_covered
-#let topics_remaining = topics_remaining - topics_covered
-
-*Topics Remaining* : #topics_remaining / #total_topics
-
-*Status*: #percentage(450-topics_remaining,total_topics)%
-
-*Till Date Prep Time Spent*: #percentage(1,30)%
+// #topics_status(8)
+// #(prep_schedule.at(0).topics_status)(10)
+#let topics_covered=8
+#topics_covered_array.push(topics_covered)
+#topics_status(topics_covered_array,topics_covered)
 ])
 
 #(prep_schedule.at(1).topics=[
@@ -89,6 +103,8 @@
 === General Principles of Surgery
 + ☑ Haemorrhage
 + ☑ Transfusion
++ ☑ Fluids, Electrolytes, Acid Base Balance
++ ☑ Shock
 + Sinus
 + Fistula
 === Obs
@@ -121,6 +137,10 @@ Started Fluid, Electrolytes, Acid Base Balance and Nutrition and Shock at 1050 h
 Almost done, taking break at 1133 hours.
 Continued at 1150 hours.
 Done at 1201 hours.
+
+#let topics_covered=5
+#topics_covered_array.push(topics_covered)
+#topics_status(topics_covered_array,topics_covered)
 ])
 
 #let my-counter = counter("loop-iterations")
