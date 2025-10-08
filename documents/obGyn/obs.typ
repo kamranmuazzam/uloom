@@ -1,8 +1,27 @@
-#set heading(numbering: "1.")
+#set page(fill: yellow, margin: (left: 2in))
+
+#line(start: (0%, 5%), end: (8.5in, 5%), stroke: (thickness: 2pt))
+
+#align(horizon + left)[
+
+  #text(size: 30pt, [Review on Obstetrics])
+
+  For the Students, By the Students
+
+  narmak
+
+]
+#align(bottom + left)[#datetime.today().display()]
+
+#import "../surgery/gs_format.typ":*
+#show: gs_format
+#pagebreak()
 #let viva = [#text(fill: red)[#super[v]]]
 #let high-yeild = [#text(fill: orange)[#super[h]]]
 #outline()
 #pagebreak(weak: true)
+#set page(columns:2)
+
 = Multiple Pregnancy
 
 == Definition#viva
