@@ -112,12 +112,12 @@ Formula (Bili, INR, Cr, Na)
 
 This is used to determine urgency for transplant.
 
-== (Spontaneous Bacterial Peritonitis)SBP
+== Spontaneous Bacterial Peritonitis(SBP)
 - Dx: Ascites PMN ≥250/mm3 (even culture -)
+    - Perform Dx Paracentesis if CLD presents with ascites
     - generally asymptomatic, without fever and abdominal pain
     - might be present in patients with hepatic Encephalopathy, Renal Failure
     - on examination abdominal pain/tenderness and rebound tenderness (_might be absent_)
-    - Perform Dx Paracentesis if CLD presents with ascites
 - Orgs: E. coli, Kleb, Strep (mixed, basically bacteria from the gut)
 - Tx:
     - Cefotaxime 2g q8h x 5-7d / Ceftriaxone 2g/d
