@@ -210,6 +210,8 @@ Took break at 1111 hours.
 Resumed with general principles at 1310 hours
 Took break at 1400 hours
 Resumed at 1525 hours
+Wrote a lot of general principles of Surgery, taking break at 1733 hours.
+Plan to write complete general surgery notes today, and study all in the night
 // #study_hour_report([8 hours 32 minutes],[1 hour 18 minutes],[5 hour 39 minutes])
 
 

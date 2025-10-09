@@ -50,5 +50,3 @@ doc
 
   #body
   ]]
-
-#outline()
