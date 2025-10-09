@@ -458,44 +458,44 @@ If there is confusion, Clinically malignant, FNAC says benign
 
 == Sebaceous Cyst
 
-#info_box([Punctum],[
+#info_box([Punctum#shomiron],[
 Obstructed Sebaceous duct
 ])
-#info_box([Punctum not present],[
+#info_box([Punctum not present#shomiron],[
 + Palm
 + Sole
 + Lips
 + Glans penis in male
 ])
-=== Characteristics
+=== Characteristics#shomiron
 + Fixed with skin
 + May present with Puncta (No puncta - Scalp, Scrotum)
 + Indentation test positive (putty material)
 + Slipping Sign Negative
 + Consistency - soft (not cystic) 
-=== Differentials
+=== Differentials#shomiron
 + Lipoma
 + Neurofibroma
-=== Treatment
+=== Treatment#shomiron
 Excision & Biopsy
-=== Complications
+=== Complications#shomiron
 + Infection
 + Rupture
 + Calcification
 + Coch's peculiar tumor - only in scalp (looks like scc)
 + Sebaceous horn
 + It may turn to malignancy - scc (very rare)
-#info_box([Skin Malignancy],[
+#info_box([Skin Malignancy#shomiron],[
 + Squamous Cell Carcinoma
 + Basal Cell Carcinoma
 + Malignant Melanoma
 ])
 === Infected Sebaceous Cyst
-==== Clinical Evidence
+==== Clinical Evidence#shomiron
 + Painless to painful
 + Surrounding Skin red
 + Local temp. ↑
-==== Treatment of Infected Sebaceous Cyst
+==== Treatment of Infected Sebaceous Cyst#shomiron
 + Incision & drainage of pus
 + Pus sent for C/S
 + Broad spectrum antibiotic acc. to C/S
@@ -653,7 +653,7 @@ definition#viva: Death of tissue due to loss of blood supply or severe infection
 
 = Operative Surgery
 == Laparoscopic Surgery
-=== Advantages of Laparoscopic Surgery
+=== Advantages of Laparoscopic Surgery#shomiron
 - Minimally invasive
 - Small incision
 - Less pain
@@ -661,7 +661,7 @@ definition#viva: Death of tissue due to loss of blood supply or severe infection
 - Early ambulation
 - Less bleeding
 - Less hospital stay
-=== Disadvantages
+=== Disadvantages#shomiron
 - Costly
 - Lack of tactile sensation
 - 2 Dimensional
@@ -671,7 +671,7 @@ definition#viva: Death of tissue due to loss of blood supply or severe infection
 == Incisions
 *Definition*#shomiron:Breach of continuity of surface epithelium by single stroke by a sharp knife for surgical purpose.
 
-== Incisions of abdomen
+== Incisions of abdomen#shomiron
 + Upper Midline Incision
 + Lower Midline Incision
 + Paramedian Incision
@@ -683,18 +683,18 @@ definition#viva: Death of tissue due to loss of blood supply or severe infection
 + Grid iron incision
 + Lanz incision
 === Upper Midline Incision
-==== Surgeries where this incision is done
+==== Surgeries where this incision is done#shomiron
 - Duodenal ulcer
 - Gastrectomy
 - Trunchal vagotomy
 - Any lesion in the left lobe
-==== Advantage
+==== Advantage#shomiron
 - Rapid entry
 - Less bleeding
-==== Disadvantage
+==== Disadvantage#shomiron
 - Delayed healing
 - Chance of incisional hernia
-==== Opening and Closing
+==== Opening and Closing#shomiron
 *Opening*
 + Skin
 + Subcutaneous tissue
@@ -707,18 +707,18 @@ definition#viva: Death of tissue due to loss of blood supply or severe infection
 
 
 === Right Subcostal Incision / Kocher's Incision
-==== Right subcostal incision
+==== Right subcostal incision#shomiron
 Its a 5-7cm length incision 2.5cm below and parallel to the right costal margin
-==== Kocher's incision
+==== Kocher's incision#shomiron
 When the Right subcostal incision touches the midline 
-*Surgeries Done*
+*Surgeries Done*#shomiron
 + Open cholecystectomy
 + Open choledocholithotomy
 + Any lesion in the right lobe of liver 
   + Cyst
   + Abscess
   + Malignancy
-==== Opening and Closing
+==== Opening and Closing#shomiron
 *Opening*
 - *Laterally*
   + Skin
