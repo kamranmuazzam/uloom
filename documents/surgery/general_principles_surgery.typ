@@ -425,14 +425,130 @@ Multi-organ Failure.
 
 = Infection and Sterilization
 
-= Abscess
 
-= Carbuncle
+= Surgical Infections
+== Prerequisites
+#info_box([Debridement#shomiron],[
+  Removal of dead & devitalized tissue
+])
+#info_box([Excision#shomiron],[
+  Removal of an organ or portion of an organ from the body
+])
+#info_box([Incision#shomiron],[
+  Breach of continuity of skin or mucous membrane by a sharp knife for surgical means is called incision.
+])
+#info_box([Antiseptic Solutions#shomiron],[
++ Normal Saline
++ Povidone iodine
++ EUSOL (Edinburgh University Solution of Lime)
++ Vinegar Solution (Pseudomonas infected) Greenish discoloration, (can be observed Clinically)
+])
+#info_box([Necrosis#shomiron],[*Microscopic* Death of Cell])
+#info_box([Gangrene#shomiron],[*Macroscopic* Death of Cell])
+#info_box([Slough#shomiron],[*Macroscopic* death of *Tissue*])
+#info_box([When Tissue is Granulating#shomiron],[
+- Reduced features of acute inflammation absent
+- Absence of pus and slough within the wound
+- Appearance of pinkish granulation tissue
+- Bleed on touch of wound
 
-= Cellulitis
+])
+#info_box([Wound Closure#shomiron],[
+- *Primary Closure* (during surgery)
+- *Delayed Primary Closure* (closure within 24 –48 hours of injury)
+- *Secondary Closure* (closure of wound after 48 hours of injury)
+])
+#info_box([Methods of Secondary Closure#shomiron],[
+- Secondary suture (when wound margin is close)
+- Skin graft (wound margin far apart)
+- Myocutaneous flap (ankle, bony prominence present)
 
-= Gangrene
+])
+#info_box([Skin Graft#shomiron],[
+*Split/Partial Thickness*
+- Epidermis
+- Position of dermis
+*Full Thickness*
+- Both Epidermis and dermis
+  - Sole &
+  - Palm wound
+- Usually from groin & neck
 
+])
+#info_box([],[])
+== Boil
+definition#viva: Acute staphylococcal infection of hair follicle with perifolliculitis#shomiron
+=== organism#viva:
+_Staphylococcus aureus_ (most common)
+=== management#viva:  
+- Hot fomentation to localize infection  
+- Incision and drainage once pointing occurs  
+- Systemic antibiotics active against *S. aureus* (e.g. cloxacillin, dicloxacillin)
+- Analgesics and good hygiene  
+- Avoid squeezing to prevent spread  
+
+== Abscess
+definition#viva: Collection of pus within closed cavity lined by pyogenic membrane (dead neutrophil, bacteria, tissue).
+
+=== organism#viva
+Usually _Staphylococcus aureus_; mixed flora with anaerobes in deep/perianal sites#high_yeild.
+
+=== management#viva:  
+- Incision and drainage under aseptic precautions  
+- Break loculi, evacuate all pus  
+- Send sample for culture and sensitivity  
+- Daily dressing and antibiotics as indicated #high_yeild  
+
+== Carbuncle
+definition#viva: Infective gangrene of skin and subcutaneous tissue with multiple discharging sinus over the surface.#shomiron
+=== organism#viva:
+_Staphylococcus aureus_
+
+=== Risk#shomiron
+- Immunocompromised
+- DM, AIDS, Uremia
+=== Site#shomiron
+Nape of Neck, Back
+
+=== management#viva#shomiron:  
+- Debridement of carbuncle
+- Pus sent for C/S
+- Broad spectrum antibiotic according to C/S
+- Regular dressing with antiseptic solution
+- When the wound is granulating, secondary closure of the wound.
+- Control of diabetes and sepsis 
+- Fluid and Nutrition, Glycemic control for DM and Insulin.
+
+
+== Cellulitis
+definition#viva: Acute spreading infection of skin and subcutaneous tissue characterized by redness, warmth, swelling, and tenderness#high_yeild.
+=== organism#viva:
+_Streptococcus pyogenes_ (spreading type) and _Staphylococcus aureus_ (localized type).  
+=== management#viva:  
+- Limb elevation and immobilization  
+- Systemic antibiotics (penicillin or flucloxacillin)  
+- Mark margin of erythema to monitor spread  
+- Incision and drainage only if abscess forms #high_yeild  
+
+== Gangrene
+definition#viva: Death of tissue due to loss of blood supply or severe infection, with or without putrefaction#high_yeild.
+- *Dry gangrene*#high_yeild - ischemic, line of demarcation present  
+- *Wet gangrene*#high_yeild - infection + ischemia, foul smell, rapid spread  
+- *Gas gangrene*#high_yeild - clostridial infection producing gas in tissue  
+
+=== Gas Gangrene
+==== organism#viva: _Clostridium perfringens_ (most common), _C. novyi_, _C. septicum_ 
+==== cardinal features#viva:  
+- Severe pain (disproportionate to signs)  
+- Crepitus due to gas in tissues  
+- Thin brownish discharge with foul odor  
+- Rapid muscle necrosis and systemic toxicity (tachycardia, hypotension, hemolysis, renal failure) #high_yeild  
+==== management#viva:  
+- Urgent wide excision/debridement of all devitalized tissue  
+- High‑dose IV penicillin + clindamycin/metronidazole #high_yeild  
+- Supportive care (fluids, oxygen, renal monitoring)  
+- Hyperbaric oxygen therapy  
+- Amputation if spread uncontrolled or limb nonviable #high_yeild  
 = Tetanus
 
 = Burn
