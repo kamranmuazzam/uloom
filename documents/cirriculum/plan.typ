@@ -1,10 +1,38 @@
 #set heading(numbering: (n1, ..x) => numbering("1.a.", n1 - 1, ..x))
 #let day1 = datetime(day:8, month: 10,year: 2025)
 
-
+#show heading.where(level: 1): it => [
+  #set text(fill:olive, weight: "bold", size: 16pt)
+  #block(underline(it))]
+#show heading.where(level: 2): it => [
+  #set text(fill:rgb("DA954B"), weight: "bold", size: 16pt)
+  #block(underline(it))]
+#show heading.where(level: 3): it => [
+  #set text(fill:orange, weight: "bold", size: 12pt)
+  #block(underline(it))]
 #include "summary.typ"
 #let total_topics = 450
 #let topics_remaining = total_topics
+
+For Surgery the Plan is basic
+
+Exams are divided as
++ written
+  + 3 years questions (6 exams) _This should cover for all subjects eccept Surgery Paper 1(A+B)_
+  + will also do all clinical scenarios and related questions all of  written.
+  + For Surgery Paper-1(A+B)
+    + viva prep will cover most of it
+    + long cases with acute presentation need to be studied in details
+    + short cases also studied to details
+    + any topic asked in ospe also studied to details
++ ospe
++ viva
+  + cards
+  + for Dr. Shomiron, Dr. Shomiron's Lecture
++ long case
++ short case
+
+
 #pagebreak()
 #let topics_covered_array=()
 #let percentage(value, total) = {
@@ -29,17 +57,32 @@
       #for k in topics_covered_array {
         topics_remaining = topics_remaining - k
       }
-      *Topics Covered* : #topics_covered
+      == Topics Report
+      === Topics Covered Today
+      #topics_covered
       
       // *Topics Covered* : #prep_schedule.at(0)
 
-      *Topics Remaining* : #topics_remaining / #total_topics
+      === Topics Remaining
+      #topics_remaining / #total_topics
 
-      *Status*: #percentage(total_topics - topics_remaining,total_topics)%
+      === Status
+      #percentage(total_topics - topics_remaining,total_topics)%
 
-      *Till Date Prep Time Spent*: #percentage(1,30)%
+      === Till Date Prep Time Spent
+      #percentage(topics_covered_array.len(),30)%
   ]
+#let study_hour_report = (total_active_hours,total_small_break_hours,total_large_break_hours ) => [
+== Hourly Report
+=== Total Active Hours
+#total_active_hours
 
+=== Total Small Break Hours
+#total_small_break_hours
+
+=== Total Large Break Hours
+#total_large_break_hours
+]
 #set page(columns: 2)
 
 #(prep_schedule.at(0).topics=[
@@ -53,17 +96,6 @@
 + ☑ Variceal Bleed
 + ☑ Liver Abscess
 + ☑ Liver Failure
-=== High Yeild Diseases that present as fever <fever>
-+ Pneumonia, Influenza, Covid-19
-+ Dengue Fever
-+ UTI
-+ Enteric Fever
-+ Malaria
-+ Tuberculosis
-+ Viral Hepatitis, discussed in @hepatology
-+ Infective Endocarditis
-+ Gastroenteritis / Infectious Diarrhea
-+ Sepsis
 
 == Daily Report
 + Started at 1207 hours with Hepatitis.
@@ -86,11 +118,9 @@
 + Done with Acute Liver Failure at 2013 hours
 + Break at 2019 hours, *end of day*
 
-*Total Active Hours* : 1 hour 56 minutes
 
-*Total Small Break Hours* : 1 hour 7 minutes
+#study_hour_report([1 hour 56 minutes],[1 hour 7 minutes],[5 hour 3 minutes])
 
-*Total Large Break Hours* : 5 hour 3 minutes
 // #topics_status(8)
 // #(prep_schedule.at(0).topics_status)(10)
 #let topics_covered=8
@@ -108,9 +138,53 @@
 + Sinus
 + Fistula
 === Obs
-+ Twin Pregnancy
++ ☑ Twin Pregnancy
++ ☑ Labor
++ ☑ Normal Labor
++ ☑ Malposition and Malpresentation
++ ☑ Abnormalities of Labour
++ ☑ Inversion of Uterus (notes are remaining)
++ ☑ Episiotomy / Perineotomy
++ ☑ Caesarean Section (LUCS)
++ ☑ Forceps Delivery
++ ☑ Ventouse (Vacuum) Delivery
 === High Yeild Diseases that present as fever <fever>
 + ☑ Pneumonia, Influenza, Covid-19, URTI, LRTI
+== Daily Report
+Plan to start at 0300 hours night at the starting of day, compared to noon, 1200 hours of yesterday.
+
++ Slept throughout the night, woke around 0700 hours, had breakfast at 0730 hours, will start studying at 0900 hours.
++ Started LRTIs at 0900 hours.
++ Done with LRTIs at 0940 hours.
++ Started Haemorrhage at 1000 hours.
++ Done with Haemorrhage at 1010 hours.
++ Started Transfusion at 1015 hours.
++ Done with Transfusion at 1031 hours.
++ Started Fluid, Electrolytes, Acid Base Balance and Nutrition and Shock at 1050 hours.
++ Almost done, taking break at 1133 hours.
++ Continued at 1150 hours.
++ Done at 1201 hours, though only viva/cards part and starting of break.
++ Started with obs at 1740 hours.
++ wrote question bank and topics until 2010 hours.
++ Took break at 2027 hours.
++ Started studying Laor at 9028 hours.
++ Finished Labor, Twin Pregnancy and the listed topics of obs at 0030 hours, though these topics cover viva part only for now.
+
+#study_hour_report([8 hours 32 minutes],[1 hour 18 minutes],[5 hour 39 minutes])
+
+
+#let topics_covered=15
+#topics_covered_array.push(topics_covered)
+#topics_status(topics_covered_array,topics_covered)
+])
+
+#(prep_schedule.at(2).topics=[
+== Topics
+=== General Principles of Surgery
++ Sinus
++ Fistula
+=== Obs
+=== High Yeild Diseases that present as fever <fever>
 + Dengue Fever
 + UTI
 + Enteric Fever
@@ -124,22 +198,19 @@
 + Hepatosplenomegaly
 + Hepatocellular Carcinoma
 == Daily Report
-Plan to start at 0300 hours night at the starting of day, compared to noon, 1200 hours
+It is already 1247 hours, I'll sleep.
+Have to cover 25 topics to off the time topic balance to my side.
 
-Slept throughout the night, woke around 0700 hours, had breakfast at 0730 hours, will start studying at 0900 hours.
-Started LRTIs at 0900 hours.
-Done with LRTIs at 0940 hours.
-Started Haemorrhage at 1000 hours.
-Done with Haemorrhage at 1010 hours.
-Started Transfusion at 1015 hours.
-Done with Transfusion at 1031 hours.
-Started Fluid, Electrolytes, Acid Base Balance and Nutrition and Shock at 1050 hours.
-Almost done, taking break at 1133 hours.
-Continued at 1150 hours.
-Done at 1201 hours and starting of break.
-Started with obs at 1740 hours.
+Got up at 0900 hours, I have moments of awakeness throughout the night, it is getting colder, not so cold tho. And the sleep is very deep, it's difficult to get up, but I am getting adequate sleep I get, I think I clocked 8 hours of sleep today.
 
-#let topics_covered=5
+Will start serially from general principles of surgery at 0915 hours.
+Done collecting some information and writing them at 1000 hours.
+Starting with surgery question bank typing at 1000 hours.
+Took break at 1111 hours.
+// #study_hour_report([8 hours 32 minutes],[1 hour 18 minutes],[5 hour 39 minutes])
+
+
+#let topics_covered=27
 #topics_covered_array.push(topics_covered)
 #topics_status(topics_covered_array,topics_covered)
 ])

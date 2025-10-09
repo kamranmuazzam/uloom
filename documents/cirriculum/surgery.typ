@@ -31,10 +31,11 @@
    + Shock
    + Haemorrhage
    + Fluid & Electrolyte Balance
-   + Surgical Infections (Boil
-   + Abscess
-   + Carbuncle
-   + Gangrene)
+   + Surgical Infections
+      + Boil
+      + Abscess
+      + Carbuncle
+      + Gangrene
    + Wounds
    + Burns
    + Trauma Management

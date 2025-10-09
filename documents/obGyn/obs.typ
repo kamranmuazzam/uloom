@@ -92,8 +92,7 @@ Twin pregnancy is the most common type of multiple pregnancy.
 
 = Labor
 
-Definition#viva: Labor is the process by which regular, effective uterine contractions lead to progressive effacement and dilatation of the cervix, descent of the presenting part, and expulsion of the fetus, placenta, and membranes after 28 weeks of gestation.
-
+Definition#viva: Series of events that takes place in the female genital tract to expel out the products of conception from the womb to the outer world
 == Normal Labor
 === Criteria of Normal Labor#viva
 - Term (37-42 weeks) singleton pregnancy.  
@@ -119,10 +118,9 @@ Definition#viva: Labor is the process by which regular, effective uterine contra
 - Show (mucous blood-stained discharge) present.  
 - Not relieved by rest or sedation.  
 
+*Show:* Blood-stained mucoid discharge due to separation of membranes from lower uterine segment—indicates the onset of true labor is near.
 ==== False Labor Pain
 Definition#viva: Irregular, short-lived, mild uterine contractions without cervical changes, commonly seen in the last weeks of pregnancy and relieved by rest or sedation.  
-
-*Show:* Blood-stained mucoid discharge due to separation of membranes from lower uterine segment—indicates the onset of true labor is near.
 
 == Stages of Labor
 Stages with Duration#viva  
@@ -168,10 +166,11 @@ Definition#viva: Failure of complete expulsion of placenta within 30 minutes aft
 - Shoulder dystocia.  
 
 *Structures that are cut through during episiotomy*#viva  
-- Vaginal epithelium.  
+From outward to inwards
 - Perineal skin.  
 - Subcutaneous tissue.  
 - Superficial and deep perineal muscles (bulbospongiosus, superficial transverse perineal).  
+- Vaginal epithelium.  
 
 *Complications*#viva  
 - Hemorrhage, hematoma.  
@@ -197,7 +196,7 @@ Definition#viva: Artificial initiation of uterine contractions after 28 weeks be
 - Previous classical cesarean or uterine rupture scar.  
 - Active genital herpes.
 
-=== Pre-induction Assessment and Cervical Ripening
+=== Cervical Ripening
 Definition#viva: Biochemical and structural changes in cervix (softening, effacement, and partial dilatation) preparing for labor.  
 
 *Access a patient for induction of labor*#viva  
@@ -233,8 +232,9 @@ Parameters of Bishop's Scoring#viva
 === Oxytocics Used in Obstetrics#viva
 - Oxytocin.  
 - Ergometrine.  
-- Misoprostol.  
-- Carboprost (PGF₂α).  
+- Prostaglandins
+  - Misoprostol.  
+  - Carboprost (PGF₂α).  
 
 ==== Oxytocin
 *Indication*#viva  
@@ -268,7 +268,7 @@ Definition#viva: Series of mechanical steps by which fetus negotiates its passag
 - Arrest of descent.
 
 == Fetal Monitoring in Labor#high-yeild
-- Intermittent auscultation every 30 min (first stage), every 5 min (second).  
+- Intermittent auscultation every 30 min (first stage), every 5 min (second stage).  
 - Continuous electronic fetal monitoring in high-risk pregnancy.  
 - Fetal scalp pH measurement if distress suspected.
 
@@ -359,13 +359,19 @@ Definition#viva: Stagnation of progress of labor despite good uterine contractio
 - Fetal heart absent or decelerations.  
 
 ==== Causes#viva
-- Fetal: Malpresentation, hydrocephalus.  
-- Pelvic: Contracted pelvis or tumor.  
-- Soft tissue: Cervical stenosis, rigid perineum.
+Problem in *3P*
+- Problem in *Passage* (Pelvic, Cervical, Perineal): Contracted pelvis or Tumor, Cervical Stenosis, Rigid Perineum
+- Problem in *Passanger* (Fetal): Malpresentation, Hydrocephalus.  
+- Problem in *Power* (Maternal): Exhaustion
 
 ==== Complications#viva  
-Immediate: Exhaustion, rupture, sepsis.  
-Late: Fistula, chronic ill health.
+*Immediate*
+- Exhaustion
+- Rupture
+- Sepsis
+*Late*
+- Vesico Vaginal Fistula(VVF)
+- chronic Ill Health
 
 ==== Management#viva
 - Stabilize mother, IV fluids, antibiotics.  
@@ -373,22 +379,7 @@ Late: Fistula, chronic ill health.
 - *Ruptured uterus:* Laparotomy ± hysterectomy.  
 - *Dead fetus:* Craniotomy (if safe).
 
-==== Forceps Delivery#viva
-*Criteria*#viva  
-- Full dilatation, ruptured membranes, engaged head, vertex presentation, known position.  
 
-*Complications*#viva  
-- Maternal: Tears, PPH, infection.  
-- Fetal: Facial or scalp injury, cephalhematoma.
-
-==== Ventouse Delivery#viva
-*Advantages over Forceps*#viva  
-- Less maternal trauma.  
-- Can be done without full anesthesia.  
-
-*Disadvantages*#viva  
-- Failure if poor maternal effort.  
-- Scalp injury, cephalhematoma.  
 
 === Prolonged Labor
 Definition#viva: Duration of labor >18 hours in primigravida or >12 hours in multipara.  
@@ -402,6 +393,37 @@ Definition#viva: Duration of labor >18 hours in primigravida or >12 hours in mul
 - Ineffective maternal effort.  
 - Malrotation.  
 - Deep transverse arrest.  
+
+==== Forceps Delivery#viva
+*Criteria*#viva  
+- Full Dilatation
+- Ruptured Membranes
+- Engaged Head
+- Vertex Presentation
+- Known Position.  
+
+*Complications*#viva  
+- *Maternal*
+  - Tears
+  - PPH
+  - Infection.  
+- *Fetal*
+  - Facial or scalp injury
+  - Cephalhematoma.
+
+==== Ventouse Delivery#viva
+Vaccum Extraction
+*Advantages over Forceps*#viva  
+- Less maternal trauma.  
+- Can be done without full anesthesia.  
+- Exact head position need not be fully known.
+- Less space required in birth canal (useful in mild CPD).
+
+
+*Disadvantages*#viva  
+- Failure if poor maternal effort.  
+- Scalp injury, cephalhematoma.  
+- Cannot be used in premature fetuses (< 34 weeks) due to fragile scalp.
 
 == Partograph
 Definition#viva: Graphical record of progress of labor against time, cervical dilatation plotted with alert and action lines.  
@@ -428,10 +450,13 @@ Definition#viva: Delivery of fetus after 28 weeks through an abdominal and uteri
 - Antepartum hemorrhage.  
 - Impending uterine rupture.  
 - Failed trial of labor.
-
+== Pfannenstiel Incision
 *The reason Pfannenstiel incision is better than longitudinal incision*#viva  
 - Better cosmetic appearance.  
 - Less postoperative pain.  
 - Stronger wound healing.  
 - Fewer hernias and infections.  
 - Better exposure to lower uterine segment.
+
+= Post Partum Haemorrhage(PPH)
+about 500 ml of blood loss is expected in Normal Vaginal Delivery. PPH is when blood loss exceeds 500 ml, or more than 1000 ml in case of cesarean section.
