@@ -208,6 +208,8 @@ Done collecting some information and writing them at 1000 hours.
 Starting with surgery question bank typing at 1000 hours.
 Took break at 1111 hours.
 Resumed with general principles at 1310 hours
+Took break at 1400 hours
+Resumed at 1525 hours
 // #study_hour_report([8 hours 32 minutes],[1 hour 18 minutes],[5 hour 39 minutes])
 
 

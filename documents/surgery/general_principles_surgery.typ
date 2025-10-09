@@ -650,6 +650,39 @@ definition#viva: Death of tissue due to loss of blood supply or severe infection
 = Investigation and Diagnosis
 
 = Oncology
+== Multi Tumor Board(MTB)
+Any malignancy Rx starts with : I will arrange a multidisciplinary Tumor Board (MTB) which includes#shomiron
+=== Members of MTB#shomiron
++ Surgeon
++ Oncologist
++ Radiotherapist
++ Histopathologist
++ Psychologist
++ Colostomy Nurse
++ Breast Nurse/if breast Ca
++ Radiologist
+== Counseling#shomiron
+Alwyas counsel patient with legal guardian. Not Spouce.
+But spouce should also be counselled to understand complications.
+== Treatment Modalities#shomiron
++ Surgery
++ Chemotherapy
++ Radiotherapy
++ Neoadjuvante (before surgery)
++ Adjuvants (after surgery)
+
+#info_box([Neoadjuvant#shomiron],[
+Size Decrease
+
+*Advantage*#shomiron
+- Unresectable tumor becomes resectable
+- Down Staging the disease process
+
+])
+== Follow up
+Breast cancer follow up throughout life#shomiron
+
+
 
 = Operative Surgery
 == Laparoscopic Surgery
