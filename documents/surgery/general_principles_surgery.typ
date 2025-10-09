@@ -9,6 +9,7 @@
 #pagebreak()
 
 #set page(columns:2)
+#set enum(numbering: "1.a.")
 = Haemorrhage
 Extravasation of Blood#footnote[don't mention blood vessel#shomiron] is called Haemorrhage#shomiron 
 == Classification
@@ -252,7 +253,7 @@ Mismatched Blood transfusion is to be managed in the following steps#viva.
 Common Intravenous Solutions used in Surgical Practice are:
 - 5% Dextrose (D5): energy, no electrolytes.
 - Normal Saline (0.9% NaCl): volume expansion, corrects hyponatremia.
-- Ringer’s Lactate (RL): balanced fluid, preferred for resuscitation.
+- Ringer's Lactate (RL): balanced fluid, preferred for resuscitation.
 - Dextrose Normal Saline (DNS): energy + sodium chloride.
 - Potassium-containing fluids: added if adequate urine output.
 
@@ -414,7 +415,95 @@ Multi-organ Failure.
 = Cyst
 
 = Swelling
+#info_box([Benign lesion becoming malignant?#shomiron
+],[
++ Painless swelling becomes painful
++ Rapidly ↑ in size
++ Soft swelling become hard
++ Vascular prominence over surface of swelling
 
+])
+
+#info_box([#shomiron],[
+- FNAC : Cells taken
+- Core biopsy : Tissue taken
+Which one better : Core biopsy as tissue taken
+
+If there is confusion, Clinically malignant, FNAC says benign
+])
+
+
+== Lipoma
+*Definition*#shomiron: Benign tumour of mature Fat Cell
+- Universal Tumor
+- Single Cell Origin
+=== Criteria#shomiron
++ Painless Swelling
++ Surface - Lobulated
++ Consistency - Soft
++ Margin - Well delineated
++ Free from overlying skin
++ Free from underlying structure
++ Slipping Sign - just press periphery
+=== Chance of Lipoma malignancy#shomiron
+- Back
+- Retroperitoneal
+- Femoral triangle
+=== Complications#shomiron
++ Calcification
++ Saponification
++ Malignancy - Liposarcoma
+
+*Investigation to confirm*#shomiron: FNAC
+
+== Sebaceous Cyst
+
+#info_box([Punctum],[
+Obstructed Sebaceous duct
+])
+#info_box([Punctum not present],[
++ Palm
++ Sole
++ Lips
++ Glans penis in male
+])
+=== Characteristics
++ Fixed with skin
++ May present with Puncta (No puncta - Scalp, Scrotum)
++ Indentation test positive (putty material)
++ Slipping Sign Negative
++ Consistency - soft (not cystic) 
+=== Differentials
++ Lipoma
++ Neurofibroma
+=== Treatment
+Excision & Biopsy
+=== Complications
++ Infection
++ Rupture
++ Calcification
++ Coch's peculiar tumor - only in scalp (looks like scc)
++ Sebaceous horn
++ It may turn to malignancy - scc (very rare)
+#info_box([Skin Malignancy],[
++ Squamous Cell Carcinoma
++ Basal Cell Carcinoma
++ Malignant Melanoma
+])
+=== Infected Sebaceous Cyst
+==== Clinical Evidence
++ Painless to painful
++ Surrounding Skin red
++ Local temp. ↑
+==== Treatment of Infected Sebaceous Cyst
++ Incision & drainage of pus
++ Pus sent for C/S
++ Broad spectrum antibiotic acc. to C/S
++ Regular dressing with antiseptic solution
++ When wound is granulating, then Reconstructive Surgery either by
+  + Secondary Closure
+  + Skin Grafting
+  + Perforator Flap
 = Wound and Injury
 
 = Wound Debridement
@@ -437,20 +526,23 @@ Multi-organ Failure.
 #info_box([Incision#shomiron],[
   Breach of continuity of skin or mucous membrane by a sharp knife for surgical means is called incision.
 ])
-#info_box([Antiseptic Solutions#shomiron],[
+#info_box([Antiseptic Solutions for Dressing #shomiron],[
 + Normal Saline
 + Povidone iodine
 + EUSOL (Edinburgh University Solution of Lime)
 + Vinegar Solution (Pseudomonas infected) Greenish discoloration, (can be observed Clinically)
+
+_#ce("H2O2") causes damage to granulation tissue so not as dressing_
+
 ])
 #info_box([Necrosis#shomiron],[*Microscopic* Death of Cell])
 #info_box([Gangrene#shomiron],[*Macroscopic* Death of Cell])
 #info_box([Slough#shomiron],[*Macroscopic* death of *Tissue*])
 #info_box([When Tissue is Granulating#shomiron],[
-- Reduced features of acute inflammation absent
+- Reduced features of acute inflammation
 - Absence of pus and slough within the wound
 - Appearance of pinkish granulation tissue
-- Bleed on touch of wound
+- Bleeds on touch of wound
 
 ])
 #info_box([Wound Closure#shomiron],[
@@ -560,3 +652,97 @@ definition#viva: Death of tissue due to loss of blood supply or severe infection
 = Oncology
 
 = Operative Surgery
+== Laparoscopic Surgery
+=== Advantages of Laparoscopic Surgery
+- Minimally invasive
+- Small incision
+- Less pain
+- Good scar / Good cosmetic outcome
+- Early ambulation
+- Less bleeding
+- Less hospital stay
+=== Disadvantages
+- Costly
+- Lack of tactile sensation
+- 2 Dimensional
+- Poor depth perception
+- Long learning curve
+
+== Incisions
+*Definition*#shomiron:Breach of continuity of surface epithelium by single stroke by a sharp knife for surgical purpose.
+
+== Incisions of abdomen
++ Upper Midline Incision
++ Lower Midline Incision
++ Paramedian Incision
++ Subcostal Incision
++ Kocher's incision
++ Rooftop incision (ছাদ)
++ Pfannenstiel incision
++ Rutherford Morrison incision
++ Grid iron incision
++ Lanz incision
+=== Upper Midline Incision
+==== Surgeries where this incision is done
+- Duodenal ulcer
+- Gastrectomy
+- Trunchal vagotomy
+- Any lesion in the left lobe
+==== Advantage
+- Rapid entry
+- Less bleeding
+==== Disadvantage
+- Delayed healing
+- Chance of incisional hernia
+==== Opening and Closing
+*Opening*
++ Skin
++ Subcutaneous tissue
++ Linea alba
++ Fascia transversalis
++ Parietal peritoneum
+*Closing*
++ Parietal peritoneum, fascia transversalis and linea alba closed in a single layer
++ Skin and subcutaneous tissue closed in a single layer (?)
+
+
+=== Right Subcostal Incision / Kocher's Incision
+==== Right subcostal incision
+Its a 5-7cm length incision 2.5cm below and parallel to the right costal margin
+==== Kocher's incision
+When the Right subcostal incision touches the midline 
+*Surgeries Done*
++ Open cholecystectomy
++ Open choledocholithotomy
++ Any lesion in the right lobe of liver 
+  + Cyst
+  + Abscess
+  + Malignancy
+==== Opening and Closing
+*Opening*
+- *Laterally*
+  + Skin
+  + Subcutaneous tissue
+  + External oblique muscle
+  + Internal oblique muscle
+  + Transversus abdominis muscle(?)
+  + Fascia transversalis
+  + Extra peritoneal fat
+  + Parietal peritoneum
+- *Medically*
+  + Skin
+  + Subcutaneous tissue
+  + Anterior rectus sheath
+  + Rectus abdominis muscle
+  + Posterior rectus sheath
+  + Fascia transversalis
+  + Extra peritoneal fat
+  + Parietal peritoneum
+*Closing*
+- *Laterally*
+  + Parietal peritoneum, extraperitoneal fat, fascia transversalis, transversus abdominis(?), internal oblique muscle	closed in a single layer
+  + External oblique muscle closed in a single layer
+  + Subcutaneous tissue and skin closed in a single layer
+- *Medially*
+  + Parietal peritoneum, extraperitoneal fat,fascia transversalis and posterior rectus sheath closed in a single layer
+  + Anterior rectus sheath , subcutaneous tissue and skin closed in a single layer
