@@ -120,4 +120,3 @@
   + How will you evaluate the patient?
   + How will you manage the patient?
 + A 45 year old woman presented with early morning headache, projectile vomiting & dimness of vision. What are the possible causes of her illness? How will you evaluate the patient clinically? What investigations do you suggest for her? (DU 18Ju )
---- Surgery Paper II
