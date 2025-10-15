@@ -1,5 +1,5 @@
 #set heading(numbering: (n1, ..x) => numbering("1.a.", n1 - 1, ..x))
-#let day1 = datetime(day:8, month: 10,year: 2025)
+#let day1 = datetime(day:7, month: 10,year: 2025)
 
 #show heading.where(level: 1): it => [
   #set text(fill:olive, weight: "bold", size: 16pt)
@@ -58,30 +58,22 @@ Exams are divided as
         topics_remaining = topics_remaining - k
       }
       == Topics Report
-      === Topics Covered Today
-      #topics_covered
-      
-      // *Topics Covered* : #prep_schedule.at(0)
-
-      === Topics Remaining
-      #topics_remaining / #total_topics
-
-      === Status
-      #percentage(total_topics - topics_remaining,total_topics)%
-
-      === Till Date Prep Time Spent
-      #percentage(topics_covered_array.len(),30)%
-  ]
+      #table(
+        columns: (auto,auto),
+        [Topics Covered Today],[#topics_covered],
+        [Topics Remaining Till Date],[#topics_remaining / #total_topics],
+        [Status of Topics Covered],[#percentage(total_topics - topics_remaining,total_topics)%],
+        [Status of Time Spent],[#percentage(topics_covered_array.len(),30)%]
+      )
+]
 #let study_hour_report = (total_active_hours,total_small_break_hours,total_large_break_hours ) => [
 == Hourly Report
-=== Total Active Hours
-#total_active_hours
-
-=== Total Small Break Hours
-#total_small_break_hours
-
-=== Total Large Break Hours
-#total_large_break_hours
+#table(
+  columns: (auto,auto),
+  [Total Active Hours],[#total_active_hours],
+  [Total Small Break Hours],[#total_small_break_hours],
+  [Total Large Break Hours],[#total_large_break_hours]
+)
 ]
 #set page(columns: 2)
 
@@ -181,6 +173,10 @@ Plan to start at 0300 hours night at the starting of day, compared to noon, 1200
 #(prep_schedule.at(2).topics=[
 == Topics
 === General Principles of Surgery
++ ☑ Boil
++ ☑ Carbuncle
++ ☑ Gangrene
++ ☑ Abscess
 + Sinus
 + Fistula
 === Obs
@@ -203,19 +199,75 @@ Have to cover 25 topics to off the time topic balance to my side.
 
 Got up at 0900 hours, I have moments of awakeness throughout the night, it is getting colder, not so cold tho. And the sleep is very deep, it's difficult to get up, but I am getting adequate sleep I get, I think I clocked 8 hours of sleep today.
 
-Will start serially from general principles of surgery at 0915 hours.
-Done collecting some information and writing them at 1000 hours.
-Starting with surgery question bank typing at 1000 hours.
-Took break at 1111 hours.
-Resumed with general principles at 1310 hours
-Took break at 1400 hours
-Resumed at 1525 hours
-Wrote a lot of general principles of Surgery, taking break at 1733 hours.
-Plan to write complete general surgery notes today, and study all in the night
-// #study_hour_report([8 hours 32 minutes],[1 hour 18 minutes],[5 hour 39 minutes])
++ Will start serially from general principles of surgery at 0915 hours.
++ Done collecting some information and writing them at 1000 hours.
++ Starting with surgery question bank typing at 1000 hours.
++ Took break at 1111 hours.
++ Resumed with general principles at 1310 hours
++ Took break at 1400 hours
++ Resumed at 1525 hours
++ Wrote a lot of general principles of Surgery, taking break at 1733 hours.
++ Could write huge chunk of general principles.
++ Plan to write complete general surgery notes today, and study all in the night
+_Couldn't work today at all. Too much stress. I'm falling ill. I'm having panick attacks.
+_
+#study_hour_report([4 hours 54 minutes],[0],[3 hours 24 minutes])
 
+#let topics_covered=4
+#topics_covered_array.push(topics_covered)
+#topics_status(topics_covered_array,topics_covered)
+])
+#(prep_schedule.at(3).topics=[
+== Topics
+== Daily Report
+Didn't Plan to Study today and didn't study anything.
+#study_hour_report([0],[0],[0])
 
-#let topics_covered=27
+#let topics_covered=0
+#topics_covered_array.push(topics_covered)
+#topics_status(topics_covered_array,topics_covered)
+])
+#(prep_schedule.at(4).topics=[
+== Topics
+== Daily Report
+Didn't Plan to Study today and didn't study anything.
+#study_hour_report([0],[0],[0])
+
+#let topics_covered=0
+#topics_covered_array.push(topics_covered)
+#topics_status(topics_covered_array,topics_covered)
+])
+#(prep_schedule.at(5).topics=[
+== Topics
+== Daily Report
+Didn't Plan to Study today and didn't study anything.
+#study_hour_report([0],[0],[0])
+
+#let topics_covered=0
+#topics_covered_array.push(topics_covered)
+#topics_status(topics_covered_array,topics_covered)
+])
+#(prep_schedule.at(6).topics=[
+== Topics
+== Daily Report
+Didn't Plan to Study today and didn't study anything.
+#study_hour_report([0],[0],[0])
+
+#let topics_covered=0
+#topics_covered_array.push(topics_covered)
+#topics_status(topics_covered_array,topics_covered)
+])
+#(prep_schedule.at(7).topics=[
+== Topics
+== Daily Report
+Clearance List was given, Commencing Study now.
+Started at 1800 hours with General Surgery, changed the strategy to focus only on High Yeild topcis.
+Taking break at 2047 hours
+Started again with GPS at 2230 hours
+took a 40 minutes break.
+#study_hour_report([0],[0],[0])
+
+#let topics_covered=0
 #topics_covered_array.push(topics_covered)
 #topics_status(topics_covered_array,topics_covered)
 ])

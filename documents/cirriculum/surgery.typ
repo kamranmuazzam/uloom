@@ -36,9 +36,19 @@
       + Abscess
       + Carbuncle
       + Gangrene
+      + Cellulitis
+      + Tetanus
    + Wounds
    + Burns
    + Trauma Management
+   + lump/swelling
+   + sinus/fistula
+   + suture 
+   + infection/sterilization
+   + anesthesia
+   + investigations and diagnosis
+   + operative surgery
+   + oncology
 + GI Surgery
    + Complications of Peptic Ulcer 
      + Perforation
