@@ -633,7 +633,8 @@ columns:(auto,auto,auto),
 [Blood],[ RBCs, plasma proteins],[ Ongoing hemorrhage],
 ),
 caption: [Summary of commonly used resuscitation fluids]
-)= Ulcer
+)
+= Ulcer
 Ulcer is a localized loss of continuity of the covering epithelium resulting from sloughing out of inflammatory necrotic tissue, often leaving a raw area on a surface that tends to heal by cicatrization. #written
 
 == Points to examine ulcer with Interpretation #written

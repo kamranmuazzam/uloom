@@ -1,0 +1,44 @@
+#[
+#set page(fill: yellow, margin: (left: 2in))
+
+#line(start: (0%, 5%), end: (8.5in, 5%), stroke: (thickness: 2pt))
+
+#align(horizon + left)[
+
+  #text(size: 30pt, [General Principles of Surgery])
+
+  Muazzam Kamran
+
+]
+#align(bottom + left)[#datetime.today().display()]
+]
+#outline()
+#pagebreak(weak: true)
+#outline(
+  title: [List of Tables],
+  target: figure.where(kind: table),
+)
+#pagebreak(weak: true)
+
+#import "style.typ":*
+#show: style
+#include "style.typ"
+#set page(columns: 2)
+
+
+
+#include "sections/shock.typ" /* complete */
+#include "sections/haemorrhage.typ" /* complete */
+#include "sections/transfusion.typ" /* complete */
+#include "sections/fluid.typ" /* complete */
+#include "sections/surgical_infection.typ"
+#include "sections/burn.typ"
+#include "sections/trauma.typ"
+#include "sections/swelling.typ"
+#include "sections/cyst.typ"
+#include "sections/sinus_fistula.typ"
+#include "sections/asepsis_antisepsis_sterilization_disinfection.typ"
+#include "sections/anæsthesia.typ"
+#include "sections/operative_surgery.typ"
+#include "sections/oncology.typ"
+#include "sections/investigation_diagnosis.typ"
