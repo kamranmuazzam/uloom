@@ -143,7 +143,7 @@ Principles of Management of Hypovolumic Shock are as follows #written
 [Neurogenic],[Loss of sympathetic tone],[Spinal injury],
 
 ),caption: [Differentiation of Distributive Shock])
-== Septic Shock
+== Septic Shock <septic-shock>
 *Definition*: Septic shock is hypotension and tissue hypoperfusion due to infection#footnote[Bacteremia is when bacteria present in blood, Septecemia is when bacteria multiplying in blood#shomiron], persisting despite adequate fluid resuscitation.
 === Pathophysiology
 - Release of endotoxins → inflammatory cytokines.  

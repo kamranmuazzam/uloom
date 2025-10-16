@@ -2,6 +2,97 @@
 #show: style
 #import "../variable.typ":*
 = Surgical Infection
+*Definition*: Surgical infection = infection occurring in surgical patients, either as a postoperative complication or as an infection requiring surgical intervention.
+== Classification
+- *Aetiological*: bacterial, viral, fungal, parasitic
+- *By source*: community‑acquired vs. hospital‑acquired (nosocomial)
+- *By location*: superficial, deep, organ/space
+- *By timing* post‑surgery: early (< 30 days) vs. late (>30 days; e.g., prosthetic infections)
+== Common organisms
+- *Gram‑positive* Staph. aureus (including MRSA), Strep. pyogenes
+- *Gram‑negative* E. coli, Pseudomonas, Klebsiella, Proteus
+- *Anaerobes* Clostridium spp., Bacteroides
+== Host factors
+- immunity
+- diabetes
+- nutrition
+- corticosteroid therapy
+- obesity
+- malignancy.
+== Surgical infection prevention
+- Pre‑op optimization
+- asepsis
+- antibiotic prophylaxis
+- surgical technique
+- postoperative wound care.
+== Surgical Site Infection
+*Definition* (CDC): Infection at or near the surgical incision within 30 days of operation (or within a year if an implant was placed).
+=== Types
+- Superficial incisional SSI
+- Deep incisional SSI
+- Organ/space SSI
+=== Risk factors
+- Poor asepsis
+- prolonged surgery
+- contaminated wound
+- diabetes
+- obesity
+- foreign body.
+=== Prevention
+- Pre‑operative skin prep
+- antibiotic prophylaxis (timing
+- choice
+- duration)
+- good hemostasis
+- proper drain usage
+- normothermia during surgery.
+=== Treatment
+- Open wound
+- drain pus
+- debride devitalized tissue
+- targeted antibiotics.
+== Necrotizing Soft Tissue Infections (NSTI) <NSTI>
+_High‑mortality surgical emergency_
+=== Examples
+Necrotizing cellulitis, Necrotizing fasciitis, Fournier’s gangrene.
+=== Causative organisms
+- Group A beta‑hemolytic streptococci
+- mixed anaerobic flora.
+=== Features
+- Rapid pain out of proportion
+- crepitus
+- skin discoloration
+- systemic toxicity
+- "dishwater" pus.
+=== Diagnosis
+- Clinical; supported by imaging (CT/MRI) and LRINEC score.
+=== Management
+- Early aggressive surgical debridement
+- broad‑spectrum antibiotics (_Triple coverage_: Carbapenem or Piperacillin–tazobactam + Clindamycin + Vancomycin.)
+- supportive care.
+== Hospital‑Acquired (Nosocomial) and Antibiotic‑Resistant Infections
+=== Common organisms
+- MRSA
+- Pseudomonas
+- Acinetobacter
+- ESBL‑producing Enterobacteriaceae.
+=== Prevention
+- Infection control policies
+- hand hygiene
+- antibiotic stewardship
+- isolation protocols.
+== Antibiotic Prophylaxis in Surgery
+#figure(table(
+  columns:3,
+[Surgery Type],[Common Procedure],[Prophylactic Antibiotic Example],
+[Clean],[Hernia repair],[Cefazolin],
+[Clean-contaminated],[Bowel resection],[Ceftriaxone + Metronidazole],
+[Clean-contaminated (head/neck, gynecologic)],[Thyroidectomy, hysterectomy],[Cefazolin ± Metronidazole],
+[Contaminated],[Perforated appendix],[Piperacillin–tazobactam],
+[Prosthetic/implant],[Orthopedic implant],[Cefazolin pre‑incision],
+),caption: [Choice of Antibiotic prophylaxis in surgery])
+== Sepsis and Septic Shock
+Refer for this section in @septic-shock
 == Boil
 definition
 === Etiology
@@ -79,7 +170,7 @@ definition
 ),caption: [Clinical Stages of an Acute Abscess])
 === Principles of Treatment
 + *Local Treatment*
-  - Incision and Drainage (I&D):
+  - Incision and Drainage (I&D): (_Ubi pus, ibi evacua_ drain wherever pus collects)
   - The golden rule — “Ubi pus, ibi evacua” (Where there is pus, evacuate it).
   - Make incision in the most dependent part and along skin creases for better drainage and cosmetic healing.
   - Break loculi, irrigate cavity, insert drain or wick if necessary.
@@ -88,6 +179,12 @@ definition
   - Analgesics, fluids, rest.
 + Investigate & Treat Underlying Causes
   - Diabetes, immunosuppression, foreign body, obstruction (perianal abscess often due to blocked anal gland).
+=== Examples of Some Abscess
+- Appendicular abscess
+- liver abscess
+- perianal abscess
+- breast abscess
+_The principle of treatment is the same._
 == Cellulitis
 definition
 === Causative Organisms
@@ -173,6 +270,7 @@ columns:3,
   - For gas gangrene → radical excision, high‑flow oxygen (hyperbaric if available), IV Penicillin + Clindamycin + Metronidazole.
 + *Supportive*
   - Analgesia, nutrition, diabetic & vascular optimization.
+For Fournier’s Gangrene refer to @NSTI
 == Tetanus
 definition : Tetanus is a spastic paralytic disease caused by the neurotoxin (tetanospasmin) produced by Clostridium tetani, an obligate anaerobic, spore‑forming bacillus.
 
