@@ -64,8 +64,9 @@ caption:[Commonly used blood products and their indications]
 
 *Definition* #written #card
 - Replacement of > 1 blood volume in 24 hr or,  
-- > 50 % blood volume in 3 hr or,  
 - > 10 units of blood in 24 hr.
+- > 50 % blood volume in 3 hr or,  
+- - ≥4 units within 1 h with ongoing bleeding.
 
 === Precautions #written #card
 - Warm blood (37 °C) before infusion to avoid hypothermia.  
@@ -81,10 +82,17 @@ caption:[Commonly used blood products and their indications]
 - *Hypothermia* (cold stored blood).  
 - *Metabolic changes:* respiratory/ metabolic alkalosis or acidosis.  
 - *ARDS/TRALI* rarely after repeated transfusions.
-=== Massive Transfusion Protocol(MTP)
-*Balanced Component Ratio:*  
-
-PRBC : FFP : Platelets = 1 : 1 : 1
+=== Massive Transfusion Protocol(MTP) <mtp>
+==== *Principles:*
+  - Balanced ratio 1:1:1 → PRBC : FFP : Platelets.
+  - Early *Tranexamic Acid (TXA)* within 3 h of injury.
+  - Monitor *Calcium* (avoid citrate toxicity), *temperature*, *coagulation profile*.
+  - Warm fluids & patient.
+=== *Endpoints of resuscitation:*
+  - Normal mentation
+  - MAP > 65 mmHg
+  - Lactate or base deficit normalization
+  - Urine output ≥ 0.5 mL/kg/h
 == Mismatched Blood Transfusion #written #card
 
 === Definition

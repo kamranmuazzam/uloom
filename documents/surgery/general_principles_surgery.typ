@@ -830,7 +830,7 @@ Excision & Biopsy
   + Skin Grafting
   + Perforator Flap
 
-= Demoid Cyst #written
+= Dermoid Cyst #written <dermoid-cyst>
 
 == Definition
 A dermoid cyst (mature cystic teratoma) is a benign cystic tumor arising from totipotent germ cells, containing elements from all three germ layers (ectoderm, mesoderm, and endoderm).

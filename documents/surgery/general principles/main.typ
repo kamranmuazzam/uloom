@@ -25,17 +25,17 @@
 #include "style.typ"
 #set page(columns: 2)
 
-
+/* some topics have viva remaining */
 
 #include "sections/shock.typ" /* complete */
 #include "sections/haemorrhage.typ" /* complete */
 #include "sections/transfusion.typ" /* complete */
 #include "sections/fluid.typ" /* complete */
-#include "sections/surgical_infection.typ"
-#include "sections/burn.typ"
-#include "sections/trauma.typ"
-#include "sections/swelling.typ"
-#include "sections/cyst.typ"
+#include "sections/surgical_infection.typ" /* complete */
+#include "sections/burn.typ"  /* complete */
+#include "sections/trauma.typ"  /* complete */
+#include "sections/swelling.typ" /* complete */
+#include "sections/cyst.typ" /* complete */
 #include "sections/sinus_fistula.typ"
 #include "sections/asepsis_antisepsis_sterilization_disinfection.typ"
 #include "sections/anæsthesia.typ"
