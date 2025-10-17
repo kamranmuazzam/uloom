@@ -80,7 +80,13 @@
 - *CT/MRI:* deep extent, tissue planes  
 - *FNAC / core biopsy:* diagnosis confirmation  
 - *Blood tests:* inflammatory/tumor markers
+#info_box([#shomiron],[
+- FNAC : Cells taken
+- Core biopsy : Tissue taken
+Which one better : Core biopsy as tissue taken
 
+If there is confusion, Clinically malignant, FNAC says benign
+])
 === Principles of Management
 - Identify *cause, extent, relations*  
 - *Control infection* before surgery  
@@ -88,47 +94,117 @@
 - *Histopathology* mandatory for diagnosis  
 - *Follow‑up* for recurrence or malignant change.
 
+#info_box([Benign lesion becoming malignant?#shomiron
+],[
++ Painless swelling becomes painful
++ Rapidly ↑ in size
++ Soft swelling become hard
++ Vascular prominence over surface of swelling
+
+])
+
+
 == Lipoma
-- *Definition*: Benign tumor of mature adipose tissue in subcutaneous plane.
-- *Common sites*: Back, shoulder, neck, trunk, forearm.
-- *Variants*: Angiolipoma, spindle-cell lipoma, intramuscular lipoma.
-- *Clinical features*:
+*Definition*#shomiron: Benign tumor of mature fat cell.
+- Universal Tumor
+- Single Cell Origin
+=== Criteria
+#shomiron
++ Painless Swelling
++ Surface - Lobulated
++ Consistency - Soft
++ Margin - Well delineated
++ Free from overlying skin
++ Free from underlying structure
++ Slipping Sign - just press periphery
+=== Common sites
+- Back
+- shoulder
+- neck
+- trunk
+- forearm.
+=== Chance of Lipoma malignancy
+#shomiron
+- Back
+- Retroperitoneal
+- Femoral triangle
+=== Complications
+#shomiron
++ Calcification
++ Saponification
++ Malignancy - Liposarcoma
+=== Variants
+- Angiolipoma
+- spindle-cell lipoma
+- intramuscular lipoma.
+=== Clinical features
   - Soft, lobulated, mobile swelling beneath skin.
   - Painless, slow-growing.
   - *Slipping sign* positive — mass slips from beneath examining fingers.
-- *Investigations*:
+=== Investigations
   - Ultrasound – hyperechoic lesion.
   - MRI – homogenous fat signal intensity.
   - FNAC/core biopsy if atypical.
 - *Histopathology*: Mature adipocytes with fibrous capsule; absence of mitosis or atypia.
-- *Complications*: Pressure symptoms, pain if compressed, rare liposarcomatous change.
-- *Treatment*: Simple excision; ensure complete removal to avoid recurrence.
+*Investigation to confirm*#shomiron: FNAC
+=== Treatment
+Excision and Biopsy
 
 == Sebaceous Cyst <sebaceous-cyst>
 
-- *Definition*: Retention cyst of the sebaceous gland due to obstruction of its duct; lined by stratified squamous epithelium and filled with keratinous material.
+*Definition* Retention cyst of the sebaceous gland due to obstruction of its duct; lined by stratified squamous epithelium and filled with keratinous material.
 - *Synonyms*: Epidermoid cyst, epidermal inclusion cyst.
-- *Common sites*: Scalp, face, neck, back, scrotum.
-- *Etiology*:
+=== Common sites
+- Scalp
+- face
+- neck
+- back
+- scrotum.
+=== Etiology
   - Duct obstruction.
   - Post‑traumatic or congenital inclusion of epidermal elements.
-- *Clinical features*:
-  - Slow‑growing, round, subcutaneous swelling.
+=== Clinical features
+  - *Punctum* present (Obstructed Sebaceous duct#shomiron).
   - Freely mobile over deeper tissues but attached to skin.
-  - *Punctum* present (blocked duct opening).
-  - Contents cheesy, foul‑smelling when expressed.
-  - No slipping sign (unlike lipoma).
-- *Complications*:
+  - Indentation test positive (putty material)
+  - Slipping Sign Negative
+  - Consistency - soft (not cystic) 
+
+#info_box([Punctum not present#shomiron],[
++ Palm
++ Sole
++ Lips
++ Glans penis in male
+])
+=== Complications
   - Infection → abscess formation, rupture, and foul discharge.
   - Calcification or horn formation (sebaceous horn).
   - Rare malignant transformation (squamous cell carcinoma).
-- *Differential diagnosis*: Lipoma, dermoid cyst, epidermoid cyst, abscess.
-- *Investigations*: Mainly clinical; ultrasound if atypical.
-- *Treatment*:
-  - Elective complete surgical excision with intact capsule.
-  - Avoid rupture during excision to prevent recurrence.
-  - Incision and drainage if acutely infected → later excision after inflammation subsides.
-
+=== Differentials
+#shomiron
++ Lipoma
++ Neurofibroma
+=== Investigations
+- Mainly clinical; ultrasound if atypical.
+=== Treatment
+Excision & Biopsy
+- Incision and drainage if acutely infected → later excision after inflammation subsides, details mentioned in Infected Sebaceous Cyst see, @infected-sebaceous-cyst
+=== Infected Sebaceous Cyst <infected-sebaceous-cyst>
+==== Clinical Evidence
+#shomiron
++ Painless to painful
++ Surrounding Skin red
++ Local temp. ↑
+==== Treatment of Infected Sebaceous Cyst
+#shomiron
++ Incision & drainage of pus
++ Pus sent for C/S
++ Broad spectrum antibiotic acc. to C/S
++ Regular dressing with antiseptic solution
++ When wound is granulating, then Reconstructive Surgery either by
+  + Secondary Closure
+  + Skin Grafting
+  + Perforator Flap
 == Dermoid Cyst <dermoid-cyst>
 
 - *Definition*: Benign cystic lesion lined by stratified squamous epithelium containing dermal appendages (hair follicles, sebaceous and sweat glands).

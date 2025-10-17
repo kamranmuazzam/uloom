@@ -4,8 +4,9 @@
 
 = Cyst
 
-A cyst is a pathological cavity, usually lined by epithelium, containing fluid or semi-solid material, and not formed by pus.
-
+*Definition*#written#shomiron: Abnormal collection of fluid within a sac which is lined by epithelium or endothelium
+- True cyst is lined by epithelium
+- False cyst (Pseudocyst) no lined by epithelium
 == Classification
 - *Developmental cysts:* e.g. dermoid, branchial, thyroglossal.
 - *Retention cysts:* due to obstruction of a duct, e.g. sebaceous, mucous.

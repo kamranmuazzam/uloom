@@ -2,7 +2,7 @@
 #show: style
 #import "../variable.typ":*
 = Surgical Infection
-*Definition*: Surgical infection = infection occurring in surgical patients, either as a postoperative complication or as an infection requiring surgical intervention.
+*Definition*: Infection occurring in surgical patients, either as a postoperative complication or as an infection requiring surgical intervention.
 == Classification
 - *Aetiological*: bacterial, viral, fungal, parasitic
 - *By source*: community‑acquired vs. hospital‑acquired (nosocomial)
@@ -13,19 +13,28 @@
 - *Gram‑negative* E. coli, Pseudomonas, Klebsiella, Proteus
 - *Anaerobes* Clostridium spp., Bacteroides
 == Host factors
-- immunity
-- diabetes
-- nutrition
-- corticosteroid therapy
-- obesity
-- malignancy.
+- Immunity
+- Diabetes
+- Nutrition
+- Corticosteroid therapy
+- Obesity
+- Malignancy
 == Surgical infection prevention
 - Pre‑op optimization
-- asepsis
-- antibiotic prophylaxis
-- surgical technique
-- postoperative wound care.
-== Surgical Site Infection
+- Asepsis
+- Antibiotic prophylaxis
+- Surgical technique
+- Postoperative wound care
+#info_box([Debridement#shomiron],[
+  Removal of dead & devitalized tissue
+])
+#info_box([Excision#shomiron],[
+  Removal of an organ or portion of an organ from the body
+])
+#info_box([Incision#shomiron],[
+  Breach of continuity of skin or mucous membrane by a sharp knife for surgical means is called incision.
+])
+== Surgical Site Infection (SSI)
 *Definition* (CDC): Infection at or near the surgical incision within 30 days of operation (or within a year if an implant was placed).
 === Types
 - Superficial incisional SSI
@@ -33,54 +42,54 @@
 - Organ/space SSI
 === Risk factors
 - Poor asepsis
-- prolonged surgery
-- contaminated wound
-- diabetes
-- obesity
-- foreign body.
+- Prolonged surgery
+- Contaminated wound
+- Diabetes
+- Obesity
+- Foreign body
 === Prevention
 - Pre‑operative skin prep
-- antibiotic prophylaxis (timing
-- choice
-- duration)
-- good hemostasis
-- proper drain usage
-- normothermia during surgery.
+- Antibiotic prophylaxis (timing, choice, duration)
+- Good hemostasis
+- Proper drain usage
+- Normothermia during surgery
 === Treatment
 - Open wound
-- drain pus
-- debride devitalized tissue
-- targeted antibiotics.
+- Drain pus
+- Debride devitalized tissue
+- Targeted antibiotics
 == Necrotizing Soft Tissue Infections (NSTI) <NSTI>
 _High‑mortality surgical emergency_
 === Examples
-Necrotizing cellulitis, Necrotizing fasciitis, Fournier’s gangrene.
+- Necrotizing cellulitis
+- Necrotizing fasciitis
+- Fournier’s gangrene
 === Causative organisms
-- Group A beta‑hemolytic streptococci
-- mixed anaerobic flora.
+- Group A beta‑hemolytic _streptococci_
+- Mixed anaerobic flora
 === Features
 - Rapid pain out of proportion
-- crepitus
-- skin discoloration
-- systemic toxicity
-- "dishwater" pus.
+- Crepitus
+- Skin discoloration
+- Systemic toxicity
+- "Dishwater" pus.
 === Diagnosis
 - Clinical; supported by imaging (CT/MRI) and LRINEC score.
 === Management
 - Early aggressive surgical debridement
-- broad‑spectrum antibiotics (_Triple coverage_: Carbapenem or Piperacillin–tazobactam + Clindamycin + Vancomycin.)
-- supportive care.
+- Broad‑spectrum antibiotics (_Triple coverage_: Carbapenem or Piperacillin–tazobactam + Clindamycin + Vancomycin.)
+- Supportive care.
 == Hospital‑Acquired (Nosocomial) and Antibiotic‑Resistant Infections
 === Common organisms
 - MRSA
-- Pseudomonas
-- Acinetobacter
+- _Pseudomonas_
+- _Acinetobacter_
 - ESBL‑producing Enterobacteriaceae.
 === Prevention
 - Infection control policies
-- hand hygiene
-- antibiotic stewardship
-- isolation protocols.
+- Hand hygiene
+- Antibiotic stewardship
+- Isolation protocols.
 == Antibiotic Prophylaxis in Surgery
 #figure(table(
   columns:3,
@@ -94,35 +103,49 @@ Necrotizing cellulitis, Necrotizing fasciitis, Fournier’s gangrene.
 == Sepsis and Septic Shock
 Refer for this section in @septic-shock
 == Boil
-definition
+*Definition*#written#viva: Acute staphylococcal infection of a single hair follicle with perifolliculitis.  
 === Etiology
-*Causative Organism*: _Staphylococcus aureus_ (often from nasal carriage or skin abrasions).
-*Predisposing factors*: Poor hygiene, diabetes mellitus, malnutrition, immunosuppression, skin friction.
+*Causative Organism*#viva: _Staphylococcus aureus_ (often from nasal carriage or skin abrasions).
+
+*Predisposing factors*
+- Poor hygiene
+- Diabetes mellitus
+- Malnutrition
+- Immunosuppression
+- Skin friction
 === Clinical Features
-- Common sites: face, neck, axilla, buttocks, thighs.
+#written
+- Common Sites: face, neck, axilla, buttocks, thighs.
 - Red, tender, indurated nodule → becomes fluctuant → points and discharges pus.
 - Local lymphadenitis may occur.
 - Fever may accompany multiple boils (furunculosis).
 === Management
+#written
 + Local care
   - Warm compresses for pain and to promote pointing.
   - Incision and drainage (I&D) once fluctuant.
-  - Avoid squeezing (as you correctly noted) → spreads infection and risk of carbuncle, esp. on face → can lead to cavernous sinus thrombosis.
+  - Avoid squeezing → spreads infection and risk of carbuncle, esp. on face → can lead to cavernous sinus thrombosis.
 + Antibiotics
   - Cloxacillin or Cephalexin — for staphylococcal coverage.
 + Supportive measures
-  - Hygiene improvement, control of diabetes, treat underlying cause.
+  - Hygiene improvement
+  - Control of diabetes
+  - Treat underlying cause.
 == Carbuncle
-definition
+*Definition*#viva#written A carbuncle is a deep-seated staphylococcal infection of a group of hair follicles with interconnecting abscesses in the subcutaneous tissue, commonly at the nape of neck in diabetics.  
+
 === Etiology
 *Causative Organism*: _Staphylococcus aureus_
 
 *Predisposing Factors*
 - Diabetes mellitus (most common)
 - Male patients, especially nape of neck
-- Poor hygiene, obesity, malnutrition
+- Poor hygiene
+- Obesity
+- Malnutrition
 
 === Clinical Features
+#written
 - Common site: back of neck, upper back, scapular region, buttocks.
 - Starts as a painful indurated swelling → becomes larger and more tense.
 - Multiple pustular openings give "sieve-like" appearance.
@@ -130,12 +153,14 @@ definition
 - May be accompanied by fever, malaise, and toxemia.
 
 === Complications
+#written
 + Sepsis
 + Cellulitis or abscess formation
 + Spread to bloodstream → septicemia
 + In the face → cavernous sinus thrombosis (a feared complication)
 + Chronic scarring after healing
 === Management
+#written
 + *Systemic*
 - IV anti-staphylococcal antibiotics (e.g., Cloxacillin, Cefazolin; for MRSA, Vancomycin or Linezolid)
 - Control of diabetes (check blood sugar, start insulin if diabetic)
@@ -147,7 +172,8 @@ definition
 + *Post-healing care*
 - Maintain hygiene, treat underlying conditions.
 == Abscess
-definition
+*Definition*#shomiron#viva:An abscess is a localized collection of pus within a closed tissue cavity surrounded by a pyogenic membrane composed of dead neutrophils, bacteria, and necrotic tissue.
+
 === Types
 + Acute abscess
   - Rapid development, intensely painful, hot, and tender.
@@ -164,31 +190,32 @@ definition
 #figure(table(
   columns: 2,
   [Stage],[Events & Symptoms],
-  [Invasion Stage],[Bacteria invade tissue → inflammatory response → redness, warmth, induration, pain → “cellulitis stage.”],
+  [Invasion Stage],[Bacteria invade tissue → inflammatory response → redness, warmth, induration, pain → “cellulitis stage.” or suppuration stage of abscess],
   [Collection (Suppuration) Stage],[Tissue necrosis → pus formation → becomes fluctuant → throbbing pain.],
   [Pointing and rupture],[Pus moves towards surface; skin becomes thin and yellow → may spontaneously rupture or need incision.]
 ),caption: [Clinical Stages of an Acute Abscess])
 === Principles of Treatment
 + *Local Treatment*
-  - Incision and Drainage (I&D): (_Ubi pus, ibi evacua_ drain wherever pus collects)
+  - Incision and Drainage (I&D): (_Ubi pus, ibi evacua_ ;drain wherever pus collects)
   - The golden rule — “Ubi pus, ibi evacua” (Where there is pus, evacuate it).
   - Make incision in the most dependent part and along skin creases for better drainage and cosmetic healing.
   - Break loculi, irrigate cavity, insert drain or wick if necessary.
 + *Systemic Management*
   - Antibiotics: Anti‑staphylococcal for acute abscesses.
   - Analgesics, fluids, rest.
-+ Investigate & Treat Underlying Causes
++ *Investigate & Treat Underlying Causes*
   - Diabetes, immunosuppression, foreign body, obstruction (perianal abscess often due to blocked anal gland).
 === Examples of Some Abscess
 - Appendicular abscess
-- liver abscess
-- perianal abscess
-- breast abscess
+- Liver abscess
+- Perianal abscess
+- Breast abscess
 _The principle of treatment is the same._
 == Cellulitis
-definition
+*Definition*#written:Diffuse, spreading infection of skin and subcutaneous tissues characterized by acute inflammation without localization of pus.
+
 === Causative Organisms
-- Group A β‑hemolytic Streptococci (most common)
+- Group A $beta$‑hemolytic Streptococci (most common)
 - _Staphylococcus aureus_ can also cause localized forms.
 === Pathophysiology
 - Organisms enter through minor breaches (cuts, ulcers, abrasions).
@@ -201,6 +228,7 @@ definition
 - *Systemic signs*: Fever, lymphangitis, regional lymphadenitis.
 - *Common sites*: Lower limb, face (esp. periorbital region).
 === Differences between Cellulitis and Abscess
+#written
 #figure(
   table(
     columns:3,
@@ -230,8 +258,8 @@ definition
   - Warm compresses.
   - If abscess formation suspected → imaging (USG) and surgical drainage.
 == Gangrene
-definiton : Gangrene is death of tissue in part of the body, usually associated with loss of blood supply, and visible grossly (macroscopically).
-It often involves putrefaction of tissue (decomposition due to bacterial action).
+*Definiton*#written : Gangrene is the death of tissue in mass (macroscopic level) associated with loss of blood supply and putrefaction.
+
 
 === Pathophysiology
 - Ischemia / loss of blood supply → lack of oxygen & nutrients.
@@ -240,6 +268,7 @@ It often involves putrefaction of tissue (decomposition due to bacterial action)
 - The process can remain dry (mummified) or become wet (moist and infected).
 
 === Types
+#written
 #figure(table(
 columns:3,
 [Type],[Cause / Mechanism],[Characteristics],
@@ -270,17 +299,38 @@ columns:3,
   - For gas gangrene → radical excision, high‑flow oxygen (hyperbaric if available), IV Penicillin + Clindamycin + Metronidazole.
 + *Supportive*
   - Analgesia, nutrition, diabetic & vascular optimization.
-For Fournier’s Gangrene refer to @NSTI
+For Fournier’s Gangrene refer NSTI see: @NSTI
+=== Comparison: Dry vs Moist Gangrene
+#written
+#figure(
+table(
+columns: (auto, auto, auto),
+[Feature],[Dry Gangrene],[Moist Gangrene],
+[Cause],[Chronic arterial insufficiency],[Acute infection, injury],
+[Onset],[Slow],[Rapid],
+[Bacteria],[Absent],[Present],
+[Line of demarcation],[Clear],[Poorly defined],
+[Colour],[Black, dry, shriveled],[Swollen, foul smelling],
+[Treatment],[Allow auto-demarcation then amputation],[Early surgical removal / debridement],
+),
+caption: [Comparison between dry and moist gangrene]
+)
 == Tetanus
-definition : Tetanus is a spastic paralytic disease caused by the neurotoxin (tetanospasmin) produced by Clostridium tetani, an obligate anaerobic, spore‑forming bacillus.
+*Definition*: Tetanus is a spastic paralytic disease caused by the neurotoxin (tetanospasmin) produced by Clostridium tetani, an obligate anaerobic, spore‑forming bacillus.
 
-=== Etiology and Pathogenesis
+=== Etiology
+#written
+- Arterial obstruction (atherosclerosis, embolism, trauma).  
+- Venous obstruction (torsion, thrombosis).  
+- Infection (Clostridium spp., streptococcal).  
+- Diabetes mellitus.  
+- Frostbite, burns, chemical injury.  
+=== Pathogenesis
 - Spores enter through contaminated wounds, burns, umbilical stump, or injections.
 - Under anaerobic conditions → spores germinate → release tetanospasmin.
 - The toxin travels via nerve endings, reaching the CNS, where it blocks inhibitory neurotransmitters (GABA, glycine) → unopposed muscle contraction and spasm.
 === Clinical Features
-Incubation Features
-- *Stage / Sign*: Description
+Incubation Period: 3-21 days
 - *Early signs*: Trismus (“lockjaw”), neck stiffness, dysphagia.
 - *Facial involvement*: Risus sardonicus – grim, fixed smile due to facial spasm.
 - *Generalized spasms*: Opisthotonus (arching of back), abdominal rigidity.
@@ -291,35 +341,31 @@ Incubation Features
 - History of wound + characteristic spasms = diagnostic.
 === Management
 + *Neutralize Unbound Toxin*
-  - 
   - Human Tetanus Immunoglobulin (TIG) 3000–6000 IU IM (or equine ATS if TIG unavailable).
 + *Prevent Further Toxin Production*
-  - 
   - Wound debridement — remove necrotic tissue and source of anaerobic growth.
   - *Antibiotics*:
     - Metronidazole 500 mg IV q8h (preferred).
     - Penicillin G is also effective but may exacerbate spasms (GABA antagonism).
 + *Control Muscle Spasms*
-  - 
   - Benzodiazepines (e.g., diazepam) to sedate and relax muscles.
   - Magnesium sulfate (in ICU settings) may help reduce autonomic instability.
   - Tracheostomy may be required for airway protection if spasms severe.
 + *Supportive Care*
-  - 
   - Quiet, dark room (minimal stimuli).
   - Nutrition via NG tube.
   - Maintain airway, monitor vitals.
 + *Active Immunization*
-  - 
   - Tetanus toxoid given during recovery (disease does not confer immunity).
 === Prognosis
 Mortality remains high if untreated (up to 80%), but with modern intensive care, survival > 85% is possible in well-managed patients.
+
+_Spasms reverse and Trismus goes last, weeks to months_
 == Wound
-definition : A wound is a break in the continuity of tissue, whether caused by trauma or surgical incision, with or without loss of structure or function.
+*Definition*: A wound is a break in the continuity of tissue, whether caused by trauma or surgical incision, with or without loss of structure or function.
 
 === Classification of Wound
 + *Based on Etiology / Cause*
-  - *Type*: Example
   - *Traumatic*: Incised, lacerated, contused, penetrating, crush injuries
   - *Surgical (Incised / Clean)*: Planned incisions under aseptic conditions
   - *Infective*: Abscess, carbuncle
@@ -345,10 +391,14 @@ definition : A wound is a break in the continuity of tissue, whether caused by t
   - Fibroblast proliferation, collagen deposition, angiogenesis, granulation tissue formation, re‑epithelialization begins.
 + *Maturation (Remodeling) phase (from day 10 → weeks/months)*
   - Collagen reorganizes, wound contracts, scar strengthens.
-
+#info_box([When Tissue is Granulating#shomiron],[
+- Reduced features of acute inflammation  
+- Absence of pus or slough  
+- Appearance of pinkish granulation tissue  
+- Bleeds on touch
+])
 === Factors Delaying Wound Healing
 ==== Local Factors
-  - *Factor*: Mechanism / Effect
   - *Infection*: Most common — prolongs inflammation, causes tissue necrosis.
   - *Poor blood supply / ischemia*: ↓ Oxygen & nutrient delivery → delayed fibroblast and epithelial activity.
   - *Mechanical stress / movement*: Disrupts granulation tissue and suture line.
@@ -357,7 +407,6 @@ definition : A wound is a break in the continuity of tissue, whether caused by t
   - *Radiation*: Damages microvasculature and fibroblasts, causing hypoxia.
   - *Local malignancy*: Poor vascularity, necrosis in the wound bed.
 ==== Systemic Factors
-  - *Factor*: Mechanism / Example
   - *Age*: Elderly → reduced cellular activity.
   - *Anemia / Hypoproteinemia*: Less oxygen and substrate for repair.
   - *Malnutrition*: Protein & vitamin C deficiency impair collagen synthesis.
@@ -377,7 +426,6 @@ _Treat the cause before it affects wound_
 
 === Complications of Wound Healing
 ==== Local Complications
-  + *Complication*: Description / Consequence
   + *Wound infection*: Most common; causes pus, delayed healing, possibly abscess formation.
   + *Wound dehiscence (burst abdomen)*: Failure of wound closure due to infection, poor suturing, raised intra‑abdominal pressure (classically 7–10 days post‑op).
   + *Hematoma / Seroma*: Collection of blood or serum under wound → tension, infection risk.
@@ -394,3 +442,7 @@ _Treat the cause before it affects wound_
   + *Multi‑organ failure*: From severe sepsis or toxemia.
   + *Scarring contractures (functional impairment)*: Especially around joints, leading to limited movement.
   + *Malignant change (Marjolin ulcer)*: Rare; squamous cell carcinoma developing in chronic scar or ulcer.
+
+#info_box([Necrosis#shomiron],[*Microscopic* death of cell])
+#info_box([Gangrene#shomiron],[*Macroscopic* death of *cell*])
+#info_box([Slough#shomiron],[*Macroscopic* death of *tissue*])

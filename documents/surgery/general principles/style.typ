@@ -49,17 +49,18 @@ let align_table()=(x,y)=>(
 
 set table(
   fill: (rgb("#ffdab2"),rgb("#ceddfc")),
-  stroke: frame(rgb("21222C")),
+  stroke: frame(rgb("000000")),
   align: align_table(),
   inset: (  // this is also identical to your default
-      right: 0.5em,
-      left: 0.5em,
+      right: 0.1em,
+      left: 0.1em,
       top: 1em,
       bottom: 1em
     ),
 )
 show table: it => [
   #set par(justify: false)
+  #set text(hyphenate: true)
 #it]
 show table.cell.where(y: 0): it => [#strong[#it]]
 show table.cell.where(x: 0): it => [#strong[#it]]

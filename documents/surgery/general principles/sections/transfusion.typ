@@ -33,7 +33,8 @@ caption:[Commonly used blood products and their indications]
 - *Platelets*: < 10,000/µL (prophylaxis), < 50,000/µL (pre-op/bleeding).
 - *FFP*: INR >1.5 with bleeding or pre-procedure.
 - *Cryoprecipitate*: fibrinogen < 100 mg/dL.
-== Transfusion Order for a Single Unit #written #card
+== Transfusion Order for a Single Unit
+#written #card
 1. Confirm *patient identity* (name, age, hospital ID, bed).  
 2. Perform *blood grouping and cross-matching*.  
 3. Check *donor unit ID, expiry date, integrity*.  
@@ -44,7 +45,8 @@ caption:[Commonly used blood products and their indications]
 
 - _Monitor for complications early — vitals at 15 mins crucial._
 - _Warm and balanced transfusion prevents most metabolic issues._
-== Complications of Blood Transfusion #written #card
+== Complications of Blood Transfusion
+#written #card
 === Immediate Complications
 - *Hemolytic transfusion reaction (ABO mismatch):* fever, chills, hypotension, back pain, hemoglobinuria.  
 - *Febrile non-hemolytic reaction:* due to donor leukocyte antigens.  
@@ -68,14 +70,16 @@ caption:[Commonly used blood products and their indications]
 - > 50 % blood volume in 3 hr or,  
 - - ≥4 units within 1 h with ongoing bleeding.
 
-=== Precautions #written #card
+=== Precautions 
+#written #card
 - Warm blood (37 °C) before infusion to avoid hypothermia.  
 - Use *screened, leukocyte-depleted components*.  
 - Continuous monitoring of coagulation profile, *calcium* and *electrolytes*.  
 - Prefer *component therapy* over whole blood.  
 - Maintain strict input-output and hemodynamic charting.  
 
-=== Complications #written #card
+=== Complications 
+#written #card
 - *Dilutional coagulopathy* (due to absence of platelets/factors).  
 - *Citrate toxicity → hypocalcemia* (tetany, arrhythmia).  
 - *Electrolyte imbalance:* hypo- or hyper-kalemia.  
@@ -93,23 +97,27 @@ caption:[Commonly used blood products and their indications]
   - MAP > 65 mmHg
   - Lactate or base deficit normalization
   - Urine output ≥ 0.5 mL/kg/h
-== Mismatched Blood Transfusion #written #card
+== Mismatched Blood Transfusion
+#written #card
 
 === Definition
 Transfusion of blood of incompatible group to the recipient, typically ABO or Rh mismatch.
 
-=== Features / Consequences #written #card
+=== Features / Consequences 
+#written #card
 - Immediate *high fever, chills, hypotension, tachycardia*.  
 - *Chest or back pain*, *hemoglobinuria*, and *acute renal failure*.  
 - Progression to *shock*, *DIC*, or *death* if untreated.  
 
-=== Prevention #written
+=== Prevention 
+#written
 - Strict patient identity verification before transfusion.  
 - Accurate ABO/Rh grouping and cross-matching.  
 - Final bedside check of both bag and patient identity before starting.  
 - Staff training and double-checking protocols.
 
-=== Management #written #card
+=== Management
+#written #card
 1. *Stop transfusion immediately.*  
 2. Maintain *IV access* with normal saline (do not discard line).  
 3. *Supportive therapy:*  

@@ -5,7 +5,7 @@
 
 #align(horizon + left)[
 
-  #text(size: 30pt, [General Principles of Surgery])
+  #text(size: 40pt, [General Principles of Surgery and Trauma])
 
   Muazzam Kamran
 
@@ -36,9 +36,9 @@
 #include "sections/trauma.typ"  /* complete */
 #include "sections/swelling.typ" /* complete */
 #include "sections/cyst.typ" /* complete */
-#include "sections/sinus_fistula.typ"
-#include "sections/asepsis_antisepsis_sterilization_disinfection.typ"
-#include "sections/anæsthesia.typ"
-#include "sections/operative_surgery.typ"
-#include "sections/oncology.typ"
-#include "sections/investigation_diagnosis.typ"
+#include "sections/sinus_fistula.typ" /* complete */
+#include "sections/asepsis_antisepsis_sterilization_disinfection.typ"  /* complete */
+#include "sections/anæsthesia.typ" /* complete */
+#include "sections/operative_surgery.typ" /* complete */
+#include "sections/oncology.typ" /* complete */
+#include "sections/investigation_diagnosis.typ" /* complete */

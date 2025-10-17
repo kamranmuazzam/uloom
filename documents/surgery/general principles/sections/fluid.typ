@@ -20,7 +20,8 @@ Usually combination of crystalloids
 #info_box([],[
   For a 70 kg adult → 70 × 35 = 2450 mL/day
 ])
-== Post Operative Fluid Regimen#card
+== Post Operative Fluid Regimen
+#card
 - *Operative Day*: 5% Dextrose in Aqua (DA), 1 L.  
 - *1st POD*: Dextrose Normal Saline (DNS), 2 L.  
 - *2nd POD*: Dextrose Normal Saline (DNS) 2L + KCl 20 mEq (if urine output adequate).  
@@ -44,7 +45,9 @@ _Always reassess clinically (input/output chart, weight, vitals, skin turgor, CV
   [Serum electrolytes],[6–12 hourly initially, then daily],
   [Physical examination],[JVP, edema, mucous membranes]
 ),caption:[Monitoring Parameters in Fluid Therapy])
-== Hypokalemia#card
+== Hypokalemia
+#card
+
 Definition : Serum K+ < 3.5 mmol/L
 === Clinical Cues
 *General*: Muscle weakness, cramps, lethargy.

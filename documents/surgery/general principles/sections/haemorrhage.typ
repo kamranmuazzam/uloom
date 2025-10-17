@@ -4,7 +4,7 @@
 = Haemorrhage
 *Definition*#shomiron #written:Extravasation of Blood#footnote[don't mention blood vessel#shomiron] is called Haemorrhage
 == Classification
-Following are various ways to classify haemorrhage.#shomiron #card #written
+Following are various ways to classify haemorrhage.#shomiron #written #card
 === Clinical Classification
 - *Primary Haemorrhage*
   - Bleeding during surgery or trauma.
@@ -73,7 +73,7 @@ All 3 types of bleeding occurs in *Prostatectomy*
 - Venous Haemorrhage
 - Capillary Haemorrhage
 
-Characters of Different Types of Haemorrhage according to source are mentioned in @characters-of-different-types-of-haemorrhage-according-to-source #shomiron #card #written
+Characters of Different Types of Haemorrhage according to source are mentioned in @characters-of-different-types-of-haemorrhage-according-to-source #shomiron #written #card
 
 #figure(
 table(
@@ -163,7 +163,7 @@ Spontaneous arrest of bleeding is called haemostasis#shomiron.
 This requires some precondition, Platelelts. Also, platelets in the blood don't cause coagulation all the time without haemorrhage, because there are natural anticoagulants and vessel wall is normal.
 
 === Techniques of Haemostasis
-The techniques of Haemorrhage are#card #written #shomiron
+The techniques of Haemorrhage are#written #card #shomiron
 + Pressure and Packing#footnote[using Gauze for 6-10 minites(clotting time)]
 + Elevation
 + Tourniquet (Esmarch Bandage)
