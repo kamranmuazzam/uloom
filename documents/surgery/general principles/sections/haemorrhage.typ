@@ -114,14 +114,14 @@ Slow, intermittent, often leading to iron-deficiency anemia (e.g., peptic ulcer,
 === Classification of Haemorrhagic Shock
 As mentioned in @classification-of-haemorrhagic-shock
 == Special Conditions of Haemorrhages
-- Neonatal (Vitamin K deficiency)
+- Neonatal (Vitamin K deficiency)
 - Obstetric (PPH)
 - Post-fracture or burn patients (hidden losses)
 - Due to coagulopathies (DIC, hemophilia, anticoagulant therapy)
 == Haemorrhagic Disorders Related to Surgery
 - DIC
 - thrombocytopenia
-- Vitamin K deficiency
+- Vitamin K deficiency
 - hepatic dysfunction
 == Clinical Features of Haemorrhage <clinical-features-of-haemorrhage>
 Clinical Features of Haemorrhage and Haemorrhagic Shock are as follows #written
@@ -152,7 +152,7 @@ Metabolic/Physiological responses to haemorrhage are as follows #written
 - Peripheral vasoconstriction
 - Tachycardia and increased cardiac output (initially)
 - Venoconstriction, mobilisation of blood from reservoirs
-- Activation of renin–angiotensin–aldosterone and ADH pathways
+- Activation of renin-angiotensin-aldosterone and ADH pathways
 
 *Based on Phases*
 - Early phase: sympathetic activation → tachycardia, vasoconstriction → maintained BP.
@@ -195,11 +195,11 @@ Techniques should be used as follows
 ])
 == Circulation & Resuscitation <circulation-and-resuscitation>
 Before moving to Circulation and Resuscitation, Trauma should be handled as per ATLS protocol in @atls
-- Two large-bore (14–16 G) IV cannulae.
+- Two large-bore (14-16 G) IV cannulae.
 - Draw blood for cross-match, baseline investigations.
 - Begin warm crystalloids (Ringer’s lactate or NS).
 - If poor response → transfuse crossmatched or O-negative blood.
 - Use Massive Transfusion Protocol if needed — 1:1:1 ratio of PRBC : FFP : Platelets.
-- “Target urine output ≥ 0.5 mL/kg/hr.”
+- “Target urine output ≥ 0.5 mL/kg/hr.”
 - “Consider permissive hypotension until definitive haemostasis (except in head injury).”
-- “Tranexamic acid (TXA) 1 g IV stat if within 3 hrs of trauma”
+- “Tranexamic acid (TXA) 1 g IV stat if within 3 hrs of trauma”

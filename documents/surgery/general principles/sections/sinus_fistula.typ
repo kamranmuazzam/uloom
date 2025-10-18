@@ -5,12 +5,12 @@
 = Sinus & Fistula
 
 == Sinus
-*Definition*#viva: A blind‑ending epithelium‑lined tract that opens onto an epithelial surface. 
+*Definition*#viva: A blind-ending epithelium-lined tract that opens onto an epithelial surface. 
 
 === Causes
 #viva
 - *Chronic infection*: Boil, carbuncle, osteomyelitis → discharging sinus
-- *Retained foreign body*: Suture, sequestrum, non‑absorbable material
+- *Retained foreign body*: Suture, sequestrum, non-absorbable material
 - *Tuberculosis*: Cold abscess with draining sinus
 - *Congenital*: Preauricular sinus, pilonidal sinus
 
@@ -33,7 +33,7 @@
 === Causes
 - *Congenital*: Branchial, thyroglossal
 - *Traumatic / surgical*: Anastomotic leak, biliary or urinary fistula
-- *Inflammatory*: Fistula‑in‑ano, Crohn’s disease
+- *Inflammatory*: Fistula-in-ano, Crohn’s disease
 - *Malignant*: Carcinoma eroding into adjacent structures (e.g., rectovesical)
 - *Radiation injury*: Secondary to tissue necrosis
 
@@ -56,7 +56,7 @@
 - Assessment for distal obstruction
 
 === Complications
-- Fluid and electrolyte imbalance (especially high‑output fistulae)
+- Fluid and electrolyte imbalance (especially high-output fistulae)
 - Sepsis
 - Malnutrition
 
@@ -88,5 +88,5 @@
 - More likely to close spontaneously if:
   - No distal obstruction
   - No foreign body or epithelial lining
-  - Low‑output and short tract
+  - Low-output and short tract
   - Adequate nutrition and sepsis control

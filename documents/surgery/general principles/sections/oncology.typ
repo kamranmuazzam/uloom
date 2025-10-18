@@ -16,7 +16,7 @@
 == Carcinogenesis
 - Multistep process: initiation → promotion → progression  
 - Genetic basis involving:
-  + Activation of proto‑oncogenes (e.g., RAS)
+  + Activation of proto-oncogenes (e.g., RAS)
   + Inactivation of tumor suppressor genes (e.g., TP53, RB)
   + Defects in DNA repair mechanisms  
   + Evasion of apoptosis, limitless replication, angiogenesis
@@ -28,7 +28,7 @@
   [Feature],[Benign],[Malignant],
   [Growth rate],[Slow],[Rapid],
   [Growth pattern],[Expansive, well circumscribed, encapsulated],[Infiltrative, invasive, poorly defined margins],
-  [Differentiation],[Well‑differentiated, resembles tissue of origin],[Poorly differentiated (anaplastic)],
+  [Differentiation],[Well-differentiated, resembles tissue of origin],[Poorly differentiated (anaplastic)],
   [Metastasis],[Absent],[Present — via lymphatic, hematogenous, or direct spread],
   [Recurrence],[Rare after complete excision],[Common],
   [Effect on host],[Usually local pressure],[Cachexia, invasion, metastasis, death],
@@ -37,25 +37,25 @@
 
 == Routes of Spread of Malignant Tumor 
 #written #viva
-+ *Local Infiltration* – Direct extension into surrounding tissues.  
++ *Local Infiltration* - Direct extension into surrounding tissues.  
    Example: Squamous Cell Carcinoma of oral cavity → adjacent structures.  
-+ *Lymphatic Spread* – Common in carcinomas.  
++ *Lymphatic Spread* - Common in carcinomas.  
    Example: Breast carcinoma → axillary lymph nodes.  
-+ *Hematogenous Spread* – Common in sarcomas.  
++ *Hematogenous Spread* - Common in sarcomas.  
    Example: Osteosarcoma → lungs; Hepatocellular carcinoma → bone/lungs.  
-+ *Transcoelomic (seeding)* – Spread across serous cavities.  
++ *Transcoelomic (seeding)* - Spread across serous cavities.  
    Example: Ovarian carcinoma → peritoneum.  
-+ *Perineural/CSF spread* – Example: Brain tumor → along nerve roots.  
++ *Perineural/CSF spread* - Example: Brain tumor → along nerve roots.  
 
 == Tumor Markers
 #figure(table(
   columns:3,
   [Marker],[Associated Tumor],[Utility],
-  [AFP],[Hepatocellular carcinoma, germ cell tumors],[Diagnosis, follow‑up],
+  [AFP],[Hepatocellular carcinoma, germ cell tumors],[Diagnosis, follow-up],
   [CEA],[Colorectal, pancreatic, gastric cancers],[Monitoring, prognosis],
-  [CA‑125],[Ovarian carcinoma],[Response assessment],
+  [CA-125],[Ovarian carcinoma],[Response assessment],
   [PSA],[Prostate carcinoma],[Screening and surveillance],
-  [β‑hCG],[Choriocarcinoma, germ cell tumors],[Diagnosis, follow‑up],
+  [β-hCG],[Choriocarcinoma, germ cell tumors],[Diagnosis, follow-up],
 ), caption: [Common Tumor Markers])
 
 == Paraneoplastic Syndromes
@@ -101,15 +101,15 @@
   [Phase],[Purpose],[Modalities],
   [Neoadjuvant therapy],[Shrink tumor before surgery],[Chemotherapy / Radiotherapy],
   [Surgery],[Mainstay for solid tumors],[Wide local excision, removal of primary + regional LNs, adequate margins],
-  [Adjuvant therapy],[Destroy microscopic residual disease],[Post‑op chemo/radio],
-  [Definitive non‑surgical therapy],[For unresectable or sensitive tumors],[Radiotherapy or chemoradiation],
-  [Targeted / Immunotherapy],[Specific molecular targets or immune modulators],[Trastuzumab, checkpoint inhibitors, CAR‑T therapy],
+  [Adjuvant therapy],[Destroy microscopic residual disease],[Post-op chemo/radio],
+  [Definitive non-surgical therapy],[For unresectable or sensitive tumors],[Radiotherapy or chemoradiation],
+  [Targeted / Immunotherapy],[Specific molecular targets or immune modulators],[Trastuzumab, checkpoint inhibitors, CAR-T therapy],
 ), caption: [Treatment Modalities for Malignancy])
 
 + *Performance and Resectability Assessment*
   - ECOG / Karnofsky performance status; cardiopulmonary and nutritional evaluation.
 
-+ *Monitoring and Follow‑Up*
++ *Monitoring and Follow-Up*
   - Regular clinical exam, imaging, tumor markers to detect recurrence early.
 
 + *Palliative (Supportive) Care*

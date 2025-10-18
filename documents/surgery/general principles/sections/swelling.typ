@@ -31,6 +31,7 @@
 
 ==== Palpation
 #figure(table(
+  columns: 3,
   [Feature],[Observation],[Interpretation],
   [Temperature & tenderness],[Local rise of temperature; tenderness],[Inflammatory],
   [Consistency],[Soft, firm, hard, cystic],[Soft = lipoma/hernia; Hard = malignancy],
@@ -76,7 +77,7 @@
 === Basic Investigations
 - *Ultrasound:* first-line for most swellings  
 - *Doppler study:* vascularity, thrombosis  
-- *X‑ray:* calcification, bony origin  
+- *X-ray:* calcification, bony origin  
 - *CT/MRI:* deep extent, tissue planes  
 - *FNAC / core biopsy:* diagnosis confirmation  
 - *Blood tests:* inflammatory/tumor markers
@@ -92,7 +93,7 @@ If there is confusion, Clinically malignant, FNAC says benign
 - *Control infection* before surgery  
 - *Excision or drainage* as indicated  
 - *Histopathology* mandatory for diagnosis  
-- *Follow‑up* for recurrence or malignant change.
+- *Follow-up* for recurrence or malignant change.
 
 #info_box([Benign lesion becoming malignant?#shomiron
 ],[
@@ -142,8 +143,8 @@ If there is confusion, Clinically malignant, FNAC says benign
   - Painless, slow-growing.
   - *Slipping sign* positive — mass slips from beneath examining fingers.
 === Investigations
-  - Ultrasound – hyperechoic lesion.
-  - MRI – homogenous fat signal intensity.
+  - Ultrasound - hyperechoic lesion.
+  - MRI - homogenous fat signal intensity.
   - FNAC/core biopsy if atypical.
 - *Histopathology*: Mature adipocytes with fibrous capsule; absence of mitosis or atypia.
 *Investigation to confirm*#shomiron: FNAC
@@ -162,7 +163,7 @@ Excision and Biopsy
 - scrotum.
 === Etiology
   - Duct obstruction.
-  - Post‑traumatic or congenital inclusion of epidermal elements.
+  - Post-traumatic or congenital inclusion of epidermal elements.
 === Clinical features
   - *Punctum* present (Obstructed Sebaceous duct#shomiron).
   - Freely mobile over deeper tissues but attached to skin.
@@ -215,11 +216,11 @@ Excision & Biopsy
   - Midline (external angular near outer angle of orbit), submental, suprasternal, postauricular, midline of scalp.
   - Ovarian and intracranial variants also occur.
 - *Clinical features*:
-  - Painless, slow‑growing, soft or firm, doughy swelling.
+  - Painless, slow-growing, soft or firm, doughy swelling.
   - Not attached to skin or deep structures.
   - Usually no punctum.
   - No transillumination or cough impulse.
-- *Complications*: Infection, rupture with foreign‑body granulomatous reaction.
+- *Complications*: Infection, rupture with foreign-body granulomatous reaction.
 - *Differential diagnosis*: Sebaceous cyst, lipoma, epidermoid cyst, lymph node.
 - *Investigations*: Ultrasound or MRI if deep or midline (rule out intracranial extension in nasal/occipital dermoids).
 - *Treatment*:
@@ -238,7 +239,7 @@ Excision & Biopsy
   - Enlarges on crying or straining.
 - *Investigations*: Doppler USG (flow characteristics), MRI for extent and relation.
 - *Complications*: Ulceration, bleeding, thrombosis, infection, high-output cardiac failure (hepatic/AV type).
-- *Associations*: Kasabach–Merritt syndrome, PHACES syndrome.
+- *Associations*: Kasabach-Merritt syndrome, PHACES syndrome.
 - *Treatment*:
   - Observation for spontaneous involution (common in infants).
   - Sclerotherapy (sodium tetradecyl sulfate), laser ablation, embolization for large AVMs.

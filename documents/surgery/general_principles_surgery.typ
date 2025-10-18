@@ -2184,15 +2184,15 @@ caption:[Clinical differences between benign and malignant neoplasms]
 )
 
 == Routes of Spread of Malignant Tumor #written #viva
-1. *Local Infiltration* – Direct extension into surrounding tissues.  
+1. *Local Infiltration* - Direct extension into surrounding tissues.  
    Example: Squamous Cell Carcinoma of oral cavity → adjacent structures.  
-2. *Lymphatic Spread* – Common in carcinomas.  
+2. *Lymphatic Spread* - Common in carcinomas.  
    Example: Breast carcinoma → axillary lymph nodes.  
-3. *Hematogenous Spread* – Common in sarcomas.  
+3. *Hematogenous Spread* - Common in sarcomas.  
    Example: Osteosarcoma → lungs; Hepatocellular carcinoma → bone/lungs.  
-4. *Transcoelomic (seeding)* – Spread across serous cavities.  
+4. *Transcoelomic (seeding)* - Spread across serous cavities.  
    Example: Ovarian carcinoma → peritoneum.  
-5. *Perineural/CSF spread* – Example: Brain tumor → along nerve roots.  
+5. *Perineural/CSF spread* - Example: Brain tumor → along nerve roots.  
 
 == Tumor Markers #written
 #figure(
@@ -2378,9 +2378,9 @@ It is a group of surgical procedures performed through small portals using endos
 
 === Preparation of Diabetic Patient
 - *Pre-op:* Check blood glucose, HbA₁c, renal, cardiac status.  
-- *Stop oral hypoglycemics (esp. metformin)* 24 – 48 h before.  
+- *Stop oral hypoglycemics (esp. metformin)* 24 - 48 h before.  
 - *Insulin sliding scale:* Short-acting insulin with glucose infusion peri-op.  
-- *Avoid hypoglycemia*; maintain BGL 6–10 mmol/L.  
+- *Avoid hypoglycemia*; maintain BGL 6-10 mmol/L.  
 - *Post-op:* Resume usual regimen once oral intake returns.
 
 === Risks in Unprepared Diabetic Patient
@@ -2470,7 +2470,7 @@ caption:[Common abdominal incisions with landmarks and indications]
 == Right Subcostal (Kocher's) Incision #written #viva
 
 === Description
-A 5 – 7 cm incision placed ~2.5 cm below and parallel to the right costal margin.  
+A 5 - 7 cm incision placed ~2.5 cm below and parallel to the right costal margin.  
 When extended medially to the midline → Kocher's incision.
 
 === Surgeries Performed

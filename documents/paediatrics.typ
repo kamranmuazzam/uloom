@@ -420,11 +420,11 @@ as a differential for motor problems
 - Iron overload → cardiomyopathy, liver cirrhosis, endocrinopathies (diabetes, hypogonadism)
 - Transfusion reactions (febrile, allergic, hemolytic)
 - Alloimmunization
-- Infections (Hepatitis B, C, HIV – rare with modern screening)
+- Infections (Hepatitis B, C, HIV - rare with modern screening)
 *Genetic Counselling*
 - Autosomal recessive disorder → importance of carrier detection
 - Hb electrophoresis/HPLC for parents & siblings
-- Prenatal diagnosis: DNA analysis / CVS at 10–12 weeks
+- Prenatal diagnosis: DNA analysis / CVS at 10-12 weeks
 - Advise carrier couples on risk of affected offspring
 - Population screening programs for prevention
 == Iron Deficiency Anemia
@@ -439,7 +439,7 @@ as a differential for motor problems
 - Serum ferritin ↓, serum iron ↓, TIBC ↑
 - Reticulocyte count ↓ (unless on iron therapy)
 *Management in Children*
-- Oral elemental iron 3–6 mg/kg/day for 3–6 months after Hb normalization
+- Oral elemental iron 3-6 mg/kg/day for 3-6 months after Hb normalization
 - Treat underlying cause (anthelmintics, diet improvement)
 - Parenteral iron if oral intolerance/malabsorption
 - Nutritional counseling + iron-rich foods

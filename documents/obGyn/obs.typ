@@ -423,7 +423,7 @@ Vaccum Extraction
 *Disadvantages*#viva  
 - Failure if poor maternal effort.  
 - Scalp injury, cephalhematoma.  
-- Cannot be used in premature fetuses (< 34 weeks) due to fragile scalp.
+- Cannot be used in premature fetuses (< 34 weeks) due to fragile scalp.
 
 == Partograph
 Definition#viva: Graphical record of progress of labor against time, cervical dilatation plotted with alert and action lines.  

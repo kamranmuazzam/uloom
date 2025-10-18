@@ -22,11 +22,11 @@ caption:[Commonly used blood products and their indications]
 #figure(table(
    columns: 4,
 [Product],[Volume],[Storage Temp],[Shelf-life],
-[Whole Blood],[~450 mL],[2–6°C],[35 days],
-[Packed RBC],[~250–350 mL],[2–6°C],[35–42 days],
-[FFP],[~200–250 mL],[−30°C],[1 year],
-[Platelets],[~50 mL/unit],[20–24°C with agitation],[5 days],
-[Cryoprecipitate],[~10–20 mL/unit],[−30°C],[1 year]
+[Whole Blood],[~450 mL],[2-6°C],[35 days],
+[Packed RBC],[~250-350 mL],[2-6°C],[35-42 days],
+[FFP],[~200-250 mL],[-30°C],[1 year],
+[Platelets],[~50 mL/unit],[20-24°C with agitation],[5 days],
+[Cryoprecipitate],[~10-20 mL/unit],[-30°C],[1 year]
 ),caption: [Average volume, storage temperature, and shelf-life of Common Blood Products])
 == Indications for Transfusion
 - *Packed RBCs*: Hb < 7 g/dL (stable), < 8 g/dL (cardiac/respiratory disease).
@@ -68,7 +68,7 @@ caption:[Commonly used blood products and their indications]
 - Replacement of > 1 blood volume in 24 hr or,  
 - > 10 units of blood in 24 hr.
 - > 50 % blood volume in 3 hr or,  
-- - ≥4 units within 1 h with ongoing bleeding.
+- - ≥4 units within 1 h with ongoing bleeding.
 
 === Precautions 
 #written #card
@@ -87,16 +87,16 @@ caption:[Commonly used blood products and their indications]
 - *Metabolic changes:* respiratory/ metabolic alkalosis or acidosis.  
 - *ARDS/TRALI* rarely after repeated transfusions.
 === Massive Transfusion Protocol(MTP) <mtp>
-==== *Principles:*
-  - Balanced ratio 1:1:1 → PRBC : FFP : Platelets.
-  - Early *Tranexamic Acid (TXA)* within 3 h of injury.
+==== Principles:
+  - Balanced ratio 1:1:1 → PRBC : FFP : Platelets.
+  - Early *Tranexamic Acid (TXA)* within 3 h of injury.
   - Monitor *Calcium* (avoid citrate toxicity), *temperature*, *coagulation profile*.
   - Warm fluids & patient.
-=== *Endpoints of resuscitation:*
+=== Endpoints of resuscitation:
   - Normal mentation
-  - MAP > 65 mmHg
+  - MAP > 65 mmHg
   - Lactate or base deficit normalization
-  - Urine output ≥ 0.5 mL/kg/h
+  - Urine output ≥ 0.5 mL/kg/h
 == Mismatched Blood Transfusion
 #written #card
 

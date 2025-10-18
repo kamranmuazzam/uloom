@@ -128,8 +128,8 @@ Then after getting malignant report, do (3) staging process of disease.
 - Transrectal USG (Local extension of disease)
 - Tumor markers
  - Serum CEA level (Carcinoembryogenic Antigen)
-  - Non Smoker : 0–5 ng/ml
-  - Smoker : 0–10 ng/ml
+  - Non Smoker : 0-5 ng/ml
+  - Smoker : 0-10 ng/ml
  - Monitoring করে এটা দেখে, but no diagnostic and prognostic value
 - Colonoscopy: To see the synchronous lesion (Multiple primary lesion)
 - CBC

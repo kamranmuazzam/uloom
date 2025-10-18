@@ -57,7 +57,7 @@ Pathogenesis of Hypovolemic shock is as follows #written
 + ↓ Cardiac output → ↓ tissue perfusion and ↓ oxygen delivery.
 + Compensatory mechanisms:
   - Sympathetic activation → tachycardia, peripheral vasoconstriction (cold, clammy skin), sweating.
-  - Renin–angiotensin–aldosterone and ADH release → conserve sodium and water.
+  - Renin-angiotensin-aldosterone and ADH release → conserve sodium and water.
 + If uncorrected: Microcirculatory failure → anaerobic metabolism → lactic acidosis → cellular dysfunction  → Multi-organ failure → irreversible shock.
 ==== Clinical Features of Haemorrhagic Shock
 It is mentioned in @clinical-features-of-haemorrhage
@@ -76,13 +76,13 @@ Haemorrhagic Shock is further classified #viva _According to ATLS guideline_
 )
 === Permissive Hypotension
 - In uncontrolled haemorrhage (e.g., penetrating trauma before definitive bleeding control), avoid fully normalizing BP to prevent dislodging forming clots.
-- Target systolic BP ~80–90 mmHg (enough to perfuse vital organs without exacerbating bleeding).
+- Target systolic BP ~80-90 mmHg (enough to perfuse vital organs without exacerbating bleeding).
 *Contraindicated in:*
   - Traumatic brain injury (because cerebral perfusion must be maintained).
   - Prolonged shock states or elderly where autoregulation is poor.
 === Resuscitation
 Principles of Management of Hypovolumic Shock are as follows #written
-*Goals of Resuscitation*: 3Ps – _Perfusion, Pressure, Pees (urine output)_
+*Goals of Resuscitation*: 3Ps - _Perfusion, Pressure, Pees (urine output)_
 
 *Aim of treatment*: _Restore adequate tissue perfusion and oxygen delivery, not just BP normalization._
 

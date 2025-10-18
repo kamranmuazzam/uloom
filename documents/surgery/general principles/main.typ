@@ -1,3 +1,4 @@
+#import "@preview/typsium:0.3.0":*
 #[
 #set page(fill: yellow, margin: (left: 2in))
 
@@ -27,8 +28,8 @@
 
 /* some topics have viva remaining */
 
-#include "sections/shock.typ" /* complete */
-#include "sections/haemorrhage.typ" /* complete */
+#include "sections/shock.typ" /* studied */
+#include "sections/haemorrhage.typ" /* studied */
 #include "sections/transfusion.typ" /* complete */
 #include "sections/fluid.typ" /* complete */
 #include "sections/surgical_infection.typ" /* complete */

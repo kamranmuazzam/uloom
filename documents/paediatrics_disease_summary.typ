@@ -65,7 +65,7 @@ Lethargy, macroglossia, hypotonia.
 
 *definition*: Malnutrition from protein-calorie deficiency.  
 *types*: Marasmus (wasting), Kwashiorkor (edema, fatty liver).  
-*presentation*: Marasmus – severe wasting, emaciation; Kwashiorkor – bipedal edema, severe wasting, low wegiht for length Z score, sparse hair dermatoses, pallor.
+*presentation*: Marasmus - severe wasting, emaciation; Kwashiorkor - bipedal edema, severe wasting, low wegiht for length Z score, sparse hair dermatoses, pallor.
 *complications*: Infection, stunting, mortality.  
 *investigations*: Anthropometry, serum albumin.  
 *management*: Stepwise feeding, micronutrients, treat infection.
@@ -166,7 +166,7 @@ Chronic cough, fever, night sweats.
 == Kala-azar / PKDL
 
 *definition*: Visceral leishmaniasis by Leishmania donovani.  
-*presentation*: Fever, massive splenomegaly, dark skin; PKDL later – hypopigmented skin lesions.  
+*presentation*: Fever, massive splenomegaly, dark skin; PKDL later - hypopigmented skin lesions.  
 *management*: Amphotericin-B, miltefosine.
 
 
@@ -238,7 +238,7 @@ Chronic cough, fever, night sweats.
 
 == Viral Hepatitis
 
-*definition*: Liver inflammation due to viruses A–E.  
+*definition*: Liver inflammation due to viruses A-E.  
 *presentation*: jaundice(anorexia, nause, vomiting), tender hepatomegaly, street food history
 *management*: Supportive, vaccination prevention.
 
@@ -360,7 +360,7 @@ Chronic cough, fever, night sweats.
 
 == Hemophilia
 
-*definition*: Congenital deficiency of clotting factors (A – VIII, B – IX).  
+*definition*: Congenital deficiency of clotting factors (A - VIII, B - IX).  
 *presentation*: Swelling of left knee joint following minor trauma, history of similar attacks, or prolonged bleeding following cut injury, similar history in family
 *management*: Factor replacement.
 

@@ -10,3 +10,4 @@
 
   #body
   ]]
+#import "@preview/typsium:0.3.0":ce

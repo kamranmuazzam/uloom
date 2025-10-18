@@ -5,12 +5,12 @@
 *Definition*: Infection occurring in surgical patients, either as a postoperative complication or as an infection requiring surgical intervention.
 == Classification
 - *Aetiological*: bacterial, viral, fungal, parasitic
-- *By source*: community‑acquired vs. hospital‑acquired (nosocomial)
+- *By source*: community-acquired vs. hospital-acquired (nosocomial)
 - *By location*: superficial, deep, organ/space
-- *By timing* post‑surgery: early (< 30 days) vs. late (>30 days; e.g., prosthetic infections)
+- *By timing* post-surgery: early (< 30 days) vs. late (>30 days; e.g., prosthetic infections)
 == Common organisms
-- *Gram‑positive* Staph. aureus (including MRSA), Strep. pyogenes
-- *Gram‑negative* E. coli, Pseudomonas, Klebsiella, Proteus
+- *Gram-positive* Staph. aureus (including MRSA), Strep. pyogenes
+- *Gram-negative* E. coli, Pseudomonas, Klebsiella, Proteus
 - *Anaerobes* Clostridium spp., Bacteroides
 == Host factors
 - Immunity
@@ -20,7 +20,7 @@
 - Obesity
 - Malignancy
 == Surgical infection prevention
-- Pre‑op optimization
+- Pre-op optimization
 - Asepsis
 - Antibiotic prophylaxis
 - Surgical technique
@@ -35,7 +35,7 @@
   Breach of continuity of skin or mucous membrane by a sharp knife for surgical means is called incision.
 ])
 == Surgical Site Infection (SSI)
-*Definition* (CDC): Infection at or near the surgical incision within 30 days of operation (or within a year if an implant was placed).
+*Definition* (CDC): Infection at or near the surgical incision within 30 days of operation (or within a year if an implant was placed).
 === Types
 - Superficial incisional SSI
 - Deep incisional SSI
@@ -48,7 +48,7 @@
 - Obesity
 - Foreign body
 === Prevention
-- Pre‑operative skin prep
+- Pre-operative skin prep
 - Antibiotic prophylaxis (timing, choice, duration)
 - Good hemostasis
 - Proper drain usage
@@ -59,13 +59,13 @@
 - Debride devitalized tissue
 - Targeted antibiotics
 == Necrotizing Soft Tissue Infections (NSTI) <NSTI>
-_High‑mortality surgical emergency_
+_High-mortality surgical emergency_
 === Examples
 - Necrotizing cellulitis
 - Necrotizing fasciitis
 - Fournier’s gangrene
 === Causative organisms
-- Group A beta‑hemolytic _streptococci_
+- Group A beta-hemolytic _streptococci_
 - Mixed anaerobic flora
 === Features
 - Rapid pain out of proportion
@@ -77,14 +77,14 @@ _High‑mortality surgical emergency_
 - Clinical; supported by imaging (CT/MRI) and LRINEC score.
 === Management
 - Early aggressive surgical debridement
-- Broad‑spectrum antibiotics (_Triple coverage_: Carbapenem or Piperacillin–tazobactam + Clindamycin + Vancomycin.)
+- Broad-spectrum antibiotics (_Triple coverage_: Carbapenem or Piperacillin-tazobactam + Clindamycin + Vancomycin.)
 - Supportive care.
-== Hospital‑Acquired (Nosocomial) and Antibiotic‑Resistant Infections
+== Hospital-Acquired (Nosocomial) and Antibiotic-Resistant Infections
 === Common organisms
 - MRSA
 - _Pseudomonas_
 - _Acinetobacter_
-- ESBL‑producing Enterobacteriaceae.
+- ESBL-producing Enterobacteriaceae.
 === Prevention
 - Infection control policies
 - Hand hygiene
@@ -97,8 +97,8 @@ _High‑mortality surgical emergency_
 [Clean],[Hernia repair],[Cefazolin],
 [Clean-contaminated],[Bowel resection],[Ceftriaxone + Metronidazole],
 [Clean-contaminated (head/neck, gynecologic)],[Thyroidectomy, hysterectomy],[Cefazolin ± Metronidazole],
-[Contaminated],[Perforated appendix],[Piperacillin–tazobactam],
-[Prosthetic/implant],[Orthopedic implant],[Cefazolin pre‑incision],
+[Contaminated],[Perforated appendix],[Piperacillin-tazobactam],
+[Prosthetic/implant],[Orthopedic implant],[Cefazolin pre-incision],
 ),caption: [Choice of Antibiotic prophylaxis in surgery])
 == Sepsis and Septic Shock
 Refer for this section in @septic-shock
@@ -201,7 +201,7 @@ Refer for this section in @septic-shock
   - Make incision in the most dependent part and along skin creases for better drainage and cosmetic healing.
   - Break loculi, irrigate cavity, insert drain or wick if necessary.
 + *Systemic Management*
-  - Antibiotics: Anti‑staphylococcal for acute abscesses.
+  - Antibiotics: Anti-staphylococcal for acute abscesses.
   - Analgesics, fluids, rest.
 + *Investigate & Treat Underlying Causes*
   - Diabetes, immunosuppression, foreign body, obstruction (perianal abscess often due to blocked anal gland).
@@ -215,14 +215,14 @@ _The principle of treatment is the same._
 *Definition*#written:Diffuse, spreading infection of skin and subcutaneous tissues characterized by acute inflammation without localization of pus.
 
 === Causative Organisms
-- Group A $beta$‑hemolytic Streptococci (most common)
+- Group A $beta$-hemolytic Streptococci (most common)
 - _Staphylococcus aureus_ can also cause localized forms.
 === Pathophysiology
 - Organisms enter through minor breaches (cuts, ulcers, abrasions).
-- Spread occurs along subcutaneous tissue planes, making lesions diffuse and ill‑defined.
+- Spread occurs along subcutaneous tissue planes, making lesions diffuse and ill-defined.
 === Clinical Features
 - *Onset*: Sudden, often with fever, malaise, chills.
-- *Local signs*: Hot, red, swollen, tender area with ill‑defined margins; skin tense and shiny.
+- *Local signs*: Hot, red, swollen, tender area with ill-defined margins; skin tense and shiny.
 - *Consistency*: Firm, no fluctuation (→ helps distinguish from abscess).
 - *Pain*: Severe, throbbing, localized.
 - *Systemic signs*: Fever, lymphangitis, regional lymphadenitis.
@@ -235,7 +235,7 @@ _The principle of treatment is the same._
   [Feature],	[Cellulitis],	[Abscess],
   [Nature],[Diffuse inflammation],[Localized pus collection],
   [Consistency],[Hard, indurated],[Fluctuant],
-  [Margins],[Ill‑defined],[Well‑defined],
+  [Margins],[Ill-defined],[Well-defined],
   [Treatment],[Antibiotics + supportive care],[Incision & drainage + antibiotics]
   ),
   caption: [Differences between Cellulitis and Abscess]
@@ -278,7 +278,7 @@ columns:3,
 - Minimal infection
 - Seen in toes/fingers of diabetics or elderly.],
 [Wet gangrene],[Infection + venous obstruction (e.g., bedsore, bowel strangulation)],[
-- Swollen, soft, foul‑smelling
+- Swollen, soft, foul-smelling
 - No clear demarcation
 - Rapidly spreads.],
 [Gas gangrene],[Anaerobic infection (Clostridium perfringens) after trauma],[- Crepitus, brownish discharge, profound toxemia, rapid progression.],
@@ -289,14 +289,14 @@ columns:3,
 === Management
 + *General Measures*
   - Resuscitation — fluids, correct anemia, control diabetes, antibiotics.
-  - Broad‑spectrum antibiotics early (cover Gram‑positive, Gram‑negative, anaerobes) — e.g. Ceftriaxone + Metronidazole.
+  - Broad-spectrum antibiotics early (cover Gram-positive, Gram-negative, anaerobes) — e.g. Ceftriaxone + Metronidazole.
   - Local Measures
 + *Dry gangrene*
   - Keep dry, protect from infection.
   - Allow natural line of demarcation → amputation when patient stable and demarcation clear.
 + *Wet / Gas gangrene*
   - Urgent surgical debridement or amputation — life over limb.
-  - For gas gangrene → radical excision, high‑flow oxygen (hyperbaric if available), IV Penicillin + Clindamycin + Metronidazole.
+  - For gas gangrene → radical excision, high-flow oxygen (hyperbaric if available), IV Penicillin + Clindamycin + Metronidazole.
 + *Supportive*
   - Analgesia, nutrition, diabetic & vascular optimization.
 For Fournier’s Gangrene refer NSTI see: @NSTI
@@ -316,7 +316,7 @@ columns: (auto, auto, auto),
 caption: [Comparison between dry and moist gangrene]
 )
 == Tetanus
-*Definition*: Tetanus is a spastic paralytic disease caused by the neurotoxin (tetanospasmin) produced by Clostridium tetani, an obligate anaerobic, spore‑forming bacillus.
+*Definition*: Tetanus is a spastic paralytic disease caused by the neurotoxin (tetanospasmin) produced by Clostridium tetani, an obligate anaerobic, spore-forming bacillus.
 
 === Etiology
 #written
@@ -332,7 +332,7 @@ caption: [Comparison between dry and moist gangrene]
 === Clinical Features
 Incubation Period: 3-21 days
 - *Early signs*: Trismus (“lockjaw”), neck stiffness, dysphagia.
-- *Facial involvement*: Risus sardonicus – grim, fixed smile due to facial spasm.
+- *Facial involvement*: Risus sardonicus - grim, fixed smile due to facial spasm.
 - *Generalized spasms*: Opisthotonus (arching of back), abdominal rigidity.
 - *Other features*: Painful spasms triggered by light, sound, touch; preserved sensorium.
 - *Autonomic dysfunction*: Tachycardia, fluctuating BP, sweating, arrhythmias (severe cases).
@@ -341,7 +341,7 @@ Incubation Period: 3-21 days
 - History of wound + characteristic spasms = diagnostic.
 === Management
 + *Neutralize Unbound Toxin*
-  - Human Tetanus Immunoglobulin (TIG) 3000–6000 IU IM (or equine ATS if TIG unavailable).
+  - Human Tetanus Immunoglobulin (TIG) 3000-6000 IU IM (or equine ATS if TIG unavailable).
 + *Prevent Further Toxin Production*
   - Wound debridement — remove necrotic tissue and source of anaerobic growth.
   - *Antibiotics*:
@@ -358,7 +358,7 @@ Incubation Period: 3-21 days
 + *Active Immunization*
   - Tetanus toxoid given during recovery (disease does not confer immunity).
 === Prognosis
-Mortality remains high if untreated (up to 80%), but with modern intensive care, survival > 85% is possible in well-managed patients.
+Mortality remains high if untreated (up to 80%), but with modern intensive care, survival > 85% is possible in well-managed patients.
 
 _Spasms reverse and Trismus goes last, weeks to months_
 == Wound
@@ -372,9 +372,9 @@ _Spasms reverse and Trismus goes last, weeks to months_
   - *Pathological*: Malignant ulcer, tuberculous sinus
 + *Based on Contamination (ATLS Classification)*
   - *Clean*: Elective surgery, no entry into GI/respiratory/urinary tracts
-  - *Clean‑contaminated*: Controlled entry into GI/respiratory/urinary tracts
-  - *Contaminated*: Fresh traumatic wounds (< 4 h old) or major breach in asepsis
-  - *Dirty / Infected*: Old traumatic wounds >4–6 h, devitalized tissue, pus present
+  - *Clean-contaminated*: Controlled entry into GI/respiratory/urinary tracts
+  - *Contaminated*: Fresh traumatic wounds (< 4 h old) or major breach in asepsis
+  - *Dirty / Infected*: Old traumatic wounds >4-6 h, devitalized tissue, pus present
 === Types of Healing
 #figure(table(
   columns: 3,
@@ -385,11 +385,11 @@ _Spasms reverse and Trismus goes last, weeks to months_
 ),caption: [Types of Wound Healing])
 
 === Phases / Stages of Wound Healing
-+ *Inflammatory phase (0–3 days)*
++ *Inflammatory phase (0-3 days)*
   - Hemostasis + inflammation (vasodilation, migration of neutrophils, macrophages).
-+ *Proliferative (Fibroblastic) phase (3–10 days)*
-  - Fibroblast proliferation, collagen deposition, angiogenesis, granulation tissue formation, re‑epithelialization begins.
-+ *Maturation (Remodeling) phase (from day 10 → weeks/months)*
++ *Proliferative (Fibroblastic) phase (3-10 days)*
+  - Fibroblast proliferation, collagen deposition, angiogenesis, granulation tissue formation, re-epithelialization begins.
++ *Maturation (Remodeling) phase (from day 10 → weeks/months)*
   - Collagen reorganizes, wound contracts, scar strengthens.
 #info_box([When Tissue is Granulating#shomiron],[
 - Reduced features of acute inflammation  
@@ -421,25 +421,25 @@ _Treat the cause before it affects wound_
 - *Good hemostasis* to prevent hematoma.
 - *Adequate rest and immobilization*
 - *Optimize systemic health* — correct anemia, control diabetes, improve nutrition.
-- *High-protein, vitamin-rich diet* (Vitamin C, Zinc, A).
+- *High-protein, vitamin-rich diet* (Vitamin C, Zinc, A).
 - *Stop steroids / cytotoxic drugs* if possible.
 
 === Complications of Wound Healing
 ==== Local Complications
   + *Wound infection*: Most common; causes pus, delayed healing, possibly abscess formation.
-  + *Wound dehiscence (burst abdomen)*: Failure of wound closure due to infection, poor suturing, raised intra‑abdominal pressure (classically 7–10 days post‑op).
+  + *Wound dehiscence (burst abdomen)*: Failure of wound closure due to infection, poor suturing, raised intra-abdominal pressure (classically 7-10 days post-op).
   + *Hematoma / Seroma*: Collection of blood or serum under wound → tension, infection risk.
   + *Retained foreign body or necrotic tissue*: Acts as nidus for infection.
   + *Scarring abnormalities*:
     - Hypertrophic scar: within wound margin, may regress.
     - Keloid: beyond original wound, may persist, itchy, recurs after excision.
   + *Sinus or fistula formation*: Persistent discharge tract from chronic infection or foreign body.
-  + *Chronic non‑healing ulcer*: Due to ischemia, neuropathy, or malignancy transformation (Marjolin ulcer).
+  + *Chronic non-healing ulcer*: Due to ischemia, neuropathy, or malignancy transformation (Marjolin ulcer).
 ==== Systemic Complications
   + *Complication*: Description
   + *Bacteremia / Septicemia*: Spread of bacteria systemically → high fever, rigors, hypotension, possibly septic shock.
   + *Tetanus and gas gangrene*: In contaminated or neglected wounds (especially deep punctured wounds).
-  + *Multi‑organ failure*: From severe sepsis or toxemia.
+  + *Multi-organ failure*: From severe sepsis or toxemia.
   + *Scarring contractures (functional impairment)*: Especially around joints, leading to limited movement.
   + *Malignant change (Marjolin ulcer)*: Rare; squamous cell carcinoma developing in chronic scar or ulcer.
 

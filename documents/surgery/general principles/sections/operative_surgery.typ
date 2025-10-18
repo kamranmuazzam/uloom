@@ -11,15 +11,15 @@
   columns:3,
   [Aspect],[Purpose],[Examples / Notes],
 [History & examination],[Assess operative risk],[Check cardiovascular, respiratory, renal function],
-[Investigations],[Baseline & diagnostic],[CBC, renal/liver function, ECG, chest X‑ray, blood group & cross‑match],
+[Investigations],[Baseline & diagnostic],[CBC, renal/liver function, ECG, chest X-ray, blood group & cross-match],
 [Optimization of comorbidities],[Ensure patient fit for anesthesia/surgery],[Control diabetes, hypertension, infection, anemia],
 [Pre-anesthetic check (PAC)],[Assess anesthesia risk & airway],[ASA grading, airway evaluation],
 [Informed consent],[Ethical & legal requirement],[Explain procedure, risks, alternatives],
 [Marking surgical site],[Avoid wrong-site surgery],[Mark before induction in presence of patient],
 [Bowel preparation],[For abdominal/pelvic surgery],[Clear liquids ± laxatives/enemas],
-[Preoperative fasting],[Avoid aspiration],[Usually 6 h for solids, 2 h for clear fluids],
+[Preoperative fasting],[Avoid aspiration],[Usually 6 h for solids, 2 h for clear fluids],
 [Premedication],[Reduce anxiety, gastric acidity],[Diazepam, omeprazole, anticholinergic as advised by anesthetist],
-[Antibiotic prophylaxis],[Reduce surgical site infection],[1st-gen cephalosporin 30–60 min pre-incision],
+[Antibiotic prophylaxis],[Reduce surgical site infection],[1st-gen cephalosporin 30-60 min pre-incision],
 [Venous thromboembolism prophylaxis],[Prevent DVT/PE],[LMWH, compression stockings, early ambulation],
 [Tetanus prophylaxis],[If trauma or open procedure],[As indicated],
 ),
@@ -38,7 +38,7 @@ caption: [Preoperative Preparation])
 [Adequate exposure],[Retract, suction, good lighting],
 [Preserve blood supply],[Avoid excessive cautery],
 [Minimize foreign material],[Use least suture required],
-[Closure],[Layer‑by‑layer anatomical approximation],
+[Closure],[Layer-by-layer anatomical approximation],
 [Counts & checks],[Instruments, sponges, needles before closure],
 [Specimen labeling],[If tissue sent for histopathology],
 [Documentation],[Record operative notes, findings, complications],
@@ -49,34 +49,34 @@ caption: [Intraoperative Principles])
 #figure(table(
   columns: 2,
   [Phase],[Key Points],
-[Immediate post‑op],[Observation of airway, breathing, circulation, consciousness],
+[Immediate post-op],[Observation of airway, breathing, circulation, consciousness],
 [Fluid and electrolyte balance],[Follow daily intake/output chart],
 [Pain management],[NSAIDs, opioids as needed],
 [Antibiotic stewardship],[Avoid unnecessary prolongation],
 [DVT prophylaxis],[Continue pharmacologic / mechanical methods],
-[Drain management],[Monitor output, remove when < 50 mL/day or as indicated],
+[Drain management],[Monitor output, remove when < 50 mL/day or as indicated],
 [Wound care],[Inspect for bleeding, infection, dehiscence],
 [Nutrition],[Early enteral feeding when peristalsis returns],
 [Monitoring for complications],[Fever, vomiting, urine output, bowel sounds],
 [Mobilization],[Early ambulation to prevent DVT, pneumonia],
 [Diet],[Gradual resumption once peristalsis returns],
-[Discharge & follow‑up],[Give wound, drug, and review instructions],
+[Discharge & follow-up],[Give wound, drug, and review instructions],
 ),
 caption: [Post Operative Care])
 
-== Supplementary General Surgical Knowledge (High‑Yield)
+== Supplementary General Surgical Knowledge (High-Yield)
 
 === Surgical Instruments
 - Named classification: cutting, grasping, retracting, hemostatic.
 - Examples: scalpel, forceps, needle holders, artery forceps.
 
 === Suture Materials & Techniques
-- Absorbable (catgut, vicryl) vs non‑absorbable (silk, nylon).
+- Absorbable (catgut, vicryl) vs non-absorbable (silk, nylon).
 - Patterns: interrupted, continuous, mattress, subcuticular.
 
 === Sterilization & Disinfection
-- Autoclaving (121°C, 15 psi, 15–30 min).
-- Chemical sterilants for heat‑sensitive instruments.
+- Autoclaving (121°C, 15 psi, 15-30 min).
+- Chemical sterilants for heat-sensitive instruments.
 
 === Operation Theatre (OT) Design
 - Zoning: outer → clean → sterile area.
@@ -222,7 +222,7 @@ caption:[Common abdominal incisions with landmarks and indications]
 === Right Subcostal (Kocher's) Incision 
 #written #viva
 ==== Description
-A 5 – 7 cm incision placed ~2.5 cm below and parallel to the right costal margin.  
+A 5 - 7 cm incision placed ~2.5 cm below and parallel to the right costal margin.  
 When extended medially to the midline → Kocher's incision.
 
 ==== Surgeries Performed
@@ -292,7 +292,7 @@ When extended medially to the midline → Kocher's incision.
 == Closure
 #info_box([Wound Closure#shomiron],[
 - *Primary Closure*: during surgery  
-- *Delayed Primary Closure*: within 24–48 h of injury  
+- *Delayed Primary Closure*: within 24-48 h of injury  
 - *Secondary Closure*: after 48 h, post-infection control
 ])
 

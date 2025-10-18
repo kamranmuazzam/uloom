@@ -27,7 +27,7 @@ Usually combination of crystalloids
 - *2nd POD*: Dextrose Normal Saline (DNS) 2L + KCl 20 mEq (if urine output adequate).  
 _Always reassess clinically (input/output chart, weight, vitals, skin turgor, CVP if available)._
 === Special Consideration
-- Major abdominal surgery: replace third-space losses (e.g., with RL or NS 1–2 L during surgery).
+- Major abdominal surgery: replace third-space losses (e.g., with RL or NS 1-2 L during surgery).
 - Pediatric or elderly: adjust according to weight and organ function.
 - Monitoring: weight charting and daily serum electrolytes.
 *Rationale for this choice is as follows*#card.  
@@ -40,9 +40,9 @@ _Always reassess clinically (input/output chart, weight, vitals, skin turgor, CV
   columns:2,
   [Parameter],[Frequency/Remarks],
   [Urine output],[Hourly; aim ≥ 0.5 mL/kg/h],
-  [Vital signs],[Every 2–4 h initially],
+  [Vital signs],[Every 2-4 h initially],
   [Daily weight],[Reliable indicator of fluid balance],
-  [Serum electrolytes],[6–12 hourly initially, then daily],
+  [Serum electrolytes],[6-12 hourly initially, then daily],
   [Physical examination],[JVP, edema, mucous membranes]
 ),caption:[Monitoring Parameters in Fluid Therapy])
 == Hypokalemia
@@ -67,7 +67,7 @@ Definition : Serum K+ < 3.5 mmol/L
   columns:3,
   [Classification],[Criteria], [Treatment],
   [Mild],[3-3.5 mmol/L, no ECG changes],[Oral K⁺ (e.g., potassium chloride syrup/tablets)],
-  [Moderate-Severe],[< 3 mmol/L, or ECG changes], [IV KCl 20–40 mmol added to 1 L of fluid (usually NS), infused slowly#footnote[10–20 mmol/h via peripheral line, 40 mmol/h via central line with telemetry] under ECG monitoring]
+  [Moderate-Severe],[< 3 mmol/L, or ECG changes], [IV KCl 20-40 mmol added to 1 L of fluid (usually NS), infused slowly#footnote[10-20 mmol/h via peripheral line, 40 mmol/h via central line with telemetry] under ECG monitoring]
 ),caption:[Correction Protocol for Hypokalemia])
 Also, stop ongoing losses and switch to K⁺-containing fluids for maintenance (e.g., Ringer’s lactate + K⁺ supplementation).
 
