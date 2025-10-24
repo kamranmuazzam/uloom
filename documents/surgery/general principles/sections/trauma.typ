@@ -9,6 +9,7 @@
 *Definition*#viva:*Triage* is the *systematic process of rapidly assessing and prioritizing casualties* according to the *severity of injury* and the *urgency of intervention* required — especially critical when resources are limited (mass casualty settings).
 
 Derived from the French *“trier”* → “to sort”  
+
 *Principle:* *Do the greatest good for the greatest number.*
 
 === Goals

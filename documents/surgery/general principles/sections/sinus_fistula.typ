@@ -45,7 +45,7 @@
 === Pathophysiology
 - Persistent granulation and epithelial lining prevent closure.
 - Discharge varies: pus, bile, urine, feces, CSF.
-- *Factors preventing closure*: Infection, foreign body, distal obstruction, 
+- *Factors preventing closure*#card: Infection, foreign body, distal obstruction, 
   epithelialization, malignancy, radiation damage, poor nutrition.
 
 === Investigations

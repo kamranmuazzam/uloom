@@ -161,7 +161,7 @@
 + Define chalazion. (DU-13Ja, 12Ju)
 + Mention the treatment of chalazion. (DU- 13Ju)
 + Write short note on: Chalazion (DU- 18Ja, 15Ju, 12Ja)
-+ A12 years old girl presented with painful nodular swelling in right upper eyelid away from lid margin for 5 days. (DU-16Ju)
++ A 12 years old girl presented with painful nodular swelling in right upper eyelid away from lid margin for 5 days. (DU-16Ju)
   + What is your diagnosis?
   + How will you treat the case?
   + What complications may occur if untreated?
@@ -407,6 +407,7 @@
 + Define corneal abrasion. (DU-05M)
 + How will you manage a case of corneal abrasion? (DU-05Ja)
 + Describe the management of penetrating injury of the cornea with iris prolpase. (DU- 04M)
+// continue from here
 + A 30 year-old male presents with a history of injury to the eye with a least 5 days ago And pain, photophobia and redness of the eye for 2 days. (DU-19M)
 + What would be the most likely pathology?
 + What is the medical treatment?
@@ -420,7 +421,7 @@
 + Mention different types of keratoplasty. (DU 24Nov)
 + Classify keratoplasty. (DU- 22M,20Nov, 19Ja, 17/16Ju, 15Ja, 13/12Ju)
 + Give the criteria of ideal donar and recipient for keratoplasty. (DU-16Ju)
-+ What are the indications of keratoplaty? (DU-24Nov, 23/ 22M,20Nov, 19Ja, 17Ju, 15Ja, 12Ju, 11 Ju)
++ What are the indications of keratoplasty? (DU-24Nov, 23/ 22M,20Nov, 19Ja, 17Ju, 15Ja, 12Ju, 11 Ju)
 + What are the of corneal types transplantation. (DU-23M)
 + How will you overcome the barriers of eye donation in Bangladesh? (DU-08Ju)
 + What are the contraindications to ocular tissue donation? (DU-22M,20Nov)

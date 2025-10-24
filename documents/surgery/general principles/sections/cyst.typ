@@ -6,8 +6,9 @@
 
 *Definition*#written#shomiron: Abnormal collection of fluid within a sac which is lined by epithelium or endothelium
 - True cyst is lined by epithelium
-- False cyst (Pseudocyst) no lined by epithelium
+- False cyst (Pseudocyst) not lined by epithelium
 == Classification
+#card
 - *Developmental cysts:* e.g. dermoid, branchial, thyroglossal.
 - *Retention cysts:* due to obstruction of a duct, e.g. sebaceous, mucous.
 - *Implantation cysts:* following trauma or surgery.

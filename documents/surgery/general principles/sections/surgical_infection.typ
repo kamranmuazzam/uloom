@@ -211,6 +211,12 @@ Refer for this section in @septic-shock
 - Perianal abscess
 - Breast abscess
 _The principle of treatment is the same._
+=== Cold Abscess
+Abscess without features of acute inflammation. (No pain, No redness, No local temp raised)
+==== Causes
+- TB
+Cold abscess of neck -> Collar stud abscess (2 abscess cavity communicating by narrow channel)
+
 == Cellulitis
 *Definition*#written:Diffuse, spreading infection of skin and subcutaneous tissues characterized by acute inflammation without localization of pus.
 

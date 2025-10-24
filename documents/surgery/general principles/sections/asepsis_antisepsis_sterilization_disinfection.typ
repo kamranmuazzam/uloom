@@ -30,7 +30,7 @@
 - Povidone-iodine (halogen)
 - Chlorhexidine (biguanide)
 - Alcohol (ethyl, isopropyl)
-- Hydrogen peroxide (oxidizing agent)
+- Hydrogen peroxide (#ce("H2O2")) (oxidizing agent)
 - Quaternary ammonium compounds (e.g., cetrimide)
 #info_box([Antiseptic Solutions for Dressing #shomiron],[
 + Normal Saline  
@@ -57,16 +57,26 @@ _#ce("H2O2") causes damage to granulation tissue, hence *not used* for dressing.
   table(
     columns: 4,
     [Method],[Principle / Agent],[Used For],[Notes],
-    [Autoclaving (Steam under pressure)],[Moist heat at 121 °C, 15 psi, 15-30 min],[Surgical instruments, linen, dressings],[Most reliable & widely used method],
+    [Autoclaving (Steam under pressure)],[Moist heat at 121 °C, 15 psi, 15-30 min],[Blunt Surgical instruments, linen, dressings],[Most reliable & widely used method],
     [Hot Air Oven (Dry heat)],[160-170 °C for 1 hr],[Glassware, metal instruments],[Not for plastics or rubber],
     [Ethylene Oxide Gas Sterilization],[Alkylation of proteins at 37-55 °C],[Heat-sensitive items (catheters, endoscopes, sutures)],[Requires aeration after use],
     [Gamma Irradiation],[Cobalt-60 radiation],[Disposable plastic items (syringes, catheters)],[Industrial use],
     [Plasma (Hydrogen Peroxide Gas Plasma)],[Reactive plasma species destroy microbes],[Optical instruments, delicate plastics],[Fast, low-temp; replaces EtO in some hospitals],
-    [Chemical Sterilization],[Glutaraldehyde (Cidex), peracetic acid, formaldehyde],[Endoscopes, delicate instruments],[Prolonged contact (6-10 h for spores)],
+    [Chemical Sterilization],[Glutaraldehyde (Cidex), peracetic acid, formaldehyde],[Endoscopes, delicate instruments, Sharp Surgical Intruments],[Prolonged contact (6-10 h for spores)],
   ),
   caption: [Methods of Sterilization]
 )
+Sharp Surgical Intruments = Glutaraldehyde
 
+Blunt Surgical Instruments = Autoclave
+
+=== Autocalve
+==== Principles of Autoclave
+- Water boils are 100 ºC at standard atmospheric pressure (14.7 psi)
+- Spores such as _Clostrodium_ require 121 degrees but at atomospheric pressure even by using steam, we can achieve only a tempresure no higher of 100 ºC
+- To raise this temperature we have to produce steam at high pressure condition.
+- Raising pressure in closed container from 14.7 psi to 15 psi causes rise of boiling point of water from 100 ºC to 121 ºC.
+- Hence, enabling the killing of spores.
 === Monitoring of Sterilization
 - *Physical indicators*: temperature, pressure, time
 - *Chemical indicators*: Autoclave tape, Bowie-Dick test
@@ -76,6 +86,7 @@ _#ce("H2O2") causes damage to granulation tissue, hence *not used* for dressing.
 
 == Disinfection
 *Definition*: Destruction of pathogenic microorganisms, excluding spores, on inanimate objects.  
+
 *Example*: Sodium hypochlorite for surfaces, phenolic compounds for floors.
 
 === Levels of Disinfection

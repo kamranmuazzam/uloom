@@ -136,8 +136,8 @@ If there is confusion, Clinically malignant, FNAC says benign
 + Malignancy - Liposarcoma
 === Variants
 - Angiolipoma
-- spindle-cell lipoma
-- intramuscular lipoma.
+- Spindle-cell lipoma
+- Intramuscular lipoma.
 === Clinical features
   - Soft, lobulated, mobile swelling beneath skin.
   - Painless, slow-growing.
@@ -157,10 +157,10 @@ Excision and Biopsy
 - *Synonyms*: Epidermoid cyst, epidermal inclusion cyst.
 === Common sites
 - Scalp
-- face
-- neck
-- back
-- scrotum.
+- Face
+- Neck
+- Back
+- Scrotum.
 === Etiology
   - Duct obstruction.
   - Post-traumatic or congenital inclusion of epidermal elements.
@@ -244,26 +244,3 @@ Excision & Biopsy
   - Observation for spontaneous involution (common in infants).
   - Sclerotherapy (sodium tetradecyl sulfate), laser ablation, embolization for large AVMs.
   - Surgical excision for residual fibrofatty tissue or complicated lesions.
-
-== Hernia
-- *Definition*: Protrusion of a viscus or its part through a defect in the wall of its containing cavity.
-- *Predisposing factors*: Chronic cough, constipation, obesity, pregnancy, heavy lifting, collagen disorders.
-- *Common types*: Inguinal (direct/indirect), femoral, umbilical, epigastric, incisional.
-- *Special types*: Richter’s, Littre’s, Maydl’s, Spigelian, Obturator.
-- *Anatomy highlights*:
-  - Inguinal canal boundaries.
-  - Myopectineal orifice of Fruchaud — reinforces mesh-based rationale.
-- *Clinical features*:
-  - Swelling with *cough impulse* and *reducibility*.
-  - Expansile impulse on coughing.
-  - Reducible → contents return.
-  - Irreducible → cannot be reduced.
-  - *Obstructed* → pain, vomiting, distension.
-  - *Strangulated* → severe continuous pain, tenderness, systemic signs.
-- *Special tests* (inguinal): Invagination test, occlusion test, deep ring occlusion test.
-- *Investigations*: Primarily clinical; ultrasound or CT for uncertain/special cases.
-- *Complications*: Obstruction, strangulation, recurrence, testicular atrophy, chronic groin pain.
-- *Treatment*:
-  - *Elective*: Herniorrhaphy (tissue repair) or hernioplasty (mesh repair, e.g. Lichtenstein).
-  - *Laparoscopic*: TAPP (transabdominal preperitoneal), TEP (totally extraperitoneal).
-  - *Emergency*: Strangulated hernia → urgent exploration and repair.

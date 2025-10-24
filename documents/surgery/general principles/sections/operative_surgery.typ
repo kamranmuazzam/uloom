@@ -5,6 +5,7 @@
 = Operative Surgery
 
 == The Preoperative, Operative and Post-Operative Principles
+Following are general principles followed and will be modified as per requirement.
 
 === Preoperative Preparation
 #figure(table(
@@ -152,7 +153,7 @@ caption:[Common laparoscopic / minimal access surgical procedures]
   - Bladder: Laparoscopic cystolithotomy.  
   - Prostate: Laparoscopic prostatectomy.  
 
-= General Principles of Surgery: Incision, Excision & Closure
+= Incision, Excision & Closure
 
 == Incision
 *Definition*#shomiron: Breach of continuity of skin or mucous membrane by a sharp knife for surgical means is called incision.

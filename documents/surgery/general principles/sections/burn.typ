@@ -189,8 +189,8 @@ approximate mortality prediction. = Age + %TBSA (±17 if inhalation injury prese
 == Special Populations
 === Children and Elderly
 fluid needs, hypothermia risk and comorbidities differ.
-- *pediatrics*: maintenance fluids required along with resuscitation due to higher surface area:body-mass ratio and evaporative losses as per Holliday Segar Formula, See @holliday-segar-formula
-- *elderly*: careful monitoring for cardiac overload during fluid therapy.
-=== Pregnancy
+- *Pediatrics*: maintenance fluids required along with resuscitation due to higher surface area:body-mass ratio and evaporative losses as per Holliday Segar Formula, See @holliday-segar-formula
+- *Elderly*: careful monitoring for cardiac overload during fluid therapy.
+- *Pregnancy*
 - fetal monitoring
 - increased risk of hypovolemia.

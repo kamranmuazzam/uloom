@@ -13,18 +13,26 @@
 ]
 #align(bottom + left)[#datetime.today().display()]
 ]
-#outline()
-#pagebreak(weak: true)
+#[
+#counter(page).update(1)
+#set page(numbering: "I")
+= Table of Contents
 #outline(
-  title: [List of Tables],
+  title: none
+)
+#pagebreak(weak: true)
+= List of Tables
+#outline(
+  title: none,
   target: figure.where(kind: table),
 )
 #pagebreak(weak: true)
-
+#counter(page).update(1)
 #import "style.typ":*
 #show: style
 #include "style.typ"
 #set page(columns: 2)
+]
 
 /* some topics have viva remaining */
 
@@ -36,6 +44,7 @@
 #include "sections/burn.typ"  /* complete */
 #include "sections/trauma.typ"  /* complete */
 #include "sections/swelling.typ" /* complete */
+#include "sections/hernia.typ" /* complete */
 #include "sections/cyst.typ" /* complete */
 #include "sections/sinus_fistula.typ" /* complete */
 #include "sections/asepsis_antisepsis_sterilization_disinfection.typ"  /* complete */
