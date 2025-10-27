@@ -31,6 +31,8 @@ The Main topics are divided as follows
 #set page(columns:2)
 #include "obs/antenatal.typ"
 #include "obs/aph.typ"
+#include "obs/gdm.typ"
+#include "obs/htn.typ"
 #include "obs/labor.typ"
 #include "obs/cs.typ"
 #include "obs/postnatal.typ"

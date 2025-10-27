@@ -6,7 +6,7 @@
 
 == Preeclampsia
 *Definition* #viva  
-A pregnancy-specific multisystem disorder characterized by **new-onset hypertension after 20 weeks of gestation with proteinuria and/or evidence of end-organ dysfunction** in a previously normotensive woman.
+A pregnancy-specific multisystem disorder characterized by *new-onset hypertension after 20 weeks of gestation with proteinuria and/or evidence of end-organ dysfunction* in a previously normotensive woman.
 
 #high-yield
 - *Hypertension:* ≥140/90 mmHg on two occasions, at least 4 hours apart.  
@@ -31,10 +31,10 @@ Mrs. M, 26 years old, at 33 weeks, BP 150/100 mmHg, urine (+++) protein → cons
 
 === Investigations
 #card
-- **Urine:** Proteinuria by dipstick or 24-hour collection.  
-- **Blood tests:** CBC, platelet count, peripheral smear (HELLP screen), serum creatinine, uric acid, liver enzymes (AST/ALT).  
-- **Fetal evaluation:** NST, Doppler velocimetry, ultrasound for growth and amniotic fluid.  
-- **Fundus examination:** Hypertensive retinopathy changes.
+- *Urine:* Proteinuria by dipstick or 24-hour collection.  
+- *Blood tests:* CBC, platelet count, peripheral smear (HELLP screen), serum creatinine, uric acid, liver enzymes (AST/ALT).  
+- *Fetal evaluation:* NST, Doppler velocimetry, ultrasound for growth and amniotic fluid.  
+- *Fundus examination:* Hypertensive retinopathy changes.
 
 #high-yield
 - Increased uric acid and low platelets are early indicators.  
@@ -65,20 +65,20 @@ Mrs. M, 26 years old, at 33 weeks, BP 150/100 mmHg, urine (+++) protein → cons
 
 === Management
 #viva
-**General:**  
+*General:*  
 - Admit to hospital, bed rest in left lateral position.  
 - Monitor BP, urine protein, urine output, reflexes, FHR.  
 - Diet: normal salt, adequate protein.
 
-**Medical:**  
-- **Antihypertensives:**  
+*Medical:*  
+- *Antihypertensives:*  
   - Labetalol (first choice) 100–200 mg PO q8h.  
   - Nifedipine 10–20 mg PO q8h.  
   - Methyldopa 250–500 mg PO q8h (older option).  
-- **Magnesium sulfate** to prevent eclampsia (loading and maintenance).  
-- **Corticosteroids** if <34 weeks for lung maturity.
+- *Magnesium sulfate* to prevent eclampsia (loading and maintenance).  
+- *Corticosteroids* if < 34 weeks for lung maturity.
 
-**Delivery:**  
+*Delivery:*  
 - Definitive cure is *delivery of fetus and placenta*.  
 - Induce labor if ≥37 weeks or earlier if maternal/fetal danger (uncontrolled BP, severe symptoms, abnormal Doppler, etc.).  
 
@@ -91,10 +91,10 @@ Mrs. M, 26 years old, at 33 weeks, BP 150/100 mmHg, urine (+++) protein → cons
 #viva
 - BP ≥160/110 mmHg on ≥2 readings 4 hours apart  
 - Proteinuria ≥5 g/24 h or ≥3+ on dipstick  
-- Oliguria (<500 mL/24 h)  
+- Oliguria (< 500 mL/24 h)  
 - Neurological symptoms (headache, visual disturbance, altered sensorium)  
 - Epigastric or RUQ pain  
-- Platelet count <100,000/mm³  
+- Platelet count < 100,000/mm³  
 - Elevated liver enzymes or creatinine  
 - Fetal growth restriction  
 
@@ -108,7 +108,7 @@ Used for prophylaxis and treatment of eclampsia.
 
 === Dose
 *Loading Dose* #viva  
-- **Pritchard regimen:**  
+- *Pritchard regimen:*  
   - 4 g MgSO₄ IV over 5–10 min, followed by 10 g IM (5 g in each buttock).  
   - *Maintenance:* 5 g IM every 4 hours in alternate buttocks.  
   - Continue for 24 hours after last seizure or delivery.  
@@ -120,14 +120,14 @@ Used for prophylaxis and treatment of eclampsia.
 
 === Monitoring of Patient during Therapy
 #viva
-- **Respiratory rate:** should be >16/min.  
-- **Patellar reflexes:** must be present.  
-- **Urine output:** >25 mL/hr.  
-If any absent → hold dose and give **10 mL of 10% calcium gluconate IV slowly** (antidote).
+- *Respiratory rate:* should be >16/min.  
+- *Patellar reflexes:* must be present.  
+- *Urine output:* >25 mL/hr.  
+If any absent → hold dose and give *10 mL of 10% calcium gluconate IV slowly* (antidote).
 
 #high-yield
 - Loss of reflexes → first sign of toxicity.  
-- Stop MgSO₄ if serum magnesium >8 mEq/L or respiratory rate <12/min.
+- Stop MgSO₄ if serum magnesium >8 mEq/L or respiratory rate < 12/min.
 
 == Impending Eclampsia
 === Features
@@ -140,7 +140,7 @@ If any absent → hold dose and give **10 mL of 10% calcium gluconate IV slowly*
 - Rapidly rising BP and marked edema
 
 #high-yield
-- Indicates imminent convulsion—requires **immediate magnesium sulfate** and stabilization.  
+- Indicates imminent convulsion—requires *immediate magnesium sulfate* and stabilization.  
 
 == Eclampsia
 *Definition* #card  
@@ -148,10 +148,10 @@ Occurrence of generalized tonic–clonic convulsions and/or coma in a woman with
 
 === Stages of Eclamptic Fit
 #viva
-1. **Premonitory stage:** facial twitching, eye rolling, rigidity.  
-2. **Tonic stage:** generalized muscle contraction lasting ~30 sec, respiration stops.  
-3. **Clonic stage:** jerky movements of limbs for 1–2 min, respiration resumes.  
-4. **Comatose stage:** unconsciousness or deep sleep follows.
+1. *Premonitory stage:* facial twitching, eye rolling, rigidity.  
+2. *Tonic stage:* generalized muscle contraction lasting ~30 sec, respiration stops.  
+3. *Clonic stage:* jerky movements of limbs for 1–2 min, respiration resumes.  
+4. *Comatose stage:* unconsciousness or deep sleep follows.
 
 #high-yield
 - Convulsions may recur every few minutes without treatment.  

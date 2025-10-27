@@ -9,7 +9,8 @@ Carbohydrate intolerance of variable severity resulting in hyperglycemia with on
 
 #high-yield
 - Applies regardless of whether insulin or diet control is used, or if the condition persists after pregnancy.  
-- Caused by insulin resistance due to placental hormones (hPL, estrogen, progesterone, cortisol).  
+- Caused by insulin resistance due to placental hormones (hPL, estrogen, progesterone, cortisol). 
+- Women who had diabetes before pregnancy are termed as *pregestational diabetes*, or "primigravida at 37 weeks with DM" 
 
 == Risk Factors
 #viva
@@ -52,19 +53,19 @@ Carbohydrate intolerance of variable severity resulting in hyperglycemia with on
 
 == Treatment
 #viva
-1. **Dietary modification:**  
+1. *Dietary modification:*  
    - 30–35 kcal/kg/day for normal weight; 25 kcal/kg/day for overweight.  
    - Small frequent meals; increased fiber intake.  
    - Avoid concentrated sugars and refined carbohydrates.
-2. **Exercise:**  
+2. *Exercise:*  
    - Moderate physical activity if not contraindicated.
-3. **Medical:**  
+3. *Medical:*  
    - If blood sugar > fasting 95 mg/dL or 2-hour >120 mg/dL → start Insulin.  
    - Oral hypoglycemics (Metformin) can be used if patient cannot take insulin and is not in early gestation.
-4. **Monitoring:**  
+4. *Monitoring:*  
    - 4-point glucose profile daily (fasting & post-meals).  
    - Urinalysis for ketones if glucose poorly controlled.
-5. **Delivery:**  
+5. *Delivery:*  
    - Aim for 38–40 weeks with good control.  
    - Cesarean if estimated fetal weight >4 kg.  
    - Insulin discontinued after delivery, re-evaluate 6 weeks postpartum.  
@@ -88,11 +89,12 @@ Carbohydrate intolerance of variable severity resulting in hyperglycemia with on
 
 == Screening Methods
 #viva
-- **Universal screening:** all pregnant women at 24–28 weeks.  
-- **DIPSI (Indian) one-step test:**  
+- *Universal screening:* all pregnant women at 24–28 weeks.  
+- *OGTT*
+- *DIPSI (Indian) one-step test:*  
   - Give 75 g oral glucose (non-fasting); measure plasma glucose after 2 hours.  
   - ≥140 mg/dL = GDM.  
-- **Two-step approach (ACOG):**  
+- *Two-step approach (ACOG):*  
   - 50 g GCT (non-fasting); if ≥140 mg/dL → 100 g OGTT fasting (≥2 abnormal values positive).  
 
 #high-yield
