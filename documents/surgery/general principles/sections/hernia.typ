@@ -18,7 +18,7 @@
   - Periumbilical hernia
   - Lumbar hernia
   - Femoral hernia
-  - Inguinal hernia – isolated hernia
+  - Inguinal hernia - isolated hernia
 - Spigelian hernia
 
 #info_box([],[

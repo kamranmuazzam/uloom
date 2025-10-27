@@ -26,7 +26,7 @@ Carbohydrate intolerance of variable severity resulting in hyperglycemia with on
 
 #high-yield
 - South Asian women have higher risk.  
-- Glycemic load increases progressively from 24–28 weeks due to placental hormones.  
+- Glycemic load increases progressively from 24-28 weeks due to placental hormones.  
 
 == Complications
 #viva
@@ -54,7 +54,7 @@ Carbohydrate intolerance of variable severity resulting in hyperglycemia with on
 == Treatment
 #viva
 1. *Dietary modification:*  
-   - 30–35 kcal/kg/day for normal weight; 25 kcal/kg/day for overweight.  
+   - 30-35 kcal/kg/day for normal weight; 25 kcal/kg/day for overweight.  
    - Small frequent meals; increased fiber intake.  
    - Avoid concentrated sugars and refined carbohydrates.
 2. *Exercise:*  
@@ -66,7 +66,7 @@ Carbohydrate intolerance of variable severity resulting in hyperglycemia with on
    - 4-point glucose profile daily (fasting & post-meals).  
    - Urinalysis for ketones if glucose poorly controlled.
 5. *Delivery:*  
-   - Aim for 38–40 weeks with good control.  
+   - Aim for 38-40 weeks with good control.  
    - Cesarean if estimated fetal weight >4 kg.  
    - Insulin discontinued after delivery, re-evaluate 6 weeks postpartum.  
 
@@ -81,7 +81,7 @@ Carbohydrate intolerance of variable severity resulting in hyperglycemia with on
 - IUGR or evidence of placental insufficiency.  
 - Associated preeclampsia or other maternal complications.  
 - Polyhydramnios with significant symptoms.  
-- At 38–40 weeks if fetus mature and stable.  
+- At 38-40 weeks if fetus mature and stable.  
 
 #high-yield
 - If macrosomia suspected >4.5 kg → planned cesarean to prevent shoulder dystocia.  
@@ -89,7 +89,7 @@ Carbohydrate intolerance of variable severity resulting in hyperglycemia with on
 
 == Screening Methods
 #viva
-- *Universal screening:* all pregnant women at 24–28 weeks.  
+- *Universal screening:* all pregnant women at 24-28 weeks.  
 - *OGTT*
 - *DIPSI (Indian) one-step test:*  
   - Give 75 g oral glucose (non-fasting); measure plasma glucose after 2 hours.  
@@ -100,4 +100,4 @@ Carbohydrate intolerance of variable severity resulting in hyperglycemia with on
 #high-yield
 - WHO criterion: 75 g OGTT; fasting ≥92 mg/dL, 1 hr ≥180 mg/dL, 2 hr ≥153 mg/dL → GDM.  
 - Early screening (first ANC visit) for high-risk women.  
-- Postpartum follow-up OGTT at 6–12 weeks due to risk of future Type 2 DM.
+- Postpartum follow-up OGTT at 6-12 weeks due to risk of future Type 2 DM.

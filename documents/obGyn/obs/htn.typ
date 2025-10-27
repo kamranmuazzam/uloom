@@ -72,9 +72,9 @@ Mrs. M, 26 years old, at 33 weeks, BP 150/100 mmHg, urine (+++) protein → cons
 
 *Medical:*  
 - *Antihypertensives:*  
-  - Labetalol (first choice) 100–200 mg PO q8h.  
-  - Nifedipine 10–20 mg PO q8h.  
-  - Methyldopa 250–500 mg PO q8h (older option).  
+  - Labetalol (first choice) 100-200 mg PO q8h.  
+  - Nifedipine 10-20 mg PO q8h.  
+  - Methyldopa 250-500 mg PO q8h (older option).  
 - *Magnesium sulfate* to prevent eclampsia (loading and maintenance).  
 - *Corticosteroids* if < 34 weeks for lung maturity.
 
@@ -109,12 +109,12 @@ Used for prophylaxis and treatment of eclampsia.
 === Dose
 *Loading Dose* #viva  
 - *Pritchard regimen:*  
-  - 4 g MgSO₄ IV over 5–10 min, followed by 10 g IM (5 g in each buttock).  
+  - 4 g MgSO₄ IV over 5-10 min, followed by 10 g IM (5 g in each buttock).  
   - *Maintenance:* 5 g IM every 4 hours in alternate buttocks.  
   - Continue for 24 hours after last seizure or delivery.  
 
 #high-yield
-- Therapeutic serum magnesium = 4–7 mEq/L.  
+- Therapeutic serum magnesium = 4-7 mEq/L.  
 - Use deep IM injection with lignocaine to reduce pain.  
 - Monitor to avoid toxicity.
 
@@ -144,13 +144,13 @@ If any absent → hold dose and give *10 mL of 10% calcium gluconate IV slowly* 
 
 == Eclampsia
 *Definition* #card  
-Occurrence of generalized tonic–clonic convulsions and/or coma in a woman with preeclampsia, not attributable to other causes.
+Occurrence of generalized tonic-clonic convulsions and/or coma in a woman with preeclampsia, not attributable to other causes.
 
 === Stages of Eclamptic Fit
 #viva
 1. *Premonitory stage:* facial twitching, eye rolling, rigidity.  
 2. *Tonic stage:* generalized muscle contraction lasting ~30 sec, respiration stops.  
-3. *Clonic stage:* jerky movements of limbs for 1–2 min, respiration resumes.  
+3. *Clonic stage:* jerky movements of limbs for 1-2 min, respiration resumes.  
 4. *Comatose stage:* unconsciousness or deep sleep follows.
 
 #high-yield
@@ -167,4 +167,4 @@ Occurrence of generalized tonic–clonic convulsions and/or coma in a woman with
 
 #high-yield
 - Aggressive BP control (labetalol/nifedipine), seizure prevention (MgSO₄), and timely delivery significantly reduce mortality.  
-- Postpartum eclampsia can occur within 48 hours, so monitoring for ≥24–48 hours post-delivery is essential.
+- Postpartum eclampsia can occur within 48 hours, so monitoring for ≥24-48 hours post-delivery is essential.

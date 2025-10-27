@@ -12,7 +12,7 @@ definition: A reversible loss of sensation (with or without loss of consciousnes
     [Type],[Definition / Mechanism],[Examples / Methods],
     [1. Local Anaesthesia],[Temporary loss of sensation in a small, localized area by blocking nerve conduction at the site of administration.],[Infiltration with lignocaine, topical agents (lidocaine jelly, eutectic cream).],
     [2. Regional Anaesthesia],[Blocks sensory (and often motor) function of a larger region by acting on major nerves or spinal cord roots.],[- Nerve block (brachial, pudendal, dental)
-- Spinal anaesthesia (drug into CSF at L3–L4)
+- Spinal anaesthesia (drug into CSF at L3-L4)
 - Epidural anaesthesia (drug into epidural space)
 - Caudal block],
     [3. General Anaesthesia (GA)],[A reversible state of unconsciousness, with loss of sensation, pain, and muscle tone, produced by intravenous or inhalational agents.],[
@@ -36,10 +36,10 @@ definition: A reversible loss of sensation (with or without loss of consciousnes
   + Detailed history (comorbidities, drug allergies, previous anaesthetic reactions)
   + Physical examination (airway, CVS, respiratory)
   + Necessary investigations: Hb, renal function, ECG, CXR if indicated.
-  + ASA (American Society of Anesthesiologists) Physical Status Classification I–VI.
+  + ASA (American Society of Anesthesiologists) Physical Status Classification I-VI.
 
 == Pre‑medication
-Given 30–60 min before anaesthesia to relieve anxiety, decrease secretions, prevent aspiration, and stabilize haemodynamics.
+Given 30-60 min before anaesthesia to relieve anxiety, decrease secretions, prevent aspiration, and stabilize haemodynamics.
 #figure(
   table(
     columns: 2,
@@ -56,7 +56,7 @@ Given 30–60 min before anaesthesia to relieve anxiety, decrease secretions, 
 == Stages of General Anæsthesia (Guedel’s Classification)
 + *Stage I*: Analgesia and conscious sedation.
 + *Stage II*: Excitement / delirium — risk of laryngospasm; minimized by rapid induction.
-+ *Stage III*: Surgical anaesthesia — desired plane for surgery (further divided into planes I–IV).
++ *Stage III*: Surgical anaesthesia — desired plane for surgery (further divided into planes I-IV).
 + *Stage IV*: Medullary paralysis — overdose; respiratory/cardiac arrest possible.
 
 == Airway Management

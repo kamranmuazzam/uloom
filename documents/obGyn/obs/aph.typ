@@ -15,7 +15,7 @@ Bleeding from or into the genital tract after 24 weeks of pregnancy and before t
 
 #high-yield
 - *Most common causes:* Placenta previa and abruption (~90% of APH).  
-- Always rule out carcinoma cervix – do *speculum* before digital examination.  
+- Always rule out carcinoma cervix - do *speculum* before digital examination.  
 - *Vasa previa* → fetal origin bleeding (fresh red, FHR abnormal quickly).  
 
 == Placenta Previa
@@ -33,7 +33,7 @@ Implantation of placenta in lower uterine segment partially or completely coveri
 #high-yield
 - Bleeding often occurs *without provocation*.  
 - Common in *multiparas, scarred uterus (post-LSCS, D&C)*.  
-- Placenta previa should be suspected if *bleeding at 30–36 weeks* and *malpresentation on palpation*.  
+- Placenta previa should be suspected if *bleeding at 30-36 weeks* and *malpresentation on palpation*.  
 - *Vaginal examination is contraindicated* unless in OT with preparations for delivery.  
 
 === Types
@@ -46,7 +46,7 @@ Implantation of placenta in lower uterine segment partially or completely coveri
 #high-yield
 - *Major placenta previa* → Types III and IV (usually require cesarean).  
 - *Minor placenta previa* → Types I and II.  
-- Diagnosis made by *transvaginal sonography (TVS)* – gold standard.  
+- Diagnosis made by *transvaginal sonography (TVS)* - gold standard.  
 
 === Treatment of Central Placenta Previa at 37 weeks
 #viva
@@ -105,7 +105,7 @@ Also known as *Accidental Haemorrhage in Pregnancy* — premature separation of 
 - Diminished or absent fetal movements.  
 
 #high-yield
-- *Couvelaire uterus* – extravasation of blood into uterine muscle; uterus becomes blue and atonic.  
+- *Couvelaire uterus* - extravasation of blood into uterine muscle; uterus becomes blue and atonic.  
 - *Concealed variety* carries high maternal and fetal mortality.  
 - Causes include *hypertension, preeclampsia, trauma, smoking, cocaine use*.  
 

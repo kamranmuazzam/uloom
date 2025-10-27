@@ -60,13 +60,13 @@ Hence, the lens cannot increase curvature sufficiently for near focus → blurre
 #answer[*Diagnosis* : Orbital cellulitis (post‑septal infection of orbital tissues)]
 2. How will you treat the boy?
 #answer[*Treatment*
-  + Hospital admission – ophthalmic emergency.
+  + Hospital admission - ophthalmic emergency.
   + Systemic (IV) broad‑spectrum antibiotics covering Staphylococcus, Streptococcus, H. influenzae:
     - e.g. IV Ceftriaxone + Cloxacillin / Vancomycin, adjust per culture.
   + Nasal decongestants / treat sinus infection (often secondary to ethmoidal sinusitis).
   + Antipyretics and analgesics.
   + Monitor vision and pupillary reactions daily.
-  + CT orbit & sinuses – to detect abscess or extension.
+  + CT orbit & sinuses - to detect abscess or extension.
   + Surgical drainage if:
     - Subperiosteal/orbital abscess,
     - Poor response to medical therapy,
@@ -94,7 +94,7 @@ Hence, the lens cannot increase curvature sufficiently for near focus → blurre
 #answer[*Treatment*
 1. Conservative (early/small lesions):
   - Warm compresses, lid massage, topical antibiotics if secondary infection.
-2. If persistent (after 2–3 weeks):
+2. If persistent (after 2-3 weeks):
   - Incision and curettage from conjunctival side under local anesthesia.
 3. Recurrent lesions:
   - Intralesional corticosteroid injection or evaluate for sebaceous gland carcinoma.
@@ -163,12 +163,12 @@ Hence, the lens cannot increase curvature sufficiently for near focus → blurre
 #answer[*Diagnosis* : Hordeolum internum — acute suppurative inflammation of a Meibomian gland]
 2. How will you treat the case?
 #answer[*Treatment*
-+ Warm compresses – to promote localization and drainage
-+ Topical antibiotic eye drops/ointment – e.g. chloramphenicol, erythromycin
-+ Systemic antibiotics – if lid edema or cellulitis present
-+ Incision and drainage – through conjunctival side when pus localized
++ Warm compresses - to promote localization and drainage
++ Topical antibiotic eye drops/ointment - e.g. chloramphenicol, erythromycin
++ Systemic antibiotics - if lid edema or cellulitis present
++ Incision and drainage - through conjunctival side when pus localized
 + Analgesics/antipyretics for pain and fever
-+ Manage underlying causes – lid hygiene, treat blepharitis
++ Manage underlying causes - lid hygiene, treat blepharitis
 ]
 3. What complications may occur if untreated?
 #answer[*Complications*
@@ -221,18 +221,18 @@ Hence, the lens cannot increase curvature sufficiently for near focus → blurre
 #answer[*Diagnosis* : Congenital nasolacrimal duct obstruction (CNLDO) → leads to epiphora (watering) and mild mucous discharge since birth.]
 2. What are the differential diagnoses?
 #answer[*Differential Diagnosis*
-+ Congenital glaucoma – watering with photophobia, corneal haze, enlarged cornea.
-+ Conjunctivitis (ophthalmia neonatorum) – purulent discharge, redness.
++ Congenital glaucoma - watering with photophobia, corneal haze, enlarged cornea.
++ Conjunctivitis (ophthalmia neonatorum) - purulent discharge, redness.
 + Lacrimal sac diverticulum or cyst (dacryocele).
 ]
 3. How will you manage the case?
 #answer[
 + *Conservative* (first-line till 1 year of age):
   - Crigler’s massage (lacrimal sac massage)
-  - Apply firm downward pressure over sac 4–6 times/day to open the membranous block at valve of Hasner.
+  - Apply firm downward pressure over sac 4-6 times/day to open the membranous block at valve of Hasner.
   - Maintain lid hygiene.
   - Topical antibiotic drops if mucopurulent discharge present.
-+ If no improvement by 9–12 months:
++ If no improvement by 9-12 months:
   - Lacrimal syringing and probing under general anesthesia.
 + Persistent cases:
   - Repeat probing / silicone tube intubation / Dacryocystorhinostomy (DCR) (rare in infants).
@@ -244,13 +244,13 @@ Hence, the lens cannot increase curvature sufficiently for near focus → blurre
 
 #answer[*Treatment*
 + Acute stage management:
-  - Systemic antibiotics (e.g. amoxicillin–clavulanate or cephalosporin).
+  - Systemic antibiotics (e.g. amoxicillin-clavulanate or cephalosporin).
   - Warm compresses over the inflamed area.
   - Analgesics/antipyretics for pain and fever.
   - Incision and drainage if abscess has formed (only when pointing).
   - Avoid sac massage or syringing during the acute infection.
 + After resolution of acute infection:
-  - Crigler’s (sac) massage for 1–2 weeks once tenderness subsides.
+  - Crigler’s (sac) massage for 1-2 weeks once tenderness subsides.
   - If symptoms persist → lacrimal probing under general anesthesia.
   - Recurrent or persistent obstruction after probing → Dacryocystorhinostomy (DCR) or silicone tube intubation (as age‑appropriate).
 + Key Advice:
@@ -334,7 +334,7 @@ A 40-year-old man presented with painful swelling and redness over the right med
   - Lubricating (artificial tears) for comfort.
   - Topical corticosteroid (mild, short course) such as loteprednol / fluorometholone for severe cases — under supervision.
   - Topical cyclosporine or tacrolimus for chronic or steroid‑dependent cases.
-+ Systemic antihistamines – if severe itching.
++ Systemic antihistamines - if severe itching.
 + Treat secondary bacterial infection if occurs.
 + Regular follow-up: Monitor for steroid side effects and recurrence.
 ]
@@ -358,7 +358,7 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 + Tarsal form:
   - Giant cobblestone papillae on upper tarsal conjunctiva.
 + Limbal form:
-  - Gelatinous limbal thickening with Horner–Trantas dots (white elevated spots of eosinophils).
+  - Gelatinous limbal thickening with Horner-Trantas dots (white elevated spots of eosinophils).
 + Corneal involvement:
   - Superficial punctate keratitis,
   - Shield ulcer in severe cases.
@@ -379,9 +379,9 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 3. How do you manage this case?
 #answer[*Management*
 + Conservative (for small, non‑progressive type):
-  - Lubricating/artificial tear drops – relieve irritation.
-  - Topical mild steroid or vasoconstrictor – for congestion.
-  - Sunglasses / protective glasses – avoid UV light, dust, wind.
+  - Lubricating/artificial tear drops - relieve irritation.
+  - Topical mild steroid or vasoconstrictor - for congestion.
+  - Sunglasses / protective glasses - avoid UV light, dust, wind.
 + Surgical (if indicated):
   - Indications:
   - Progressive lesion threatening visual axis,
@@ -392,7 +392,7 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
   - Excision with conjunctival autograft (preferred, low recurrence).
   - Other options: amniotic membrane graft, bare sclera excision (obsolete—high recurrence).
   - Postoperative care:
-  - Topical antibiotic–steroid drops.
+  - Topical antibiotic-steroid drops.
 + Prevention of recurrence:
   - Avoid sunlight exposure (UV protection), dust, dryness.
 ]
@@ -407,18 +407,18 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 #answer[Acute Iridocyclitis (Anterior Uveitis)]
 1. Write down the mechanism of formation of hypopyon.
 #answer[*Mechanism of Formation of Hypopyon*
-+ Inflammation of iris and ciliary body → breakdown of blood–aqueous barrier.
++ Inflammation of iris and ciliary body → breakdown of blood-aqueous barrier.
 + Exudation of protein, fibrin, and polymorphonuclear leukocytes (pus cells) into the anterior chamber.
 + Due to gravity, these inflammatory cells settle inferiorly, forming a white fluid level (hypopyon).]
 3. Write medical treatment.
 #answer[*Medical Treatment*
-+ Cycloplegic / Mydriatic drops – e.g. Atropine 1% or Homatropine 2%
++ Cycloplegic / Mydriatic drops - e.g. Atropine 1% or Homatropine 2%
   - Relieves ciliary spasm (pain),
   - Prevents posterior synechiae.
-+ Topical corticosteroids – e.g. Prednisolone acetate 1%
++ Topical corticosteroids - e.g. Prednisolone acetate 1%
   - Reduces intraocular inflammation.
 + Systemic steroids (if severe or posterior extension).
-+ Treat underlying cause – infection, autoimmune disease, trauma, etc.
++ Treat underlying cause - infection, autoimmune disease, trauma, etc.
 + Supportive:
   - Analgesics for pain,
   - Monitor intraocular pressure (IOP) regularly.
@@ -466,7 +466,7 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 + Topical antifungal therapy (mainstay):
   - Natamycin 5% eye drops (for filamentous fungi like Fusarium, Aspergillus) — hourly day and night initially.
   - If Candida suspected → Amphotericin‑B 0.15% drops.
-  - Continue and gradually taper over 4–6 weeks depending on response.
+  - Continue and gradually taper over 4-6 weeks depending on response.
 + Systemic antifungal (for deep or non‑responding ulcers):
   - Ketoconazole 200 mg twice daily or Itraconazole 100 mg daily.
 + Cycloplegic drops:
@@ -484,21 +484,21 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 #answer[*Diagnosis* : Bacterial Keratitis]
 2. What investigations will you do to diagnose the case? \// How will you confirm the case
 #answer[*Investigations*
-+ Slit‑lamp examination – to assess size, depth, margins, hypopyon, and surrounding cornea.
++ Slit‑lamp examination - to assess size, depth, margins, hypopyon, and surrounding cornea.
 + Fluorescein staining: demonstrates epithelial defect (bright green area).
 + Corneal scraping (from ulcer base and edge):
-  - Gram stain – detect bacteria.
-  - KOH mount – detect fungal filaments.
-  - Giemsa stain – detect Acanthamoeba cysts or inflammatory cells.
+  - Gram stain - detect bacteria.
+  - KOH mount - detect fungal filaments.
+  - Giemsa stain - detect Acanthamoeba cysts or inflammatory cells.
   - Culture and sensitivity: on blood agar, chocolate agar, and Sabouraud’s agar for bacteria and fungi.]
 3. How will you manage the case?
 #answer[
 + Empirical broad‑spectrum topical antibiotics (immediately after scraping):
   - Fortified drops:
     - Cefazolin 5% + Tobramycin 1.3% or
-    - Ciprofloxacin / Moxifloxacin 0.3% every 1–2 hours (day & night).
+    - Ciprofloxacin / Moxifloxacin 0.3% every 1-2 hours (day & night).
 + Cycloplegic drops:
-  - Atropine 1% / Homatropine 2% – relieve pain, prevent synechiae.
+  - Atropine 1% / Homatropine 2% - relieve pain, prevent synechiae.
 + Systemic analgesics / anti‑inflammatory drugs for pain relief.
 + If fungal infection suspected (e.g. vegetative injury, dry feathery ulcer):
   - Natamycin 5% drops (for filamentous fungi) or Amphotericin B 0.15%.
@@ -527,12 +527,12 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 
 #answer[*Treatment*
 + Topical antiviral therapy:
-  - Acyclovir 3% eye ointment – apply 5 times/day for 10–14 days.
+  - Acyclovir 3% eye ointment - apply 5 times/day for 10-14 days.
   - Alternatives: Ganciclovir 0.15% gel, Trifluridine 1% drops.
 + Cycloplegic drops:
-  - Atropine 1% / Homatropine 2% – relieve ciliary spasm & pain.
+  - Atropine 1% / Homatropine 2% - relieve ciliary spasm & pain.
 + Systemic antiviral (if severe or stromal disease):
-  - Acyclovir 400 mg orally 5 times/day for 7–10 days.
+  - Acyclovir 400 mg orally 5 times/day for 7-10 days.
 + Antibiotic cover:
   - Broad‑spectrum topical antibiotics (e.g., moxifloxacin) to prevent secondary infection.
 + Avoid:

@@ -29,7 +29,7 @@ Systematic supervision of a pregnant woman during pregnancy to ensure an optimum
 - Calcium supplementation (500 mg elemental calcium twice daily).  
 - Deworming with albendazole 400 mg single dose after 2nd trimester.  
 - Counseling regarding birth preparedness and complication readiness (BPCR).  
-- Screening for gestational diabetes between 24–28 weeks using 75 g OGTT (DIPSI/WHO criteria).  
+- Screening for gestational diabetes between 24-28 weeks using 75 g OGTT (DIPSI/WHO criteria).  
 - Influenza and Tdap vaccination as per local guidelines.  
 
 === Antenatal Visits
@@ -48,7 +48,7 @@ Systematic supervision of a pregnant woman during pregnancy to ensure an optimum
 #high_yeild
 - First visit: detailed history, examination, BP and BMI check, baseline investigations.  
 - Fundal height measured at each visit from 20 weeks.  
-- Fetal heart heard with Doppler from 12–14 weeks.  
+- Fetal heart heard with Doppler from 12-14 weeks.  
 - Fetal movements perceived at about 20 weeks (quickening).  
 
 ==== First Antenatal Visit
@@ -92,7 +92,7 @@ Systematic supervision of a pregnant woman during pregnancy to ensure an optimum
 - *Positive signs*: Fetal heart sounds (by Doppler after 10-12 weeks), ultrasound evidence of gestational sac (5 weeks), fetal pole (6 weeks).  
 
 #high_yeild
-- β-hCG detectable in serum 8–9 days after ovulation.  
+- β-hCG detectable in serum 8-9 days after ovulation.  
 - Yolk sac is the earliest sonographic sign of intrauterine pregnancy (~5 weeks).  
 - Absence of embryo with CRL ≥7 mm on USG → missed abortion.  
 
@@ -197,7 +197,7 @@ Excessive amniotic fluid volume >2000 mL or *AFI >25 cm* (SDVP >8 cm).
 #high_yeild
 - Acute form → rapid abdominal distension and pain.  
 - Chronic → gradual enlargement.  
-- Twin–twin transfusion and diabetes are important causes.  
+- Twin-twin transfusion and diabetes are important causes.  
 - Polyhydramnios → risk of preterm labor, abruption, PPH.  
 
 ==== Presentation
@@ -410,7 +410,7 @@ Severe, intractable vomiting during early pregnancy leading to dehydration, elec
 - Cardiomyopathy  
 
 #high_yeild
-- NYHA class (I–IV) for prognosis.  
+- NYHA class (I-IV) for prognosis.  
 - Avoid supine position.  
 - Oxytocin slow IV; ergometrine contraindicated.  
 - Endocarditis prophylaxis as indicated.  
@@ -430,7 +430,7 @@ Evidence of fetal hypoxia (abnormal FHR, meconium, absent movements).
 #high_yeild
 - Late decelerations → uteroplacental insufficiency.  
 - Variable decelerations → cord compression.  
-- Cord prolapse → knee–chest, manual elevation, cesarean.  
+- Cord prolapse → knee-chest, manual elevation, cesarean.  
 
 === Management
 #viva
