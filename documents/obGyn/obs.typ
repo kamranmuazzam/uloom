@@ -7,9 +7,7 @@
 
   #text(size: 30pt, [Review on Obstetrics])
 
-  For the Students, By the Students
-
-  narmak
+  Muazzam Kamran
 
 ]
 #align(bottom + left)[#datetime.today().display()]
@@ -24,6 +22,10 @@
 #let written = source_box(orange, [W])
 #let shomiron = source_box(blue, [S])
 #let high-yeild = [#super[#text(fill:red)[H]]]
+The Main topics are divided as follows
+#outline(
+  title:none,
+  target: heading.where(level:1))
 #outline()
 #pagebreak(weak: true)
 #set page(columns:2)
@@ -31,5 +33,5 @@
 #include "obs/aph.typ"
 #include "obs/labor.typ"
 #include "obs/cs.typ"
-#include "obs/pph.typ"
 #include "obs/postnatal.typ"
+#include "obs/pph.typ"
