@@ -4,7 +4,9 @@
 #let viva = card
 #let written = source_box(orange, [W])
 #let shomiron = source_box(blue, [S])
-#let high_yeild = [#super[#text(fill:red)[H]]]
+#let high_yeild = source_box(olive, [H])
+#let high-yield = high_yeild
+#let ospe = source_box(green, [O])
 #let info_box(heading, body) = [#box(fill:rgb("EFA556"),width: 100%, inset:10pt)[
   #text(fill:rgb("4B77D1"), weight: "bold", size: 14pt)[#heading]
 
