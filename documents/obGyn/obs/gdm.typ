@@ -30,22 +30,21 @@ Carbohydrate intolerance of variable severity resulting in hyperglycemia with on
 
 == Complications
 #viva
-*Maternal Complications*  
-- Preeclampsia  
-- Polyhydramnios  
-- Increased risk of cesarean delivery  
-- Urinary tract infections  
-- Preterm labor  
-- Diabetic ketoacidosis (rare)  
-- Future development of Type 2 DM  
-
-*Fetal Complications*  
-- Macrosomia (“large for gestational age”)  
-- Birth trauma (shoulder dystocia, nerve injury)  
-- Fetal distress, stillbirth  
-- Hypoglycemia, hypocalcemia, polycythemia in newborn  
-- Respiratory distress syndrome  
-- Congenital malformations (especially in pre-existing diabetes)  
++ *Maternal Complications*  
+   - Preeclampsia  
+   - Polyhydramnios  
+   - Increased risk of cesarean delivery  
+   - Urinary tract infections  
+   - Preterm labor  
+   - Diabetic ketoacidosis (rare)  
+   - Future development of Type 2 DM  
++ *Fetal Complications*  
+   - Macrosomia (“large for gestational age”)  
+   - Birth trauma (shoulder dystocia, nerve injury)  
+   - Fetal distress, stillbirth  
+   - Hypoglycemia, hypocalcemia, polycythemia in newborn  
+   - Respiratory distress syndrome  
+   - Congenital malformations (especially in pre-existing diabetes)  
 
 #high-yield
 - “Pedal edema with fetal overgrowth and excessive liquor” → suspect GDM.  
