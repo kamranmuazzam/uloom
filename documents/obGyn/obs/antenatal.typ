@@ -5,7 +5,7 @@
 = Antenatal
 
 == Antenatal Care
-*Definition*  
+*Definition* #viva:
 Systematic supervision of a pregnant woman during pregnancy to ensure an optimum outcome for mother and baby.
 
 === Aims

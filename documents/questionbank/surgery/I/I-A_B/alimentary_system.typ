@@ -27,7 +27,7 @@
   + Write four important investigations with interpretations.
   + Write your management plan of this patient
 + A 55 years old man presented with difficulty swallowing and weight loss for last 6 months. Mention 2 most important surgical causes. How will you evaluate him clinically and investigate to reach a diagnosis? (DU- 18Ja)
-+ A 55year old male presented with progressive dysphagia with regurgitation and remarkable weight loss with change of voice. How will you take history and investigate the patient?
++ A 55 year old male presented with progressive dysphagia with regurgitation and remarkable weight loss with change of voice. How will you take history and investigate the patient?
 == GI tract bleeding
 + Write down the common causes of gastrointestinal tract bleeding. How will you take history from a patient with GI tract bleeding? Name 3 diagnostic investigations for GI tract bleeding and their possible findings. (DU-18Nov)
 + A 50-year-old female presented to you with history of blood vomiting for 6 hours with features of shock. You are working in a rural health center. (DU-20Nov)

@@ -16,7 +16,7 @@ the eyeball is relatively long or the cornea is too curved, causing light rays t
 + Visual acuity test
   - Distance vision reduced; near vision normal.
   - Improves with concave (minus) lenses.
-+ Retinoscopy / Auto‑refraction:
++ Retinoscopy / Auto-refraction:
   - Shows parallel rays focused in front of retina.
 + Fundus examination:
   - May show temporal crescent, myopic disc, tigroid fundus in higher degrees.
@@ -29,7 +29,7 @@ the eyeball is relatively long or the cornea is too curved, causing light rays t
   - LASIK / PRK / SMILE.
 + Lifestyle advice:
   - Good lighting, outdoor activities, limit near work/screen time.
-+ Regular follow‑up:
++ Regular follow-up:
   - To monitor progression and retinal complications (e.g. myopic degeneration).
   ]
 
@@ -48,7 +48,7 @@ the eyeball is relatively long or the cornea is too curved, causing light rays t
 #answer[
   *Pathogenesis*
   
-  Age‑related loss of accommodation due to:
+  Age-related loss of accommodation due to:
   - Decreased elasticity of the crystalline lens.
   - Reduced contractility of ciliary muscle.
 Hence, the lens cannot increase curvature sufficiently for near focus → blurred near vision.]
@@ -57,11 +57,11 @@ Hence, the lens cannot increase curvature sufficiently for near focus → blurre
 
 = A 5-year-old boy was brought to you with fever, pain, proptosis and swollen eyelids in the right eye for 3 days.
 1. What is your diagnosis?
-#answer[*Diagnosis* : Orbital cellulitis (post‑septal infection of orbital tissues)]
+#answer[*Diagnosis* : Orbital cellulitis (post-septal infection of orbital tissues)]
 2. How will you treat the boy?
 #answer[*Treatment*
   + Hospital admission - ophthalmic emergency.
-  + Systemic (IV) broad‑spectrum antibiotics covering Staphylococcus, Streptococcus, H. influenzae:
+  + Systemic (IV) broad-spectrum antibiotics covering Staphylococcus, Streptococcus, H. influenzae:
     - e.g. IV Ceftriaxone + Cloxacillin / Vancomycin, adjust per culture.
   + Nasal decongestants / treat sinus infection (often secondary to ethmoidal sinusitis).
   + Antipyretics and analgesics.
@@ -135,7 +135,7 @@ Hence, the lens cannot increase curvature sufficiently for near focus → blurre
 + Incision and drainage:
   - When a point of suppuration appears (usually at lash follicle).
 + Analgesics / antipyretics for pain and fever.
-+ Follow‑up:
++ Follow-up:
   - Look for recurrent stye → rule out diabetes or chronic blepharitis.
 ]
 
@@ -201,13 +201,12 @@ Hence, the lens cannot increase curvature sufficiently for near focus → blurre
 #answer[
   1. Acute stage management:
     - Warm compresses over sac area.
-    - Systemic antibiotics (e.g. amoxicillin‑clavulanate or cephalosporin).
-    - Analgesics / anti‑inflammatory drugs for pain and fever.
+    - Systemic antibiotics (e.g. amoxicillin-clavulanate or cephalosporin).
+    - Analgesics / anti-inflammatory drugs for pain and fever.
     - Incision and drainage if abscess has formed (done on pointing).
     - Avoid syringing during acute stage.
   2. Definitive treatment (after acute infection subsides):
     - Dacryocystorhinostomy (DCR) — to create drainage pathway between sac and nasal cavity.
-
 ]
 3. What suggestion will you give to this patient?
 #answer[*Suggestions*
@@ -252,11 +251,11 @@ Hence, the lens cannot increase curvature sufficiently for near focus → blurre
 + After resolution of acute infection:
   - Crigler’s (sac) massage for 1-2 weeks once tenderness subsides.
   - If symptoms persist → lacrimal probing under general anesthesia.
-  - Recurrent or persistent obstruction after probing → Dacryocystorhinostomy (DCR) or silicone tube intubation (as age‑appropriate).
+  - Recurrent or persistent obstruction after probing → Dacryocystorhinostomy (DCR) or silicone tube intubation (as age-appropriate).
 + Key Advice:
   - Maintain eye hygiene,
   - Avoid pressing the swelling during acute phase,
-  - Ensure follow‑up for definitive correction to prevent recurrence.
+  - Ensure follow-up for definitive correction to prevent recurrence.
 ]
 
 ---
@@ -267,9 +266,9 @@ Hence, the lens cannot increase curvature sufficiently for near focus → blurre
 2. How will you manage this case?
 #answer[*Management*
 + Acute Phase:
-  - Systemic antibiotics: e.g. amoxicillin‑clavulanate or a 2nd‑generation cephalosporin.
+  - Systemic antibiotics: e.g. amoxicillin-clavulanate or a 2nd-generation cephalosporin.
   - Warm compresses over lacrimal sac area.
-  - Analgesics / anti‑inflammatory drugs for pain and fever.
+  - Analgesics / anti-inflammatory drugs for pain and fever.
   - Incision and drainage if abscess has formed and is pointing.
   - Avoid syringing or probing during acute infection.
 + After acute inflammation subsides:
@@ -319,8 +318,8 @@ A 40-year-old man presented with painful swelling and redness over the right med
 #answer[*Diagnosis* : Vernal keratoconjunctivitis (VKC) — a recurrent, bilateral, seasonally aggravated allergic conjunctivitis commonly affecting children, especially boys. (age 5-15)]
 2. What is the pathogenesis of the condition?
 #answer[*Pathogenesis*
-- Type I (IgE‑mediated) hypersensitivity reaction to airborne allergens → mast cell degranulation → histamine release → itching, redness, lacrimation.
-- Type IV (cell‑mediated) hypersensitivity also contributes — involving eosinophils and Th2‑mediated inflammation.
+- Type I (IgE-mediated) hypersensitivity reaction to airborne allergens → mast cell degranulation → histamine release → itching, redness, lacrimation.
+- Type IV (cell-mediated) hypersensitivity also contributes — involving eosinophils and Th2-mediated inflammation.
 - Chronic allergic inflammation causes conjunctival hypertrophy (giant papillae) and corneal epithelial damage.
 ]
 3. Enumerate the treatment of the patient
@@ -333,7 +332,7 @@ A 40-year-old man presented with painful swelling and redness over the right med
   - Antihistamines + Mast cell stabilizers (e.g. olopatadine, ketotifen, azelastine).
   - Lubricating (artificial tears) for comfort.
   - Topical corticosteroid (mild, short course) such as loteprednol / fluorometholone for severe cases — under supervision.
-  - Topical cyclosporine or tacrolimus for chronic or steroid‑dependent cases.
+  - Topical cyclosporine or tacrolimus for chronic or steroid-dependent cases.
 + Systemic antihistamines - if severe itching.
 + Treat secondary bacterial infection if occurs.
 + Regular follow-up: Monitor for steroid side effects and recurrence.
@@ -374,11 +373,11 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 + *Progressive pterygium*:
   - Vascular, thick, actively growing; apex encroaching on pupillary area.
 + *Atrophic (stationary) pterygium*:
-  - Thin, pale, avascular, non‑progressive.
+  - Thin, pale, avascular, non-progressive.
 ]
 3. How do you manage this case?
 #answer[*Management*
-+ Conservative (for small, non‑progressive type):
++ Conservative (for small, non-progressive type):
   - Lubricating/artificial tear drops - relieve irritation.
   - Topical mild steroid or vasoconstrictor - for congestion.
   - Sunglasses / protective glasses - avoid UV light, dust, wind.
@@ -434,7 +433,7 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 [Feature],[Bacterial Ulcer],[Fungal Ulcer],
 [Onset],[Acute, rapid],[Insidious, slow],
 [Pain & Discharge],[Severe pain, purulent discharge],[Mild pain, scant mucoid discharge],
-[Ulcer margin],[Well‑defined, punched‑out, soft edges],[Dry, grayish‑white, feathery margins],
+[Ulcer margin],[Well-defined, punched-out, soft edges],[Dry, grayish-white, feathery margins],
 [Surface],[Moist, sloughy],[Dry, rough, elevated edges],
 [Surrounding cornea],[Marked edema, congestion],[Immune ring may be seen],
 [Hypopyon],[Common, sterile, mobile],[Thick, fixed hypopyon],
@@ -445,13 +444,13 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 #answer[*Pathogenesis of Hypopyon Corneal Ulcer:*
 + Infective ulcer → destruction of corneal epithelium and stroma.
 + Inflammatory response → release of cytokines → migration of polymorphonuclear leukocytes into anterior chamber.
-+ Breakdown of blood‑aqueous barrier → accumulation of inflammatory cells and debris as hypopyon in inferior anterior chamber.
-+ Hypopyon here is sterile (non‑infective), caused by toxic and immune reactions rather than direct bacterial invasion.
++ Breakdown of blood-aqueous barrier → accumulation of inflammatory cells and debris as hypopyon in inferior anterior chamber.
++ Hypopyon here is sterile (non-infective), caused by toxic and immune reactions rather than direct bacterial invasion.
 ]
 4. How will you confirm your case?
 #answer[*Confirmation*
-1. Clinical Features (slit‑lamp exam):
-  - Dry, grayish‑white ulcer with feathery margins and satellite lesions.
+1. Clinical Features (slit-lamp exam):
+  - Dry, grayish-white ulcer with feathery margins and satellite lesions.
   - Surrounding corneal infiltration, possible immune ring.
   - Fixed, thick hypopyon (does not move with head position).
 2. Laboratory Investigations:
@@ -465,16 +464,16 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 #answer[*Treatment*
 + Topical antifungal therapy (mainstay):
   - Natamycin 5% eye drops (for filamentous fungi like Fusarium, Aspergillus) — hourly day and night initially.
-  - If Candida suspected → Amphotericin‑B 0.15% drops.
+  - If Candida suspected → Amphotericin-B 0.15% drops.
   - Continue and gradually taper over 4-6 weeks depending on response.
-+ Systemic antifungal (for deep or non‑responding ulcers):
++ Systemic antifungal (for deep or non-responding ulcers):
   - Ketoconazole 200 mg twice daily or Itraconazole 100 mg daily.
 + Cycloplegic drops:
   - Atropine 1% / Homatropine 2% — relieve ciliary spasm and pain, prevent synechiae.
 + Supportive:
   - Analgesics.
   - Avoid topical steroids and contact lenses.
-+ If impending perforation / non‑healing ulcer:
++ If impending perforation / non-healing ulcer:
   - Tissue adhesive with bandage lens or Therapeutic keratoplasty (corneal graft).
 ]
 
@@ -484,7 +483,7 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 #answer[*Diagnosis* : Bacterial Keratitis]
 2. What investigations will you do to diagnose the case? \// How will you confirm the case
 #answer[*Investigations*
-+ Slit‑lamp examination - to assess size, depth, margins, hypopyon, and surrounding cornea.
++ Slit-lamp examination - to assess size, depth, margins, hypopyon, and surrounding cornea.
 + Fluorescein staining: demonstrates epithelial defect (bright green area).
 + Corneal scraping (from ulcer base and edge):
   - Gram stain - detect bacteria.
@@ -493,13 +492,13 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
   - Culture and sensitivity: on blood agar, chocolate agar, and Sabouraud’s agar for bacteria and fungi.]
 3. How will you manage the case?
 #answer[
-+ Empirical broad‑spectrum topical antibiotics (immediately after scraping):
++ Empirical broad-spectrum topical antibiotics (immediately after scraping):
   - Fortified drops:
     - Cefazolin 5% + Tobramycin 1.3% or
     - Ciprofloxacin / Moxifloxacin 0.3% every 1-2 hours (day & night).
 + Cycloplegic drops:
   - Atropine 1% / Homatropine 2% - relieve pain, prevent synechiae.
-+ Systemic analgesics / anti‑inflammatory drugs for pain relief.
++ Systemic analgesics / anti-inflammatory drugs for pain relief.
 + If fungal infection suspected (e.g. vegetative injury, dry feathery ulcer):
   - Natamycin 5% drops (for filamentous fungi) or Amphotericin B 0.15%.
 + Avoid topical steroids until infection fully resolves.
@@ -517,7 +516,7 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
   - Pain, redness, watering, photophobia, blurred vision.
   - Foreign body sensation.
   - May have history of recurrent episodes or fever/URI before onset.
-+ Signs (on slit‑lamp exam):
++ Signs (on slit-lamp exam):
   - Conjunctival congestion (mainly ciliary).
   - Multiple punctate epithelial lesions on cornea — which may coalesce into dendritic ulcers (branching pattern with terminal bulbs).
   - Decreased corneal sensitivity.
@@ -534,10 +533,10 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
 + Systemic antiviral (if severe or stromal disease):
   - Acyclovir 400 mg orally 5 times/day for 7-10 days.
 + Antibiotic cover:
-  - Broad‑spectrum topical antibiotics (e.g., moxifloxacin) to prevent secondary infection.
+  - Broad-spectrum topical antibiotics (e.g., moxifloxacin) to prevent secondary infection.
 + Avoid:
   - Topical corticosteroids in epithelial HSV keratitis, as they worsen viral replication.
-+ Follow‑up:
++ Follow-up:
 - Check daily at first; continue antivirals for 3 days after epithelial healing to prevent recurrence.
 ]
 
@@ -556,7 +555,7 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
   - Low early, may rise later due to secondary glaucoma.
 + Systemic evaluation to find underlying cause:
   - History: trauma, recurrent attacks, systemic diseases (TB, syphilis, leprosy, sarcoidosis, ankylosing spondylitis, Reiter’s, HSV, HZO).
-  - Investigations: ESR, CBC, Mantoux, Chest X‑ray, VDRL, HLA‑B27, etc., guided by suspicion.]
+  - Investigations: ESR, CBC, Mantoux, Chest X-ray, VDRL, HLA-B27, etc., guided by suspicion.]
 3. What the other ocular findings expecting?
 #answer[*Features of Acute Anterior Uveitis/Iridocyclitis*
 - Ciliary congestion (pericorneal redness)
@@ -580,12 +579,12 @@ A 5 yrs young boy developed seasonal continuous itching in his eyes. His eyes sh
   - Oral NSAIDs for pain.
 + Treat underlying cause:
   - e.g.
-    - systemic antibiotics/antivirals or anti‑TB therapy as indicated.
+    - systemic antibiotics/antivirals or anti-TB therapy as indicated.
     - Treat underlying arthritis / systemic cause (in collaboration with rheumatologist).
 + Regular follow-up:
   - Monitor pupil reactions, synechiae, IOP, and fundus once clear.
 + Supportive:
-  - Sunglasses, rest, regular follow‑up to monitor vision, IOP, and complications (posterior synechiae, secondary glaucoma).
+  - Sunglasses, rest, regular follow-up to monitor vision, IOP, and complications (posterior synechiae, secondary glaucoma).
 ]
 
 A 30-year-old man presented with pain in right eye with history of arthritis on examination keratic precipitate was found in cornea.

@@ -53,7 +53,7 @@
   - *Analgesics*.  
   - *Incision and drainage* if fluctuant.
 
-*Differentiation from Acute Mastoiditis* #high-yield  
+#high-yield *Differentiation from Acute Mastoiditis*  
 #table(columns:3,[Feature],[Furunculosis],[Acute Mastoiditis],
 [Pain site],[Tragus],[Mastoid],
 [Tenderness],[Over meatus],[Over mastoid tip],
@@ -71,7 +71,7 @@
   - *Removal*: ear syringing with body-temperature saline (only if TM intact).  
   - *Instrumental removal* under vision if contraindicated for syringing (e.g. perforation, otitis externa).
 
-*Complications* #high-yield  
+#high-yield *Complications*  
 - TM perforation, infection, vertigo (cold water syringe).
 
 
@@ -86,7 +86,7 @@
   2. Remove via suction or forceps under vision.  
   3. Post-removal check for trauma/TM perforation.
 
-*Precautions* #high-yield  
+#high-yield *Precautions*  
 - Avoid syringing in vegetable FB (can swell).  
 - Avoid blind removal—always use microscope.
 
@@ -101,7 +101,7 @@
   - *Incision + drainage* if abscess.  
   - *Aural toilet and splinting* for shape maintenance.
 
-*Complication* #high-yield - cartilage necrosis → “cauliflower ear.”
+#high-yield *Complication* - cartilage necrosis → “cauliflower ear.”
 
 
 == Hematoma Auris
@@ -114,7 +114,7 @@
   - *Pressure dressing* to prevent reaccumulation.  
   - *Antibiotics* to prevent perichondritis.
 
-*Complication* #high-yield - Cauliflower ear due to fibrosis.
+#high-yield *Complication* - Cauliflower ear due to fibrosis.
 
 
 == Malignant (Necrotizing) Otitis Externa
@@ -126,7 +126,7 @@
   - *Glycemic control.*  
   - *Surgical debridement* if bone necrosis.
 
-*Diagnosis aid* #high-yield  
+#high-yield *Diagnosis aid*  
 - CT/MRI shows skull base erosion; ESR raised; culture for *Pseudomonas aeruginosa*.
 
 
@@ -146,7 +146,7 @@
   - *Systemic antibiotics* in infective cases.  
   - *Surgical repair (myringoplasty)* if not healed within 6 weeks.
 
-*Healing process* #high-yield - by fibrous tissue proliferation; epithelial migration from margin.
+#high-yield *Healing process* - by fibrous tissue proliferation; epithelial migration from margin.
 
 
 == Glue Ear (Otitis Media with Effusion)
@@ -159,7 +159,7 @@
   - *Conservative:* decongestants, antihistamines, treat adenoiditis/allergy.  
   - *Surgical:* Myringotomy + grommet insertion; adenoidectomy if indicated.
 
-*Complication* #high-yield - adhesive otitis media if untreated.
+#high-yield *Complication* - adhesive otitis media if untreated.
 
 
 == Acute Suppurative Otitis Media (ASOM)
@@ -196,7 +196,7 @@
   3. Aspirate pus/fluid, insert grommet if indicated.  
   4. Keep ear dry.
 
-*Complications* #high-yield - persistent perforation, ossicular trauma, infection.
+#high-yield *Complications* - persistent perforation, ossicular trauma, infection.
 
 
 == Chronic Suppurative Otitis Media (CSOM)
@@ -241,7 +241,7 @@
   - *Surgical*: Removal via Modified Radical Mastoidectomy.  
   - *Medical prep*: infection control, aural cleaning, antibiotics.
 
-*Complications* #high-yield - Labyrinthitis, facial palsy, meningitis, brain abscess.
+#high-yield *Complications* - Labyrinthitis, facial palsy, meningitis, brain abscess.
 
 
 == Mastoidectomy
@@ -256,7 +256,7 @@
 - *Complications:*  
   - Facial nerve injury, labyrinthitis, recurrence, cavity infection, postoperative vertigo.
 
-*Post-operative Care* #high-yield - regular cavity cleaning, antibiotic drops, dry ear maintenance.
+#high-yield *Post-operative Care* - regular cavity cleaning, antibiotic drops, dry ear maintenance.
 
 
 == Hearing Loss
@@ -267,7 +267,7 @@
   - *Weber's Test:* Lateralizes to affected ear in CHL; to normal in SNHL.  
   - *ABC (absolute bone conduction)* decreased in SNHL.  
 
-*Conductive Hearing Pathway* #high-yield  
+#high-yield *Conductive Hearing Pathway*  
 - Sound → pinna → EAC → TM → ossicles → oval window → inner ear.
 
 *Common Causes of Conductive Loss:*  
@@ -285,7 +285,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
   - *Surgical:* stapedectomy/stapedotomy with prosthesis.  
   - *Fluoride therapy* as adjunct.
 
-*Differential Diagnosis* #high-yield - glue ear, congenital ossicular fixation.
+#high-yield *Differential Diagnosis* - glue ear, congenital ossicular fixation.
 
 
 == Referred Otalgia
@@ -422,7 +422,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
   - *Medical:* Bed rest, antibiotics, vestibular suppressant.  
   - *Surgical:* Mastoid exploration, drainage of middle ear infection if due to CSOM. Permanent hearing loss likely.
 
-*Complication* #high-yield - intracranial spread → meningitis, brain abscess.
+#high-yield *Complication* - intracranial spread → meningitis, brain abscess.
 
 
 == Noise-Induced Hearing Loss (NIHL)
@@ -450,7 +450,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
   - Small tumour - observation + MRI follow-up.  
   - Medium/large - microsurgical excision (retrosigmoid or translabyrinthine) or stereotactic radiotherapy.
 
-*Complications/Prognosis* #high-yield - Facial nerve palsy, CSF leak, recurrence.
+#high-yield *Complications/Prognosis* - Facial nerve palsy, CSF leak, recurrence.
 
 
 
@@ -470,12 +470,12 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
   4. *Posterior bleed →* posterior packing or Foley's catheter.  
   5. *Refractory →* arterial ligation (sphenopalatine, ethmoidal, or external carotid).
 
-*Investigations* #high-yield - CBC, BT/CT, coagulation profile, BP measurement.
+#high-yield *Investigations* - CBC, BT/CT, coagulation profile, BP measurement.
 
 
 == Nasal Polyps
 #viva
-- *Definition:* Benign edematous masses of nasal mucosa (bluish, translucent, insensitive).  
+- 
 - *Types:*
   - *Ethmoidal polyps* (bilateral, from middle meatus).  
   - *Antrochoanal polyp* (unilateral, from maxillary antrum → choana).  
@@ -490,7 +490,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
   2. *Surgical:* FESS - remove polyp & clear drainage pathway.  
   3. *Antrochoanal polyp:* Caldwell-Luc or endoscopic removal.
 
-*Recurrence prevention* #high-yield - treat allergy/sinusitis; postoperative nasal steroids.
+#high-yield *Recurrence prevention* - treat allergy/sinusitis; postoperative nasal steroids.
 
 
 == Acute Maxillary Sinusitis
@@ -502,7 +502,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
 - *Treatment:* Amoxicillin-clavulanate, decongestant drops, steam inhalation, analgesics.
 - *Complications:* Orbital cellulitis/abscess, osteomyelitis, cavernous sinus thrombosis.
 
-*Frontal tenderness with downward head pain → suspect frontal sinusitis* #high-yield.
+#high-yield *Frontal tenderness with downward head pain → suspect frontal sinusitis*.
 
 
 == Chronic Maxillary Sinusitis
@@ -526,7 +526,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
 - *Complications:* 
   - Orbital injury, emphysema, hemorrhage, vasovagal attack.
 
-*Now largely replaced by FESS* #high-yield.
+#high-yield *Now largely replaced by FESS*.
 
 
 == Rhinosporidiosis
@@ -574,7 +574,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
 - *Clinical Features:* Pain, fever, flucutant swelling, nasal obstruction.
 - *Treatment:* Incision & drainage, antibiotics, treat underlying cause.
 
-*Complication* #high-yield - cartilage necrosis → saddle nose deformity.
+#high-yield *Complication* - cartilage necrosis → saddle nose deformity.
 
 
 == Allergic Rhinitis
@@ -583,7 +583,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
 - *Clinical Features:* Sneezing, rhinorrhea, nasal obstruction, itching, pale edematous mucosa.
 - *Treatment:* Allergen avoidance, antihistamines, intranasal steroids, leukotriene antagonists, immunotherapy.
 
-*Complications* #high-yield - sinusitis, otitis media with effusion.
+#high-yield *Complications* - sinusitis, otitis media with effusion.
 
 
 == Atrophic Rhinitis
@@ -698,7 +698,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
   - Investigate for cause (CXR for nerve paralysis).  
 - *Treatment:* Treat cause + voice rest + steam inhalation + speech therapy.
 
-*Duration >3 weeks always warrants laryngoscopic evaluation* #high-yield.
+#high-yield *Duration >3 weeks always warrants laryngoscopic evaluation*.
 
 
 == Vocal Cord Nodule
@@ -709,7 +709,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
   - Voice rest, speech therapy.  
   - Surgery (microlaryngoscopic excision) if persistent.
 
-*High-yield differential:* Polyps (unilateral, soft, following acute strain).
+#high-yield *Differential*: Polyps (unilateral, soft, following acute strain).
 
 
 == Carcinoma Larynx
@@ -721,11 +721,11 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
   - *Supraglottic:* dysphagia, pain radiating to ear.  
   - *Subglottic:* late symptoms, airway obstruction.  
 - *Investigations:* Indirect/Direct laryngoscopy with biopsy, CT/MRI for staging.  
-- *Treatment:* Based on stage:  
+- *Treatment:* Main focus is to secure airway first and then treatment based on stage:  
   - *Early:* Radiation or endoscopic excision.  
   - *Advanced:* Partial/total laryngectomy + neck dissection + postoperative radiotherapy.  
 
-*Complications* #high-yield - Airway compromise, aspiration, recurrence.
+#high-yield *Complications* - Airway compromise, aspiration, recurrence.
 
 
 == Foreign Body in Larynx
@@ -747,7 +747,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
   - *Biphasic* - subglottic or glottic lesion.  
 - *Causes:* Acute laryngitis, foreign body, laryngomalacia (child), carcinoma larynx, bilateral abductor palsy.
 
-*Assessment* #high-yield - Onset, duration, associated fever/hoarseness → indicates cause.
+#high-yield *Assessment* - Onset, duration, associated fever/hoarseness → indicates cause.
 
 
 == Airway Obstruction due to Carcinoma Larynx
@@ -804,7 +804,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
 - *Investigations:* Laryngoscopy + biopsy, imaging for staging.
 - *Treatment:* Depending on stage - radiation (early) or laryngectomy (advanced).
 
-*Always query long-term smoker with hoarseness >3 weeks for malignancy* #high-yield.
+#high-yield *Always query long-term smoker with hoarseness >3 weeks for malignancy*.
 
 
 == Multiple Papilloma of Larynx
@@ -849,7 +849,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
     - Post-op radioiodine ablation.  
     - Lifelong thyroxine suppression.
 
-*High-yield differential:* Follicular carcinoma (hematogenous spread), Medullary (calcitonin secretion).
+#high-yield *Differential*: Follicular carcinoma (hematogenous spread), Medullary (calcitonin secretion).
 
 
 == Complications of Thyroid Surgery
@@ -905,7 +905,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
   - *Features:* Fluctuant, smooth, non-tender swelling along anterior border of SCM; transilluminates.  
   - *Treatment:* Surgical excision.
 
-*Branchial Fistula:* #high-yield  
+#high-yield *Branchial Fistula:*  
 - External opening near anterior border of SCM; tract passes between internal and external carotid—complete excision required.
 
 
@@ -963,7 +963,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
   - Hodgkin's → Chemoradiation (ABVD).  
   - Non-Hodgkin's → CHOP regimen ± RT.
 
-*Differentiation summary* #high-yield -  
+#high-yield *Differentiation summary* -  
 #table(columns:2,[Hodgkin],[Non-Hodgkin],
 [Young adults],[Elderly],
 [RS cells present],[Absent],
@@ -984,7 +984,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
 - *Features:* Rapid enlargement, pain, fixation, facial nerve palsy, cervical lymphadenopathy.
 - *Treatment:* Total parotidectomy + neck dissection + radiotherapy.
 
-*Complications after parotid surgery* #high-yield - facial paralysis, Frey's syndrome, salivary fistula, recurrence.
+#high-yield *Complications after parotid surgery* - facial paralysis, Frey's syndrome, salivary fistula, recurrence.
 
 
 
@@ -1071,7 +1071,7 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
 - *Clinical Features:* Dysphagia, fever, neck stiffness, torticollis, bulging posterior pharyngeal wall.  
 - *Treatment:* IV antibiotics, surgical drainage (through mouth avoiding larynx).  
 
-*Danger* #high-yield - Airway obstruction, aspiration pneumonia, mediastinitis.
+#high-yield *Danger* - Airway obstruction, aspiration pneumonia, mediastinitis.
 
 
 == Chronic Retropharyngeal Abscess
@@ -1203,5 +1203,5 @@ Wax, otitis externa, perforation, ossicular fixation (otosclerosis), glue ear.
 - *Investigations:* Biopsy, chest X-ray, LFTs (for metastasis).  
 - *Treatment:* Wide local excision/glossectomy + neck dissection ± radiotherapy.
 
-*Early recognition of leukoplakia (precancer) is key preventive step* #high-yield.
+#high-yield *Early recognition of leukoplakia (precancer) is key preventive step*.
 
