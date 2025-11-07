@@ -308,9 +308,9 @@ Resuscitation -> Observation -> Surgery
   Resuscitation and Interval Appendectomy
 ]
 
-_A 28 year-old married woman presented with central abdominal pain, which later shifted to right iliac fossa. Pain was associated with nausea and low grade fever. (DU-23M)_
+_A 28 year-old married woman presented with central abdominal pain, which later shifted to right iliac fossa. Pain was associated with nausea and low grade fever. _
 
-_A 7-year-old baby girl presented with right iliac fossa pain for 6 hours with nausea and vomiting. (DU-21M)_
+_A 7-year-old baby girl presented with right iliac fossa pain for 6 hours with nausea and vomiting. _
   + Write four differential diagnoses.
   #a[
     + Acute Appendicitis
@@ -381,9 +381,9 @@ _A 7-year-old baby girl presented with right iliac fossa pain for 6 hours with n
     - Repeat serum potassium every 4-6 hours during correction.
     - Monitor urine output — ensure >0.5 mL/kg/hr before replacement (to prevent hyperkalaemia if renal function impaired).
 ]
-#mq[= A 40-year-old known diabetic obese male underwent emergency laparotomy for peritonitis 7 days back. He presented with pain and discharge from main wound. (DU- 21M)
+#mq[= A 40-year-old known diabetic obese male underwent emergency laparotomy for peritonitis 7 days back. He presented with pain and discharge from main wound.]
 #q[Write four important factors those predisposes this condition.]
-#q[Write your plan of action for those factors.]]
+#q[Write your plan of action for those factors.]
 #a[
 #counter("reset")
   #table(columns:2,[Predisposing factor],[Plan / Corrective Action],
@@ -401,7 +401,7 @@ _A 7-year-old baby girl presented with right iliac fossa pain for 6 hours with n
 - Provide high‑protein, high‑calorie diet for healing.])
 ]
 
-= A 70-year-old male with history of previous laparotomy presented with pain, abdominal distension, vomiting for 20 hours. (DU- 21M)
+#mq[= A 70-year-old male with history of previous laparotomy presented with pain, abdominal distension, vomiting for 20 hours.]
 #q[Write four important findings you want to obtain during examination]
 #a[Acute intestinal obstruction]
 #q[Write your plan of investigations with possible interpretation.]
@@ -473,3 +473,521 @@ _A 7-year-old baby girl presented with right iliac fossa pain for 6 hours with n
 - Operative manual reduction of intussusception by gentle distal-to-proximal “milking” of the intussuscepted segment during laparotomy.
 ],)]
 
+#mq[= A 50 years old aged patient presented with epigastric lump.]
+#q[What are the possibilities?]
+#a[]
+#q[What is the probable diagnosis?]
+#a[]
+#q[What investigations will help in diagnosis?]
+#a[]
+
+#mq[= A 60-year-old male presented with recently developed repeated vomiting after taking meal with significant weight loss for last 4 months.]
+#q[Write two (02) probable diagnoses of such condition.]
+#a[]
+#q[Write two (02) important diagnostic investigations you will suggest with possible findings for each diagnoses.]
+#a[]
+#q[How will you prepare him for surgery?]
+#a[]
+
+#mq[= A 55 years male presented with lemon yellow eye with palpable non tender mass in his upper right abdomen]
+#q[What are the differential diagnoses?]
+#a[]
+#q[How will you investigate and prepare him for surgery]
+#a[]
+
+
+#mq[= A 30-year old truck driver presented with a painless upper abdominal mass for 1 month. He had a history severe acute abdominal pain 2 months back, which was treated conservatively in a hospital.]
+#q[What is your probable diagnosis?]
+#q[How will you evaluate the patient?, Mention 02 (two) diagnostic]
+#q[What are the complications of this condition if not treated appropriately?]
+#q[Write the treatment options of such case investigation.]
+
+_A 35 year-old alcoholic male presented with upper abdominal mass for 2 weeks. He had a history of acute abdomen 1 month back._
+
+
+--- orthopedics
+
+
+
+
+#mq[= A 16 year-old boy presented with a history of fall on outstretched hand followed by pain and swelling around the left elbow joint with restricted movement of the joint.]
+_usually age would be shorter 5-11 years_
+#q[What is the most probable diagnosis?]
+#a[Supracondylar fracture of the humerus]
+#q[Mention the investigation for diagnosis with it's expected findings.]
+#a[
+X‑ray of elbow — Anteroposterior (AP) and lateral views.
+
+Expected Findings:
+
+- Fracture line across the supracondylar region of distal humerus (just above the condyles).
+- Posterior displacement of the distal fragment (extension type).
+- Anterior humeral line (on lateral X‑ray) does not pass through the middle of the capitellum (normally it should).
+- Fat pad (sail) sign may be seen due to joint effusion.
+]
+#q[How will you recognize and manage immediate complications?]
+#a[
+#table(columns:3, 
+[Complication],[How to Recognize],[Comments / Danger],[Management],
+[Brachial artery injury],[Absent radial pulse, pale cool hand],[Limb ischemia if untreated],[Emergency Surgery],
+[Median nerve injury (especially anterior interosseous)],[Cannot flex thumb and index finger tips, _Cannot make OK sign_],[Often neuropraxia], [Observation and Nerve Conduction studies if not improved],
+[Swelling → Compartment syndrome],[Increasing pain, tense forearm, pain on finger stretch],[May lead to Volkmann’s contracture], [Lift Hand and Monitor, if not improving, curvilinear incsion to relieve pressure],
+[Nerve injuries (radial/ulnar)],[Weakness in corresponding muscle groups],[Usually transient neuropraxia], [Observation and Nerve Conduction studies if not improved],
+)
+
+]
+#mq[= A 12-years-old boy fell from mango tree with an outstretched right hand.]
+#q[What are the fractures he could sustain?]
+#a[
+  + Supracondylar Fracture of Humerus
+  + Colle's Fracture
+  + Both-bone fracture forearm
+  + Fracture mid‑shaft of clavicle
+]
+#q[Outline the principle of fracture management.]
+#a[
+  4R's -> Resuscitation, Reduction, Retention, Rehabilitation
+]
+#q[He was unable to move his right upper limb. What is the other cause]
+#a[Dislocation of elbow or shoulder joint]
+
+
+#mq[= A lady of 55 years old came to you with the history of fall on the out-stretched hand followed by pain & swelling on & above the wrist joint. ]
+#q[What are the probable causes?]
+#a[
+  + Colle's Fracture
+  + Smith's Fracture
+  + Fracture of the scaphoid bone
+  + Fracture of distal ulna / styloid process
+  + Wrist sprain / soft‑tissue injury
+]
+#q[How will you treat such a case?]
+#a[_From Management of any fracture_]
+
+#mq[= A 55 years old lady fell on out-stretched hand & noticed swelling of her arm joint above the wrist. ]
+#q[What is the most likely diagnosis?]
+#a[Colle's Fracture]
+#q[What are other expected features?]
+#a[
+*Clinical Featutes*
+- Pain, swelling, and tenderness over distal forearm (just proximal to wrist).
+- Loss of wrist motion, especially dorsiflexion.
+- Characteristic “dinner fork” (or “silver fork”) deformity due to dorsal tilt and displacement.
+- Shortening of the forearm.
+- Possible bruising on dorsal aspect.
+- Check for median nerve involvement (tingling/numbness in index and middle fingers).
+*Radiological features (X‑ray)*
+- Transverse fracture line about 2.5 cm proximal to distal articular surface of radius.
+- Dorsal and upward displacement, with dorsal tilt of distal fragment.
+- Sometimes fracture of ulnar styloid process.
+]
+#q[Write four (04) complications of such injury.]
+#a[
+  + Median nerve injury / Carpal tunnel syndrome
+  + Malunion
+  + Stiffness of wrist and fingers
+  + Post-traumatic arthritis
+]
+#q[Write the management plan.]
+#a[
+  *R* : Rest, Immobilization, Analgesics, Check distal neurovascular status, Obtain X-Rays
+  *R* : Reduce, not required if undisplaced, if displaced, Closed Reduction under under anesthesia, Check X-Ray to ensure reduction
+  *R* : Retain - Plaster cast (Colle's cast, below elbow for 6 weeks)
+  *R* : Rehabilitation (Early mobilization of fingers and elbow to prevent stiffness, physiotherapy after cast removal)
+]
+
+#mq[= A 65 year old woman complains of pain in right hip following fall in the bathroom. She was unable to move her right lower limb. On examination right lower limb was found short and externally rotated.]
+#q[What is your clinical diagnosis?]
+#a[Fracture neck of femur (intracapsular fracture of right femur)]
+#q[How will you investigate and treat her?]
+#a[
+  Confirm Diagnosis : Plain X‑ray of pelvis with both hips – AP view
+Lateral view of affected hip
+
+Treatment :  Hemiarthroplasty (partial hip replacement) — most common.
+(Austin‑Moore or Bipolar prosthesis)
+]
+#q[What are the complications if she is left untreated?]
+#a[
+- Non‑union (due to poor blood supply).
+- Avascular necrosis of the femoral head.
+- Malunion causing limb shortening or deformity.
+- Increased risk due to complications of immobilization (DVT, infections, cardiac events).
+]
+#mq[= A 25 years old young man has come with fracture shaft of femur. ]
+#q[What are the management options?]
+#a[]
+#q[Write contraindications of each.]
+#a[]
+
+#a[
+#table(columns: 2,
+[Main options],[Key contraindications],
+[Traction],[Open/comminuted fracture, poor skin, multiple injuries],
+[Plating (ORIF)],[Gross contamination, poor bone quality],
+[Intramedullary nail],[Open fracture, infection, proximal/distal third fractures],
+[External fixator],[Stable closed fracture (use temporary if polytrauma)],
+)
+
+]
+
+
+#mq[= A 35-year-old man having open fracture of right shaft of tibia following RTA ]
+#q[How will you assess the patient?]
+#a[
+Immedaite : cABCD, resuscitate according to ATLS protocol
+
+History : MIST
+  - Mechanism of Injury
+  - Injury Site
+  - Signs/ Symptoms
+  - Treatment Recieved
+Evaluate : Look, Feel, Move, Distal Neurovascular Status
+]
+#q[Mention four complications of such injury.]
+#a[
++ Infection/osteomyelitis
++ Delayed or non‑union
++ Compartment syndrome
++ Malunion/deformity
+]
+#q[Write the principle of management in brief.]
+#a[
++ Resuscitate & cover wound
++ Early surgical debridement
++ IV antibiotics & tetanus prophylaxis
++ Fracture stabilization (usually external fixator)
++ Wound care and later reconstruction
++ Rehabilitation
+#q[How will you manage open fracture of lower limbs at limited resource center.]
+#a[All initial management, except reconstruction can be performed at lower resource center.]
+]
+
+
+#mq[= A 5 year old boy presented with pain, fever with diffuse swelling & tenderness of upper part of right leg.]
+#q[Write the provisional & differential diagnoses of the condition.]
+#a[Provisional Diagnosis : Acute pyogenic (suppurative) osteomyelitis of the upper end of the right tibia.
+Differentials
++ Acute septic arthritis of the knee
++ Cellulitis
++ Ewing’s sarcoma / osteogenic sarcoma
++ Bone abscess (Brodie’s abscess)
++ Hematoma or traumatic periostitis
+]
+#q[What are the investigations you will propose to evaluate the condition?]
+#a[
+  + CBC with ESR and CRP
+  + Blood Culture
+  + Blood Culture
+  + X‑ray of leg (AP & lateral)
+  + Aspiration / needle sampling of suspected abscess or metaphysis, Gram Stain and Culture
+]
+#q[Outline the management plan of your provisional diagnosis.]
+#a[
+  Hospitalization and Supporitve Care : Immobilization, Bed Rest, Analgesics, Antipyretics
+  Empirical IV antibiotics, changed upon CS
+  Surgical Drainage if Abscess
+]
+
+
+#mq[= A 25-years-old boy presented with a chrome discharging sinus in the Rt leg with HO open fracture 6 months back. ]
+#q[Mention 2 most possible causes.]
+#a[
+  + Chronic osteomyelitis
+  + Infected non‑union of tibial fracture
+]
+#q[What are the points to be mentioned during taking history?]
+#a[
+  + History of trauma
+  + Initial treatment
+  + Course of illness
+  + Previous investigations / cultures
+]
+#q[How will you approach to diagnose this case? ]
+#a[History, Imaging, Aspiration and Culture]
+#q[Name the investigations for it.]
+#a[
+  + CBC with ESR and CRP
+  + X-Ray of Leg, both AP and Lateral views
+  + Pus Culture and Sensitivity
+  ]
+#q[What is your management plan?]
+#a[
+  + General Measures
+    - Optimize nutrition, treat anemia.
+    - Control any comorbidities.
+    - Analgesics, limb elevation.
+  + Antibiotics
+    - IV antibiotics, modified upon CS, continued upto 4-6 weeks
+  + Surgical Management
+    - Sequestrectomy
+    - Curettage
+    - Dead Space Management : Bone Graft
+  + Rehabilitation
+]
+#q[What will be the consequences if he is left untreated?]
+#a[
++ Chronic infection
++ pathological fracture
++ deformity
++ malignancy (Marjolin’s ulcer)
+]
+
+
+
+#mq[= A 20-year-old male presented with pain and swelling in the Lt. knee for one month. X- ray finding shows sun ray appearance at the lower end of femur. ]
+#q[What is the probable diagnosis?]
+#a[Osteosarcoma (osteogenic sarcoma) of the lower end of the left femur.]
+#q[How will you investigate and treat the patient?]
+#a[
+
+*Investigation*
+  - Confirm : X-Ray  (AP & Lateral of femur & knee)
+  - MRI of thigh and knee : Assess local spread / soft tissue involvement
+  - Confirm histological diagnosis : Core needle or open biopsy
+  - Baseline labs : CBC, ESR, Renal & Liver function
+  - Exclude metastasis :
+    - Chest X‑ray / CT chest → lungs are most common metastasis site.
+    - Bone scan (Technetium‑99m) → to check for skip or distant bone lesions.
+
+*Treatment*
+
+Neoadjuvant chemotherapy → Wide excision / limb‑salvage or amputation → Adjuvant chemotherapy → Regular follow‑up.
+]
+#mq[= A 10 year old boy presented with painful hard swelling in lower femur. Write possible causes. How will you approach to diagnose such a case?]
+#a[
+  Causes
+  + Osteosarcoma
+  + Ewing’s sarcoma
+  + Osteochondroma
+  + Chronic osteomyelitis
+
+Approach would be of any swelling.
+]
+#mq[= A 45-year-old male, day labourer developed severe low back pain after lifting a heavy object. He was unable to walk. ]
+#q[Write the probable diagnosis.]
+#a[Acute lumbar disc prolapse (prolapsed intervertebral disc – PIVD) involving lumbar region — most commonly at L4–L5 or L5–S1 level.]
+#q[Mention 02 (two) imaging modalities you will advice for such patient with interpretation.]
+#a[
++ Plain X‑ray (Lumbosacral spine – AP & lateral views)
++ MRI of lumbosacral spine  
+]
+#q[How will you treat such case?]
+#a[
++ Rest
++ Analgesia & anti‑inflammatory drugs
++ Physiotherapy after acute pain subsides
++ Lifestyle modification: Weight control, avoid heavy lifting, ergonomic advice, lumbar support belt temporarily.
+
+Discectomy (open / microdiscectomy / endoscopic) to remove protruded disc and decompress nerve root., if not solved
+]
+#q[Write the mechanism of development of pain.]
+#a[
+Common cause: Lumbar disc prolapse / degenerative lumbar spondylosis with nerve root involvement. 
+
+*Pathophysiology*
+Site/Event	Mechanism producing pain
+#table(columns:2,
+[1. Degenerative changes in intervertebral disc],[• Nucleus pulposus loses hydration → disc height decreases → annular fibrosus fissures → inflammation and pain.],
+[2. Herniation or bulging of disc],[• Posterolateral protrusion compresses adjacent nerve roots (L4–L5 or L5–S1 most common).],
+[3. Mechanical compression of nerve roots],[• Direct pressure causes radicular pain radiating along dermatome (sciatica).],
+[4. Chemical irritation],[• Leakage of inflammatory mediators from degenerated disc irritates nerve roots → chronic pain and paresthesia.],
+[5. Muscle spasm],[• Reflex paraspinal muscle spasm adds to localized back pain and stiffness.],
+)
+]
+_A 35-year-old male presented to you with low back pain for 12 months with radiation to both legs._
+
+#q[Write role of two common imaging for evaluation of this patient with possible findings.]
+#a[
+Imaging modality	Purpose / Interpretation
++ Plain X‑ray (Lumbosacral spine – AP & lateral views)	
+  - May show loss of lumbar lordosis (due to muscle spasm).
+  - Decreased disc space height at affected level.
+  - To rule out other causes such as fractures, spondylolisthesis, osteoarthritis.
++ MRI of lumbosacral spine
+  - Best investigation for intervertebral disc pathology.
+  - Shows disc protrusion / extrusion, nerve root compression, degree of canal compromise, and associated soft tissue details.
+]
+#mq[= A 25 year old woman sustained stab injury on the back of her right arm following which she is unable to extend her wrist joint.]
+#q[What is the probable cause?]
+#a[ Injury to the radial nerve in the spiral (radial) groove of the right humerus secondary to stab wound.]
+#q[How will you recognize them clinically? ]
+#a[
+*Motor Signs*
+#table(columns: 2,
+[Muscle group affected],[Clinical finding],
+[Wrist extensors (extensor carpi radialis longus & brevis, extensor carpi ulnaris)],[Inability to extend wrist → hand hangs flaccidly → wrist drop.],
+[Finger extensors (extensor digitorum, extensor indicis, extensor digiti minimi)],[Cannot extend fingers at metacarpophalangeal joints.],
+[Thumb extensors and abductor longus],[Inability to extend or abduct thumb.],
+[Triceps (if lesion high up)],[Weak or absent elbow extension (if proximal injury).],
+)
+*Sensory Signs*
+Area of Loss : Small area on dorsum of hand between thumb and index finger
+
+*Reflex Changes*
+- Triceps reflex: lost or diminished if lesion is above the spiral groove.
+- Supinator (brachioradialis) jerk: diminished if lesion is at or below spiral groove.
+
+
+
+]
+
+#mq[= A football player during a match sustained injury at his knee, failed to extend his knee joint. This has become swollen. ]
+#q[What possible structures could be injured?]
+#a[
++ Quadriceps Tendon
++ Anterior cruciate ligament (ACL)
++ Posterior cruciate ligament (PCL)
++ Menisci (especially medial meniscus)
++ Collateral ligaments (MCL/LCL)  
+]
+#q[How will you investigate?]
+#a[
+MIST, Look Feel Move, Distal Neurovascular Status
++ Straight leg raise: unable to perform → extensor mechanism rupture.
++ Anterior drawer / Lachman test: ACL integrity.
++ Posterior drawer: PCL.
++ McMurray / Thessaly: meniscal tear.
++ Valgus and varus stress tests: MCL/LCL integrity.
+
++ X‑ray of knee (AP & lateral)
++ MRI of knee joint
+]
+
+--- uro
+
+#mq[= A young boy of 5yrs underwent circumcision 4 hours ago. Now, his parents bring him for promise bleeding from circumcision site.]
+#q[What are the possible causes?]
+#a[]
+#q[How will you investigate him?]
+#a[]
+#q[How will you manage him?]
+#a[]
+
+#mq[= A 12 year old boy presented with acute Painful scrotal swelling. What are common causes?]
+
+#mq[= Write clinical features of one of the scrotal swellings.]
+
+#mq[= A 30 years old man presented with a painless and swelling of right testis. How will you evaluate the patient?]
+
+#mq[= Name 3 cystic swelling above the testis. How will you differentiate them clinically?]
+
+#mq[= A 2s old child presented with sudden severe pain and swelling of the scrotum. How will you counsel the parents? Outline rational investigations to reach a diagnosis. Give your treatment plan.]
+
+#mq[= A 10 year old boy presented with acute painful scrotal swelling. What are the common causes?]
+
+#mq[= A 6 years old boy noticed sudden severe (non traumatic) painful swelling of his left testicle. What are the probable causes? How will you manage this boy?]
+
+#mq[= A 5-year-old boy presented with absence of right testis in scrotum.]
+#q[How will you proceed to evaluate the patient?]
+#a[]
+#q[Write your treatment plan.]
+#a[]
+#q[Write difficulties you will face during operations of a morbid obese patient.]
+#a[]
+#q[What extra precautions you will take during operation.]
+#a[]
+
+#mq[= A 5-year-old boy presented with empty right hemiscrotum since birth. What are the possibilities? Mention diagnostic criteria of cach. What are the complications of such conditions, if not treated properly?]
+
+#mq[= Young man presented with a painless testicular swelling with loss of sensation on compression for six months How will you evaluate him clinically? How will you investigate him?]
+
+#mq[= A young patient presented with a hard & insensible testicular swelling.]
+#q[What are the possible causes?]
+#a[]
+#q[How will you examine the patient?]
+#a[]
+#q[What investigations will you advise for him?]
+#a[]
+
+#mq[= A 25 year old man presented with painless, non-tender, hard swelling of one testis.]
+#q[What are the possible causes?]
+#a[]
+#q[Justify investigations you would suggest in such a case.]
+#a[]
+
+#mq[= A patient of 60 years has presented with frequency, urgency & dribbling of urine.]
+#q[Write the causes.]
+#a[]
+#q[What investigations you advice for diagnosis & positive findings for surgical treatment?]
+#a[]
+
+#mq[= What are the indications of surgery in enlarged prostate?]
+
+#mq[= What are the indications and complications of operation for BEP?]
+
+#mq[= What are the DRE findings of BEP & Ca prostate?]
+
+#mq[= A 50-years-old male came with the complaints of difficulties in passing urine for 6 months. On D/R/E, there is firm swelling in the anterior aspect of the rectum where upper limit couldn't be felt.]
+#q[What is your provisional diagnosis?]
+#a[]
+#q[How will you evaluate the patient? What are the treatment options?]
+#a[]
+
+#mq[= A 65 year old man was suffering from frequency, hesitancy, incomplete voiding of micturation.]
+#q[How will you examine the patient?]
+#a[]
+#q[What rational investigation will you advise for him?]
+#a[]
+#q[Write down the plan of management of his problem.]
+#a[]
+
+#mq[= A 40 year old female developed ventral hernia 3 months after an abdominal operation. Briefly point out the all possible factors behind this complication.]
+
+#mq[= A 25 years old male presented with lump in the groin. What important points you will notice during physical examination to diagnose this case?]
+
+#mq[= You are going to operate upon a patient of obstructed inguinal hernia.]
+#q[How will you evaluate this patient before operation?]
+#a[]
+#q[What are the points you will look at the time of operation to confirm gut viability?]
+#a[]
+#q[Write your justification of using prolene mesh.]
+#a[]
+
+#mq[= A 40 year old man presented to you with right sided indirect inguinal hernia. (DU 24Nov)]
+#q[List the types of laparoscopic procedure for inguinal hernia operation.]
+#a[]
+#q[Name four procedures of open repair of this operation.]
+#a[]
+#q[Mention six complications of open inguinal hernia operation.]
+#a[]
+
+#mq[= A 38 years old female developed a reducible swelling in her lower abdomen at the right corner 6 month after previous LUCS incision.]
+#q[What is your diagnosis?]
+#a[]
+#q[What are the predisposing factors responsible for the development of this condition?]
+#a[]
+#q[What are the options of treatment of this condition?]
+#a[]
+
+#mq[= A young boy of the years presented with left sided inguino-scrotal swelling How will you reach a clinical diagnosis? What counseling is to be done to the parents if he requires surgery!]
+
+#mq[= An 8 year old boy presented with a left sided inguino-scrotal swelling since birth. (DU 17Ju)]
+#q[What are the differential diagnoses?]
+#a[]
+#q[What are the clinical findings to distinguish between the differential diagnoses?]
+#a[]
+
+#mq[= A woman of 28 years presented with a swelling at the corner of her scar of cesarean section, which bulges out on coughing and standing? Write down your diagnosis and the factors those might lead to this condition? What are treatment options for her?]
+
+#mq[= After 6 months of an upper abdominal operation a 43 year old female presented with epigastric swelling that imparts impulse on cough.]
+#q[What is your diagnosis?]
+#a[]
+#q[What are the possible actioligical factors behind such condition?]
+#a[]
+
+#mq[= A 30 year woman had an operation 6 months back for a Gynecological cause. Now she presents with lower abdominal bulge with vision and palpable expansile cough impulse.]
+#q[What is your diagnosis?]
+#a[]
+#q[What are the probable factors that were responsible for this condition?]
+#a[]
+#q[How will you manage the patient?]
+#a[]
+
+#mq[= A 50 year old male patient present with epigastric swelling, that imparts impulse on cough.]
+#q[What are the possible causes?]
+#a[]
+#q[What are the important factors behind it, if appeared after an abdominal operation?]
+#a[]
+
+#mq[= A 40 year male presented with an inguino- scrotal swelling for 6 months. How will you examine the patient to reach a clinical diagnosis.]
