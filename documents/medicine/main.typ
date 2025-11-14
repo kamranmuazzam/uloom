@@ -15,6 +15,15 @@
 
 #outline(title: none, depth: 2)
 ])
+#pagebreak()
+#info_box([List of Tables],[
+
+#outline(title: none,target: figure.where(kind: table), depth: 2)
+])
+#info_box([List of Figures],[
+
+#outline(title: none,target: figure.where(kind: image), depth: 2)
+])
 
 // #pagebreak()
 // #outline(title: none, depth: 2)

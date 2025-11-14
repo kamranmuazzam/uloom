@@ -69,7 +69,7 @@ Always check HCV RNA (antibody only means exposure, not active disease)
   - TIPS#footnote[Transjugular Intrahepatic Portosystemic Shunt] -> transplant
 
 == Cirrhosis
-=== Stigmata CLD
+=== Stigmata of CLD
 + ↓hair
 + cachexia
 + Jaundice

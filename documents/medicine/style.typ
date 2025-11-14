@@ -76,9 +76,9 @@ doc
 
   #text(size: 34pt, title_text)
 
-  Exam Oriented
+  _This isn't a complete work, even I don't know what it is for now_
 
-  kamranmuazzam, IM-19-114
+  kamranmuazzam
 
 ]
 #align(bottom + left)[#datetime.today().display()]

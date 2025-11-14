@@ -57,9 +57,10 @@
    + Bronchial Asthma
    + Lung Abscess
    + Bronchiectasis
-   + Pleural Diseases (Effusion
-   + Empyema
-   + Pneumothorax)
+   + Pleural Diseases
+      + Effusion
+      + Empyema
+      + Pneumothorax
    + Lung Cancer
    + Occupational Lung Diseases
 + Cardiovascular

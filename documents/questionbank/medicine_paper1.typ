@@ -31,7 +31,7 @@
 + Mention five (5) important causes of cyanosis? (DU-17Ju)
 === Pulse and neck vein
 + Write down the importance of examination of pulse of a patient. (DU-17/16Ju, 14/10 Ja)
-+ What information will you gather from examination of pulse of a patient? (DU- 24/22/20Νον, 19M.18Ju, 11Ju)
++ What information will you gather from examination of pulse of a patient? (DU- 24/22/20Nov, 19M.18Ju, 11Ju)
 + What information you may gather from examination of neck of a patient? (DU- 18Nov, 15Ja, 10Ju)
 + Write down the importance of neck examination in clinical medicine (DU- 07M, 05Ja)
 === Lymph node examination
@@ -144,7 +144,7 @@
  + Write down the risk factors of the above condition.
 + A 45-year-old male presents with sudden severe chest pain for 6 hours and ECG evidence is in favor of acute myocardial infarction.
  + How will you search for underlying risk factors?
- + Mention the clinical conditions related to excess environment heat. (DU-17Ja)
++ Mention the clinical conditions related to excess environment heat. (DU-17Ja)
 + A 60 year old smoker is admitted with acute central chest pain for 2 hours. His ECG shows ST elevation. (DU-16Ja).
  + What immediate management would you take for the patient?
  + The patient develops dyspnoea on the following day. What additional measures will you take to manage the patient?
@@ -286,144 +286,144 @@
 + He has no history of fever. Chest examination reveals dull percussion note and reduced breath sound at the right upper chest anteriorly. (DU-20Nov)
  + b. Write down other clinical manifestations of the disease you will look for this case.
 + Write down investigations to establish the diagnosis
-=== Respiratory Failure
-+ Short note on:
- + Type-II respiratory failure (DU-05M)
- + Oxygen therapy (DU-05M)
-=== Pleural Effusion
-+ Mention the physical signs of pleural effusion. (DU-10Ja)
-+ Write down the C/F of left sided moderate pleural effusion. (DU-08Ja)
- + 30 years old man presents with right sided chest pain with high fever and cough.
-+ His chest X-ray shows homogenous opacity with crescentic upper margin in the right side. (DU-15/12Ju)
-+ Enumerate the physical signs suggesting pleural effusion.
-+ How will you treat TB pleural effusion?
-+ A 30 year old lady presents with fever with chest pain. Examination findings suggest left sided pleural effusion. (DU-16Ja)
-+ How do you investigate the case to determine the underlying of pleural effusion?
-+ How you differentiate Pleural effusion due to TB or bronchial carcinoma?
-+ How would you differentiate pleural effusion from pneumothorax clinically? (DU- 18Nov)
-=== Bronchial Asthma
-+ Classify bronchial asthma. (DU-05Ja)
-+ Mention features of severe acute bronchial asthma? (DU-20M)
-+ How would you manage a case of severe acute bronchial asthma? (DU-20M)
-+ How will you manage a case of severe acute 3 asthma in a medicine ward? (DU-14Ja)
-+ Write down clinical features of bronchial asthma. (DU-09Ja)
-+ How will you treat a case of acute severe asthma? (DU-21M)
-+ How will you diagnose and treat a case of sever acute asthma? (DU-09Ja) 6
-+ How will you mange a case of severe bronchial asthma? (DU-23/19Nov)
-+ How will you mange a case of severe acute asthma? (DU-18Ju, 15Ju, 12/11/09Ja)
-+ How would you differentiate hysterical hyper ventilation (HHV) from episodic bronchial asthma? (DU-05M)
-+ A 40-year-old man presents with H/O breathlessness and occasional cough for years. (DU-22N)
-+ How will you differentiate bronchial asthma from chronic obstructive pulmonary disease clinically?
-+ How will you manage a case of acute severe asthma?
-+ A 40 year old man presented with recurrent breathlessness with wheezing for several years. Mention symptoms and signs suggesting bronchial asthma. (DU-15Ju)
-+ A 30 year old female presents with recurrent dyspnoea and hospitalization. (DU-12J0)
- + Mention history and physical signs suggesting Bronchial Asthma.
- + Mention preventive drugs with their potential side effects in the long term management of Bronchial Asthma.
-+ A 30 years old man presented with severe breathlessness for 3 hours. He has history of cough and allergy. How will you manage him? (DU-06M)
-+ A boy of 14 years presented to you with history of repeated breathlessness. He got the family history of allergy. How will you manage the case and counsel the parents? (DU-06M)
-+ Short note on: Tropical pulmonary cosinophilia. (DU-05M)
-=== COPD
-+ How would you differentiate bronchial asthma from COPD? How would you manage a case of acute exacerbation of COPD? (DU 24Nov)
-+ What are the findings on inspection of case of COPD? (DU-15Ju)
-+ Write down the key features of chronic obstructive pulmonary disease. (DU-06Ja)
-+ What findings you will get on chest examination of an emphysematous patient? How will you treat him? (DU-08M)
-+ How will you manage a case of COPD? (DU-06Ja)
-+ How will you differentiate clinically bronchial asthma from chronic obstructive pulmonary disease? (DU- 23,22,21,19Νov, 19M/Ja, 18Ju, 17/12Ja)
-+ A 30 years-old woman was admitted to the medicine ward with severe respiratory distress. She had been suffering from asthma since her early childhood. Her pulse is
-+ 120/min, blood pressure is 130/85 mmHg. and respiratory rate is 37/min and also patient cannot complete a sentence in 1 breath. Auscultation of the chest revealed bilateral rhonchi with vesicular breath sound with prolonged expiration. (DU-23M)
- + Write steps of management of her current status.
- + What complications may arise if she is left untreated?
-+ A 50-year-old man who has been suffering from chronic obstructive pulmonary disease, presents in the emergency department with severe respiratory distress, fever and productive sputum for three days. Examination reveals blood pressure 130/80 mmHg, pulse rate 110/min having cyanosis and bilateral rhonchi. (DU-22M)
- + Mention appropriate investigations that will help you to manage him properly.
- + How would you treat him?
-+ A 65-year-old man with known chronic obstructive pulmonary disease presents in the emergency department with severe respiratory distress, fever and productive sputum for three days. Examination reveals blood pressure 130/80 mmHg, pulse rate 110/min having cyanosis and bilateral rhonchi. (DU-20Nov)
- + Mention appropriate investigations that will help you to manage him properly.
- + How will you treat him?
-+ A 50 years old farmer presented with severe dyspnoea and cyanosis. (DU-08Ja)
- + What are the possibilities?
- + What investigations will you advice?
-=== Pneumonia
-+ Mention expected physical findings of pneumonia during examination of respiratory system. (DU- 12Ja)
-+ Write down the physical signs and radiological features of pneumonic consolidation. (DU-11Ja)
-+ Write down the investigations with expected findings of pneumonia. (DU-12Ja)
-+ How will you manage a case of community acquired pneumonia? (DU-19, 18Nov)
-+ Write down the treatment of community acquired pneumonia. (DU-11Ju)
-+ A 50-year-old man presented with fever and cough with 5 days. Examination revealed bronchial breath sound and increased vocal resonance in left apical area. (DU-23N)
- + How would you investigate him with expected findings.
- + How would you manage the case?
-+ A 45-year-old man presents with fever and cough for 7 days. Examination revealed bronchial breath sound and increased vocal resonance in left upper chest. (DU-22N)
- + Mention the factors which may predispose to such clinical condition.
- + How will you investigate him with expected findings?
-+ A 35-year-old male presents with right sided chest pain for 2 hours. What clinical information would you search for identification of etiology (DU-19M)
-+ A 30 year old man presents with cough, fever and digital clubbing. His chest X-ray shows consolidation with air fluid level. (DU-14Ju)
- + Make a check list of clinical information indicating a diagnosis.
- + How will you manage the patient?
-+ A young boy of 18 years presented with fever and cough for 4 days, right lower chest pain for 1 day aggravated with respiration. (DU-13Ja)
- + What is the most likely diagnosis? What are the expected physical findings in the chest?
- + Name relevant investigations for diagnosis with interpretation.
-+ A 20 years old man presents with fever, cough & right lower pleuritic chest pain for 5 days. (DU-12Ja)
- + Mention the expected physical findings during examination of the respiratory system.
- + Write down the investigations with expected findings you will advice for the patient.
-+ A 22 year old male presented with high fever, unilateral pleuritic chest pain and cough with rusty sputum for 4 days (DU-10Ju)
- + Write down the expected findings on physical examination of chest.
- + Write down the investigations for him. with interpretations.
-+ A 45 years old man presented with high fever, pleuritic chest pain on right side along with cough and rusty sputum for 5 days (DU-08Ja)
- + Write down the expected clinical findings.
- + Write down the investigations and treatment of the patient.
-=== Pulmonary Tuberculosis (TB)
-+ A 35-year-old female (wt-43kg) presented with cough, hemoptysis and fever with evening rise of temperature for 2 months. You suspected as a case of pulmonary tuberculosis. How will you treat her? (DU- 17Ju)
-+ Write a prescription for a 30-year-old (43) kg) women with sputum positive PTB. (DU- 16Ju)
-+ Write down the treatment of new case of sputum positive pulmonary tuberculosis weighing 60kg. (DU-20M)
-+ Write down the treatment of sputum positive pulmonary tuberculosis for 35 year old man weighing 48 kg. (DU-10Ju)
-+ Write down the treatment of tuberculosis according to recommended category. (DU- 06Ja)
-+ Write down the category-l treatment for a sputum positive pulmonary tuberculosis patient weighing 60 kg. (DU-11Ja)
-+ What are the clinical and radiological features of miliary Tuberculosis? (DU-09Ja)
-+ How would you clinically differentiate pulmonary TB & bronchogenic carcinoma? (DU-11Ju,075)
-+ Name the antitubercular drugs with their side effects. (DU-04S)
-+ A 20 year old male presented with fever, weight loss, pallor lymphadenopathy for 4 and cervical weeks. How will you investigate and manage such a case? (DU-06M)
-+ A 45 year old man presented with fever & cough for 2 months & diagnosed as a case of pulmonary tuberculosis & was on anti-tubercular drugs. One month after antitubercular drug, he developed jaundice. (DU 24Nov)
- + How would you investigate him for further evaluation?
- + How would you manage this case?
-+ A 45 years old man presents with cough and hemoptysis for 2 weeks. (DU-10Ja)
- + Provide a clinical and laboratory check list to reach a diagnosis.
- + Write down the category-I treatment for a patient of Pulmonary TB weighing
-+ 55 kg.
-+ A 30 years old female garment worker (weight 48 kg) presented with cough & fever for 1 month. (DU-13Ju)
- + Provide a clinical and laboratory checklist to ascertain the cause of her illness.
- + How would you treat her if she is diagnosed as pulmonary tuberculosis?
-+ A 20 year-old female garment worker (weight 45 kg) presented with cough and fever with evening rise of temperature for a month. (DU-10Ju)
- + Provide a clinical and laboratory to checklist ascertain the cause of her illness.
- + Write the treatment of the patient once you diagnose her as category-1 TB.
-+ A 25 years old lady presents with fever & cough for 2 months. Examination findings suggest left sided pleural effusion. What investigations you will suggest determining underlying aetiology? (DU-11Ju)
-+ A young male presented to you with a history of low grade fever for 1 month with hemoptysis with right sided chest pain with respiratory distress of short duration. On percussion stony dullness on right side of chest. What is the diagnosis and treatment of such a case? (DU-06M)
-=== Bronchiectasis
-+ How can you differentiate pulmonary tuberculosis from bronchiectasis? (DU-11Ja)
-+ A 25-year-old student attends the outpatient department with history of cough and purulent sputum for 7 days. Make a check list of clinical signs to find out the cause. (DU-19Ja)
-+ A 35-year-old patient presents to outpatient department with history of cough and purulent sputum for 2 weeks. Mention the other clinical information you will look for. (DU-17Ja)
-+ What are the expected physical signs of a 40 years old male presenting with cough and profuse purulent sputum? (DU-12Ja)
-+ A 30 years old male presents with recurrent episodes of productive cough for 2 years with digital clubbing. He had a history of pulmonary tuberculosis 5 years ago. What investigation you would to confirm your diagnosis with expected findings? (DU-18Ja)
-+ A 30 year old male presents with recurrent cough with purulent sputum for 2 years with digital clubbing (DU-15Ja)
- + What is the most likely diagnosis? How will you investigate him?
- + How will you manage him?
-=== Lung Abscess
-+ What findings will you get on chest examination of a lung abscess patient? (DU- 08M)
-+ How will you treat a patient of lung abscess? (DU-08M)
-+ A 40 years-old man presented with high-grade fever and expectoration of copious amount of purulent and foul-smelling sputum for 1 month. Examination revealed clubbing with amphoric bronchial breath sound and crepitations over the 4th to 6th intercostal space along the right midclavicular line. (DU-23M)
- + What is the most likely diagnosis in this case?
- + Mention investigations along with expected findings in this case.
- + How would you manage him?
-+ A 40 years old male presented with high fever, productive cough and left sided chest pain for 15 days. Examination of chest revealed crepitation over left side. How would you manage him? (DU-06Ja, 10Ju)
-=== Tension pneumothorax
-+ Mention clinical features of tension pneumothorx. (DU-19Ja)
-=== Bronchogenic Carcinoma
-+ What are the common clinical presentations of lung cancer? (DU-10Ju,09Ju)
-+ How a case of bronchogenic carcinoma may present? (DU-07S)
-+ What are the extra pulmonary manifestations of bronchogenic carcinoma? (DU-17/10Ja)
-+ A 65-year-old man who smokes heavily presents with left upper chest pain and cough with hemoptysis for 6 months. He has no history of fever. (DU-22M)
- + Write down other clinical features you would search to support your diagnosis.
- + What are the radiological abnormalities you may expect on chest X-ray?
-+ A 20 year old male presented with irregular fever, anorexia, weight loss and occasional hemoptysis. How would you investigate him to arrive at a diagnosis? (DU- 05S)
-+ How would you proceed to investigate a 45 years old male patient who has presented with hemoptysis and clubbing? (DU-07M)
+  === Respiratory Failure
+  + Short note on:
+  + Type-II respiratory failure (DU-05M)
+  + Oxygen therapy (DU-05M)
+  === Pleural Effusion
+  + Mention the physical signs of pleural effusion. (DU-10Ja)
+  + Write down the C/F of left sided moderate pleural effusion. (DU-08Ja)
+  + 30 years old man presents with right sided chest pain with high fever and cough.
+  + His chest X-ray shows homogenous opacity with crescentic upper margin in the right side. (DU-15/12Ju)
+  + Enumerate the physical signs suggesting pleural effusion.
+  + How will you treat TB pleural effusion?
+  + A 30 year old lady presents with fever with chest pain. Examination findings suggest left sided pleural effusion. (DU-16Ja)
+  + How do you investigate the case to determine the underlying of pleural effusion?
+  + How you differentiate Pleural effusion due to TB or bronchial carcinoma?
+  + How would you differentiate pleural effusion from pneumothorax clinically? (DU- 18Nov)
+  === Bronchial Asthma
+  + Classify bronchial asthma. (DU-05Ja)
+  + Mention features of severe acute bronchial asthma? (DU-20M)
+  + How would you manage a case of severe acute bronchial asthma? (DU-20M)
+  + How will you manage a case of severe acute 3 asthma in a medicine ward? (DU-14Ja)
+  + Write down clinical features of bronchial asthma. (DU-09Ja)
+  + How will you treat a case of acute severe asthma? (DU-21M)
+  + How will you diagnose and treat a case of sever acute asthma? (DU-09Ja) 6
+  + How will you mange a case of severe bronchial asthma? (DU-23/19Nov)
+  + How will you mange a case of severe acute asthma? (DU-18Ju, 15Ju, 12/11/09Ja)
+  + How would you differentiate hysterical hyper ventilation (HHV) from episodic bronchial asthma? (DU-05M)
+  + A 40-year-old man presents with H/O breathlessness and occasional cough for years. (DU-22N)
+  + How will you differentiate bronchial asthma from chronic obstructive pulmonary disease clinically?
+  + How will you manage a case of acute severe asthma?
+  + A 40 year old man presented with recurrent breathlessness with wheezing for several years. Mention symptoms and signs suggesting bronchial asthma. (DU-15Ju)
+  + A 30 year old female presents with recurrent dyspnoea and hospitalization. (DU-12J0)
+  + Mention history and physical signs suggesting Bronchial Asthma.
+  + Mention preventive drugs with their potential side effects in the long term management of Bronchial Asthma.
+  + A 30 years old man presented with severe breathlessness for 3 hours. He has history of cough and allergy. How will you manage him? (DU-06M)
+  + A boy of 14 years presented to you with history of repeated breathlessness. He got the family history of allergy. How will you manage the case and counsel the parents? (DU-06M)
+  + Short note on: Tropical pulmonary cosinophilia. (DU-05M)
+  === COPD
+  + How would you differentiate bronchial asthma from COPD? How would you manage a case of acute exacerbation of COPD? (DU 24Nov)
+  + What are the findings on inspection of case of COPD? (DU-15Ju)
+  + Write down the key features of chronic obstructive pulmonary disease. (DU-06Ja)
+  + What findings you will get on chest examination of an emphysematous patient? How will you treat him? (DU-08M)
+  + How will you manage a case of COPD? (DU-06Ja)
+  + How will you differentiate clinically bronchial asthma from chronic obstructive pulmonary disease? (DU- 23,22,21,19Νov, 19M/Ja, 18Ju, 17/12Ja)
+  + A 30 years-old woman was admitted to the medicine ward with severe respiratory distress. She had been suffering from asthma since her early childhood. Her pulse is
+  + 120/min, blood pressure is 130/85 mmHg. and respiratory rate is 37/min and also patient cannot complete a sentence in 1 breath. Auscultation of the chest revealed bilateral rhonchi with vesicular breath sound with prolonged expiration. (DU-23M)
+  + Write steps of management of her current status.
+  + What complications may arise if she is left untreated?
+  + A 50-year-old man who has been suffering from chronic obstructive pulmonary disease, presents in the emergency department with severe respiratory distress, fever and productive sputum for three days. Examination reveals blood pressure 130/80 mmHg, pulse rate 110/min having cyanosis and bilateral rhonchi. (DU-22M)
+  + Mention appropriate investigations that will help you to manage him properly.
+  + How would you treat him?
+  + A 65-year-old man with known chronic obstructive pulmonary disease presents in the emergency department with severe respiratory distress, fever and productive sputum for three days. Examination reveals blood pressure 130/80 mmHg, pulse rate 110/min having cyanosis and bilateral rhonchi. (DU-20Nov)
+  + Mention appropriate investigations that will help you to manage him properly.
+  + How will you treat him?
+  + A 50 years old farmer presented with severe dyspnoea and cyanosis. (DU-08Ja)
+  + What are the possibilities?
+  + What investigations will you advice?
+  === Pneumonia
+  + Mention expected physical findings of pneumonia during examination of respiratory system. (DU- 12Ja)
+  + Write down the physical signs and radiological features of pneumonic consolidation. (DU-11Ja)
+  + Write down the investigations with expected findings of pneumonia. (DU-12Ja)
+  + How will you manage a case of community acquired pneumonia? (DU-19, 18Nov)
+  + Write down the treatment of community acquired pneumonia. (DU-11Ju)
+  + A 50-year-old man presented with fever and cough with 5 days. Examination revealed bronchial breath sound and increased vocal resonance in left apical area. (DU-23N)
+  + How would you investigate him with expected findings.
+  + How would you manage the case?
+  + A 45-year-old man presents with fever and cough for 7 days. Examination revealed bronchial breath sound and increased vocal resonance in left upper chest. (DU-22N)
+  + Mention the factors which may predispose to such clinical condition.
+  + How will you investigate him with expected findings?
+  + A 35-year-old male presents with right sided chest pain for 2 hours. What clinical information would you search for identification of etiology (DU-19M)
+  + A 30 year old man presents with cough, fever and digital clubbing. His chest X-ray shows consolidation with air fluid level. (DU-14Ju)
+  + Make a check list of clinical information indicating a diagnosis.
+  + How will you manage the patient?
+  + A young boy of 18 years presented with fever and cough for 4 days, right lower chest pain for 1 day aggravated with respiration. (DU-13Ja)
+  + What is the most likely diagnosis? What are the expected physical findings in the chest?
+  + Name relevant investigations for diagnosis with interpretation.
+  + A 20 years old man presents with fever, cough & right lower pleuritic chest pain for 5 days. (DU-12Ja)
+  + Mention the expected physical findings during examination of the respiratory system.
+  + Write down the investigations with expected findings you will advice for the patient.
+  + A 22 year old male presented with high fever, unilateral pleuritic chest pain and cough with rusty sputum for 4 days (DU-10Ju)
+  + Write down the expected findings on physical examination of chest.
+  + Write down the investigations for him. with interpretations.
+  + A 45 years old man presented with high fever, pleuritic chest pain on right side along with cough and rusty sputum for 5 days (DU-08Ja)
+  + Write down the expected clinical findings.
+  + Write down the investigations and treatment of the patient.
+  === Pulmonary Tuberculosis (TB)
+  + A 35-year-old female (wt-43kg) presented with cough, hemoptysis and fever with evening rise of temperature for 2 months. You suspected as a case of pulmonary tuberculosis. How will you treat her? (DU- 17Ju)
+  + Write a prescription for a 30-year-old (43) kg) women with sputum positive PTB. (DU- 16Ju)
+  + Write down the treatment of new case of sputum positive pulmonary tuberculosis weighing 60kg. (DU-20M)
+  + Write down the treatment of sputum positive pulmonary tuberculosis for 35 year old man weighing 48 kg. (DU-10Ju)
+  + Write down the treatment of tuberculosis according to recommended category. (DU- 06Ja)
+  + Write down the category-l treatment for a sputum positive pulmonary tuberculosis patient weighing 60 kg. (DU-11Ja)
+  + What are the clinical and radiological features of miliary Tuberculosis? (DU-09Ja)
+  + How would you clinically differentiate pulmonary TB & bronchogenic carcinoma? (DU-11Ju,075)
+  + Name the antitubercular drugs with their side effects. (DU-04S)
+  + A 20 year old male presented with fever, weight loss, pallor lymphadenopathy for 4 and cervical weeks. How will you investigate and manage such a case? (DU-06M)
+  + A 45 year old man presented with fever & cough for 2 months & diagnosed as a case of pulmonary tuberculosis & was on anti-tubercular drugs. One month after antitubercular drug, he developed jaundice. (DU 24Nov)
+  + How would you investigate him for further evaluation?
+  + How would you manage this case?
+  + A 45 years old man presents with cough and hemoptysis for 2 weeks. (DU-10Ja)
+  + Provide a clinical and laboratory check list to reach a diagnosis.
+  + Write down the category-I treatment for a patient of Pulmonary TB weighing
+  + 55 kg.
+  + A 30 years old female garment worker (weight 48 kg) presented with cough & fever for 1 month. (DU-13Ju)
+  + Provide a clinical and laboratory checklist to ascertain the cause of her illness.
+  + How would you treat her if she is diagnosed as pulmonary tuberculosis?
+  + A 20 year-old female garment worker (weight 45 kg) presented with cough and fever with evening rise of temperature for a month. (DU-10Ju)
+  + Provide a clinical and laboratory to checklist ascertain the cause of her illness.
+  + Write the treatment of the patient once you diagnose her as category-1 TB.
+  + A 25 years old lady presents with fever & cough for 2 months. Examination findings suggest left sided pleural effusion. What investigations you will suggest determining underlying aetiology? (DU-11Ju)
+  + A young male presented to you with a history of low grade fever for 1 month with hemoptysis with right sided chest pain with respiratory distress of short duration. On percussion stony dullness on right side of chest. What is the diagnosis and treatment of such a case? (DU-06M)
+  === Bronchiectasis
+  + How can you differentiate pulmonary tuberculosis from bronchiectasis? (DU-11Ja)
+  + A 25-year-old student attends the outpatient department with history of cough and purulent sputum for 7 days. Make a check list of clinical signs to find out the cause. (DU-19Ja)
+  + A 35-year-old patient presents to outpatient department with history of cough and purulent sputum for 2 weeks. Mention the other clinical information you will look for. (DU-17Ja)
+  + What are the expected physical signs of a 40 years old male presenting with cough and profuse purulent sputum? (DU-12Ja)
+  + A 30 years old male presents with recurrent episodes of productive cough for 2 years with digital clubbing. He had a history of pulmonary tuberculosis 5 years ago. What investigation you would to confirm your diagnosis with expected findings? (DU-18Ja)
+  + A 30 year old male presents with recurrent cough with purulent sputum for 2 years with digital clubbing (DU-15Ja)
+  + What is the most likely diagnosis? How will you investigate him?
+  + How will you manage him?
+  === Lung Abscess
+  + What findings will you get on chest examination of a lung abscess patient? (DU- 08M)
+  + How will you treat a patient of lung abscess? (DU-08M)
+  + A 40 years-old man presented with high-grade fever and expectoration of copious amount of purulent and foul-smelling sputum for 1 month. Examination revealed clubbing with amphoric bronchial breath sound and crepitations over the 4th to 6th intercostal space along the right midclavicular line. (DU-23M)
+  + What is the most likely diagnosis in this case?
+  + Mention investigations along with expected findings in this case.
+  + How would you manage him?
+  + A 40 years old male presented with high fever, productive cough and left sided chest pain for 15 days. Examination of chest revealed crepitation over left side. How would you manage him? (DU-06Ja, 10Ju)
+  === Tension pneumothorax
+  + Mention clinical features of tension pneumothorx. (DU-19Ja)
+  === Bronchogenic Carcinoma
+  + What are the common clinical presentations of lung cancer? (DU-10Ju,09Ju)
+  + How a case of bronchogenic carcinoma may present? (DU-07S)
+  + What are the extra pulmonary manifestations of bronchogenic carcinoma? (DU-17/10Ja)
+  + A 65-year-old man who smokes heavily presents with left upper chest pain and cough with hemoptysis for 6 months. He has no history of fever. (DU-22M)
+  + Write down other clinical features you would search to support your diagnosis.
+  + What are the radiological abnormalities you may expect on chest X-ray?
+  + A 20 year old male presented with irregular fever, anorexia, weight loss and occasional hemoptysis. How would you investigate him to arrive at a diagnosis? (DU- 05S)
+  + How would you proceed to investigate a 45 years old male patient who has presented with hemoptysis and clubbing? (DU-07M)
 == Endocrine Diseases
 === Hyperthyroidism & thyrotoxicosis
 + What are the clinical signs of thyrotoxicosis? (DU-11Ja, 10Ja)
@@ -1469,7 +1469,7 @@ Ca2+ Balance
 + Write down the features of vitamin C deficiency. (DU-18Ju)
 === Vitamin D & Iodine
 + Discuss the features of hypo-vitaminosis D. (DU-16Ju)
-+ Mention clinical manifestations of vitamin D deficiency (DU-23N,22M,20/19/18Νον, 12Ja)
++ Mention clinical manifestations of vitamin D deficiency (DU-23N,22M,20/19/18Nov, 12Ja)
 + What is rickets? What are the causes of rickets? How will you manage such a case? (DU-07Ja)
 + How iodine deficiency affects our health? (DU-16Ja)
 + Write down the features of iodine deficiency. (DU-20M) Mention the clinical manifestations of lodine deficiency. (DU- 12Ju)

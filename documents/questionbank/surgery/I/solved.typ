@@ -259,16 +259,16 @@ Resuscitation -> Observation -> Surgery
 [Condition],[Common Age / Sex],[Pain],[Lump Characteristics],[Associated / Distinguishing Features],[Investigations & Positive Findings],
 [Appendicular mass / abscess],[10-30 yrs, both sexes],[Acute onset, continuous, tender],[Ill-defined, firm, tender],[Fever, recent appendicitis],[USG/CT Abdomen: Mass with inflamed appendix / abscess cavity;↑WBC, ↑CRP],
 [Ileocecal tuberculosis],[15-40 yrs, both sexes],[Dull ache],[Firm, nodular, matted],[Weight loss, fever, night sweats],[CT Abdomen: Thickened ileocecal region, necrotic lymph nodes; Mantoux +, ↑ESR, AFB / GeneXpert from biopsy, colonoscopy showing ulcers],
-[Crohn’s disease (terminal ileitis)],[15-40 yrs, both],[Colicky or dull],[Firm, irregular],[Chronic diarrhea, anemia],[CT or MRI Enterography: Skip lesions, mural thickening; colonoscopy with biopsy diagnostic; ↑CRP],
+[Crohn's disease (terminal ileitis)],[15-40 yrs, both],[Colicky or dull],[Firm, irregular],[Chronic diarrhea, anemia],[CT or MRI Enterography: Skip lesions, mural thickening; colonoscopy with biopsy diagnostic; ↑CRP],
 [Carcinoma cecum],[>40 yrs],[Usually painless],[Hard, irregular, fixed],[Weight loss, anemia, bowel habit change],[Colonoscopy + biopsy → adenocarcinoma; CEA elevated; CT Abdomen for staging, iron deficiency anemia on labs],
 [Ileocecal intussusception (chronic)],[Children, sometimes adults],[Intermittent, colicky],[Sausage-shaped],[Vomiting, “red currant jelly” stool],[USG: Target or “donut” sign; CT: Intussuscepted bowel loops],
 [Right ovarian cyst (simple / neoplastic)],[Women 20-50 yrs],[Variable],[Smooth, cystic, mobile],[Menstrual irregularity possible],[Pelvic USG: Unilocular or multilocular cyst; CA-125 if neoplastic suspected],
 [Twisted (torsion) ovarian cyst],[Women 20-50 yrs],[Acute severe pain],[Tender, cystic, ill-defined],[Shock, nausea, vomiting],[USG Pelvis with Doppler: Absent blood flow; peritoneal fluid],
 [Tubo-ovarian abscess / Pelvic inflammatory mass],[Women 20-40 yrs],[Persistent dull pain → acute tenderness],[Ill-defined, fixed, tender],[Fever, vaginal discharge, PID history],[USG / CT Pelvis: Complex adnexal mass; ↑WBC, ↑CRP; Vaginal swabs positive],
-[Ectopic pregnancy (tubal)],[Women (reproductive age)],[Acute severe pain, sudden],[Tender, ill-defined (adnexal)],[Amenorrhea, vaginal bleeding],[Urine/serum β‑hCG:+, TVS: Empty uterus, adnexal sac or hematoma, free fluid],
+[Ectopic pregnancy (tubal)],[Women (reproductive age)],[Acute severe pain, sudden],[Tender, ill-defined (adnexal)],[Amenorrhea, vaginal bleeding],[Urine/serum β-hCG:+, TVS: Empty uterus, adnexal sac or hematoma, free fluid],
 [Unascended (ectopic/pelvic) kidney],[All ages],[Painless],[Smooth, firm, non-mobile],[May be ballotable],[USG / IVU / CT urogram: Kidney in ectopic location; normal renal function tests],
 [Undescended testis],[Boys / young men],[Usually painless],[Oval, firm, mobile],[Empty scrotum, palpable RIF/inguinal mass],[Clinical exam: Empty hemiscrotum; USG / MRI: Testis in inguinal canal or abdomen; possible seminoma],
-[Psoas abscess],[Young adults (spinal TB, Staph.)],[Dull + radiates to thigh],[Deep, ill-defined],[Hip flexion, back pain, fever],[CT / MRI Abdomen: Psoas collection; Spine X‑ray: TB spine; ↑ESR, ↑WBC],
+[Psoas abscess],[Young adults (spinal TB, Staph.)],[Dull + radiates to thigh],[Deep, ill-defined],[Hip flexion, back pain, fever],[CT / MRI Abdomen: Psoas collection; Spine X-ray: TB spine; ↑ESR, ↑WBC],
 [Iliac lymphadenopathy (Lymphoma/Metastasis)],[Any],[Usually painless],[Firm to hard nodes, may be discrete],[Primary elsewhere (testis, cervix)],[USG/CT: Enlarged nodes; FNAC/biopsy: Malignant or reactive cells],
   )
 
@@ -292,16 +292,16 @@ Resuscitation -> Observation -> Surgery
 + Ruptured or torsion ovarian cyst
 + Ectopic pregnancy (ruptured or impending)
 + Acute salpingitis / pelvic inflammatory disease (PID)
-(Others: Ureteric colic, Meckel’s diverticulitis.)
+(Others: Ureteric colic, Meckel's diverticulitis.)
   ]
 #q[Write six clinical signs you may get during her abdominal examination.]
   #a[
-+ Tenderness and rebound tenderness at McBurney’s point → appendicitis.
++ Tenderness and rebound tenderness at McBurney's point → appendicitis.
 + Guarding and rigidity localized to the right iliac fossa → peritoneal irritation.
-+ Rovsing’s sign: Pain in RIF on palpation of LIF.
++ Rovsing's sign: Pain in RIF on palpation of LIF.
 + Psoas sign: Pain on extension of right thigh → retrocecal appendix.
 + Obturator sign: Pain on internal rotation of flexed right hip → pelvic appendix or adnexal pathology.
-+ Pelvic tenderness or mass on bimanual or per‑vaginal exam → adnexal or gynecologic cause.
++ Pelvic tenderness or mass on bimanual or per-vaginal exam → adnexal or gynecologic cause.
   ]
 #q[How will you manage her?]
 #a[
@@ -314,7 +314,7 @@ _A 7-year-old baby girl presented with right iliac fossa pain for 6 hours with n
   + Write four differential diagnoses.
   #a[
     + Acute Appendicitis
-    + Meckel’s Diverticulitis
+    + Meckel's Diverticulitis
     + Urinary Tract Infection
     + Ureteric Stone
   ]
@@ -389,7 +389,7 @@ _A 7-year-old baby girl presented with right iliac fossa pain for 6 hours with n
   #table(columns:2,[Predisposing factor],[Plan / Corrective Action],
 [#counter("increament") Diabetes mellitus],[- Strict blood sugar control with insulin regimen.
 - Monitor blood glucose frequently.
-- Avoid hyperglycemia‑induced impaired healing.],
+- Avoid hyperglycemia-induced impaired healing.],
 [#counter("increament") Obesity],[- Encourage mobilization & respiratory physiotherapy.
 - Careful abdominal binder application to support wound and prevent strain (cough, movement).],
 [#counter("increament") Peritonitis / contamination],[- Continue appropriate antibiotics based on culture & sensitivity.
@@ -398,7 +398,7 @@ _A 7-year-old baby girl presented with right iliac fossa pain for 6 hours with n
 [#counter("increament") Poor wound environment],[- Maintain asepsis during dressing.
 - Open and drain pus if collection present.
 - Apply saline / antiseptic dressings or negative pressure wound therapy.
-- Provide high‑protein, high‑calorie diet for healing.])
+- Provide high-protein, high-calorie diet for healing.])
 ]
 
 #mq[= A 70-year-old male with history of previous laparotomy presented with pain, abdominal distension, vomiting for 20 hours.]
@@ -414,7 +414,7 @@ _A 7-year-old baby girl presented with right iliac fossa pain for 6 hours with n
   ],
 [Laboratory tests],[- CBC: hemoconcentration due to dehydration, leukocytosis if strangulated.
 - Electrolytes, urea, creatinine: dehydration and metabolic alkalosis (vomiting).],
-[Contrast‑enhanced CT (CECT) abdomen	],[- Defines level and cause of obstruction (adhesions, bands, volvulus, tumor).
+[Contrast-enhanced CT (CECT) abdomen	],[- Defines level and cause of obstruction (adhesions, bands, volvulus, tumor).
 - Detects signs of strangulation or ischemia (bowel wall thickening, pneumatosis).]
 )]
 
@@ -451,7 +451,7 @@ _A 7-year-old baby girl presented with right iliac fossa pain for 6 hours with n
 
 #table(columns:2,
 [Feature],[Finding in Intussusception],
-[Age group],[6–18 months],
+[Age group],[6-18 months],
 [Symptoms],[Colicky abdominal pain, vomiting, “red currant jelly” stool, episodes of crying and calm],
 [Palpation],[Sausage-shaped mass, empty right iliac fossa(dancing sign)],
 [Plain X-ray],[Signs of obstruction; paucity of gas in right lower quadrant],
@@ -465,11 +465,11 @@ _A 7-year-old baby girl presented with right iliac fossa pain for 6 hours with n
   After resuscitation,
   #table(columns:2,
   [Condition],[Management],
-[Hemodynamically stable child, no signs of perforation or peritonitis],[Non-operative reduction by hydrostatic (saline or barium) or pneumatic (air) enema under fluoroscopic or ultrasound guidance. Success rate: 80–90%.
+[Hemodynamically stable child, no signs of perforation or peritonitis],[Non-operative reduction by hydrostatic (saline or barium) or pneumatic (air) enema under fluoroscopic or ultrasound guidance. Success rate: 80-90%.
 - If reduction successful
-  - Observe for 24–48 hours. Reintroduction of feeds gradually.],
+  - Observe for 24-48 hours. Reintroduction of feeds gradually.],
 [If unsuccessful or evidence of bowel perforation, ischemia, or peritonitis],[Emergency surgical intervention:
-*Coup’s procedure*
+*Coup's procedure*
 - Operative manual reduction of intussusception by gentle distal-to-proximal “milking” of the intussuscepted segment during laparotomy.
 ],)]
 
@@ -516,13 +516,13 @@ _usually age would be shorter 5-11 years_
 #a[Supracondylar fracture of the humerus]
 #q[Mention the investigation for diagnosis with it's expected findings.]
 #a[
-X‑ray of elbow — Anteroposterior (AP) and lateral views.
+X-ray of elbow — Anteroposterior (AP) and lateral views.
 
 Expected Findings:
 
 - Fracture line across the supracondylar region of distal humerus (just above the condyles).
 - Posterior displacement of the distal fragment (extension type).
-- Anterior humeral line (on lateral X‑ray) does not pass through the middle of the capitellum (normally it should).
+- Anterior humeral line (on lateral X-ray) does not pass through the middle of the capitellum (normally it should).
 - Fat pad (sail) sign may be seen due to joint effusion.
 ]
 #q[How will you recognize and manage immediate complications?]
@@ -531,7 +531,7 @@ Expected Findings:
 [Complication],[How to Recognize],[Comments / Danger],[Management],
 [Brachial artery injury],[Absent radial pulse, pale cool hand],[Limb ischemia if untreated],[Emergency Surgery],
 [Median nerve injury (especially anterior interosseous)],[Cannot flex thumb and index finger tips, _Cannot make OK sign_],[Often neuropraxia], [Observation and Nerve Conduction studies if not improved],
-[Swelling → Compartment syndrome],[Increasing pain, tense forearm, pain on finger stretch],[May lead to Volkmann’s contracture], [Lift Hand and Monitor, if not improving, curvilinear incsion to relieve pressure],
+[Swelling → Compartment syndrome],[Increasing pain, tense forearm, pain on finger stretch],[May lead to Volkmann's contracture], [Lift Hand and Monitor, if not improving, curvilinear incsion to relieve pressure],
 [Nerve injuries (radial/ulnar)],[Weakness in corresponding muscle groups],[Usually transient neuropraxia], [Observation and Nerve Conduction studies if not improved],
 )
 
@@ -542,7 +542,7 @@ Expected Findings:
   + Supracondylar Fracture of Humerus
   + Colle's Fracture
   + Both-bone fracture forearm
-  + Fracture mid‑shaft of clavicle
+  + Fracture mid-shaft of clavicle
 ]
 #q[Outline the principle of fracture management.]
 #a[
@@ -559,7 +559,7 @@ Expected Findings:
   + Smith's Fracture
   + Fracture of the scaphoid bone
   + Fracture of distal ulna / styloid process
-  + Wrist sprain / soft‑tissue injury
+  + Wrist sprain / soft-tissue injury
 ]
 #q[How will you treat such a case?]
 #a[_From Management of any fracture_]
@@ -576,8 +576,8 @@ Expected Findings:
 - Shortening of the forearm.
 - Possible bruising on dorsal aspect.
 - Check for median nerve involvement (tingling/numbness in index and middle fingers).
-*Radiological features (X‑ray)*
-- Transverse fracture line about 2.5 cm proximal to distal articular surface of radius.
+*Radiological features (X-ray)*
+- Transverse fracture line about 2.5 cm proximal to distal articular surface of radius.
 - Dorsal and upward displacement, with dorsal tilt of distal fragment.
 - Sometimes fracture of ulnar styloid process.
 ]
@@ -601,15 +601,15 @@ Expected Findings:
 #a[Fracture neck of femur (intracapsular fracture of right femur)]
 #q[How will you investigate and treat her?]
 #a[
-  Confirm Diagnosis : Plain X‑ray of pelvis with both hips – AP view
+  Confirm Diagnosis : Plain X-ray of pelvis with both hips - AP view
 Lateral view of affected hip
 
 Treatment :  Hemiarthroplasty (partial hip replacement) — most common.
-(Austin‑Moore or Bipolar prosthesis)
+(Austin-Moore or Bipolar prosthesis)
 ]
 #q[What are the complications if she is left untreated?]
 #a[
-- Non‑union (due to poor blood supply).
+- Non-union (due to poor blood supply).
 - Avascular necrosis of the femoral head.
 - Malunion causing limb shortening or deformity.
 - Increased risk due to complications of immobilization (DVT, infections, cardiac events).
@@ -647,7 +647,7 @@ Evaluate : Look, Feel, Move, Distal Neurovascular Status
 #q[Mention four complications of such injury.]
 #a[
 + Infection/osteomyelitis
-+ Delayed or non‑union
++ Delayed or non-union
 + Compartment syndrome
 + Malunion/deformity
 ]
@@ -670,8 +670,8 @@ Evaluate : Look, Feel, Move, Distal Neurovascular Status
 Differentials
 + Acute septic arthritis of the knee
 + Cellulitis
-+ Ewing’s sarcoma / osteogenic sarcoma
-+ Bone abscess (Brodie’s abscess)
++ Ewing's sarcoma / osteogenic sarcoma
++ Bone abscess (Brodie's abscess)
 + Hematoma or traumatic periostitis
 ]
 #q[What are the investigations you will propose to evaluate the condition?]
@@ -679,7 +679,7 @@ Differentials
   + CBC with ESR and CRP
   + Blood Culture
   + Blood Culture
-  + X‑ray of leg (AP & lateral)
+  + X-ray of leg (AP & lateral)
   + Aspiration / needle sampling of suspected abscess or metaphysis, Gram Stain and Culture
 ]
 #q[Outline the management plan of your provisional diagnosis.]
@@ -694,7 +694,7 @@ Differentials
 #q[Mention 2 most possible causes.]
 #a[
   + Chronic osteomyelitis
-  + Infected non‑union of tibial fracture
+  + Infected non-union of tibial fracture
 ]
 #q[What are the points to be mentioned during taking history?]
 #a[
@@ -730,7 +730,7 @@ Differentials
 + Chronic infection
 + pathological fracture
 + deformity
-+ malignancy (Marjolin’s ulcer)
++ malignancy (Marjolin's ulcer)
 ]
 
 
@@ -747,18 +747,18 @@ Differentials
   - Confirm histological diagnosis : Core needle or open biopsy
   - Baseline labs : CBC, ESR, Renal & Liver function
   - Exclude metastasis :
-    - Chest X‑ray / CT chest → lungs are most common metastasis site.
-    - Bone scan (Technetium‑99m) → to check for skip or distant bone lesions.
+    - Chest X-ray / CT chest → lungs are most common metastasis site.
+    - Bone scan (Technetium-99m) → to check for skip or distant bone lesions.
 
 *Treatment*
 
-Neoadjuvant chemotherapy → Wide excision / limb‑salvage or amputation → Adjuvant chemotherapy → Regular follow‑up.
+Neoadjuvant chemotherapy → Wide excision / limb-salvage or amputation → Adjuvant chemotherapy → Regular follow-up.
 ]
 #mq[= A 10 year old boy presented with painful hard swelling in lower femur. Write possible causes. How will you approach to diagnose such a case?]
 #a[
   Causes
   + Osteosarcoma
-  + Ewing’s sarcoma
+  + Ewing's sarcoma
   + Osteochondroma
   + Chronic osteomyelitis
 
@@ -766,16 +766,16 @@ Approach would be of any swelling.
 ]
 #mq[= A 45-year-old male, day labourer developed severe low back pain after lifting a heavy object. He was unable to walk. ]
 #q[Write the probable diagnosis.]
-#a[Acute lumbar disc prolapse (prolapsed intervertebral disc – PIVD) involving lumbar region — most commonly at L4–L5 or L5–S1 level.]
+#a[Acute lumbar disc prolapse (prolapsed intervertebral disc - PIVD) involving lumbar region — most commonly at L4-L5 or L5-S1 level.]
 #q[Mention 02 (two) imaging modalities you will advice for such patient with interpretation.]
 #a[
-+ Plain X‑ray (Lumbosacral spine – AP & lateral views)
++ Plain X-ray (Lumbosacral spine - AP & lateral views)
 + MRI of lumbosacral spine  
 ]
 #q[How will you treat such case?]
 #a[
 + Rest
-+ Analgesia & anti‑inflammatory drugs
++ Analgesia & anti-inflammatory drugs
 + Physiotherapy after acute pain subsides
 + Lifestyle modification: Weight control, avoid heavy lifting, ergonomic advice, lumbar support belt temporarily.
 
@@ -789,7 +789,7 @@ Common cause: Lumbar disc prolapse / degenerative lumbar spondylosis with nerve 
 Site/Event	Mechanism producing pain
 #table(columns:2,
 [1. Degenerative changes in intervertebral disc],[• Nucleus pulposus loses hydration → disc height decreases → annular fibrosus fissures → inflammation and pain.],
-[2. Herniation or bulging of disc],[• Posterolateral protrusion compresses adjacent nerve roots (L4–L5 or L5–S1 most common).],
+[2. Herniation or bulging of disc],[• Posterolateral protrusion compresses adjacent nerve roots (L4-L5 or L5-S1 most common).],
 [3. Mechanical compression of nerve roots],[• Direct pressure causes radicular pain radiating along dermatome (sciatica).],
 [4. Chemical irritation],[• Leakage of inflammatory mediators from degenerated disc irritates nerve roots → chronic pain and paresthesia.],
 [5. Muscle spasm],[• Reflex paraspinal muscle spasm adds to localized back pain and stiffness.],
@@ -800,7 +800,7 @@ _A 35-year-old male presented to you with low back pain for 12 months with radia
 #q[Write role of two common imaging for evaluation of this patient with possible findings.]
 #a[
 Imaging modality	Purpose / Interpretation
-+ Plain X‑ray (Lumbosacral spine – AP & lateral views)	
++ Plain X-ray (Lumbosacral spine - AP & lateral views)	
   - May show loss of lumbar lordosis (due to muscle spasm).
   - Decreased disc space height at affected level.
   - To rule out other causes such as fractures, spondylolisthesis, osteoarthritis.
@@ -850,7 +850,7 @@ MIST, Look Feel Move, Distal Neurovascular Status
 + McMurray / Thessaly: meniscal tear.
 + Valgus and varus stress tests: MCL/LCL integrity.
 
-+ X‑ray of knee (AP & lateral)
++ X-ray of knee (AP & lateral)
 + MRI of knee joint
 ]
 
@@ -858,65 +858,316 @@ MIST, Look Feel Move, Distal Neurovascular Status
 
 #mq[= A young boy of 5yrs underwent circumcision 4 hours ago. Now, his parents bring him for promise bleeding from circumcision site.]
 #q[What are the possible causes?]
-#a[]
+#a[
+  + Reactionary Haemorrhage : Slipped or dislodged ligature
+  + Bleeding Disorder
+  + Thrombocytopenia
+]
 #q[How will you investigate him?]
-#a[]
+#a[
+  + Rule out Bleeding Disorder (Look for bleeding from other sites: gums, nose, skin petechiae or ecchymoses), also Family History
+  + CBC with Haemoglobin
+  + Prothrombin time (PT) / INR, BT, CT
+]
 #q[How will you manage him?]
-#a[]
+#a[
+  + Pressure with sterile gauze over the Bleeding Site
+  + Lift the Penis to prevent venous congestion
+  + Identify the vessel and ligate
+  ]
 
-#mq[= A 12 year old boy presented with acute Painful scrotal swelling. What are common causes?]
-
-#mq[= Write clinical features of one of the scrotal swellings.]
-
-#mq[= A 30 years old man presented with a painless and swelling of right testis. How will you evaluate the patient?]
-
-#mq[= Name 3 cystic swelling above the testis. How will you differentiate them clinically?]
-
-#mq[= A 2s old child presented with sudden severe pain and swelling of the scrotum. How will you counsel the parents? Outline rational investigations to reach a diagnosis. Give your treatment plan.]
-
-#mq[= A 10 year old boy presented with acute painful scrotal swelling. What are the common causes?]
 
 #mq[= A 6 years old boy noticed sudden severe (non traumatic) painful swelling of his left testicle. What are the probable causes? How will you manage this boy?]
 
+#mq[= A 12 year old boy presented with acute Painful scrotal swelling.]
+#q[What are common causes?]
+#a[
+  + Testicular Torsion
+  + Torsion of testicular appendage (pre-adolescent)
+  + Epididymo-orchitis
+  + Trauma
+  + Strangulated Inguinal Hernia
+]
+#q[Write clinical features of one of the scrotal swellings.]
+#a[
+  Torsion Testis
+  + Age group : adolescents (12-18 years)
+  + Onset : Sudden onset of severe unilateral scrotal pain
+  + Radiation : Pain may radiate to groin, lower abdomen, or flank.
+  + Associated with Nausea
+  + Inspection : Swollen scrotum, tense, erythematous, High Riding and Horizontal lying testis
+  + Palpation : Tender, difficult to examine, Cremasteric Reflex absent on affected side, Prehn's sign negative
+]
+
+
+#mq[= A 30 years old man presented with a painless and swelling of right testis. How will you evaluate the patient?]
+#q[First step is to differentiate whether the swelling is testicular or extra-testicular
++ History
+  - Onset, Duration, Pain
+  - History of Straining, Heavy Lifting, Cough, Urinary Retention, Constipation
+  - Weight Loss History
++ Examination
+  + Inspection
+    - If Swelling is scrotal or Ingionoscrotal
+    - Side, Size, Shape..
+    - Visible Cough Impulse Present or Not
+    - Check Uretheral meatus
+  + Palpation
+    - Temperature, Tenderness
+    - Palpable Cough Impulse
+    - Get Above the Swelling
+      - Palpate the spermatic cord
+    - Consistency
+    - Inguinal Lymph nodes, if suspected malignancy
++ Investigation
+  - Scrotal Ultrasonography
+  - Color Doppler
+  - CT Scan if suspected malignancy
+  - AFP (Alpha-fetoprotein)
+  - β-hCG
+  - LDH
+
+]
+
+#mq[= Name 3 cystic swelling above the testis. How will you differentiate them clinically?]
+#a[
+  + Epididymal cyst
+  + Spermatocele
+  + Encysted hydrocele of the cord
+
+#table(columns:4,[Feature],[Epididymal Cyst],[Spermatocele],[Encysted Hydrocele of Cord],
+[Position],[Above and behind testis (epididymal head)],[Above and behind upper pole of testis],[Above testis, in spermatic cord],
+[Relation to testis],[Separate from testis],[Attached to upper pole of testis],[Completely separate from testis],
+[Can you get above swelling?],[Yes],[Sometimes no],[Yes],
+[Consistency],[Fluctuant, soft],[Fluctuant, may feel lobulated],[Tense, cystic],
+[Content (on aspiration)],[Clear fluid, no spermatozoa],[Milky fluid with spermatozoa],[Clear fluid])
+]
+
+#mq[= A 2 year old child presented with sudden severe pain and swelling of the scrotum. How will you counsel the parents? Outline rational investigations to reach a diagnosis. Give your treatment plan.]
+#a[
+  _Treat all acute scrotal swellings as testicular torsion until proven otherwise._
+  *Counselling*
+  + *Explain the Disease*
+    - _Your child has developed sudden pain and swelling in the scrotum. In young boys, this can sometimes be due to twisting of the blood supply to the testis (called testicular torsion). If that happens, the testis can lose blood flow and get damaged quickly._
+    Emphasize Emergency
+    - _This is an emergency. We need to evaluate and, if necessary, operate within a few hours to save the testis._
+  + *Explain the Treatment*
+    - _If Testicular Torsion, we have to operate within hours to save the testis._
+  + *Explain alternative Treatment*
+    - _There is no alternative Treatment_
+  + *Explain consequences of not taking Treatment*
+    - _Under no Treatment, the testis will die, and it will affect the opposite testis later as well leading to sterilization. He won't be able to reproduce._
+
+
+*Investigation*
++ Scrotal Ultrasound with Color Doppler (To check blood flow, if absent -> Testicular Torsion)
++ Urine RME (To rule out Epididymo-orchitis)
+*Treatment Plan*
++ Scrotal Exploration, Detorsion from medial to lateral
++ Check viability 
+  - pink and bleeding -> orchidopexy
+  - dusky, necrotic -> orchiectomy
++ Contralateral orchidopexy (prophylactic fixation).
+]
+
+
 #mq[= A 5-year-old boy presented with absence of right testis in scrotum.]
 #q[How will you proceed to evaluate the patient?]
-#a[]
+#a[
+  + *History*
+    - If such since birth or not
+      - If congenital
+        - Gestational age (prematurity ↑ risk).
+        - Associated anomalies (inguinal hernia, hypospadias).
+      - If acquired
+        - Any previous groin/scrotal surgery or trauma.
+    - If testis is retractile or not
+  + Examination
+    - Check Retratility
+    - Palpate Iguinal Canal
+]
 #q[Write your treatment plan.]
-#a[]
-#q[Write difficulties you will face during operations of a morbid obese patient.]
-#a[]
+#a[
+*Treatment Plan*
+*Timing*
++ Ideal surgery between 6-12 months of age; should be done before 18 months.
++ At age 5 → late, but still correction indicated.
+
++ *If palpable in inguinal*
+  - Inguinal orchidopexy
+  - Repair associated hernia if present.
++ *If non-plapable*
+  - Diagnostive Laparoscopy
+  - Identify
+    - Normal testis → Laparoscopic or staged Fowler-Stephens orchidopexy.
+    - Atrophic/absent testis → Remove remnant (orchiectomy).
+    - Normal contralateral testis only → Document and monitor long-term.
++ *If Retractile*
+  - Counselling, Observation and Follow up (Spontaneous resolution as testis size increases with puberty)
+
+]
+#mq[Write difficulties you will face during operations of a morbid obese patient.]
+#a[
+#table(columns:2,[System / Step],[Difficulties],
+[Anesthesia],[Difficult airway, IV access, rapid desaturation, increased O₂ demand.],
+[Positioning],[Trouble positioning safely on table; risk of nerve injury.],
+[Surgical exposure],[Excess adipose tissue → poor visualization, deeper operative field.],
+[Access],[Identifying structures (inguinal canal, cord) is harder.],
+[Hemostasis],[Bleeding control difficult due to poor visibility.],
+[Instrumentation],[Longer instruments often required.],
+[Post-op],[Wound healing, infection, DVT, respiratory complications more common.],)
+
+]
 #q[What extra precautions you will take during operation.]
-#a[]
+#a[
++ *Preoperative*
+  - Optimize comorbidities (diabetes, hypertension).
+  - Proper anesthetic evaluation and airway assessment.
+  - Prophylactic anticoagulation if indicated.
++ *Intraoperative*
+  - Adequate padding and positioning.
+  - Use longer instruments.
+  - Ensure good lighting and retraction.
+  - Maintain normothermia.
+  - Strict asepsis to reduce infection.
++ *Postoperative*
+  - Early mobilization and DVT prophylaxis (compression stockings, LMWH).
+  - Respiratory physiotherapy, incentive spirometry.
+  - Careful wound care (less oxygenation in adipose tissue).
 
-#mq[= A 5-year-old boy presented with empty right hemiscrotum since birth. What are the possibilities? Mention diagnostic criteria of cach. What are the complications of such conditions, if not treated properly?]
+]
 
-#mq[= Young man presented with a painless testicular swelling with loss of sensation on compression for six months How will you evaluate him clinically? How will you investigate him?]
+#mq[= A 5-year-old boy presented with empty right hemiscrotum since birth.]
+#q[What are the possibilities? Mention diagnostic criteria of each.]
+#a[
+#table(columns: 2, [Condition],[Diagnostic Criteria],
+[Undescended testis (UDT)],[- Since birth, testis not in scrotum.
+- Palpable along line of descent (inguinal canal most common).
+- Cannot be manipulated permanently into scrotum.
+- Ultrasound / laparoscopy confirms position if non-palpable.],
+[Ectopic testis],[- Testis in an abnormal location away from line of descent: perineal, femoral, suprapubic, etc.
+- Palpable, but not along normal path.
+- Epididymis and cord long; testis otherwise normal.],
+[Retractile testis],[- Testis palpable and can be easily manipulated into scrotum, where it remains temporarily.
+- Often bilateral.
+- Cremasteric reflex exaggerated; testis is normal in size.],
+[Vanishing / Atrophic testis],[- Non-palpable testis.
+- Often absent spermatic vessels and vas ends blindly on laparoscopy.
+- Ultrasound may show fibrotic nubbin.
+- Represents post-natal or intrauterine torsion and infarction.],
+[Anorchia],[- Bilateral non-palpable testes.
+- Elevated FSH / LH, low testosterone and AMH.
+- No testicular tissue found on imaging or laparoscopy.])
 
-#mq[= A young patient presented with a hard & insensible testicular swelling.]
+]
+#q[What are the complications of such conditions, if not treated properly?]
+#a[If Cryptorchidism not treated
++ Sterility
++ Torsion of Testis
++ Epididymo-orchitis
++ Inguinal Hernia
++ Trauma (more exposed in inguinal type)
++ Psychological / Cosmetic issues
++ Endocrine dysfunction - if bilateral
++ Malignancy
+]
+
+#mq[= Young man presented with a painless testicular swelling with loss of sensation on compression for six months How will you evaluate him clinically? How will you investigate him? <testicular-tumor>]
+
+#mq[= A young patient presented with a hard & insensible testicular swelling]
 #q[What are the possible causes?]
 #a[]
-#q[How will you examine the patient?]
-#a[]
+#q[How will you evaluate the patient?]
+#a[
+*History*
+#table(columns:2,[Aspect],[Key Points to Elicit],
+[Onset & progression],[Gradual, progressive enlargement, painless.],
+[Associated symptoms],[Heaviness, dragging sensation, feeling of lump.],
+[Pain],[Usually absent; pain suggests hemorrhage, infarction, or infection.],
+[Systemic symptoms],[Weight loss, back pain, cough (metastases).],
+[Past history],[Undescended testis (cryptorchidism), previous orchidopexy, trauma.],
+[Fertility / sexual function],[May be affected in advanced disease.],
+[Family history],[Rare but may have relevance.],)
+*Examination*
++ Inspection : Scrotal asymmetry, skin — normal
++ Palpation :
+  - Cough Impulse is absent
+  - Normal Temperature, Non Tender, Loss of Sensation
+  - Testis is Enlarged, firm to hard, Irregular, nodular surface
+  - Transillumination Test is Negative
+  - Inguinal Lymph nodes palpable
+]
 #q[What investigations will you advise for him?]
-#a[]
+#a[
++ Urine RME
++ CBC
++ Renal and Liver Function Test
++ Tumor markers : Alpha-fetoprotein, Beta HCG, LDH
++ Scrotal Ultrasonography, Color Doppler, CT abdomen & pelvis, CT chest, X-Ray
+
+After orchiectomy through inguinal exploration, send for histopathology (*never biopsy a testis*)
+- Classify into Seminoma or Non‑seminomatous germ cell tumor (NSGCT).
+- Guides further treatment (chemotherapy, radiotherapy, or surveillance).
+]
 
 #mq[= A 25 year old man presented with painless, non-tender, hard swelling of one testis.]
 #q[What are the possible causes?]
-#a[]
+#a[
+  - Seminoma
+  - Non‑seminomatous germ cell tumors (embryonal carcinoma, yolk sac tumor, teratoma, choriocarcinoma, mixed tumor)
+]
 #q[Justify investigations you would suggest in such a case.]
-#a[]
+#a[From @testicular-tumor]
 
 #mq[= A patient of 60 years has presented with frequency, urgency & dribbling of urine.]
 #q[Write the causes.]
-#a[]
+#a[
+  + Benign prostatic hyperplasia (BPH)
+  + Carcinoma prostate
+  + Urethral stricture
+  + Spinal cord lesion (trauma, disc disease, tumor)
+  + Peripheral neuropathy (e.g., diabetes)
+]
 #q[What investigations you advice for diagnosis & positive findings for surgical treatment?]
-#a[]
+#a[
+#table(columns: 4,
+[Category],[Investigation],[Purpose / Diagnostic Value],[Positive Findings Indicating Surgical Treatment],
+[Clinical Examination],[Per‑rectal examination (P/R)],[Assess size, consistency of prostate],[Large, smooth, firm, non‑tender prostate causing obstruction; palpable bladder (residual urine)],
+[Urine Assessment],[Urinalysis + Culture],[Detect infection, hematuria],[Recurrent infection secondary to stasis → surgical indication],
+[Renal Function],[Blood urea, Serum creatinine],[Assess effect of obstruction on kidneys],[Elevated levels → backpressure changes → surgery needed],
+[Ultrasound (KUB + Prostate)],[Measure prostate size, bladder wall, kidneys],[
++ Enlarged prostate
++ Increased bladder wall thickness
++ Post‑void residual (PVR) > 100 mL
++ Hydronephrosis (backpressure) — all indicate surgery],
+[Uroflowmetry],[Assess urinary flow rate (Qmax)],[Peak flow rate < 10–15 mL/s indicates significant obstruction → surgical treatment],[],
+[Post‑void residual urine (PVR)],[Measured by USG after micturition],[PVR > 100 mL → incomplete emptying → surgery],[],
+[Prostate‑specific antigen (PSA)],[Screen for malignancy],[Elevated PSA → evaluate for carcinoma (requires biopsy or surgical management if cancer)],[],
+[Cystoscopy (if indicated)],[Assess bladder outlet, mucosa, stones],[Bladder neck obstruction, trabeculation, diverticula, stones → surgical correction],[],
+[Imaging for Upper Tract Changes],[IVU / CT Urography (if needed)],[Detect backpressure, diverticula, stones],[Hydroureteronephrosis, bladder diverticula, calculi → surgery],
+[General / Pre‑operative Work‑up],[CBC, RFT, ECG, CXR, etc.],[Baseline for operative fitness],[Optimize before planned TURP / open prostatectomy],
+)
 
-#mq[= What are the indications of surgery in enlarged prostate?]
+]
+
 
 #mq[= What are the indications and complications of operation for BEP?]
+#a[*Indications*
+  + Refractory Urine Retention
+  + Recurrent Urine Retention
+  + Chronic Urine Retention
+  + Recurrent Urinary Tract Infection
+  + Bladder Diverticula
+  + Hydronephrosis
+  + Failure or intolerance of medical therapy
+  + Prostatic Abscess not resolving to drainage
+]
+#a[*Complications*
++ 
+]
 
 #mq[= What are the DRE findings of BEP & Ca prostate?]
+#a[]
 
 #mq[= A 50-years-old male came with the complaints of difficulties in passing urine for 6 months. On D/R/E, there is firm swelling in the anterior aspect of the rectum where upper limit couldn't be felt.]
 #q[What is your provisional diagnosis?]
@@ -991,3 +1242,5 @@ MIST, Look Feel Move, Distal Neurovascular Status
 #a[]
 
 #mq[= A 40 year male presented with an inguino- scrotal swelling for 6 months. How will you examine the patient to reach a clinical diagnosis.]
+
+

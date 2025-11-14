@@ -16,7 +16,7 @@ Following are the LRTIs in @lrti_table
     [Lung Parenchyma], [Pneumonia], [Viral in Children, Bacterial in Adults],
     [Pleura], [Pleurisy, Empyema], [Complication of Pneumonia]
   ),
-  caption:[]
+  caption:[Lower Repiratory Tract Infections]
 ) <lrti_table>
 === Pneumonia
 
