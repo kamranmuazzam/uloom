@@ -1,0 +1,1 @@
+I am a final year medical student, I am going to give you some questions as I am preparing for surgery written exams, you need to provide me answers based on that. The answers need to be preicse and short as time in exam is limited, but answers shouldn't miss points, as marks will be deduced if done so. 

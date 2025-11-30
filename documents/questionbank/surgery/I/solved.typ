@@ -1076,7 +1076,6 @@ MIST, Look Feel Move, Distal Neurovascular Status
 
 #mq[= A young patient presented with a hard & insensible testicular swelling]
 #q[What are the possible causes?]
-#a[]
 #q[How will you evaluate the patient?]
 #a[
 *History*
@@ -1163,17 +1162,52 @@ After orchiectomy through inguinal exploration, send for histopathology (*never 
   + Prostatic Abscess not resolving to drainage
 ]
 #a[*Complications*
-+ 
++ Intraoperative
+  - Hemorrhage
+  - TUR syndrome (water intoxication/hyponatremia)
+  - Injury to bladder neck or urethra
++ Early postoperative
+  - Hematuria or clot retention
+  - Urinary tract infection
+  - Urinary retention (due to edema or clots)
+  - Incontinence (transient or persistent)
++ Late postoperative
+  - Urethral stricture
+  - Bladder neck contracture
+  - Retrograde ejaculation or erectile dysfunction
+  - Recurrence or residual adenoma
 ]
 
 #mq[= What are the DRE findings of BEP & Ca prostate?]
-#a[]
+#a[
+*BEP*
+- Symmetrical, smooth enlargement
+- Firm (rubbery) consistency
+- Median sulcus well felt
+- Surface regular
+- Mobile mucosa (not fixed to rectum)
+- Non-tender
+*Ca Prostate*
+- Asymmetrical enlargement
+- Hard or stony-hard consistency (“rock hard”)
+- Median sulcus obliterated
+- Surface irregular or nodular
+- Mucosa may be fixed to underlying gland (immobile)
+- May feel locally invasive or indurated seminal vesicles
+]
 
 #mq[= A 50-years-old male came with the complaints of difficulties in passing urine for 6 months. On D/R/E, there is firm swelling in the anterior aspect of the rectum where upper limit couldn't be felt.]
 #q[What is your provisional diagnosis?]
-#a[]
+#a[Benign Enlargement of the Prostate (BEP)]
 #q[How will you evaluate the patient? What are the treatment options?]
-#a[]
+#a[
+  *History*
+  - Age : ≥50 years old
+  - Sex : Male
+  - Complains : Storage and Voiding Symptoms
+  *Physical Examination*
+  
+]
 
 #mq[= A 65 year old man was suffering from frequency, hesitancy, incomplete voiding of micturation.]
 #q[How will you examine the patient?]

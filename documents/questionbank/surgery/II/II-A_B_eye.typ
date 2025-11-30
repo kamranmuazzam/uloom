@@ -387,8 +387,8 @@
   + What is your probable diagnosis?
   + How will you treat the case?
 + A young boy developed pain in his right eye with watering, redness and foreign body sensation. On examination, there are punctate opacities on cornea. What is your probable diagnosis? Enumerate the clinical features and treatment of your diagnosis. (DU-13Ju)
-+ How can you differentiate bacterial, fungal and viral corneal ulcer from one another? (DU- 15Ju)
-+ How will you differentiate bacterial corneal ulcer from fungal corneal ulcer? (DU-09Ju)
+  + How can you differentiate bacterial, fungal and viral corneal ulcer from one another? (DU- 15Ju)
+  + How will you differentiate bacterial corneal ulcer from fungal corneal ulcer? (DU-09Ju)
 == Corneal foreign body
 + Write short note on: Corneal foreign body (DU-05Ja)
 + How will you manage a case of superficial corneal foreign body? (DU-12Ju, 11 Ja)
