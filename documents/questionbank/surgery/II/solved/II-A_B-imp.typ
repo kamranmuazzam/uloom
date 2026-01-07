@@ -15,7 +15,7 @@
 == Refractive errors
 == Ametropia
 + Define ametropia. (DU-22/20M,18Nov)
-+ Classify ametropia. (DU- 22/20Μ, 18Νον,09Ju)
++ Classify ametropia. (DU- 22/20M, 18Nov,09Ju)
 == Myopia
 + What is myopia? (DU- 22N,21M,19Nov/M/Ja,18/17 15Ju)/ Define myopia. (DU-14/08Ja)
 + Write down the treatment of myopia. (DU. 22N, 19Nov/M/Ja, 18/17/16Ju)
@@ -34,7 +34,7 @@
 == Accommodation
 + What are the changes occur in accommodation? (DU 24Nov)
 == Diseases of the Eye lids
-+ Draw and label the structures of upper eyelid. (DU-24Nov, 22J, 21J, 18Νον)
++ Draw and label the structures of upper eyelid. (DU-24Nov, 22J, 21J, 18Nov)
 + What are the functions of eyelid? (DU-24Nov, 22J, 21M, 18Nov)
 + Name the glands of eyelid? (DU-22N)
 == Blepharitis

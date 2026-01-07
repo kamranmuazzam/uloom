@@ -112,13 +112,13 @@ Measure from upper border of symphysis pubis to fundus with tape in midline, bla
 #table(columns: 2,
 [Gestational Age],[Fundal Height],
 [12 weeks],[At symphysis pubis],
-[16 weeks],[Above symphysis pubis],
-[20 weeks],[Mid-way between symphysis pubis and umbilicus],
-[22 weeks],[at lower margin of Umbilicus],
-[24 weeks],[Umbilicus],
-[26 weeks],[at upper margin of Umbilicus],
-[28 weeks],[midway between umbilicus and xiphoid cartilage],
-[36 weeks],[At xiphisternum],
+[16 weeks],[Mid-way between symphysis pubis and umbilicus],
+[20 weeks],[at lower margin of Umbilicus],
+[22 weeks],[at the level of Umbilicus],
+[24 weeks],[at upper margin of Umbilicus],
+[28 weeks],[lower 1/3rd of junction between xiphisternum and umbilicus(4 fingers)],
+[32 weeks],[upper 1/3rd of junction between xiphisternum and umbilicus(4 fingers)],
+[38 weeks],[At xiphisternum(4 fingers)],
 [40 weeks],[Slightly below xiphisternum due to engagement]
 )
 
@@ -130,12 +130,54 @@ Measure from upper border of symphysis pubis to fundus with tape in midline, bla
 - Large baby or macrosomia  
 - Molar pregnancy  
 
+#import "@preview/herodot:0.3.0" : * 
+
+#let scifi-time = timeline(
+  interval: 1,
+  length-of-timeline:8,
+  startyear: 36,
+  endyear: 43,
+  eventspans: (
+    eventspan(
+      title: "Pre Term",
+      start-point: 36,
+      end-point: 37
+    ),
+    eventspan(
+      title: "Early Term",
+      start-point: 37,
+      end-point: 39
+    ),
+    eventspan(
+      title: "Full Term",
+      start-point: 39,
+      end-point: 41
+    ),
+    eventspan(
+      title: "late Term",
+      start-point: 41,
+      end-point: 42
+    ),
+    eventspan(
+      title: "Post Term",
+      start-point: 42,
+      end-point: 43
+    ),
+  ),
+)
+
+
+
 == Term
-== Post-Term Pregnancy
+#scifi-time
+- *Full-term*: Pregnancy lasting from 39 weeks, 0 days to 40 weeks, 6 days. 
+- *Early-term*: Pregnancy that ends between 37 weeks, 0 days and 38 weeks, 6 days. 
+- *Late-term*: Pregnancy that lasts 41 weeks, 0 days through 41 weeks, 6 days. 
+=== *Post-term*: Pregnancy that goes beyond 42 weeks, 0 days. = Post-Term Pregnancy
 *Definition* #viva :
 Pregnancy continuing beyond *42 completed weeks (294 days)* from first day of LMP.
 
-=== General Appearance of a Post Mature Baby
+==== General Appearance of a Post Mature Baby
 #viva
 - Long lean body, wrinkled peeling skin  
 - Reduced subcutaneous fat  
@@ -245,10 +287,10 @@ Twin pregnancy is the most common type of multiple pregnancy.
 - *Monozygotic (Identical) Twins*  
   - Result from division of a single fertilized ovum.  
   - Classification by timing of division:  
-    - *Dichorionic, Diamniotic:* Division within first 3 days after fertilization.  
-    - *Monochorionic, Diamniotic:* Division between days 4-8.  
-    - *Monochorionic, Monoamniotic:* Division between days 8-13.  
-    - *Conjoined Twins:* Division after day 13 leads to incomplete separation.  
+    - *Dichorionic, Diamniotic:* Division within first 3 days after fertilization. (8 cell stage) 
+    - *Monochorionic, Diamniotic:* Division between days 4-8.  (16 cell stage, _morula_)
+    - *Monochorionic, Monoamniotic:* Division between days 8-13. (>100 cells _blastycyst_)  
+    - *Conjoined Twins:* Division after day 13 leads to incomplete separation.  (>1000 cells)
 
 #high_yeild
 - Monochorionic, diamniotic twins → highest TTTS risk.  

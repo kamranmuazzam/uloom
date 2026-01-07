@@ -1,0 +1,226 @@
+"BOX_3": [
+      {
+        "topic": "A 60-year-old female underwent subtotal thyroidectomy for long-standing multinodular goiter. Four hours later, she becomes dyspneic in the recovery room, but chest findings are normal.",
+        "questions": [
+          "a) What could be the cause of her dyspnea?",
+          "b) What should you do?",
+          "c) What precaution do you have to take to prevent this condition?"
+        ]
+      },
+      {
+        "topic": "A 42-year-old female is a known case of multinodular goiter. Recently, she complains of palpitations, nervousness, and weight loss despite a good appetite.",
+        "questions": [
+          "a) What is your diagnosis, and what other points should be elicited from history?",
+          "b) What investigations will you do?",
+          "c) What may happen if she undergoes surgery without preparation?"
+        ]
+      },
+      {
+        "topic": "Regarding thyrotoxicosis:",
+        "questions": [
+          "a) What are the clinical features?",
+          "b) What precautions do you have to take before operation?",
+          "c) What are the complications of the operation if not made euthyroid?"
+        ]
+      },
+      {
+        "topic": "A 52-year-old lady presents with a hard, irregular lump in the right breast for 2 months, measuring 4 cm × 3 cm. The lump is mobile, and the axilla is free.",
+        "questions": [
+          "a) What is your diagnosis, and name some points in favor of your diagnosis.",
+          "b) How will you confirm your diagnosis?",
+          "c) How will you manage a locally advanced carcinoma of the breast?"
+        ]
+      },
+      {
+        "topic": "Regarding acute bacterial mastitis:",
+        "questions": [
+          "a) Which group of persons is mainly affected?",
+          "b) What is the pathogenesis of this condition?",
+          "c) How will you differentiate antibioma from a malignant lesion?"
+        ]
+      },
+      {
+        "topic": "Regarding early breast cancer:",
+        "questions": [
+          "a) What are the presentations of early breast cancer?",
+          "b) What is the treatment of early breast cancer?",
+          "c) Is there any role of reconstructive breast surgery?"
+        ]
+      },
+      {
+        "topic": "Regarding assessment of a breast lump:",
+        "questions": [
+          "a) What is the method of evaluation by triple assessment?",
+          "b) Mention the most relevant imaging investigation regarding age.",
+          "c) What is the method of histopathological diagnosis? Which one is most effective and why?"
+        ]
+      },
+      {
+        "topic": "Regarding histopathological diagnosis of a breast lump:",
+        "questions": [
+          "a) What are the techniques?",
+          "b) Which one is most effective?",
+          "c) Apart from the nature of the tissue, what extra information will you get?"
+        ]
+      },
+      {
+        "topic": "Regarding radiological evaluation of breast disease:",
+        "questions": [
+          "a) What is mammography?",
+          "b) In how many planes is it taken?",
+          "c) What are the radiological features of a malignant lesion in mammography?"
+        ]
+      },
+      {
+        "topic": "A 50-year-old lady presents with a painless solid lump in the upper and outer quadrant of the right breast for the last 3 months, with a mobile axillary lymph node.",
+        "questions": [
+          "a) What is the most probable diagnosis? Why?",
+          "b) What are the components of evaluation?",
+          "c) What are the pathological information we need to get from histopathology?"
+        ]
+      },
+      {
+        "topic": "Regarding early breast cancer treatment:",
+        "questions": [
+          "a) Mention the surgical options.",
+          "b) What information is required from the histopathological specimen?",
+          "c) What is the management of axillary lymph nodes?"
+        ]
+      },
+      {
+        "topic": "Regarding locally advanced breast cancer:",
+        "questions": [
+          "a) What are the clinical features?",
+          "b) How do you assess the staging/extent of the disease?",
+          "c) Mention the modalities of treatment."
+        ]
+      },
+      {
+        "topic": "Regarding treatment of breast cancer:",
+        "questions": [
+          "a) What are the components of multi-modal treatment?",
+          "b) What is MDT? Who is included in MDT?",
+          "c) Mention the indications of NACT."
+        ]
+      },
+      {
+        "topic": "A 56-year-old male presents with painless, progressive jaundice for 3 months. He passes pale stools and has lost 12 kg of body weight.",
+        "questions": [
+          "a) What is the most likely diagnosis?",
+          "b) How will you prepare the patient if surgery is required?",
+          "c) What investigations will you do?"
+        ]
+      },
+      {
+        "topic": "A patient was operated on for choledocholithiasis. The common bile duct was drained by a T-tube at the end of the procedure.",
+        "questions": [
+          "a) What is the purpose of putting a T-tube there?",
+          "b) When will you remove the tube?",
+          "c) What precautions will you take prior to removal of the T-tube?"
+        ]
+      },
+      {
+        "topic": "Regarding gallstones:",
+        "questions": [
+          "a) What is the pathogenesis of stone formation?",
+          "b) What is the fate of a stone in the gallbladder?",
+          "c) What is Courvoisier’s law?"
+        ]
+      },
+      {
+        "topic": "Regarding obstructive jaundice:",
+        "questions": [
+          "a) What are the causes of obstructive jaundice?",
+          "b) What is the presentation of obstructive jaundice?",
+          "c) What is the role of imaging in finding out the causes?"
+        ]
+      },
+      {
+        "topic": "A 40-year-old female presents with severe pain in the right upper abdomen with nausea. On physical examination, she is anxious, and Murphy’s sign is positive.",
+        "questions": [
+          "a) What is the most likely diagnosis?",
+          "b) What are the clinical presentations?",
+          "c) What is the management of this condition?"
+        ]
+      },
+      {
+        "topic": "If a stone is obstructed in the cystic duct:",
+        "questions": [
+          "a) What will be the consequences?",
+          "b) What are the clinical features?",
+          "c) How will you proceed to manage such a condition?"
+        ]
+      },
+      {
+        "topic": "A 45-year-old male with a history of alcohol abuse presents with severe epigastric pain, sudden in onset, radiating to the back, and associated with nausea and vomiting. He had a cholecystectomy 4 years ago.",
+        "questions": [
+          "a) What is the most likely diagnosis?",
+          "b) How will you investigate him?",
+          "c) How will you proceed to manage such a condition?"
+        ]
+      },
+      {
+        "topic": "A 50-year-old male presents with total hematuria with a mass in the left loin.",
+        "questions": [
+          "a) What is the probable diagnosis?",
+          "b) What other points should be elicited from history?",
+          "c) What investigations can confirm it?"
+        ]
+      },
+      {
+        "topic": "A 65-year-old male presents with poor urinary stream and nocturnal frequency. DRE reveals an enlarged prostate.",
+        "questions": [
+          "a) What investigations would you suggest and why?",
+          "b) What are the indications for surgery?",
+          "c) What complications may develop if left untreated?"
+        ]
+      },
+      {
+        "topic": "A 62-year-old dye worker presents with intermittent, painless, total hematuria for 3 months. He denies any difficulty in micturition except occasionally passing clots.",
+        "questions": [
+          "a) What is the likely diagnosis?",
+          "b) What investigations can confirm it?",
+          "c) What is the management of such a disease if it presents with retention of urine?"
+        ]
+      },
+      {
+        "topic": "A 16-year-old healthy boy develops sudden, severe pain in the abdomen, which shifts to the scrotum. His right hemiscrotum is swollen and tender.",
+        "questions": [
+          "a) What is the likely diagnosis?",
+          "b) What are the differential diagnoses?",
+          "c) How do you manage the patient?"
+        ]
+      },
+      {
+        "topic": "A 23-year-old male falls astride a manhole lid while walking. He notices blood at the urethral meatus and is unable to pass urine.",
+        "questions": [
+          "a) What is the diagnosis?",
+          "b) What other physical signs may be present?",
+          "c) What are the dos and don’ts while managing such a case?"
+        ]
+      },
+      {
+        "topic": "Regarding hematuria:",
+        "questions": [
+          "a) Mention some causes of painless and painful hematuria.",
+          "b) How do you investigate a case of hematuria?",
+          "c) How do you manage a case of hematuria?"
+        ]
+      },
+      {
+        "topic": "A 32-year-old lady suffers from left-sided abdominal pain, which radiates from the loin to the groin. She also gives a history of passage of blood-mixed urine.",
+        "questions": [
+          "a) What is the probable diagnosis?",
+          "b) What investigations will you do?",
+          "c) What is the management of such a disease?"
+        ]
+      },
+      {
+        "topic": "Regarding vasectomy:",
+        "questions": [
+          "a) What are the points you have to mention during counseling?",
+          "b) What are the indications for vasectomy?",
+          "c) What are the steps of the operation?"
+        ]
+      }
+    ],

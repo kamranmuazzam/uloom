@@ -252,7 +252,6 @@ Avoid PaCO₂ < 30 mmHg (causes vasoconstriction → ischemia)
 
 #figure(table(
   columns: 3,
-[Type],[Source],[Key Features],
 [*Epidural Hematoma (EDH)*],[Middle meningeal artery (arterial)],["Lucid interval," lentiform CT, temporal fracture],
 [*Subdural Hematoma (SDH)*],[Bridging veins (venous)],["Crescent" CT, elderly/alcoholic, gradual decline],
 [*Subarachnoid Hemorrhage (SAH)*],[Cortical/vessel rupture],[Blood in basal cisterns, thunderclap headache],
