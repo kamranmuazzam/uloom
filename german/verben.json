@@ -1,0 +1,38 @@
+{"verben":[
+    {
+      "infinitiv": "gehen",
+      "präesens_3sg": "geht",
+      "präeteritum_3sg": "ging",
+      "partizip_ii": "gegangen",
+      "hilfsverb": "sein"
+    },
+    {
+      "infinitiv": "sein",
+      "präesens_3sg": "ist",
+      "präeteritum_3sg": "war",
+      "partizip_ii": "gewesen",
+      "hilfsverb": "sein"
+    },
+    {
+      "infinitiv": "haben",
+      "präesens_3sg": "hat",
+      "präeteritum_3sg": "hatte",
+      "partizip_ii": "gehabt",
+      "hilfsverb": "haben"
+    },
+    {
+      "infinitiv": "kommen",
+      "präesens_3sg": "kommt",
+      "präeteritum_3sg": "kam",
+      "partizip_ii": "gekommen",
+      "hilfsverb": "sein"
+    },
+    {
+      "infinitiv": "machen",
+      "präesens_3sg": "macht",
+      "präeteritum_3sg": "machte",
+      "partizip_ii": "gemacht",
+      "hilfsverb": "haben"
+    }
+]
+}
