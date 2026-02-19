@@ -184,9 +184,11 @@ _With persistent diarrhoea, the main issue isn't dehydration, the main issue is 
 - Persistent diarrhoea (passage of loose stool for > 14 days)
 - Dysentery (passage of loose stool + blood)
 
+Chronic Diarrhoea (passage of loose stool > 4 weeks) _It is in adult medicine tho_
+
 #question[Name the organisms responsible for acute watery diarrhoea]
 
-- Rota virus
+- Rota virus (non-enveloped dsRNA)
 - _Vibrio cholerae_ O1, O139
 - ETEC (entero-toxigenic E.coli)
 - EPEC (entero-pathogenic)
@@ -202,19 +204,23 @@ Dysentery is a symptom, the disease is Gasteroenteritis, mostly Bacterial Gaster
 - _Salmonella enterica_
 - EIEC (Entero Invasive)
 - EHEC (Entero Hemorrhagic)
-- Campylobacter jejuni
+- _Campylobacter jejuni_
 
 _In paediatrics, dysentery is most commonly bacterial, mostly by Shigella. Amoebic dysentery (Entamoeba histolytica) is relatively uncommon in young children. It is seen more in older children and adults._
 
 
 #question[Complications of Diarrhoea]
 
-- Electrolyte imbalance (hypokalemia, hyponatremia, metabolic acidosis
-- Paralytic ileus
+- Electrolyte imbalance
+  - hypokalemia
+  - hyponatremia
+  - metabolic acidosis
+  - Paralytic ileus (due to hypokalemia)
 - Acute renal failure
-- HUS (hemolytic uremic syndrome)
-- Growth failure
-- Malnutrition
+- HUS (hemolytic uremic syndrome)#footnote[Hemolytic uremic syndrome (HUS) is a rare, life-threatening condition, primarily affecting young children, characterized by a triad of hemolytic anemia, thrombocytopenia, and acute kidney injury.]
+- Persistent Diarrhoea
+  - Growth failure
+  - Malnutrition
 - In case of C. jejuni, GBS
 - If there is dysentery
   - Rectal prolapse
@@ -223,11 +229,11 @@ _In paediatrics, dysentery is most commonly bacterial, mostly by Shigella. Amoeb
 
 *Complications of Dysentery* @tasker_oxford_2013[p. ~339]
 - Bacteraemia.
-- Salmonella, Campylobacter), e.g. Secondary infections (particularly pneumonia, osteomyelitis, meningitis.
-- Reiter’s syndrome (Shigella, Campylobacter)
-- Haemolytic–uraemic syndrome (E. coli 0157, Shigella). 
-- Guillain–Barré syndrome (Campylobacter).
--  Reactive arthropathy (Yersinia).
+- Secondary infections (particularly Salmonella, Campylobacter) e.g.pneumonia, osteomyelitis, meningitis.
+- Guillain-Barré syndrome (Campylobacter).
+- Reiter's syndrome#footnote[Reactive Arthritis lasting for few months, some cases might be chronic] (Shigella, Campylobacter)
+- Haemolytic-uraemic syndrome (E. coli O157, Shigella).
+- Reactive arthropathy (Yersinia).
 - Haemorrhagic colitis.
 
 #objective[assess dehydration & to offer appropriate management (Plan A, B,C)]
@@ -278,6 +284,12 @@ severe/some dehydration developed from acute watery diarrhoea of an 18 months ol
 
 Next Steps : Common for Both
 
++ Access Hydration at the end of Plan B/C
+  - if not hydrated yet, follow plab B/C as per assessment
+  - if adequately hydrated, follow plan A after each loose stool
+  *Plan A*
+    - 5-10 ml/kg ORS after each passage of loose stool.
+    - Keep accessing, if dehydration develops switch to Plan B/C
 + Contiue Feeding
   - < 6 months: exclusive breast feeding
   - > 6 months: breast feeding + freshly prepared energy dense complementary food
@@ -311,16 +323,16 @@ Antibiotics are not indicated, as the duration of symptoms is not altered and ma
 ORS (oral rehydration salts, low-osmolarity formula of the World Health Organization)
 Per 1 litre of water:
   - Sodium chloride → 2.6 g (1.3 g in half a litre)
-  - Glucose (anhydrous) → 13.5 g (6.75 g in half a litre)
   - Potassium chloride → 1.5 g (0.75 g in half a litre)
+  - Glucose (anhydrous) → 13.5 g (6.75 g in half a litre)
   - Trisodium citrate dihydrate → 2.9 g (1.45 g in half a litre)
 
 
 Cholera saline (classic IV “cholera saline”)
 Per 1 litre:
   - Sodium chloride → 5.0 g
-  - Sodium bicarbonate → 4.0 g
   - Potassium chloride → 1.0 g
+  - Sodium bicarbonate → 4.0 g
   - Sterile water to make → 1 L
 
 Ringer's solution (plain Ringer, not lactated)
@@ -332,8 +344,8 @@ Per 1 litre:
 Ringer's lactate (RL, Hartmann's solution)
 Per 1 litre:
   - Sodium chloride → 6.0 g
-  - Sodium lactate → 3.1 g
   - Potassium chloride → 0.4 g
+  - Sodium lactate → 3.1 g
   - Calcium chloride dihydrate → 0.27 g
 #objective[describe prevention of diarrhoea]
 
