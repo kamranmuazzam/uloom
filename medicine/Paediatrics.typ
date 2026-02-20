@@ -280,7 +280,7 @@ severe/some dehydration developed from acute watery diarrhoea of an 18 months ol
     
     if Age ≥12 months : 1st part over 0.5 hour and 2nd part over 2.5 hours.
   ],[4 hours]
-),caption:[Rehydration of Dehydration in child])
+),caption:[Rehydration of Dehydration in child]) <rehydration-plan>
 
 Next Steps : Common for Both
 
@@ -319,7 +319,9 @@ Antibiotics are not indicated, as the duration of symptoms is not altered and ma
 - Serum electrolyte
 - ABG
 - Serum creatinine
+== Solutions used for Rehydration <solutions-used-for-rehydration>
 #objective[describe the composition of ORS, Cholera Saline, Ringer's solution.]
+
 ORS (oral rehydration salts, low-osmolarity formula of the World Health Organization)
 Per 1 litre of water:
   - Sodium chloride → 2.6 g (1.3 g in half a litre)
@@ -612,7 +614,153 @@ PDA.
 #objective[describe the steps of communication /counseling ]
 #objective[counsel a parent or care giver regarding any illness]
 
+
+
+= Instruments
+== Hypordermic Needle
+Use
+- Blood Collection - Investigation
+- Vaccination
+- CSF collection for infant (transfrontanalle)
+== IV canulla
+Use
+- IV Fluid Infusion
+- Blood Transfusion
+- Drugs
+== ORS
+- Refer to @rehydration-plan for Assessment of Dehydration and Rehydration Therapy
+- Refer to @solutions-used-for-rehydration for Composition
+== Cholera Saline-IV
+- used in severe dehydration
+- Refer to @solutions-used-for-rehydration for Composition,Glucose absent(bcoz, no need to glucose mediated Na absorption by SGLT)
+== Tongue Depressor
+Use (Mostly for Examination)
+- Faucal Diptheria
+- Tonsilitis
+- Pharyngitis
+- Retropharyngeal abscess
+- Koplics spots
+- Oral Thrush
+- Cleft Palate
+- Removing Foreign Body
+== Nasogastric Tube
+*Use*
++ *Nasogastric Feeding* of LBW child, shock patient, SAM
++ *Deflate Stomach* in acute abdomen.
++ Decompression of gut in intestinal obstruction
++ Suction
++ $O_2$ inhalation
++ *Gastric Lavage* to collect gastric secretion for AFB at TB
++ Check blood in gastric content
++ Check Patency / Obstruction at esophagus at suspected esophagial atresia
+
+*Contraindications*
++ Kerosene Poisoning
++ Nasal Obstruction
+
+*Compclication*
++ Source of Infection
++ Aspiration Pneumonia
++ Perforation
+== Lumbar Puncture Needle
+*Parts*
+- Torachar with knob
+- Canulla
+
+*Site* : L3-L4
+
+*Indications*
++ *Diagnostic*
+  - Suspicion of meningitits
+  - Encephalitis
+  - GBS
+  - Subarachnoid haemorrage
+  - SLE
+  - CNS Laecaemia
++ *Therapeutic*
+  - Intrathecal chemotherapy in Laecaemia
+  - Spinal anesthesia
++ *Contraindication*  
+  + Raised ICP due to mass lesion of brain and spinal cord with high risk of cerebellar tonsillar herniation
+  + Critically Ill
+  + Infection at the site of LP
+  + Thrombocytopaenia
+  + Coagulation disorder
++ *Complication*
+    + Headache
+    + Local pain
+    + Haemorrhage
+    + Introduction of infection
+    + Injury to vertebral disc
+    + Injury ot spinal cord due to malcalculation
+== AMBU
+Artificial Manual Breathing Unit (AMBU)
+*Parts*
++ Mouth Mask
++ Fish mouth valve
++ Pop-off valve (to prevent brao trauma)
++ Pop up valve
++ AMBU Bag Proper (Self Inflating Bag)
++ Outlet Valve
++ Air inlet
++ $O_2$ inlet(connector)
++ $O_2$ reservior
+*Indication*
++ Resuscitation of Neonate
+  - Perinatal asphyxia
+  - Apnoea(Sepsis)
++ Respiratory failure from any cause
+  - GBS, pneumona, head injury, severe acute asthma
+  - Poisoning  
+*Contraindiction*
+  - Diaphragmatic Hernia
+  - Tracheo-oseophageal fistula (not high variety)  
+*Complication*
+  - Pneumothorax  
+== Bone Marrow Aspiration Needle
+*Parts*
++ Trochar with knob
++ Canulla
++ Adjustable guard
+*Site*
++ < 2 years : medical aspect of upper end of Tibia
++ > 2 years
+  - Posterior Iliac Crest
+  - Spinous Process of Vertebrae
+*Indication*
+- *Diagnostic*
+  + Haematological
+    - Leukemia, ITP
+    - Non-Hodgkin Lymphoma
+    - Myeloproliferative Disorder
+    - Megaloblastic Anaemia
+    - Multiple Myeloma
+  + Infectious
+    - Kala-azar
+    - TB
+  + Storage Disease    
+    - Gaucher Disease
+- Therapeutic
+  - Bone Marrow Transplantation
+*Contraindication*
++ Skin Infection
++ Haemophilia
++ Thrombocytopaenia
++ Bone marrow disorder- osteomyelitis
++ Using anticoagulant
+*Complication*
+  + Shock - vaso vagal, haemorrhage
+  + Local Pain
+  + Introduction of infection (osteomyelitis)
+  + Haemorrhage
+  + Overpuncture
+= Pictograms
+
+
+= X-Rays
+
 #bibliography("references.bib",
 style: "chicago-notes",
 full: true
 )
+
