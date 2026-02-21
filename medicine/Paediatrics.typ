@@ -114,14 +114,139 @@ succling]
   - Micronutrient Deficiencies(Iron, Zinc, Calcium) \*\*
   - Obesity\*
 ]
-
+#question[What are the common nutritional disorders of the children of Bangladesh?]
+  - Protein energy malnutrition (PEM)
+  - Micro-nutrient deficiency related malnutrition (Hidden hunger)
+    - Micronutrient with great public health importance: Vit A, Iron, Iodine, Zinc
+    - Other: Vit B, C, D, Folic acid, Calcium etc.
 #objective[define and classify protein energy malnutrition (PEM)]
+#question[What is PEM?]
+- It is a form of malnutrition.
+Defined as
+- Range of pathological conditions
+- Arising from
+  - Lack of dietary protein and/or energy (calories)
+  - In varying proportions
+
+#question[Classify PEM]
+- Acute malnutrition (weight loss and/or edema)
+- Prolonged malnutrition (stunting + wasting)
+
+#figure(table(
+  columns: (auto, auto, auto, auto),
+  [],[Normal],[Moderate acute malnutrition(MAM)],[Severe acute malnutrition(SAM)],
+  [Mid upper arm circumference (MUAC) (cm)],[≥ 12.5],[11.5 to < 12.5],[< 11.5],
+  [Z score of Weight for height/length],[≥ -2],[-3 to < -2],[< -3],
+  [Bipedal edema],[Absent],[Absent],[Present]
+),caption:[Classification of Acute malnutrition according to WHO])
+
+#question[How will you calculate Z score for any given parameter?]
+$"Z score" = "observed value – value at 50th percentile"/"1 SD"$
+
+
+$"1 SD" = "value at 50th percentile – value at 5th percentile"/1.8$
+
 #objective[define severe acute malnutrition (SAM)]
+#question[What criteria will you consider for dx of SAM?]
+- Children between 6-59 months
+  - MUAC < 115 cm
+  - Z score of WFH/WFL < -3
+  - Bipedal edema: present
+- Children < 6 months
+  - Visible wasting ((we don’t measure MUAC in them)
+  - Z score of WFH/WFL < -3
+  - Bipedal edema: present
 #objective[state the risk factors of protein energy malnutrition]
-#objective[describe the clinical presentation, complications & management of a child]
-with severe acute malnutrition
-#objective[describe the various types of vitamin deficiency disorders & their]
-management
+#objective[describe the clinical presentation, complications & management of a child with severe acute malnutrition]
+
+#question[Write down the complications of SAM/PEM]
+- infection
+- dehydration and electrolyte imbalance
+- hypoglycemia
+- hypothermia
+- anemia
+- CCF
+- Bleeding
+- Xerophthalmia, blindness
+- SIDS (sudden infant death syndrome)
+
+#question[Enumerate 10 steps of management for a child with SAM]
+- Stabilization phase (1st 7 days)
+- Rehabilitation phase (2nd week – 6 week)
+
+The 10 steps:
++ Treat/prevent hypoglycemia
++ Treat/prevent hypothermia
++ Treat/prevent dehydration
++ Correct electrolyte imbalance
++ Treat and prevent infection
++ Correct micronutrient deficiency
++ Start feeding cautiously
++ Achieve catch up growth
++ Provide sensory stimulation and emotional support
++ Prepare for discharge and follow up after recovery
+
+#question[Write down the treatment of a 15 months old child weighing 5 kg with edema of both feet./Management of SAM/Management of kwashiorkor according to WHO]
+
+considering this child’s weight for age and presence of bipedal edema, it is suffering from Severe acute malnutrition.
+
+Treatment for SAM:
+  - 10 steps management
+  - Treatment of associated condition
+the 10 steps management of SAM is accomplished in 2 pahses
+  - Stabilization phase (1st 7 days)
+  - Rehabilitation phase (2nd week – 6 week)
+The 10 steps:
++ Treat/prevent hypoglycemia: with oral/IV glucose
++ Treat/prevent hypothermia: warm clothing + kangaroo mother care
++ Treat/prevent dehydration: with ReSoMal and F-75 therapeutic milk
++ Correct electrolyte imbalance: K+, MgSO4, food without salt, ReSoMal
++ Treat and prevent infection: antibiotic
++ Correct micronutrient deficiency: Vitamin A, Multivitamin, Folic acid, Zinc, Copper, Elemental iron
++ Start feeding cautiously: F-75 therapeutic milk, encourage breast feeding, fluid restriction if child edematous
++ Achieve catch up growth: F-100 therapeutic milk
++ Provide sensory stimulation and emotional support: tender loving care
++ Prepare for discharge and follow up after recovery (when discharge criteria have been fulfilled)
+
+
+Treatment of associated condition if present
+- *Vitamin A deficiency*:
+  - Vitamin A capsule
+- *Dermatosis*:
+  - KMnO4 solution,
+  - Antifungal drugs
+- *Helminthiasis*: Anthelminthic drugs (Oral Albendazole)
+- *Diarrhoea, dysentery*: Antibiotic (Metronidazol, ciprofloxacin) for giardiasis, dysentery
+- *Tuberculosis*: anti TB drugs as per guideline
+- *Shock*:
+  - Oxygen,
+  - antibiotic (if septic shock),
+  - glucose (if hypoglycemia),
+  - IV fluid,
+  - blood transfusion
+- *Severe anemia*
+  - whole blood/packed cell
+
+
+#question[Kwashiorkor vs Marasmus]
+#figure(table(
+  columns:(auto,auto,auto),
+  [Clinical Feature],[Marasmus],[Kwashiorkor],
+  [Age],[0-3 years],[1-3 years],
+  [Edema],[Absent],[Present],
+  [Wasting],[Obvious],[Less obvious],
+  [Skin change],[Less frequent],[More frequent],
+  [Hair change],[Absent],[Present],
+  [Mental change],[Sometimes],[Present],
+  [Appetite],[Good],[Poor],
+  [Hepatomegaly],[Absent],[Present],
+  [Investigation],[],[],
+  [Serum albumin],[Normal],[Low],
+  [Anemia],[Uncommon],[Common],
+  [Liver biopsy],[Normal],[Fatty change]
+),caption: [Kwashiorkor vs Marasmus])
+#objective[describe the various types of vitamin deficiency disorders & their management]
+Check Nutrition from Internal Medicine, mainly Vitamin C, A, D
 #objective[describe micro nutrients and their importance in malnutrition/child health]
 #objective[list the causes of obesity, consequences & management of obesity]
 
@@ -627,6 +752,17 @@ Use
 - IV Fluid Infusion
 - Blood Transfusion
 - Drugs
+#figure(table(
+  columns: (auto,auto,auto),
+  [Gauge],[Color],[Use],
+  [14 Gauge],[Orange],[Trauma, rapid infusion],
+  [16 Gauge],[Gray],[Trauma, surgery],
+  [18 Gauge],[Green],[Blood Transfusion],
+  [20 Gauge],[Pink],[IV fluids and medications],
+  [22 Gauge],[Blue],[Small veins],
+  [24 Gauge],[Yellow],[Fragile veins, paediatrics],
+  [26 Gauge],[Purple],[Neonates],
+),caption: [IV canulla Gauze Sizes])
 == ORS
 - Refer to @rehydration-plan for Assessment of Dehydration and Rehydration Therapy
 - Refer to @solutions-used-for-rehydration for Composition
@@ -643,6 +779,10 @@ Use (Mostly for Examination)
 - Oral Thrush
 - Cleft Palate
 - Removing Foreign Body
+
+The "Gag Reflex" : don't touch the posteriror 1/3rd of the tongue to prevent elicicting the gag reflex.
+
+*Contraindication* : Acute epiglottitis
 == Nasogastric Tube
 *Use*
 + *Nasogastric Feeding* of LBW child, shock patient, SAM
@@ -658,16 +798,28 @@ Use (Mostly for Examination)
 + Kerosene Poisoning
 + Nasal Obstruction
 
-*Compclication*
+*Complication*
 + Source of Infection
 + Aspiration Pneumonia
 + Perforation
+
+*Measurement* : Tip of nose to tragus(ear lobe), then to the xiphoid process
+
+*Confirmation*
+- Aspirate gastric content and check pH (< 5.5)
+- "Whoosh test" (injecting air and listening over the epigastrium)
+
+*Size* : Usually 6 Fr to 10 Fr for kids
 == Lumbar Puncture Needle
 *Parts*
 - Torachar with knob
 - Canulla
 
 *Site* : L3-L4
+  - *Anatomical Landmark* : A line connecting the two Iliac crests (Tuffier's Line) usually intersects L4 or the L4-L5 space.
+
+*Posisitioning* : Lateral Decubitus or Sitting Position
+  - Neck shouldn't be too flexed in neonates to avoid airway compromise.
 
 *Indications*
 + *Diagnostic*
@@ -698,13 +850,20 @@ Artificial Manual Breathing Unit (AMBU)
 *Parts*
 + Mouth Mask
 + Fish mouth valve
-+ Pop-off valve (to prevent brao trauma)
++ Pop-off valve (also known as pressure release valve, to prevent brao trauma, regulates pressure at 30-40 cm of water)
 + Pop up valve
 + AMBU Bag Proper (Self Inflating Bag)
 + Outlet Valve
 + Air inlet
 + $O_2$ inlet(connector)
 + $O_2$ reservior
+
+*E-C Clamp Technique* : 'E' on the jaw and 'C' over the mask
+
+*Volume*
+  - Neonate: 250 ml
+  - Paediatric: 500 ml
+
 *Indication*
 + Resuscitation of Neonate
   - Perinatal asphyxia
@@ -713,11 +872,13 @@ Artificial Manual Breathing Unit (AMBU)
   - GBS, pneumona, head injury, severe acute asthma
   - Poisoning  
 *Contraindiction*
-  - Diaphragmatic Hernia
+  - Diaphragmatic Hernia(Abdominal Pressure would increase, progressing the hernia and further compressing the lungs)
   - Tracheo-oseophageal fistula (not high variety)  
 *Complication*
   - Pneumothorax  
 == Bone Marrow Aspiration Needle
+*Names* : Salah or Klima needles
+
 *Parts*
 + Trochar with knob
 + Canulla
@@ -754,6 +915,23 @@ Artificial Manual Breathing Unit (AMBU)
   + Introduction of infection (osteomyelitis)
   + Haemorrhage
   + Overpuncture
+
+*Dry Tap* : occurs in aplastic anemia or myelofibrosis (core biopsy requried)
+
+Difference between Aspiration and Biopsy: Aspiration (liquid) is for morphology; Biopsy (core of bone) is for cellularity/architecture.
+
+*Shakir's Tape*
+
+also known as MUAC tape (Mid upper arm circumference tape)
+
+Mid upper arm is midpoint of acromian process and olecranon process
+
+Interpretation
+Red(< 11.5 cm) : Severe Acute Malnutrition
+Yellow(11.5-12.4 cm) : Moderate Acute Malnutrition
+Green(≥12.5 cm) : Normal
+
+Age group : 6-59 months age child.
 = Pictograms
 
 

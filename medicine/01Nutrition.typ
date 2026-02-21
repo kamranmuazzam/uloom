@@ -257,12 +257,15 @@ The vitamins Deficiency
             - Maintenance → every 2-3 months
       ],
     [Ascorbic Acid(C)],[
+        Role of Vitamin  C is *Collagen Synthesis*
         *Scurvy*
+        - Generalized Tenderness - eps in legs
         - Swollen gums which bleed easily
-        - Perifollicular and petechial haemorrhages
-        - Ecchymoses
-        - Haemarthrosis
-        - Gastrointestinal bleeding
+        - Bleeding manifestations
+          - Perifollicular and petechial haemorrhages
+          - Ecchymoses
+          - Haemarthrosis
+          - Gastrointestinal bleeding
         - Anaemia
         - Poor wound healing
 
@@ -273,10 +276,35 @@ The vitamins Deficiency
         + Increased requirement for vitamin C
           - Trauma, surgery, burns, infections.
           - Smoking.
-          - Drugs ( corticosteroids, aspirin, Indomethacin, tetracycline).
-      ],[],[250 mg vitamin C PO q8h],
+          - Drugs (corticosteroids, aspirin, Indomethacin, tetracycline).
+
+        Investigation : X ray of limb
+          - Ground glass appearance
+          - Pathological fracture
+          - Pencil thinning of cortex
+      ],[],[
+        *Treatment*
+
+        for child, 12 months above and adult
+        250 mg vitamin C PO q8h for several weeks
+        
+        if 1 month to 11 months : 100 mg vitamin C PO q12h for severeal weeks
+
+       minimum 2 weeks, and continue until symptoms improve, then preventive treatment as long as requried
+
+        *Prevention*
+        - Eat Vitamin C containing food
+        - Preventive dose : 50 mg once daily
+        ],
     [A],[
-        + Xeropthmalmia
+
+        *Etiology*
+          - SAM
+          - Measles
+          - Helminthiasis
+          - Inadequate vitamin A intake
+
+        + Xeropthmalmia (Ocular)
           + XN: Night Blindness
           + X1A: Conjunctival Xerosis
           + X1B: Bitot's Spots
@@ -285,38 +313,66 @@ The vitamins Deficiency
           + X3B: Keratomalacia/Corneal Ulceration ( > 1/3rd)
           + XS: Corneal Scar
           + XF: Xerophthalmic Fundus
-        + Impaied Embryonic Development
-        + Growth retardation
-        + Immune dysfunction
-        + Skin
-          + Follicular Hyperkeratosis
-          + Dry skin ('toad' skin)
-        + Repeated Respiratory infection
-        + Repeated GIT infection
-        + Renal Calculi
-        + Sterilization in Male
+        Ocular changes
+          + Skin change : dry scaly skin (follicular hyperkeratosis/phrynoderma)
+          + Increased infection
+          + Urinary problem : stone, pyuria, hematuria
+          + CNS problem : raised ICP
+          + Squamous metaplasia
+          + Growth failure
+          + Impaied Embryonic Development
+          + Growth retardation
+          + Immune dysfunction
+          + Repeated Respiratory infection
+          + Repeated GIT infection
+          + Sterilization in Male
       ],[],[
         Vitamin A Supplementation #footnote[
-          *Treatment Dose*
+          *Treatment Dose of Vitamin A*
           #table(columns: (auto,auto,auto),
           [Age],[Dose],[Day],
           [< 6 months],[15 mg (50,000 IU)],[0,1,14],
           [6-11 months],[30 mg (1,00,000 IU)],[0,1,14],
           [1 year and above],[60 mg (2,00,000 IU)],[0,1,14],
           )
-          *Preventive Dose*
+        ]
+        Prevention
+          - Exclusive Breast Feeding
+          - Regular Intake of Vitamin A rich foods
+          - Vitamin A supplemention(every 6 months upto 5 years of age)#footnote[
+          *Preventive Dose of Vitamin A*
           #table(columns: (auto,auto,auto),
           [Age],[Dose],[Day],
           [6-11 months],[30 mg (1,00,000 IU)],[Single Dose],
           [12-59 months],[60 mg (2,00,000 IU)],[One Dose Every 6 Months],
           )
           _After Treatment Dose, Continue Preventive Dose after 6 months of last Therapeutic Dose_
-        ]
+          ]
       ],
     [D],[
         - In children : Rickets
         - In adult : Osteomalacia
-      ],[],[],
+
+        X-Ray findings in children
+        - Xray of limbs and joints of upper and lower limb
+          - Widening, cupping, fraying of metaphysis
+          - Wide gap b/n epiphysis and metaphysis
+          - Reduced density of shaft of bone (osteopenia)
+          - Bone deformity
+          - Green stick fracture may be present
+        - Chest Xray
+          - rachitic rosary
+          - cupped wide cartilaginous end of ribs
+      ],[],[
+        *Treatment*
+        - *Nutritional Rickets*
+          - Vitamin D supplementation
+          - Calcium supplementation
+          - Calcium rich diet
+        - *Familial hyperphosphaemic rickets*
+          - Phosphorous supplementation
+          - Vitamin D2 supplementation
+      ],
     [E],[
       + Haemolytic Anemia
       + Ataxia
