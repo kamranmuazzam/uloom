@@ -2,6 +2,7 @@
   paper: "a4",
   numbering: "1"
   )
+#set table(align: left+horizon)
 #set heading(numbering: "1.1.")
 #let objective = (objective) => box(fill:olive, inset:10pt, width: 100%)[#text(fill:white)[#strong[O. #objective]]]
 #let question = (question) => box(fill:blue, inset:10pt, width: 100%)[#text(fill:white)[#strong[Q. #question]]]
@@ -47,9 +48,10 @@ Services (NNS), Infant and Young Child Feeding (IYCF), vitamin-A
 supplementation]
 
 = Neonatology
+
 #corebox[
   - Care of a normal newborn\*\*\*
-  - Perinatal asphyxia\*\*\*
+  - Perinatal asphyxia**\*
   - Neonatal resuscitation\*\*\*
   - Pre-term/ Low birth weight/ SGA\*\*\*
   - Neonatal infection\*\*\*
@@ -58,23 +60,679 @@ supplementation]
   - Birth injuries\*
   - Respiratory distress in newborn\*
 ]
-#objective[describe the procedure for taking care of new-born e.g. maintenance of
-body temperature, feeding, care of eyes etc.]
-#objective[define perinatal asphyxia, hypoxic ischaemic encephalopathy (HIE),
-describe APGAR Score, causes, management (Newborn resuscitation) &
-complication of perinatal asphyxia.]
-#objective[state the common causes of respiratory distress in newborn (RDS &
-meconium aspirates) & clinical presentation and management]
-#objective[define preterm & low birth weight, epidemiology, causes, clinical
-presentation, complications & management of preterm low birth weight
-babies.describe the common infections of newborn (neonatal sepsis), their
-aetiology /organism patterns, risk factors and types of neonatal sepsis]
+
+#objective[describe the procedure for taking care of new-born e.g. maintenance of body temperature, feeding, care of eyes etc.]
+
+#objective[define perinatal asphyxia, hypoxic ischaemic encephalopathy (HIE), describe APGAR Score, causes, management (Newborn resuscitation) & complication of perinatal asphyxia.]
+
+#objective[state the common causes of respiratory distress in newborn (RDS & meconium aspirates) & clinical presentation and management]
+
+#objective[define preterm & low birth weight, epidemiology, causes, clinical presentation, complications & management of preterm low birth weight babies.describe the common infections of newborn (neonatal sepsis), their aetiology /organism patterns, risk factors and types of neonatal sepsis]
+
 #objective[describe the clinical presentation of neonatal sepsis, diagnosis (e.g. sepsis screening), treatment and prevention of neonatal sepsis]
-#objective[describe the causes of neonatal jaundice, clinical presentation,
-complications& management of different types of neonatal Jaundice.]
-#objective[State the causes and clinical presentations of neonatal convulsions and it's
-diagnosis and treatment]
+
+#objective[describe the causes of neonatal jaundice, clinical presentation, complications& management of different types of neonatal Jaundice.]
+
+#objective[State the causes and clinical presentations of neonatal convulsions and it's diagnosis and treatment]
+
 #objective[describe the different types of birth injuries & their management]
+
+
+== Care of a Normal Newborn
+
+Immediate care:
+- Dry the baby immediately.
+- Maintain temperature:
+  - Skin-to-skin contact
+  - Adequate clothing
+  - Warm room
+  - Radiant warmer if needed
+- Early initiation of breastfeeding.
+- Exclusive breastfeeding.
+- Avoid pre-lacteal feeds.
+
+Cord care:
+- Umbilical stump clean.
+- Keep dry.
+- Keep bare.
+- Avoid poor cord care.
+
+Eye care:
+- Clean with sterile swab.
+
+Prophylaxis:
+- Vitamin K injection:
+  - 1 mg IM/IV
+  - Within 4 hours of birth
+  - Prevent bleeding manifestation
+  - Given to all newborn
+
+Monitoring:
+- HR: 100-160/min
+- RR: 30-59/min
+- Temperature
+- BP
+- CRT (normal < 3 seconds)
+
+Observe:
+- Color:
+  - Pink with O₂
+  - Bluish (cyanosis)
+  - Yellow (jaundice)
+  - Pale (anemia)
+  - Spider-web mottling (temperature variation/infection)
+- Feeding adequacy
+- Passage of urine
+- Passage of meconium
+
+
+
+
+== Perinatal Asphyxia
+
+Pathophysiology:
+
+Hypoxia → rapid breathing → sustained hypoxia → depression of respiratory centre → primary apnea (reversible) → irregular gasping (attempt by spinal centres) → if hypoxia continues → spinal centres inactive → secondary/terminal apnea (irreversible).
+
+#question[Define perinatal asphyxia.]
+
+Perinatal asphyxia is:
+- A clinical condition
+- Resulting from impairment of gas exchange
+- In the fetus
+- Leading to hypoxia, hypercarbia and acidosis
+
+APGAR Score:
+- Appearance
+- Pulse
+- Grimace
+- Activity
+- Respiration
+Each scored 0-2.
+Total score /10.
+Assessed at 1 minute and 5 minutes.
+
+#question[Causes of perinatal asphyxia.]
+
+Mother:
+- Less O₂ in mother’s blood:
+  - Anemia
+  - Heart disease
+  - Respiratory illness
+  - DM
+- APH
+- Eclampsia
+- Anesthesia
+
+Placenta:
+- Placental insufficiency
+- Abruptio placenta (premature separation)
+
+Umbilical cord:
+- Knotting
+- Cord prolapse
+
+Baby:
+- Cord round neck
+- Heart/lung congenital anomaly
+- Anemia
+
+Labor:
+- Prolonged labor
+- Obstructed labor
+
+
+#question[Complications of perinatal asphyxia.]
+
+Immediate:
+
+1. Brain:
+   - Hypoxic ischemic encephalopathy
+   - Seizure
+2. Heart:
+   - Hypoxic cardiomyopathy
+3. Lungs:
+   - Pulmonary hemorrhage
+4. Liver:
+   - Hepatocellular necrosis
+5. Gut:
+   - Necrotizing enterocolitis
+6. Adrenal gland:
+   - Hemorrhage
+7. Kidney:
+   - Acute kidney injury
+
+Delayed (neuro-developmental delay):
+
+1. Cerebral palsy
+2. Cranial nerve palsy
+3. Seizure
+4. Microcephaly
+5. Mental retardation
+6. Speech delayed
+
+
+#question[Management of baby with perinatal/birth asphyxia.]
+
+Clinical features:
+
+- No respiration
+- No cry
+- Weak respiratory effort
+- Gasping respiration
+- Grunting
+- Cyanosis
+- Convulsion
+- Cardiac arrest
+- Bradycardia (< 100 BPM)
+- CRT >3 sec
+- Muscle hypotonia
+- Oliguria/anuria (AKI)
+
+Treatment:
+
+A. Resuscitation (WHO 2005 — TABC)
+
+Temperature:
+- Dry baby
+- Maintain warmth (towel, heater)
+
+Airway:
+- Proper position
+- Clear airway (penguin sucker)
+- Suction
+
+Breathing:
+- Stimulate (rub back)
+- Oxygenation
+- If not breathing:
+  - AMBU bag
+  - 5 slow ventilations
+
+Reassess:
+- Check position
+- Check mask fit
+- Suction again
+- AMBU ventilation again
+- Check HR
+
+If HR < 60 BPM:
+- CPR + AMBU ventilation
+- Every 2 seconds:
+  - 3 chest compressions : 1 ventilation
+
+Continue:
+- AMBU bag @ 40 BPM
+- Use oxygen
+- Continue until:
+  - RR >30/min
+  - HR >100/min
+  - Baby pink and active
+
+B. Post-resuscitation management
+
+- Maintain body temperature
+- Support respiration:
+  - Nasal cannula
+  - Head box
+  - Artificial ventilation
+
+Monitoring:
+- Respiratory:
+  - RR
+  - Pattern
+  - Cyanosis
+  - SpO₂
+- Circulation:
+  - HR
+  - BP
+  - CRT
+- Renal:
+  - Urine volume
+  - Serum creatinine
+  - Electrolyte
+- Hematological:
+  - Bleeding
+  - Anemia
+- Blood glucose
+- ABG
+
+Treat:
+- Shock
+- Convulsion
+- Sepsis
+
+Complication management:
+- HIE
+- AKI
+
+
+
+
+== Respiratory Distress in Newborn
+
+Common causes:
+
+- Respiratory distress syndrome (RDS)
+  - Due to lack of surfactant
+  - Surfactant made by type II pneumocyte
+- Meconium aspiration
+
+Clinical presentation:
+
+- Tachypnea
+- Grunting
+- Nasal flaring
+- Chest retraction
+- Cyanosis
+
+Management:
+
+- Maintain temperature
+- Oxygen therapy
+- CPAP / ventilatory support
+- Correct hypoglycemia
+- Manage underlying cause
+
+
+
+
+== Preterm / Low Birth Weight (LBW) / SGA
+
+#question[Define and classify LBW baby.]
+
+Definition:
+
+- Birth weight < 2500 grams
+- Irrespective of gestational age
+
+Preterm:
+- Born < 37 completed weeks
+- Near term: 35-36 weeks
+
+Classification:
+
+- LBW: < 2500 g
+- Very LBW: < 1500 g
+- Extremely LBW: < 1000 g
+- < 750 g
+
+LBW may be:
+- Preterm LBW
+- Term LBW
+
+Term LBW:
+- Due to IUGR
+- IUGR = weight < 10th centile for gestational age
+- Most common complication:
+  - Hypoglycemia
+- Future risk:
+  - DM
+  - Heart disease
+
+
+#question[Complications/problems of LBW baby.]
+
+Early:
+
+- Hypothermia
+- Hypoglycemia
+- RDS
+- Apnea
+  - Temporary cessation >20 sec
+  - Associated with bradycardia/cyanosis
+- Infection
+- Hemorrhage
+  - Intraventricular hemorrhage
+- Feeding difficulty
+- GIT problems
+- Exaggeration of physiological jaundice
+- Anemia
+- Patent ductus arteriosus
+
+Late:
+
+- Bone disease:
+  - Osteopenia of prematurity
+- Eye:
+  - Retinopathy of prematurity
+- Brain:
+  - Cerebral palsy
+- Delayed growth and development
+
+
+#question[Management of LBW baby.]
+
+In addition to normal newborn care:
+
+A. Warmth
+
+- Adequate clothing
+- Kangaroo mother care
+- Room heater
+- Radiant warmer
+
+B. Optimum nutrition
+
+IV fluid:
+- 1st 24 hours:
+  - Electrolyte-free fluid
+  - 10% dextrose
+- Then:
+  - 1/4 strength normal saline (0.225%)
+  - + 10% / 5% dextrose
+
+Feeding:
+- Gut priming by minimal enteral feeding
+- 28-34 weeks:
+  - Orogastric/NG tube feeding
+  - Spoon feeding
+- >34 weeks:
+  - Breastfeeding
+
+C. Vitamin K:
+- 1 mg IM/IV within 4 hours
+
+D. Protection against infection
+
+- Clean hand
+  - Wash before & after handling each baby
+- Initial hand wash before ward round: 2 minutes
+- Each baby: 30 seconds
+- Exclusive breastfeeding
+- Avoid pre-lacteal feed
+- Handle baby as less as possible
+- Visitor restriction
+- Sterile equipment
+- Umbilical stump clean, dry, bare
+- Avoid overcrowding
+
+E. Regular monitoring
+
+Vitals:
+- HR 100-160
+- RR 30-59
+- Temp
+- BP
+- CRT < 3 sec
+
+General condition:
+- Color
+- Umbilical stump condition
+- Passage of meconium
+- Feeding tolerance
+  - Abd distension
+  - Vomiting
+  - Gastric residual >30% total feed
+- Sudden stop feeding in:
+  - Convulsion
+  - Apnea
+
+Weight gain:
+- 20-30 g/day
+
+F. Laboratory
+
+- Capillary blood glucose
+- CBC
+- CRP
+- Serum procalcitonin
+
+G. Discharge plan
+
+- Maintain temperature
+- No cardiorespiratory problem for 5 days
+- Feeding without problem
+- Steady weight gain
+
+H. Nutritional supplement
+
+- Folic acid
+- Multivitamin
+- Iron
+
+NICU admission criteria:
+
+- Birth weight < 1800 g
+- GA < 34 weeks
+- Any sick newborn
+- Unable to feed from breast or cup & spoon
+
+
+
+
+== Neonatal Sepsis
+
+#question[Causes of neonatal sepsis.]
+
+Risk factors:
+
+- Preterm birth
+- LBW
+- Unclean vaginal examination
+- Maternal infection
+  - Peripartum fever
+  - UTI
+- PROM
+- Prolonged PROM
+- Chorioamnionitis
+  - Lower abdominal pain
+  - Foul smelling liquor
+- Prolonged labor
+- Poor cord care
+- Poor hygiene of caregiver
+
+Causative organism:
+
+Early onset (< 72 hours)
+- From mother’s birth canal
+- Presents with pneumonia
+  - Group B streptococcus
+  - E. coli
+  - H. influenzae
+  - Klebsiella
+
+Late onset (>72 hours)
+- Nosocomial
+- Presents with meningitis
+  - Staph aureus
+  - Klebsiella
+  - Pseudomonas
+
+
+#question[Clinical features of neonatal sepsis.]
+
+Non-specific:
+
+- Reluctant to feed
+- Lethargy
+- Poor cry
+- Poor movement
+- Diminished/absent reflexes
+- Hypo/hyperthermia
+
+Specific:
+
++ *CNS*:
+  - Seizure
++ *CVS*:
+  - Bradycardia
+  - Tachycardia
+  - Shock
++ *Respiratory*:
+  - Cyanosis
+  - Apnea
+  - Fast breathing
++ *Skin*:
+  - Foul smelling umbilical discharge
+  - Pustule
++ *Hematological*:
+  - Anemia
+  - Jaundice
++ *GIT*:
+  - Vomiting
+  - Jaundice
++ *Kidney*:
+  - Oliguria
+  - Anuria
+
+
+#question[Investigations of neonatal sepsis (sepsis screening).]
+
+Blood:
+
+- CBC
+  - WBC raised/decreased
+  - Platelet decreased
+  - Normal Hb newborn: 18-20 g/dL
+  - WBC < 5k or >25k alarming
+- Peripheral blood film:
+  - Toxic granule in neutrophil
+- I/T ratio
+- Micro ESR (capillary heel prick method)
+  - ESR >15 in favor of sepsis
+- CRP
+- Procalcitonin
+- Blood C/S (not part of screening)
+
+Other:
+
+- Serum electrolyte altered
+- Serum bilirubin raised
+- CSF study
+- Urine study
+- Swab for C/S (skin, umbilicus, nail)
+- X-ray
+  - Chest: pneumonia
+  - Abdomen:
+    - Pneumatosis intestinalis
+    - Gas in portal vein
+    - Gas under diaphragm (perforation)
+- USG brain if needed
+
+
+#question[Treatment of neonatal sepsis.]
+
+Hospitalization + Antibiotic:
+
+1st line:
+- Ampicillin + Gentamicin
+
+2nd line:
+- Ceftazidime + Amikacin
+
+3rd line (resistant organism):
+- Meropenem
+- Fluoroquinolone
+- Clarithromycin
+- Piperacillin etc.
+
+Duration:
+
+- Only suspicion, screening & culture negative:
+  - 5 days
+- Screening positive, culture negative:
+  - 7-10 days
+- Culture positive:
+  - Gram +ve: 14 days
+  - Gram −ve: 21 days
+  - Meningitis organism: 3 weeks
+  - If baby well & responding: 2 weeks
+
+Supportive care:
+
+- Hypothermia management
+- Hypoglycemia management
+- Nutritional support
+- If no improvement:
+  - IVIG
+  - G-CSF
+  - Exchange transfusion
+
+Follow-up:
+
+- Vital sign
+- Reflex
+- Skin condition
+- Anterior fontanelle
+- Abdomen
+- Passage of urine & stool
+- Enquire untoward events
+
+Prevention:
+
+Antenatal:
+- Proper ANC
+- Detection of risk factors
+- Counsel hospital delivery
+- Screen mother & treat
+- Vaginal exam with antiseptic method
+
+During labor:
+- Detect fetal distress & manage
+- Aseptic delivery practice
+- Monitor babies undergoing resuscitation
+- Clean cord care
+
+After delivery:
+- Wash hands before touching baby
+- Exclusive breastfeeding
+- Avoid pre-lacteal feed
+- Minimal handling
+- Visitor restriction
+- Sterile equipment
+- Umbilical stump clean, dry, bare
+- Avoid overcrowding
+
+
+
+
+== Neonatal Seizure
+
+Causes:
+
+- Birth asphyxia (HIE)
+- Sepsis
+- Hypoglycemia
+- Intracranial hemorrhage
+
+Clinical presentation:
+
+- Abnormal jerking
+- Apnea
+- Abnormal eye movement
+- Altered tone
+
+Diagnosis:
+
+- Blood glucose
+- Sepsis screening
+- Neuroimaging if needed
+
+Treatment:
+
+- Correct hypoglycemia
+- Treat underlying cause
+- Anticonvulsant (e.g., phenobarbitone)
+
+
+
+
+== Birth Injuries
+
+Types:
+
+- Caput succedaneum
+- Cephalhematoma
+- Brachial plexus injury
+- Fracture clavicle
+
+Management:
+
+- Mostly conservative
+- Immobilization (fracture)
+- Physiotherapy (nerve injury)
+- Monitor for complications
 
 = Infant and Young Child Feeding (IYCF)
 #corebox([
@@ -119,6 +777,7 @@ succling]
   - Micro-nutrient deficiency related malnutrition (Hidden hunger)
     - Micronutrient with great public health importance: Vit A, Iron, Iodine, Zinc
     - Other: Vit B, C, D, Folic acid, Calcium etc.
+== PEM
 #objective[define and classify protein energy malnutrition (PEM)]
 #question[What is PEM?]
 - It is a form of malnutrition.
@@ -141,11 +800,12 @@ Defined as
 ),caption:[Classification of Acute malnutrition according to WHO])
 
 #question[How will you calculate Z score for any given parameter?]
-$"Z score" = "observed value – value at 50th percentile"/"1 SD"$
+$"Z score" = "observed value - value at 50th percentile"/"1 SD"$
 
 
-$"1 SD" = "value at 50th percentile – value at 5th percentile"/1.8$
+$"1 SD" = "value at 50th percentile - value at 5th percentile"/1.8$
 
+== SAM
 #objective[define severe acute malnutrition (SAM)]
 #question[What criteria will you consider for dx of SAM?]
 - Children between 6-59 months
@@ -172,7 +832,7 @@ $"1 SD" = "value at 50th percentile – value at 5th percentile"/1.8$
 
 #question[Enumerate 10 steps of management for a child with SAM]
 - Stabilization phase (1st 7 days)
-- Rehabilitation phase (2nd week – 6 week)
+- Rehabilitation phase (2nd week - 6 week)
 
 The 10 steps:
 + Treat/prevent hypoglycemia
@@ -195,7 +855,7 @@ Treatment for SAM:
   - Treatment of associated condition
 the 10 steps management of SAM is accomplished in 2 pahses
   - Stabilization phase (1st 7 days)
-  - Rehabilitation phase (2nd week – 6 week)
+  - Rehabilitation phase (2nd week - 6 week)
 The 10 steps:
 + Treat/prevent hypoglycemia: with oral/IV glucose
 + Treat/prevent hypothermia: warm clothing + kangaroo mother care
@@ -245,9 +905,12 @@ Treatment of associated condition if present
   [Anemia],[Uncommon],[Common],
   [Liver biopsy],[Normal],[Fatty change]
 ),caption: [Kwashiorkor vs Marasmus])
+== Vitamin Deficiencies
 #objective[describe the various types of vitamin deficiency disorders & their management]
 Check Nutrition from Internal Medicine, mainly Vitamin C, A, D
+== Micro-nutrient Deficiencies in Malnutrition
 #objective[describe micro nutrients and their importance in malnutrition/child health]
+== Obesity
 #objective[list the causes of obesity, consequences & management of obesity]
 
 = Infectious Disease
@@ -545,7 +1208,104 @@ If cure is not achieved 3 weeks after treatment, a second course of treatment is
 ]
 
 #objective[state the common respiratory illnesses of children]
+- ARI
+- Pneumonia
+- Bronchiolitis
+- Childhood Asthma
+- Croup
+== ARI/Pneumonia
 #objective[describe aetiology, clinical presentation, complication & management of pneumonia]
+#question[Classification of ARI according to WHO.]
+Any child presenting with fever, cough, difficulty in breathing:
+- Responds to salbutamol nebulization: wheezy child (Bronchiolitis, Asthma)
+- Doesn’t respond to nebulization: Pneumonia
+
+Classification of Pneumonia
+#figure(table(
+  columns: (auto, auto, auto),
+  [Sign/Symptom],[Classification],[Treatment according to IMCI/treatment in OPD/treatment according to IMCI],
+  [Any general danger signs
+  
+  or
+
+  Stridor in calm child
+
+  or
+
+  Severe chest indrawing
+  ],[Severe pneumona],[
+    - Urgent referral to hospital
+    - Frequent feeding to prevent hypoglycemia
+  ],
+  [Chest indrawing
+  
+  or
+  
+  Fast breathing],[Pneumonia],[
+    - Oral appropriate antibiotic/amoxicillin for 5 days
+    - Wheezing - gibe bronchodilator for 5 days
+    - Sooth throat and relieve cough with safe remedy
+    - Cough > 3 week/recurrent wheeze = assess for TB/asthma
+    - Advice mother when to return immediatly
+    - Follow up in 3 days
+  ],
+  [No signs of severe or non severe pneumonia],[No pneumonia (Cough or Cold)],[
+    - Wheezing - give bronchodilator for 5 days
+    - Soth throat and relieve cough with safe remedy
+    - Cough > 3 week/recurrent wheeze = assess for TB/asthma
+    - Advice mother when to return immediatly
+    - Follow up in 5 days, if not improved
+  ]
+),caption:[Classification of ARI according to WHO])
+
+\*\*Fast breathing: ≥60 BPM in child < 2 months; ≥50 in child 2-12 months; ≥40 BPM in child 12-59
+months
+
+\*\*when to return immediately:
+- Becomes sicker
+- Chest indrawing, difficulty in respiration
+- Not able to drink or breastfeed
+
+#question[Indication of oxygen therapy, according to IMCI]
++ Unable to drink
++ Cyanosis
++ Head nodding
++ Restlessness
++ Lethargy or unconsciousness
++ Convulsion
++ Resp rae >70 BPM
+
+[Tips to avoid confusion: if scenario question asks: how will you classify this child and how will you treat
+this child - give the IMCI treatment. IF question asks: what is you diagnosis. How will you investigate and
+treat this child? Then give the treatment given in the following question. ]
+
+= Pneumonia
+#question[Management of Pneumonia]
+*Symptoms*
+  - Fever
+  - Respiratory distress
+  - Fast breathing
+  - Cough
+  - Chest pain (if associated pleuritis)
+  - Unable to feed/drink (severe case)
+*Sign*
++ *General examination*
+  - Appearance: toxic
+  - Tachycardia
+  - Tachypnea (fast breathing)
+  - Temp: raised
+  - Cyanosis: may be present
+  - Flaring of ala nasi
+  - Grunting (severe case)
+  - Head nodding (severe case)
++ *Chest examination*
+  - Chest indrawing
+  #figure(table(
+    columns: (auto,auto,auto),
+    [Lobar Pneumonia/consolidation],[Bronchopneumonia],
+    [Chest movement],[Restricted],["],
+    [Trachea and apex beat],[Normal]
+  ),caption: [Chest Examination of Pneumonia])
 #objective[describe aetiology, clinical presentation, complication& management of bronchiolitis]
 #objective[state the common causes of respiratory distress]
 #objective[differentiate asthma, pneumonia and bronchiolitis]

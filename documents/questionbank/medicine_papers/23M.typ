@@ -21,7 +21,7 @@
 ]
 #v(1.2em)
 
-== *GROUP – A*
+#align(center)[== *GROUP – A*]
 
 #v(0.5em)
 

@@ -25,12 +25,12 @@
 
 #grid(columns: 3, gutter: 1em,
   align(left)[*Q.No.1*],align(left)[  
-  #box(width: 1fr)[a) Write down the clinical importance of taking family history of a patient. Give five appropriate examples to support your statement.]],  
+  #box(width: 1fr)[Write down the clinical importance of taking family history of a patient. Give five appropriate examples to support your statement.]],  
   [5])
 
 #grid(columns: 3, gutter: 1em,
   align(left)[*Q.No.2*],align(left)[  
-  #box(width: 1fr)[a) What information would you gather from examination of lymph nodes of a patient?]],  
+  #box(width: 1fr)[What information would you gather from examination of lymph nodes of a patient?]],  
   [5])
 
 #grid(columns: 3, gutter: 1em,
