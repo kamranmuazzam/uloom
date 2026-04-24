@@ -1,3 +1,4 @@
+#set page(paper: "us-legal")
 #include "20N/question.typ"
 #pagebreak(weak: true)
 #include "21M/question.typ"

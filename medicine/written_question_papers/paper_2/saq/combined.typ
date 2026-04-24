@@ -1,3 +1,4 @@
+#set page(paper: "us-legal")
 #include "20N.typ"
 #pagebreak()
 #include "21M.typ"
