@@ -89,7 +89,7 @@ doc
   let sbas = sba_dictionary.pairs()
 
   table(
-    columns: (1fr, 1fr),
+    columns: (3in, 1fr),
     // gutter: 0pt,
     // inset: 0pt,
 
