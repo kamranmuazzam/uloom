@@ -15,9 +15,9 @@ doc
     inset: 2pt,
     ..question_dictionary.pairs().map(((key, value)) => (
       [#key.],
-      table.cell(colspan:2)[#[
+      table.cell(colspan:2)[#box(fill:black, outset:2pt, width:100%)[
         #set par(leading: 0.3em)
-        #set text(size:8pt, fill:red)
+        #set text(size:8pt, fill:white)
         #value.question_text]],
 
       ..value.options.enumerate().map(((i, option)) => (
