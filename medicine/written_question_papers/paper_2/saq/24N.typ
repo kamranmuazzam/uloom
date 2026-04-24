@@ -101,7 +101,10 @@
 )
 
 #pagebreak()
-#align(center)[== *Paediatrics – GROUP – B1*]
+#align(center)[== *Group – B (Paediatrics)*]
+#align(center)[_Answer any five (05) questions from each group._]
+
+#align(center)[== *GROUP – B1*]
 
 #grid(columns: 3, gutter: 1em,
   align(left)[*Q1*],
@@ -110,7 +113,7 @@
   #linebreak()
   b) Outline the general principles of management of poisoning.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -122,7 +125,7 @@
   #linebreak()
   b) Outline the treatment plan.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -134,7 +137,7 @@
   #linebreak()
   b) Mention 3 important investigations with expected findings to reach the diagnosis.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -142,7 +145,7 @@
   align(left)[#box(width: 1fr)[
   Mention 7 important warning signs of dengue fever.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -154,7 +157,7 @@
   #linebreak()
   b) Name four immediate complications that may arise in this child.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -166,7 +169,7 @@
   #linebreak()
   b) Outline the treatment plan.
   ]],
-  [5]
+  [3.5]
 )
 
 #align(center)[== *GROUP – B2*]
@@ -178,7 +181,7 @@
   #linebreak()
   b) Write down the importance of early childhood development.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -190,7 +193,7 @@
   #linebreak()
   b) Mention 3 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -202,7 +205,7 @@
   #linebreak()
   b) Outline the treatment plan.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -212,7 +215,7 @@
   #linebreak()
   b) How will you treat a twelve-month-old child weighing 10 kg having acute watery diarrhoea with some dehydration?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -224,7 +227,7 @@
   #linebreak()
   b) How will you treat this child?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -234,5 +237,5 @@
   #linebreak()
   b) Mention the components of IYCF.
   ]],
-  [5]
+  [3.5]
 )

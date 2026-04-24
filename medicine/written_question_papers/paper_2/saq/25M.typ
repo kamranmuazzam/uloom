@@ -109,6 +109,11 @@
   [5]
 )
 
+
+#pagebreak()
+#align(center)[== *Group – B (Paediatrics)*]
+#align(center)[_Answer any five (05) questions from each group._]
+
 #align(center)[== *GROUP – B1*]
 
 #grid(columns: 3, gutter: 1em,
@@ -118,7 +123,7 @@
   #linebreak()
   b) Mention five important advantages of breast feeding.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -130,7 +135,7 @@
   #linebreak()
   b) Mention the expected findings on X-ray chest and outline the treatment.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -140,7 +145,7 @@
   #linebreak()
   b) Mention 2 important causes and 3 important complications of obesity.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -152,7 +157,7 @@
   #linebreak()
   b) Mention 3 important complications and 2 important investigations with findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -164,7 +169,7 @@
   #linebreak()
   b) Mention 5 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -174,7 +179,7 @@
   #linebreak()
   b) How will you prevent subsequent attack (secondary prevention) of a case of acute rheumatic fever?
   ]],
-  [5]
+  [3.5]
 )
 
 #align(center)[== *GROUP – B2*]
@@ -186,7 +191,7 @@
   #linebreak()
   b) How will you treat a 3-year-old child with ear pain and purulent discharge according to IMCI?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -198,7 +203,7 @@
   #linebreak()
   b) How will you treat the child?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -210,7 +215,7 @@
   #linebreak()
   b) How will you treat the child?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -222,7 +227,7 @@
   #linebreak()
   b) How will you control the convulsion of the neonate?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -234,7 +239,7 @@
   #linebreak()
   b) Mention 5 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -246,5 +251,5 @@
   #linebreak()
   b) How will you treat the child?
   ]],
-  [5]
+  [3.5]
 )

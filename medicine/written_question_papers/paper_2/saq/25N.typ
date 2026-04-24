@@ -103,6 +103,11 @@
   [5]
 )
 
+
+#pagebreak()
+#align(center)[== *Group – B (Paediatrics)*]
+#align(center)[_Answer any five (05) questions from each group._]
+
 #align(center)[== *GROUP – B1*]
 
 #grid(columns: 3, gutter: 1em,
@@ -112,7 +117,7 @@
   #linebreak()
   b) Make a diet plan of an 11-month-old child according to IYCF.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -124,7 +129,7 @@
   #linebreak()
   b) List two important investigations with interpretation.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -136,7 +141,7 @@
   #linebreak()
   b) Mention 5 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -146,7 +151,7 @@
   #linebreak()
   b) Mention the gradual gross motor development at the age of 3 months, 6 months, 12 months and 18 months of a normal child.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -158,7 +163,7 @@
   #linebreak()
   b) Outline the immediate management of this condition (Mention 5).
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -170,7 +175,7 @@
   #linebreak()
   b) Write down 3 complications if not treated appropriately.
   ]],
-  [5]
+  [3.5]
 )
 
 #align(center)[== *GROUP – B2*]
@@ -180,7 +185,7 @@
   align(left)[#box(width: 1fr)[
   What are the diseases prevented by current EPI vaccine schedule for children in Bangladesh?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -192,7 +197,7 @@
   #linebreak()
   b) Write down 3 important management plan.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -204,7 +209,7 @@
   #linebreak()
   b) List 3 important points for counseling the parents.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -216,7 +221,7 @@
   #linebreak()
   b) Outline the treatment plan.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -228,7 +233,7 @@
   #linebreak()
   b) Write down the steps of management.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -240,5 +245,5 @@
   #linebreak()
   b) How will you monitor this child? (Mention 5 points)
   ]],
-  [5]
+  [3.5]
 )

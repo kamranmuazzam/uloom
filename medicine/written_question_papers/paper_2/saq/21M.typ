@@ -96,7 +96,7 @@
   ]],
   [5]
 )
-
+#pagebreak()
 #align(center)[== *Group – B (Paediatrics)*]
 #align(center)[_Answer any five (05) questions from each group._]
 
@@ -109,7 +109,7 @@
   #linebreak()
   b) How will you treat a child with cough and fast breathing for two days?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -121,7 +121,7 @@
   #linebreak()
   b) Write down four expected CSF findings in this case.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -133,7 +133,7 @@
   #linebreak()
   b) Write down your investigation plan with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -145,7 +145,7 @@
   #linebreak()
   b) How will you treat diarrhoea in this child?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -157,7 +157,7 @@
   #linebreak()
   b) Write down your investigation plan with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -167,7 +167,7 @@
   #linebreak()
   b) Write down the treatment of night blindness in a 3-year-old boy.
   ]],
-  [5]
+  [3.5]
 )
 
 #align(center)[== *Group – B2*]
@@ -181,7 +181,7 @@
   #linebreak()
   b) Write down the investigations with expected findings to confirm the diagnosis.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -191,7 +191,7 @@
   #linebreak()
   b) Mention the developmental milestones of a 9-month-old child.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -201,7 +201,7 @@
   #linebreak()
   b) How will you investigate a neonate developing jaundice on 1st day of life?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -213,7 +213,7 @@
   #linebreak()
   b) Write 2 important hematological investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -223,7 +223,7 @@
   #linebreak()
   b) How will you investigate a 2-year-old boy suffering from most common acyanotic congenital heart disease with expected findings?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -233,5 +233,5 @@
   #linebreak()
   b) Outline the principles of management of poisoning.
   ]],
-  [5]
+  [3.5]
 )

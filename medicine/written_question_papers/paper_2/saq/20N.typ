@@ -12,6 +12,7 @@
 ]
 
 #align(center)[== *Group – A*]
+#align(center)[_Answer any seven (07) questions from this group._]
 
 #grid(columns: 3, gutter: 1em,
   align(left)[*Q1*],
@@ -97,7 +98,9 @@
   [5]
 )
 
-#align(center)[== *Subject: Medicine Paper – II (Paediatrics)*]
+#pagebreak()
+#align(center)[== *Group – B (Paediatrics)*]
+#align(center)[_Answer any five (05) questions from each group._]
 
 #align(center)[== *Group – B1*]
 
@@ -108,7 +111,7 @@
   #linebreak()
   b) Mention general danger signs in a 2-year-old boy according to IMCI.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -120,7 +123,7 @@
   #linebreak()
   b) Write down investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -132,7 +135,7 @@
   #linebreak()
   b) How will you differentiate the two differential diagnoses? (Mention 5)
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -142,7 +145,7 @@
   #linebreak()
   b) What preventive measures will you take to prevent vitamin A deficiency?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -154,7 +157,7 @@
   #linebreak()
   b) Write down common complications related to this condition.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -166,7 +169,7 @@
   #linebreak()
   b) Mention four other clinical manifestations.
   ]],
-  [5]
+  [3.5]
 )
 
 #align(center)[== *Group – B2*]
@@ -178,7 +181,7 @@
   #linebreak()
   b) Write down four preventive measures for COVID-19 infection in children.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -190,7 +193,7 @@
   #linebreak()
   b) Write down 3 investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -200,7 +203,7 @@
   #linebreak()
   b) Write down principles of management of accidental poisoning in children.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -210,7 +213,7 @@
   #linebreak()
   b) Write down recent EPI schedule in Bangladesh.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -220,7 +223,7 @@
   #linebreak()
   b) Write down 4 components of Tetralogy of Fallot.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -232,5 +235,5 @@
   #linebreak()
   b) Write down the plan of management.
   ]],
-  [5]
+  [3.5]
 )

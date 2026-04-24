@@ -98,6 +98,7 @@
   [5]
 )
 
+#pagebreak()
 #align(center)[== *Group – B (Paediatrics)*]
 #align(center)[_Answer any five (05) questions from each group._]
 
@@ -112,7 +113,7 @@
   #linebreak()
   b) Mention 4 important investigations to reach the diagnosis.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -124,7 +125,7 @@
   #linebreak()
   b) How will you treat the baby?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -134,7 +135,7 @@
   #linebreak()
   b) How will you give complementary food in an 8-month-old child?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -146,7 +147,7 @@
   #linebreak()
   b) Mention 3 laboratory investigations with expected findings to confirm the diagnosis.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -158,7 +159,7 @@
   #linebreak()
   b) How will you treat the child?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -168,7 +169,7 @@
   #linebreak()
   b) Write down the milestones of development of a 12-month-old child.
   ]],
-  [5]
+  [3.5]
 )
 
 #align(center)[== *Group – B2*]
@@ -180,7 +181,7 @@
   #linebreak()
   b) Name the vitamins and minerals used to treat a case of SAM.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -192,7 +193,7 @@
   #linebreak()
   b) Write down 2 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -204,7 +205,7 @@
   #linebreak()
   b) How will you give acute management?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -214,7 +215,7 @@
   #linebreak()
   b) Write down 4 complications of measles.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -222,7 +223,7 @@
   align(left)[#box(width: 1fr)[
   Write down the current EPI schedule in Bangladesh.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -232,5 +233,5 @@
   #linebreak()
   b) Mention indications and contraindications of stomach wash (2 for each) in childhood acute poisoning.
   ]],
-  [5]
+  [3.5]
 )

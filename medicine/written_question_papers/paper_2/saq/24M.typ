@@ -104,8 +104,8 @@
   [5]
 )
 
-#align(center)[== *Subject: Medicine Paper – II (Paediatrics)*]
-#align(center)[*Short Answer Questions (SAQ)*]
+#pagebreak()
+#align(center)[== *Group – B (Paediatrics)*]
 #align(center)[_Answer any five (05) questions from each group._]
 
 #align(center)[== *Group – B1*]
@@ -119,7 +119,7 @@
   #linebreak()
   b) Mention three important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -131,7 +131,7 @@
   #linebreak()
   b) Mention 04 immediate treatment for this boy.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -141,7 +141,7 @@
   #linebreak()
   b) Mention 05 factors those influence growth and development.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -153,7 +153,7 @@
   #linebreak()
   b) Name 02 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -165,7 +165,7 @@
   #linebreak()
   b) Outline the 04 main steps to establish respiration.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -173,7 +173,7 @@
   align(left)[#box(width: 1fr)[
   Write down 05 differentiating points between acute bronchiolitis and bronchopneumonia.
   ]],
-  [5]
+  [3.5]
 )
 
 #align(center)[== *Group – B2*]
@@ -187,7 +187,7 @@
   #linebreak()
   b) Mention 04 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -199,7 +199,7 @@
   #linebreak()
   b) Mention 02 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -209,7 +209,7 @@
   #linebreak()
   b) Name 04 micronutrients those are given in the treatment of severe acute malnutrition.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -221,7 +221,7 @@
   #linebreak()
   b) Mention 02 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -233,7 +233,7 @@
   #linebreak()
   b) Mention 02 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -245,5 +245,5 @@
   #linebreak()
   b) Write 03 investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )

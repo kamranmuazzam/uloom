@@ -94,8 +94,8 @@
   [5]
 )
 
-#align(center)[== *Subject: Medicine Paper – II (Paediatrics)*]
-#align(center)[*Short Answer Questions (SAQ)*]
+#pagebreak()
+#align(center)[== *Group – B (Paediatrics)*]
 #align(center)[_Answer any five (05) questions from each group._]
 
 #align(center)[== *GROUP – B1*]
@@ -107,7 +107,7 @@
   #linebreak()
   b) How will you give complementary feeding to an 8-month-old child?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -119,7 +119,7 @@
   #linebreak()
   b) Mention 3 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -131,7 +131,7 @@
   #linebreak()
   b) Outline the treatment of this case.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -143,7 +143,7 @@
   #linebreak()
   b) How will you rehydrate this girl?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -153,7 +153,7 @@
   #linebreak()
   b) Mention 4 important complications of measles.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -163,7 +163,7 @@
   #linebreak()
   b) How will you prevent night blindness in under 5 children?
   ]],
-  [5]
+  [3.5]
 )
 
 #align(center)[== *GROUP – B2*]
@@ -175,7 +175,7 @@
   #linebreak()
   b) Mention the factors that influence growth and development.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -187,7 +187,7 @@
   #linebreak()
   b) How will you treat this child?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -197,7 +197,7 @@
   #linebreak()
   b) Name 4 important problems of preterm low birth weight newborn.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -209,7 +209,7 @@
   #linebreak()
   b) Write down 3 investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -221,7 +221,7 @@
   #linebreak()
   b) Mention 2 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -231,5 +231,5 @@
   #linebreak()
   b) Outline the principles of management of poisoning.
   ]],
-  [5]
+  [3.5]
 )

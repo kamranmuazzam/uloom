@@ -120,8 +120,8 @@
   [5]
 )
 
-#align(center)[== *Subject: Medicine Paper – II (Paediatrics)*]
-#align(center)[*Short Answer Questions (SAQ)*]
+#pagebreak()
+#align(center)[== *Group – B (Paediatrics)*]
 #align(center)[_Answer any five (05) questions from each group._]
 
 #align(center)[== *GROUP – B1*]
@@ -135,7 +135,7 @@
   #linebreak()
   b) Mention 4 important physical findings from chest examination in favour of your diagnosis.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -147,7 +147,7 @@
   #linebreak()
   b) Outline the treatment plan (Mention 4).
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -159,7 +159,7 @@
   #linebreak()
   b) Mention three important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -171,7 +171,7 @@
   #linebreak()
   b) Mention three important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -183,7 +183,7 @@
   #linebreak()
   b) Mention two important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -191,7 +191,7 @@
   align(left)[#box(width: 1fr)[
   Write down latest EPI vaccine schedule for children in Bangladesh.
   ]],
-  [5]
+  [3.5]
 )
 
 #align(center)[== *GROUP – B2*]
@@ -205,7 +205,7 @@
   #linebreak()
   b) Name four immediate complications that may arise in this child.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -217,7 +217,7 @@
   #linebreak()
   b) Mention four important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -227,7 +227,7 @@
   #linebreak()
   b) Mention 5 differentiating points between acute rheumatic fever and juvenile idiopathic arthritis (JIA).
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -237,7 +237,7 @@
   #linebreak()
   b) Mention the gradual gross motor development at the age of 3 months, 6 months, 12 months and 18 months of a normal child.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -249,7 +249,7 @@
   #linebreak()
   b) Mention 4 investigation plan for this case.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -261,5 +261,5 @@
   #linebreak()
   b) Outline the immediate management of this condition (Mention 5).
   ]],
-  [5]
+  [3.5]
 )

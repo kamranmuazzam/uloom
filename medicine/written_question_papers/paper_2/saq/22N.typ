@@ -98,8 +98,8 @@
   [5]
 )
 
-#align(center)[== *Subject: Medicine Paper – II (Paediatrics)*]
-#align(center)[*Short Answer Questions (SAQ)*]
+#pagebreak()
+#align(center)[== *Group – B (Paediatrics)*]
 #align(center)[_Answer any five (05) questions from each group._]
 
 #align(center)[== *GROUP – B1*]
@@ -111,7 +111,7 @@
   #linebreak()
   b) Write down the milestones of development of a 6-month-old boy.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -123,7 +123,7 @@
   #linebreak()
   b) Write down the 3 important investigations with expected findings to reach the diagnosis.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -135,7 +135,7 @@
   #linebreak()
   b) Treat the child according to IMCI.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -147,7 +147,7 @@
   #linebreak()
   b) How will you rehydrate this boy?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -159,7 +159,7 @@
   #linebreak()
   b) What immediate measures will you take during active convulsion?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -171,7 +171,7 @@
   #linebreak()
   b) Mention 2 important investigations with expected findings.
   ]],
-  [5]
+  [3.5]
 )
 
 #align(center)[== *GROUP – B2*]
@@ -185,7 +185,7 @@
   #linebreak()
   b) Write down the specific treatment for the boy.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -197,7 +197,7 @@
   #linebreak()
   b) How will you manage this newborn?
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -207,7 +207,7 @@
   #linebreak()
   b) Write a complementary feeding schedule for a 7-month-old child according to IYCF.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -219,7 +219,7 @@
   #linebreak()
   b) Write two important investigations to reach the diagnosis.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -229,7 +229,7 @@
   #linebreak()
   b) Name two other diseases which can be prevented by vaccine.
   ]],
-  [5]
+  [3.5]
 )
 
 #grid(columns: 3, gutter: 1em,
@@ -239,5 +239,5 @@
   #linebreak()
   b) How will you treat a case of kerosene poisoning?
   ]],
-  [5]
+  [3.5]
 )
