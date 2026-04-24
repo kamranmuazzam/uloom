@@ -2,9 +2,11 @@
 #show: format
 #import "dictionary.typ": *
 
-#let exam_name = [Final Professional MBBS Examination May 2025]
+#let exam_name = [Final Professional MBBS Examination May 2021]
 
-#exam_header(exam_name)
+#let paper = [II]
+
+#exam_header(exam_name,paper)
 
 #render_grid(
   mcq_dictionary,

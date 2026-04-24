@@ -1,4 +1,3 @@
-
 #let mcq_dictionary = (
   "Q1": (
     question_text: "Features of superior venacaval obstruction are-",
