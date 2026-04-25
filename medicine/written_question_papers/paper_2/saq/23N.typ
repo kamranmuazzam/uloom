@@ -11,7 +11,7 @@
 ]
 
 #align(center)[== *GROUP – A*]
-
+#align(center)[_Answer any seven (07) questions from this group._]
 #grid(columns: 3, gutter: 1em,
   align(left)[*Q1*],
   align(left)[#box(width: 1fr)[
@@ -96,7 +96,7 @@
 
 #pagebreak()
 #align(center)[== *Group – B (Paediatrics)*]
-#align(center)[_Answer any five (05) questions from each group._]
+#align(center)[_Answer any five (05) questions from each group B1 and B2._]
 
 #align(center)[== *GROUP – B1*]
 

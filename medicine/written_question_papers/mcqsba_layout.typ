@@ -15,7 +15,7 @@ doc
     inset: 2pt,
     ..question_dictionary.pairs().map(((key, value)) => (
       [#key.],
-      table.cell(colspan:2)[#box(fill:black, outset:2pt, width:100%)[
+      table.cell(colspan:2)[#box(fill:orange, outset:2pt, width:100%)[
         #set par(leading: 0.3em)
         #set text(size:8pt, fill:white)
         #value.question_text]],
@@ -57,7 +57,7 @@ doc
     [#key.],
 
     table.cell(colspan: 2)[
-      #box(fill: black, inset: 2pt, width: 100%)[
+      #box(fill: orange, inset: 2pt, width: 100%)[
         #set text(size: question_text_size, fill: white)
         #set par(leading: 0.3em)
 
@@ -66,7 +66,7 @@ doc
 
           // Invisible ghost text (affects height)
           box()[
-            #set text(fill:black)
+            #set text(fill:orange)
             #ghost_value.question_text
           ],
 
@@ -99,35 +99,37 @@ doc
 
       (
         // ================= HEADER ROW =================
-        table.cell(inset: 0pt)[
+        table.cell(inset: 0pt, fill:orange)[
           #table(
             columns: (1cm, auto, 1fr),
             // gutter: 0pt,
             inset: 1pt,
+            stroke: none,
 
             [#mcq_key.],
             table.cell(colspan: 2)[
-              #box(fill: black, inset: 2pt, width: 100%)[
+              #box(fill: orange, inset: 2pt, width: 100%)[
                 #set text(size: question_text_size, fill: white)
                 #set par(leading: 0.3em, spacing: 0pt)
-                #mcq_val.question_text
+                *#mcq_val.question_text*
               ]
             ],
           )
         ],
 
-        table.cell(inset: 0pt)[
+        table.cell(inset: 0pt,fill:orange)[
           #table(
             columns: (1cm, auto, 1fr),
             gutter: 0pt,
             inset: 1pt,
+            stroke:none,
 
             [#sba_key.],
             table.cell(colspan: 2)[
-              #box(fill: black, inset: 2pt, width: 100%)[
+              #box(fill: orange, inset: 2pt, width: 100%)[
                 #set text(size: question_text_size, fill: white)
                 #set par(leading: 0.3em, spacing: 0pt)
-                #sba_val.question_text
+                *#sba_val.question_text*
               ]
             ],
           )
