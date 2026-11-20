@@ -1,0 +1,8 @@
+#include "written_question_papers/paper_1/mcq/24M/question.typ"
+#include "written_question_papers/paper_1/saq/24M.typ"
+#include "written_question_papers/paper_1/mcq/24N/question.typ"
+#include "written_question_papers/paper_1/saq/24N.typ"
+#include "written_question_papers/paper_2/mcq/24M/question.typ"
+#include "written_question_papers/paper_2/saq/24M.typ"
+#include "written_question_papers/paper_2/mcq/24N/question.typ"
+#include "written_question_papers/paper_2/saq/24N.typ"

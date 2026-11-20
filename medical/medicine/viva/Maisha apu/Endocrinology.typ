@@ -41,6 +41,7 @@
 )
 
 #show heading.where(level: 1): it => [
+  // #pagebreak(weak: true)
   #set text(fill:white, weight: "bold", size: 24pt)
   #set block(fill:rgb("#DA954B"), inset: 3pt)
   #block(it)
@@ -61,381 +62,130 @@
   #block(it)
 ]
 
-
-= Diabetes Mellitus
-
+= Diabetes Mellitus (DM)
 == Classification
-- Type I and Type II Diabetes Mellitus  
-  - Previously called Insulin-Dependent and Non-Insulin-Dependent  
-  - Type II may also require insulin → old nomenclature not used now  
+- Type 1 DM 
+- Type 2 DM 
+_Note: Terms like "Insulin Dependent" and "Insulin Independent" are no longer used because Type 2 patients may also eventually require insulin._
 
-== Type 1 DM
+== Other Causes of Hyperglycemia
++ *Pancreatic Causes:* Acute Pancreatitis, Chronic Pancreatitis
++ *Endocrine Causes:*
+  - Acromegaly (_Excess Growth Hormone and IGF-1_)
+  - Thyrotoxicosis (_Stimulates gluconeogenesis and glycogenolysis_)
+  - Cushing's Syndrome
+  - Glucagonoma
+  - Pheochromocytoma
++ *Drug-Induced:* Corticosteroids (Most common)
 
-=== Important Mechanisms
-- Autoimmune destruction of β-cells  
-- Antibodies:
-  - Anti-GAD  
-  - Anti-IA2  
-  - Anti-insulin antibodies  
-- Strong HLA association (HLA-DR3, DR4)  
+== Incretins & Metabolic Syndrome
+*Incretins:*
+- Types: GLP-1 (Glucagon-like peptide-1) & GIP (Gastric inhibitory polypeptide)
+- Action: Glucose-dependent insulin release (does not cause hypoglycemia).
+- Related Drugs: DPP-4 Inhibitors (Gliptins) prevent the breakdown of incretins.
 
-== Hyperglycemia in a Patient Without Type I or II DM
-- Pancreatic
-  - Acute pancreatitis  
-  - Chronic pancreatitis  
-- Acromegaly (Excess GH and IGF-1)  
-- Thyrotoxicosis (↑ gluconeogenesis and glycogenolysis)  
-- Cushing syndrome  
-- Glucagonoma  
-- Pheochromocytoma  
+*Metabolic Syndrome (Common in Type 2 DM / Bangladesh):*
+Contains 5 components:
++ Hypertension
++ Dyslipidemia
++ Central Obesity
++ Non-Alcoholic Fatty Liver Disease (NAFLD)
++ PCOS (in females)
 
-Patient on drug with hyperglycemia → *Steroids*  
+== Diabetic Retinopathy vs Hypertensive Eye Signs
+*Diabetic Retinopathy:*
+- Non-Proliferative (NPDR): Microaneurysms (Earliest sign), Dot and blot hemorrhages, Cotton wool spots, Hard exudates.
+- Proliferative (PDR): Neovascularization.
 
-== Incretins
-Two usual types:
-+ Glucagon-like peptide-1 (GLP-1)  
-+ GIP (Glucose-dependent insulinotropic polypeptide)#footnote[Old name: Gastric inhibitory polypeptide]
+*Hypertensive Eye Signs:*
+- Arterio-venous (AV) nipping.
+- Flame-shaped hemorrhages.
 
-- Oral glucose → ↑ incretins → ↑ insulin (glucose-dependent)  
-- Rarely cause hypoglycemia  
+== Management of Diabetes
+Managed via the "3 Ds": Diet, Discipline, Drugs.
 
-Drug based on this mechanism: *DPP-4 inhibitors*  
-- Sitagliptin  
-- Saxagliptin  
+=== Pharmacological Management (Oral Drugs)
++ *Metformin (Biguanide):* Increases insulin sensitivity. 
+  - _Side Effect:_ Lactic acidosis. (Monitor serum creatinine).
++ *Sulfonylureas:* Blocks ATP-dependent K+ channels to increase insulin release.
+  - _Side Effect:_ Hypoglycemia (most common).
++ *Thiazolidinediones (TZDs):* Acts on PPAR-gamma to increase sensitivity. 
+  - _Side Effect:_ Fluid retention (contraindicated in heart failure).
++ *DPP-4 Inhibitors (Gliptins):* Generally safe, rarely causes pancreatitis.
++ *SGLT2 Inhibitors (Flozins):* Inhibits Na-glucose co-transporter in PCT, increasing glucose excretion.
+  - _Side Effect:_ Genitourinary infections (UTIs, fungal infections).
 
-== Epidemiology
-- In Bangladesh: Type II DM more common  
-- Metabolic syndrome also common (core mechanism: insulin resistance)  
+=== Insulin Therapy
+- Regimen: Basal-bolus is most commonly used.
+- Types: Long-acting (Basal) and Short/Rapid-acting (Bolus).
+- _Number 1 Complication:_ Hypoglycemia.
 
-== Metabolic Syndrome
+== Acute Complications of DM
+=== Diabetic Ketoacidosis (DKA)
+*Triad:* Hyperglycemia, Hyperketonemia, High Anion Gap Metabolic Acidosis.
+*Clinical Features:* Air hunger (Kussmaul breathing), Acetone smell in breath, Abdominal pain.
+*Precipitating Factors:* Infections (UTI, Pneumonia), Missed insulin doses, Myocardial Infarction, Surgery.
 
-=== Components
-+ Hypertension  
-+ Dyslipidemia (↑ TG, ↓ HDL)  
-+ Central obesity  
-+ High fasting glucose  
+*Management of DKA (4 Steps):*
++ *Fluid Replacement:* 0.9% Normal Saline (approx. 6 Liters in 24 hours).
++ *Insulin Therapy:* Short-acting IV insulin (bolus followed by infusion).
++ *Potassium Correction:* Monitor closely. If K+ is < 3.5 mmol/L, correct potassium _before_ giving insulin to prevent fatal arrhythmias.
++ *Glucose Supplementation:* Add Dextrose when blood glucose falls to avoid hypoglycemia.
 
-=== Associated Conditions
-+ Type II DM  
-+ MASLD#footnote[Metabolic dysfunction-associated steatotic liver disease, formerly NAFLD]  
-+ PCOS (females)  
+=== Hyperosmolar Hyperglycemic State (HHS)
+- Mostly seen in Type 2 DM.
+- *Differences from DKA:* No hyperketonemia, Normal Anion Gap. 
+- *Treatment:* Requires longer fluid correction (up to 3 days) and half the dose of insulin compared to DKA.
 
-=== Diagnostic Criteria (Any 3 of 5)
-- Increased waist circumference (ethnicity-specific)  
-- TG ≥150 mg/dL  
-- Low HDL  
-- BP ≥130/85 mmHg  
-- Fasting glucose ≥100 mg/dL  
+=== Hypoglycemia
+*Causes:* Excess insulin/drugs, missed/delayed meals, unusual severe exercise.
+*Treatment:*
+- Mild (Conscious): Oral fast-acting carbohydrates (sugar/glucose).
+- Severe (Unconscious): IV 20% or 50% Dextrose (75ml or 50ml), or IM Glucagon.
 
-== Investigation of DM
+= Thyroid Disorders
+== Hyperthyroidism (Thyrotoxicosis)
+*Causes:* Graves' Disease (most common), Multinodular Goiter, De Quervain's Thyroiditis (Painful/Viral).
 
-=== Diagnosis (Any One)
-- Fasting plasma glucose ≥7.0 mmol/L (126 mg/dL)  
-- Random plasma glucose ≥11.1 mmol/L + symptoms  
-- 2-hour OGTT ≥11.1 mmol/L (200 mg/dL)  
-- HbA1c ≥6.5%  
-  - Not valid in anemia, CKD, hemoglobinopathies  
+*Eye Signs (Particularly in Graves' Disease):*
++ Exophthalmos (_Most common; caused by GAG accumulation pushing the orbit forward_)
++ Lid retraction & Lid lag (_Due to sympathetic stimulation of levator palpebrae superioris_)
++ Chemosis
++ Corneal ulceration
++ Ophthalmoplegia
 
-=== Prediabetes
-- Fasting: 5.6-6.9 mmol/L (100-125 mg/dL)  
-- HbA1c: 5.7-6.4%  
-- 2-hr OGTT: 7.8-11.0 mmol/L  
+*Complications & Emergencies:*
+- _Cardiac:_ Atrial Fibrillation.
+- _Thyrotoxic Storm:_ Triggered by infection or surgery. Treatment uses the "4 Ps": Propranolol, Propylthiouracil, Prednisolone, Potassium iodide.
 
-=== Additional Tests
-- Urine sugar  
-  - Renal threshold ≈10 mmol/L (≈180 mg/dL)  
-
-=== Evaluation of Complications
-- DKA → Serum electrolytes (hypokalemia)  
-- Nephropathy
-  - Urine albumin (microalbumin)  
-  - Serum creatinine  
-  - Serum urea  
-- Cardiac → ECG  
-
-== Complications
-
-=== Acute
-- Hyperglycemia
-  - DKA  
-  - HHS  
-- Hypoglycemia  
-
-=== Chronic
-
-==== Microvascular
-- Retinopathy  
-- Nephropathy  
-- Neuropathy  
-
-==== Macrovascular
-- CAD → MI  
-- Cerebrovascular disease → Stroke  
-- Peripheral arterial disease → Gangrene  
-
-== Diabetic Retinopathy
-
-- Earliest sign: Microaneurysm  
-- Most common cause of vision loss: Macular edema  
-
-=== Stages
-
-#table(
-  columns: 2,
-  [*Stage*], [*Key Feature*],
-  [Non-proliferative], [Microaneurysm, dot-blot hemorrhage],
-  [Pre-proliferative], [Venous beading],
-  [Proliferative], [Neovascularization]
-)
-
-=== HTN vs DM Fundoscopy
-
-#table(
-  columns: 3,
-  [*Feature*], [*HTN*], [*DM*],
-  [AV nipping], [✓], [],
-  [Flame hemorrhage], [✓], [],
-  [Dot-blot hemorrhage], [], [✓],
-  [Microaneurysm], [], [✓],
-  [Cotton wool spots], [], [✓]
-)
-
-== Management of DM
-
-3D: Diet, Discipline, Drugs  
-
-=== Metformin
-- ↑ Insulin sensitivity  
-- Side effects:
-  - B12 deficiency  
-  - Lactic acidosis  
-- Avoid if eGFR < 30  
-
-=== Sulfonylureas
-- Block ATP-dependent K⁺ channel → ↑ insulin  
-- Hypoglycemia  
-
-=== Thiazolidinediones
-- Pioglitazone, Rosiglitazone  
-- PPAR-γ activation → ↑ insulin sensitivity  
-- Fluid retention → HF  
-- Rosiglitazone: CV concerns  
-
-=== DPP-4 Inhibitors
-- Well tolerated  
-- Nausea, vomiting  
-- Rare pancreatitis  
-
-=== SGLT-2 Inhibitors
-- Empagliflozin, Canagliflozin  
-- Inhibit SGLT-2 in PCT  
-- Genital mycotic infection, UTI  
-- Risk: Euglycemic DKA  
-- ↓ CV mortality  
-- ↓ HF hospitalization  
-
-=== GLP-1 Receptor Agonists
-- Liraglutide, Semaglutide, Dulaglutide, Exenatide  
-- ↑ Glucose-dependent insulin  
-- ↓ Glucagon  
-- Slow gastric emptying  
-- Weight loss  
-- Low hypoglycemia risk  
-- ↓ CV mortality (Liraglutide, Semaglutide)  
-- SE: Nausea, rare pancreatitis  
-- Contraindicated in MEN2  
-- Injectable (except oral semaglutide)  
-
-=== Insulin
-- Basal: Glargine, Detemir  
-- Bolus: Lispro, Aspart  
-- Main complication: Hypoglycemia  
-
-#table(
-  columns: 5,
-  [*Type*], [*Example*], [*Onset*], [*Peak*], [*Duration*],
-  [Rapid], [Lispro/Aspart], [10-15 min], [1-2 hr], [3-5 hr],
-  [Short], [Regular], [30-60 min], [2-4 hr], [6-8 hr],
-  [Intermediate], [NPH], [2-4 hr], [4-12 hr], [12-18 hr],
-  [Long], [Glargine/Detemir], [1-2 hr], [No peak], [~24 hr]
-)
-
-== Diabetic Ketoacidosis (DKA)
-
-=== Triad
-- Hyperglycemia  
-- Hyperketonemia  
-- High anion gap metabolic acidosis  
-
-=== Signs
-- Kussmaul breathing  
-- Acetone breath  
-
-=== Labs
-- Glucose >11.1 mmol/L (usually 250-600 mg/dL)  
-- pH < 7.30  
-- HCO₃⁻ < 18 mmol/L  
-- ↑ Anion gap = Na⁺ - (Cl⁻ + HCO₃⁻)  
-- ↑ β-hydroxybutyrate  
-- Total body K⁺ low  
-- Corrected Na⁺ = Measured + 1.6 per 100 mg/dL glucose >100  
-
-=== Management
-- Fluids: NS 1 L first hour  
-- Insulin infusion 0.1 unit/kg/hr  
-- Potassium correction (based on level)  
-- Add dextrose when glucose 200-250 mg/dL  
-- Monitor vitals, glucose, electrolytes  
-
-Complication: Cerebral edema (children)  
-
-== HHS
-- Glucose >33 mmol/L (>600 mg/dL)  
-- Osmolality >320 mOsm/kg  
-- Minimal ketones  
-- No acidosis  
-- Slower treatment  
-
-== Hypoglycemia
-
-=== Causes
-- Excess insulin/OHA  
-- Missed meal  
-- Exercise  
-
-=== Treatment
-- Mild → Oral glucose  
-- Severe unconscious:
-  - IM glucagon (if no IV)  
-  - IV 50% dextrose  
-  - Follow with infusion  
-
-== Thyroid
-
-#table(
-  columns: 4,
-  [*Condition*], [*TSH*], [*Free T3/T4*], [*Cause*],
-  [Primary hyperthyroid], [↓], [↑], [Thyroid overactive],
-  [Primary hypothyroid], [↑], [↓], [Thyroid failure],
-  [Secondary hypothyroid], [↓/N], [↓], [Pituitary failure]
-)
-
-== Hyperthyroidism
-
-=== Causes
-- Graves disease  
-- Multinodular goiter  
-- De Quervain thyroiditis (painful)  
-
-=== Eye Signs (Graves)
-- Exophthalmos  
-- Lid lag/retraction (Müller muscle stimulation)  
-- Chemosis  
-
-Fatal CVS complication → Atrial fibrillation  
-
-=== Treatment
-- Antithyroid drugs (PTU, Methimazole/Carbimazole)  
-- Surgery  
-- Radioiodine  
-
-Pregnancy:
-- 1st trimester → PTU  
-- 2nd/3rd → Methimazole  
-
-=== Thyroid Storm (4P)
-1. Propranolol  
-2. PTU  
-3. Potassium iodide (after PTU)  
-4. Prednisolone  
+*Treatment:*
++ Anti-thyroid Drugs: Propylthiouracil (safe in pregnancy), Carbimazole, Methimazole. (_Side Effect: Agranulocytosis_).
++ Surgery.
++ Radioactive Iodine.
 
 == Hypothyroidism
+*Key Clinical Signs:* Constant fatigue/weakness, Delayed relaxation of ankle jerk (crucial bedside sign).
+*Investigations:* TSH (Raised in primary hypothyroidism - best single test), Free T4 (Low).
+*Complication:* Myxedema Coma.
 
-=== Causes
-- Hashimoto (Anti-TPO)  
-- Iodine deficiency  
-- Post-thyroidectomy  
+= Adrenal Disorders
+== Cushing's Syndrome
+*Causes:*
+- _ACTH Dependent:_ Pituitary Adenoma (Cushing's Disease), Ectopic ACTH (e.g., Small cell lung cancer).
+- _ACTH Independent:_ Adrenal Adenoma, Iatrogenic (Prolonged steroid use - most common).
 
-=== Features
-- Weight gain  
-- Cold intolerance  
-- Constipation  
-- Delayed ankle jerk relaxation  
+*Clinical Features:* Moon face, Buffalo hump, Pendulous abdomen, Reddish-purple striae. 
+_Note: Striae occur because excess steroids inhibit fibroblasts and collagen, reducing skin tensile strength and causing it to tear easily._
 
-=== Myxedema Coma
-- Hypothermia  
-- Bradycardia  
-- Hypoglycemia  
-Treatment:
-- IV hydrocortisone first  
-- IV levothyroxine  
+*Investigations:*
+- Screening: 24-hr urinary free cortisol, late-night salivary cortisol, Low-dose Dexamethasone Suppression Test.
+- Localization: High-dose Dexamethasone Suppression Test (_Suppresses pituitary source, does NOT suppress ectopic source_).
 
-== Cushing Syndrome
+== Addison's Disease (Adrenal Insufficiency)
+*Causes:* Tuberculosis (Most common in Bangladesh), Metastatic carcinoma, Autoimmune.
+*Clinical Features:* Postural hypotension, Hyponatremia, Hyperkalemia, Metabolic acidosis.
 
-=== Causes
-ACTH dependent:
-- Pituitary (Cushing disease)  
-- Ectopic ACTH  
-
-ACTH independent:
-- Steroids (commonest)  
-- Adrenal adenoma  
-
-=== Features
-- Moon face  
-- Buffalo hump  
-- Central obesity  
-- Purple striae  
-- Proximal myopathy  
-
-=== Diagnosis
-- 24-hr urinary cortisol  
-- Low-dose dexamethasone  
-- ACTH level  
-
-#table(
-  columns: 4,
-  [*Condition*], [*Low-Dose Dex*], [*High-Dose Dex*], [*ACTH*],
-  [Pituitary], [No suppression], [Suppression], [Normal/High],
-  [Ectopic], [No suppression], [No suppression], [High],
-  [Adrenal], [No suppression], [No suppression], [Low]
-)
-
-== Addison Disease (Primary Adrenal Insufficiency)
-
-=== Causes
-- TB (common in Bangladesh)  
-- Autoimmune (worldwide commonest)  
-
-=== Features
-- Hypotension  
-- Hyperpigmentation  
-- Hyperkalemia  
-- Hyponatremia  
-- Hypoglycemia  
-
-=== Diagnosis
-- ACTH stimulation test  
-  - Low cortisol  
-  - High ACTH  
-  - No response  
-
-=== Adrenal Crisis
-- Cause: Sudden steroid withdrawal  
-- Treatment:
-  - IV fluids  
-  - Hydrocortisone  
-  - Correct glucose & K⁺  
-
-== Primary Hyperaldosteronism (Conn Syndrome)
-
-=== Features
-- Hypertension  
-- Hypokalemia  
-- Metabolic alkalosis  
-- Low renin  
-
-=== Investigation
-- ↑ Aldosterone:Renin ratio  
-- Saline suppression test  
-- CT adrenal  
+*Adrenal Crisis:*
+- _Most common cause:_ Sudden withdrawal of corticosteroids.
+- _Management:_ Glucocorticoid (Hydrocortisone/Prednisolone) and Mineralocorticoid (Fludrocortisone) replacement. 
+_Rule:_ During stressful events (surgery, severe infection), double the steroid dose.

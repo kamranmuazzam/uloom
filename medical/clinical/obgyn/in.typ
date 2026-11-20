@@ -1,0 +1,26 @@
+#table(
+  columns: (1fr,auto),
+  inset: 10pt,
+  // stroke: 0.5pt,
+
+  [*Topic*], [*Page*],
+
+  [Gynaecological History], [243],
+  [Obstetrical History], [245],
+  [Some Important Definitions in Obstetrics & Gynaecology], [248],
+  [Fibroid Uterus (AUB-L)], [252],
+  [AUB-A (Adenomyosis of the uterus)], [258],
+  [Genital Prolapse], [261],
+  [Missed Abortion], [271],
+  [Ovarian Tumour], [275],
+  [Carcinoma of Cervix], [284],
+  [Normal Puerperium Following NVD/VD], [291],
+  [Normal Puerperium Following C/S], [301],
+  [Hyperemesis Gravidarum], [306],
+  [Anemia in Pregnancy], [311],
+  [Pre-mature Rupture of Membrane (PROM)], [316],
+  [Intra-uterine Death (IUD)], [321],
+  [Complete Abortion], [326],
+  [Pregnancy with UTI], [331],
+  [Pre-eclampsic Toxaemia / Pre-eclampsia], [336],
+)

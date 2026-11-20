@@ -2,13 +2,15 @@
 #[
 #set page(fill: yellow, margin: (left: 2in))
 
+#set par(justify: true)
+
 #line(start: (0%, 5%), end: (8.5in, 5%), stroke: (thickness: 2pt))
 
 #align(horizon + left)[
 
   #text(size: 40pt, [General Principles of Surgery and Trauma])
 
-  Muazzam Kamran
+  Kamran Muazzam
 
 ]
 #align(bottom + left)[#datetime.today().display()]
@@ -31,10 +33,12 @@
 #import "style.typ":*
 #show: style
 #include "style.typ"
-#set page(columns: 2)
 ]
+#set page(columns: 2)
 
 /* some topics have viva remaining */
+
+
 
 #include "sections/shock.typ" /* studied */
 #include "sections/haemorrhage.typ" /* studied */

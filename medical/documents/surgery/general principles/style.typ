@@ -48,7 +48,7 @@ let align_table()=(x,y)=>(
 )
 
 set table(
-  fill: (rgb("#ffdab2"),rgb("#ceddfc")),
+  fill: (rgb("#ffdab2"),rgb("#17a17a")),
   stroke: frame(rgb("000000")),
   align: align_table(),
   inset: (  // this is also identical to your default

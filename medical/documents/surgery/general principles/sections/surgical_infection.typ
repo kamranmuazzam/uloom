@@ -233,6 +233,7 @@ Cold abscess of neck -> Collar stud abscess (2 abscess cavity communicating by n
 - *Pain*: Severe, throbbing, localized.
 - *Systemic signs*: Fever, lymphangitis, regional lymphadenitis.
 - *Common sites*: Lower limb, face (esp. periorbital region).
+#pagebreak()
 === Differences between Cellulitis and Abscess
 #written
 #figure(
