@@ -51,7 +51,7 @@ supplementation]
 
 #corebox[
   - Care of a normal newborn\*\*\*
-  - Perinatal asphyxia**\*
+  - Perinatal asphyxia\*\*\*
   - Neonatal resuscitation\*\*\*
   - Pre-term/ Low birth weight/ SGA\*\*\*
   - Neonatal infection\*\*\*
