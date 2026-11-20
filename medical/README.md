@@ -14,10 +14,7 @@ Foundational pre-clinical and para-clinical sciences:
 - **[community_medicine/](basic_sciences/community_medicine/)**: Epidemiology, biostatistics, public health.
 
 ## 2. [Advanced Sciences](advanced_sciences/)
-Clinical disciplines, clinical cases, and exam question banks:
-- **[clinical/](advanced_sciences/clinical/)**: Bedside examination cases (Medicine, Surgery, ObGyn, Eye).
-- **[medicine/](advanced_sciences/medicine/)**: Final Prof Internal Medicine past papers, MCQs, viva notes, and daily exam reviews.
-- **[documents/](advanced_sciences/documents/)**: Integrated curriculum texts (General Surgery, ObGyn, Medicine, Question Bank).
-- **[syrgnsaq/](advanced_sciences/syrgnsaq/)**: Surgery & ObGyn SAQ papers (2022M–2025N).
-- **[medical_science/](advanced_sciences/medical_science/)**: Cardiology reference material.
-- **[old/](advanced_sciences/old/)**: Archived TeX surgical monographs.
+The three core clinical MBBS disciplines:
+- **[Medicine](advanced_sciences/medicine/)**: Final Prof Internal Medicine past papers, MCQs, viva notes, monograph notes, and bedside clinical presentations.
+- **[Surgery](advanced_sciences/surgery/)**: General surgery principles, short/long cases, SAQ past papers, ENT, Ophthalmology, Orthopaedics, and question banks.
+- **[Obstetrics & Gynaecology](advanced_sciences/obs_and_gyne/)**: Obstetrics & Gynaecology curriculum, SAQ past papers, question banks, and bedside case records.
